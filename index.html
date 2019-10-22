@@ -64,6 +64,77 @@ var lMax = longMaxima(aTexto);
 		document.writeln(' <text fill="black" font-size="12" font-family="Courier New" x="10" y="'+(i*22+22)+'">'+aTexto[i]+'</text>');
 	document.writeln('</svg>');
 }
+function cuadroTexto(x, y, aTexto)	{
+var sizeFuente = 12;
+var anchoLetra = sizeFuente*0.6;
+var altoLinea = sizeFuente*1.5;
+var lineaMax = longMaxima(aTexto);
+var lineas = aTexto.length;
+var ancho = (anchoLetra+1) * lineaMax;
+var alto = (lineas+1) * altoLinea;
+document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
+for (var i=0; i<aTexto.length; i++)	{
+	var x1 = x+anchoLetra*(1+(lineaMax-aTexto[i].length)/2);
+    var y1 = y+(i+1.20)*altoLinea;
+	document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
+}
+}
+function elipseTexto(x, y, aTexto)	{
+  var sizeFuente = 12;
+  var anchoLetra = sizeFuente*0.6;
+  var altoLinea = sizeFuente*1.5;
+  var lineaMax = longMaxima(aTexto);
+  var lineas = aTexto.length;
+  var ancho = (anchoLetra+1) * lineaMax;
+  var alto = (lineas+1) * altoLinea;
+  var rx = ancho/1.7;
+  var ry = alto/1.7;
+  var cx = x+rx;
+  var cy = y+ry;
+  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
+  for (var i=0; i<aTexto.length; i++)	{
+      var x1 = x+anchoLetra*(2.75+(lineaMax-aTexto[i].length)/2);
+      var y1 = y+(i+1.50)*altoLinea;
+      document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
+  }
+}
+function flecha (x1, y1, size, direccion)	{
+	var sizePunta = 5;
+	var x2 = x1;
+    var y2 = y1;
+    var x3, y3, x4, y4;
+	if (direccion == "de")	{
+    	x2 = x1 + size;
+        x3 = x2 - sizePunta;
+        y3 = y2 - sizePunta;
+        x4 = x3;
+        y4 = y2 + sizePunta;
+    }
+	if (direccion == "iz") 	{
+    	x2 = x1 - size;
+        x3 = x2 + sizePunta;
+        y3 = y2 - sizePunta;
+        x4 = x3;
+        y4 = y2 + sizePunta;
+    }
+	if (direccion == "ar")	{
+    	y2 = y1 - size;
+        y3 = y2 + sizePunta;
+        x3 = x2 - sizePunta;
+        y4 = y3;
+        x4 = x2 + sizePunta;
+    }
+	if (direccion == "ab")	{
+    	y2 = y1 + size;
+        y3 = y2 - sizePunta;
+        x3 = x2 - sizePunta;
+        y4 = y3;
+        x4 = x2 + sizePunta;
+    }
+    document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
+    document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x3+'" y2="'+y3+'"  stroke="gray" stroke-width="2"/>');
+    document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x4+'" y2="'+y4+'"  stroke="gray" stroke-width="2"/>');
+}
 </script>
 <style>
 .h3, h3 {
@@ -745,6 +816,24 @@ Abandono y fusión con el ‘todo’.</td></tr>
 <script>inicioNivel2('I-4','INCONSCIENTE VITAL Y ENFERMEDAD');</script>
 <p>Algunos trastornos orgánicos y psicológicos son expresiones de un inconsciente vital caótico.</p>
 <center>
+<table border="1">
+	<tr><td>
+<svg width="550" height="500">
+	<script>
+    	cuadroTexto(160,   5, ['                       ', 'Astenia','Falta de Energía', ' ']);
+    	cuadroTexto(5,  160, ['Perversión de', 'los instintos']);
+    	cuadroTexto(160, 290, ['Perturbaciones del', 'humor endógeno:', 'autodestructividad,', 'manía, pánico, angustia', 'endógena, depresión,', 'enfermedades', 'autoinmunes.']);
+    	cuadroTexto(390, 160, ['Desordenes', 'Psicosomáticos']);
+        elipseTexto(160, 140, ['                   ','Inconsciente Vital', 'desestructurado', ' ']);
+        flecha(160, 190, 45, 'iz');
+        flecha(344, 190, 45, 'de');
+        flecha(250, 140, 45, 'ar');
+        flecha(250, 245, 45, 'ab');
+    </script>
+  Sorry, your browser does not support inline SVG. 7.1875 
+</svg>
+	</td></tr>
+	</table>
 <img src="https://suarezfco65.github.io/biodanza/transtornos.png">
 </center><br>
 <p>Lo interesante es que, a partir de esa lectura diagnóstica, es posible prescribir un tratamiento coherente mediante la movilización armoniosa de los contenidos del inconsciente vital que están bloqueados. Ejercicios específicos de Biodanza pueden actuar sobre los diferentes aspectos del inconsciente vital.</p>
