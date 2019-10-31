@@ -47,11 +47,7 @@ var max = 0;
 			max = aTexto[i].length;
 	return max
 }
-
-function cajaTexto(aTexto)	{
-var lArr = aTexto.length;
-var lMax = longMaxima(aTexto);
-	document.writeln('<svg width="'+((lMax*8)+8)+'" height="'+((22*lArr)+30)+'">');
+function conSombra()	{
 	document.writeln('  <defs>');
 	document.writeln('    <filter id="f1" x="0" y="0">');
 	document.writeln('      <feOffset result="offOut" in="SourceAlpha" dx="7" dy="7"></feOffset>');
@@ -59,6 +55,12 @@ var lMax = longMaxima(aTexto);
 	document.writeln('      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>');
 	document.writeln('    </filter>');
 	document.writeln('  </defs>');
+}
+function cajaTexto(aTexto)	{
+var lArr = aTexto.length;
+var lMax = longMaxima(aTexto);
+	document.writeln('<svg width="'+((lMax*8)+8)+'" height="'+((22*lArr)+30)+'">');
+    conSombra();
 	document.writeln('  <rect width="'+(lMax*8)+'" height="'+((22*lArr)+10)+'" stroke="purple" stroke-width="3" fill="white" filter="url(#f1)"></rect>');
 	for (var i=0; i<aTexto.length; i++)
 		document.writeln(' <text fill="black" font-size="12" font-family="Courier New" x="10" y="'+(i*22+22)+'">'+aTexto[i]+'</text>');
@@ -72,6 +74,10 @@ var lineaMax = longMaxima(aTexto);
 var lineas = aTexto.length;
 var ancho = (anchoLetra+1) * lineaMax;
 var alto = (lineas+1) * altoLinea;
+if (borde == 2)	{
+	conSombra();
+	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
+}
 if (borde == 1)
 	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
 for (var i=0; i<aTexto.length; i++)	{
@@ -80,7 +86,7 @@ for (var i=0; i<aTexto.length; i++)	{
 	document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
 }
 }
-function elipseTexto(x, y, aTexto)	{
+function elipseTexto(x, y, aTexto, borde=1)	{
   var sizeFuente = 18;
   var anchoLetra = sizeFuente*0.6;
   var altoLinea = sizeFuente*1.5;
@@ -92,6 +98,11 @@ function elipseTexto(x, y, aTexto)	{
   var ry = alto/1.7;
   var cx = x+rx;
   var cy = y+ry;
+  if (borde == 2)	{
+	conSombra();
+  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
+	}
+  if (borde == 1)
   document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
   for (var i=0; i<aTexto.length; i++)	{
       var x1 = x+anchoLetra*(2.75+(lineaMax-aTexto[i].length)/2);
@@ -2330,6 +2341,21 @@ Esquema de Wilhem Reich.</b></p>
 <p>La relación entre sistema nervioso y sistema endocrino es conocida desde hace tiempo a través de la conexión hipotálamo - hipófisis. Se ignoraba, no obstante la relación entre el sistema neuroendocrino y el sistema inmunitario. Actualmente se sabe que esta relación se realiza a través de neuropeptídeos (endorfinas, encefalinas, somatostatina, vip, substancias P y hormonas ACTH o corticotropina, corticosteroides, prolactina, hormona del crecimiento).</p>
 <p>El sistema inmunológico es estimulado o inhibido por las hormonas.</p>
 <center>
+<svg width="720" height="495">
+	<script>
+    	elipseTexto(240,   07, ['Sistema límbico', 'hipotalámico.'], 2);
+        flecha(350, 150, 47, 'ar');
+        elipseTexto(277, 150, ['Hipófisis.'],2);
+        flecha(290, 210, 95, 'iz', -30);
+        flecha(410, 210, 95, 'de', 30);
+    	elipseTexto(15,  210, ['Sustancia P, ', 'prolactina,', 'hormona del', 'crecimiento.'], 2);
+    	elipseTexto(495, 210, ['Endorfina, ', 'ACTH, ', 'corticoides.', '             '], 2);
+        flecha(105, 420, 47, 'ar');
+        flecha(595, 420, 47, 'ar');
+    	cuadroTexto(05, 420, ['Estimulan el S. I. '], 2);
+    	cuadroTexto(495, 420, ['Inhiben el S. I. '], 2);
+    </script>
+</svg>
 </center>
 <script>finNivel2();</script>
 <script>inicioNivel2('8','EL SISTEMA ENDOCRINO');</script>
