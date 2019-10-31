@@ -74,10 +74,8 @@ var lineaMax = longMaxima(aTexto);
 var lineas = aTexto.length;
 var ancho = (anchoLetra+1) * lineaMax;
 var alto = (lineas+1) * altoLinea;
-if (borde == 2)	{
-	conSombra();
+if (borde == 2)
 	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
-}
 if (borde == 1)
 	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
 for (var i=0; i<aTexto.length; i++)	{
@@ -98,10 +96,8 @@ function elipseTexto(x, y, aTexto, borde=1)	{
   var ry = alto/1.7;
   var cx = x+rx;
   var cy = y+ry;
-  if (borde == 2)	{
-	conSombra();
+  if (borde == 2)
   document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
-	}
   if (borde == 1)
   document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
   for (var i=0; i<aTexto.length; i++)	{
@@ -2343,20 +2339,35 @@ Esquema de Wilhem Reich.</b></p>
 <center>
 <svg width="720" height="495">
 	<script>
-    	elipseTexto(240,   07, ['Sistema límbico', 'hipotalámico.'], 2);
-        flecha(350, 150, 47, 'ar');
-        elipseTexto(277, 150, ['Hipófisis.'],2);
-        flecha(290, 210, 95, 'iz', -30);
-        flecha(410, 210, 95, 'de', 30);
-    	elipseTexto(15,  210, ['Sustancia P, ', 'prolactina,', 'hormona del', 'crecimiento.'], 2);
-    	elipseTexto(495, 210, ['Endorfina, ', 'ACTH, ', 'corticoides.', '             '], 2);
-        flecha(105, 420, 47, 'ar');
-        flecha(595, 420, 47, 'ar');
-    	cuadroTexto(05, 420, ['Estimulan el S. I. '], 2);
-    	cuadroTexto(495, 420, ['Inhiben el S. I. '], 2);
+	conSombra();
+	elipseTexto(240,   07, ['Sistema límbico', 'hipotalámico.'], 2);
+	flecha(350, 150, 47, 'ar');
+	elipseTexto(277, 150, ['Hipófisis.'],2);
+	flecha(290, 210, 95, 'iz', -30);
+	flecha(410, 210, 95, 'de', 30);
+	elipseTexto(15,  210, ['Sustancia P, ', 'prolactina,', 'hormona del', 'crecimiento.'], 2);
+	elipseTexto(495, 210, ['Endorfina, ', 'ACTH, ', 'corticoides.', '             '], 2);
+	flecha(105, 420, 47, 'ar');
+	flecha(595, 420, 47, 'ar');
+	cuadroTexto(05, 420, ['Estimulan el S. I. '], 2);
+	cuadroTexto(495, 420, ['Inhiben el S. I. '], 2);
     </script>
 </svg>
 </center>
+<p>El estado de stress, al estimular el ACTH y los corticoides, debilitan el sistema inmunitario. A su vez el sistema inmunitario interfiere en el sistema nervioso a través de la citocina (interleucina e interferon), producto de sus células (macrófagos, monócitos, linfocitos), actuando sobre el hipotálamo. A su vez, el hipotálamo influye sobre el sistema psíquico a través del sistema noradrenérgicoy serotoninérgico.</p>
+<h4>Sistema neuro - endocrino - inmunológico</h4>
+<center>
+<img src="neuroEndocrinoInmunologico.png"><br>
+</center>
+<h4>El sistema inmunitario y las emociones</h4>
+<p>El sistema inmunológico protege al organismo de substancias extrañas a su identidad genética. Cuando el organismo es invadido por esas substancias extrañas, por microbios o bacterias (antígenos), el sistema inmunológico ‘reconoce’ la naturaleza extraña y desenvuelve una reacción que destruye esas moléculas.</p>
+<p>Se pensaba que sólo antígenos externos podrían despertar reacción contraria de parte de las células de defensa. Actualmente se admite que ciertas células del sistema inmunológico también pueden reconocer y atacar antígenos fabricados por el propio organismo (auto-antígenos). Las células encargadas de reconocer y atacar son los linfocitos T y los macrófagos.</p>
+<p>Actualmente se admite que el sistema inmunológico funciona en perfecta coordinación con el sistema nervioso a través de mensajeros químicos.</p>
+<h4>Mecanismo de acción de la emoción en el sistema inmunitario</h4>
+
+
+
+
 <script>finNivel2();</script>
 <script>inicioNivel2('8','EL SISTEMA ENDOCRINO');</script>
 <script>finNivel2();</script>
