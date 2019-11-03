@@ -98,6 +98,9 @@ function elipseTexto(x, y, aTexto, borde=1)	{
       document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
   }
 }
+function linea(x1, y1, x2, y2)	{
+    document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
+}
 function flecha (x1, y1, size, direccion, angulo=0)	{
 	var sizePunta = 5;
 	var x2 = x1;
