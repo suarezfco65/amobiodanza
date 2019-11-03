@@ -67,7 +67,8 @@ var lineas = aTexto.length;
 var ancho = (anchoLetra+1) * lineaMax;
 var alto = (lineas+1) * altoLinea;
 if (borde == 2)
-	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
+	borde = 1;
+//	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
 if (borde == 1)
 	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
 for (var i=0; i<aTexto.length; i++)	{
@@ -89,7 +90,8 @@ function elipseTexto(x, y, aTexto, borde=1)	{
   var cx = x+rx;
   var cy = y+ry;
   if (borde == 2)
-  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
+	borde = 1;
+//  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
   if (borde == 1)
   document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
   for (var i=0; i<aTexto.length; i++)	{
