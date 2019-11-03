@@ -72,7 +72,6 @@ if (borde == 1)
 	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
 for (var i=0; i<aTexto.length; i++)	{
 	var x1 = x+anchoLetra*(1+(lineaMax-aTexto[i].trim().length)/2);
-	alert('*'+aTexto[i].trim()+'*');
 	var y1 = y+(i+1.20)*altoLinea;
 	document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
 }
