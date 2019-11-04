@@ -42,6 +42,7 @@ function longMaxima(aTexto)	{
 function conSombra()	{
 	if ( document.getElementById( "f1" )) var i = 0
 	else	{
+		alert('pase');
 		document.writeln('  <defs>');
 		document.writeln('    <filter id="f1" x="0" y="0">');
 		document.writeln('      <feOffset result="offOut" in="SourceAlpha" dx="7" dy="7"></feOffset>');
