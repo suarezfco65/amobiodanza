@@ -40,7 +40,7 @@ function longMaxima(aTexto)	{
 	return max
 }
 function conSombra()	{
-	if ( document.getElementById( "f1" )) var i = 0
+	if ( document.getElementById('f1')) var i = 0
 	else	{
 		alert('pase');
 		document.writeln('  <defs>');
@@ -107,44 +107,44 @@ function elipseTexto(x, y, aTexto, borde=1)	{
 	}
 }
 function linea(x1, y1, x2, y2)	{
-    document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
+	document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
 }
 function flecha (x1, y1, size, direccion, angulo=0)	{
 	var sizePunta = 5;
 	var x2 = x1;
-    var y2 = y1;
-    var x3, y3, x4, y4;
+	var y2 = y1;
+	var x3, y3, x4, y4;
 	if (direccion == "de")	{
-    	x2 = x1 + size;
-        x3 = x2 - sizePunta;
-        y3 = y2 - sizePunta;
-        x4 = x3;
-        y4 = y2 + sizePunta;
-    }
+		x2 = x1 + size;
+		x3 = x2 - sizePunta;
+		y3 = y2 - sizePunta;
+		x4 = x3;
+		y4 = y2 + sizePunta;
+	}
 	if (direccion == "iz") 	{
-    	x2 = x1 - size;
-        x3 = x2 + sizePunta;
-        y3 = y2 - sizePunta;
-        x4 = x3;
-        y4 = y2 + sizePunta;
-    }
+		x2 = x1 - size;
+		x3 = x2 + sizePunta;
+		y3 = y2 - sizePunta;
+		x4 = x3;
+		y4 = y2 + sizePunta;
+	}
 	if (direccion == "ar")	{
-    	y2 = y1 - size;
-        y3 = y2 + sizePunta;
-        x3 = x2 - sizePunta;
-        y4 = y3;
-        x4 = x2 + sizePunta;
-    }
+		y2 = y1 - size;
+		y3 = y2 + sizePunta;
+		x3 = x2 - sizePunta;
+		y4 = y3;
+		x4 = x2 + sizePunta;
+	}
 	if (direccion == "ab")	{
-    	y2 = y1 + size;
-        y3 = y2 - sizePunta;
-        x3 = x2 - sizePunta;
-        y4 = y3;
-        x4 = x2 + sizePunta;
-    }
-    document.writeln('<g  transform="rotate('+angulo+', '+x1+', '+y1+')">');
-    document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
-    document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x3+'" y2="'+y3+'"  stroke="gray" stroke-width="2"/>');
-    document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x4+'" y2="'+y4+'"  stroke="gray" stroke-width="2"/>');
-    document.writeln('</g>');
+		y2 = y1 + size;
+		y3 = y2 - sizePunta;
+		x3 = x2 - sizePunta;
+		y4 = y3;
+		x4 = x2 + sizePunta;
+	}
+	document.writeln('<g  transform="rotate('+angulo+', '+x1+', '+y1+')">');
+	document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
+	document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x3+'" y2="'+y3+'"  stroke="gray" stroke-width="2"/>');
+	document.writeln('<line x1="'+x2+'" y1="'+y2+'" x2="'+x4+'" y2="'+y4+'"  stroke="gray" stroke-width="2"/>');
+	document.writeln('</g>');
 }
