@@ -33,72 +33,77 @@ function finNivel2()	{
 	document.writeln('          </div>');
 }
 function longMaxima(aTexto)	{
-var max = 0;
+	var max = 0;
 	for (var i=0; i<aTexto.length; i++)
 		if (max < aTexto[i].length)
 			max = aTexto[i].length;
 	return max
 }
 function conSombra()	{
-	document.writeln('  <defs>');
-	document.writeln('    <filter id="f1" x="0" y="0">');
-	document.writeln('      <feOffset result="offOut" in="SourceAlpha" dx="7" dy="7"></feOffset>');
-	document.writeln('      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"></feGaussianBlur>');
-	document.writeln('      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>');
-	document.writeln('    </filter>');
-	document.writeln('  </defs>');
+	if ( document.getElementById( "f1" )) var i = 0
+	else	{
+		document.writeln('  <defs>');
+		document.writeln('    <filter id="f1" x="0" y="0">');
+		document.writeln('      <feOffset result="offOut" in="SourceAlpha" dx="7" dy="7"></feOffset>');
+		document.writeln('      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="3"></feGaussianBlur>');
+		document.writeln('      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>');
+		document.writeln('    </filter>');
+		document.writeln('  </defs>');
+	}
 }
 function cajaTexto(aTexto)	{
-var lArr = aTexto.length;
-var lMax = longMaxima(aTexto);
+	var lArr = aTexto.length;
+	var lMax = longMaxima(aTexto);
 	document.writeln('<svg width="'+((lMax*8)+8)+'" height="'+((22*lArr)+30)+'">');
-    conSombra();
+	conSombra();
 	document.writeln('  <rect width="'+(lMax*8)+'" height="'+((22*lArr)+10)+'" stroke="purple" stroke-width="3" fill="white" filter="url(#f1)"></rect>');
 	for (var i=0; i<aTexto.length; i++)
 		document.writeln(' <text fill="black" font-size="12" font-family="Courier New" x="10" y="'+(i*22+22)+'">'+aTexto[i]+'</text>');
 	document.writeln('</svg>');
 }
 function cuadroTexto(x, y, aTexto, borde=1)	{
-var sizeFuente = 18;
-var anchoLetra = sizeFuente*0.6;
-var altoLinea = sizeFuente*1.5;
-var lineaMax = longMaxima(aTexto);
-var lineas = aTexto.length;
-var ancho = (anchoLetra+1) * lineaMax;
-var alto = (lineas+1) * altoLinea;
-if (borde == 2)
-	borde = 1;
-//	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
-if (borde == 1)
-	document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
-for (var i=0; i<aTexto.length; i++)	{
-	var x1 = x+anchoLetra*(1+(lineaMax-aTexto[i].trim().length)/2);
-	var y1 = y+(i+1.20)*altoLinea;
-	document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
-}
+	var sizeFuente = 18;
+	var anchoLetra = sizeFuente*0.6;
+	var altoLinea = sizeFuente*1.5;
+	var lineaMax = longMaxima(aTexto);
+	var lineas = aTexto.length;
+	var ancho = (anchoLetra+1) * lineaMax;
+	var alto = (lineas+1) * altoLinea;
+	if (borde == 2)	{
+		conSombra();
+		document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></rect>');
+	}
+	if (borde == 1)
+		document.writeln('<rect x="'+x+'" y="'+y+'" width="'+ancho+'" height="'+alto+'" stroke="gray" stroke-width="2" fill="white"></rect>');
+	for (var i=0; i<aTexto.length; i++)	{
+		var x1 = x+anchoLetra*(1+(lineaMax-aTexto[i].trim().length)/2);
+		var y1 = y+(i+1.20)*altoLinea;
+		document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
+	}
 }
 function elipseTexto(x, y, aTexto, borde=1)	{
-  var sizeFuente = 18;
-  var anchoLetra = sizeFuente*0.6;
-  var altoLinea = sizeFuente*1.5;
-  var lineaMax = longMaxima(aTexto);
-  var lineas = aTexto.length;
-  var ancho = (anchoLetra+1) * lineaMax;
-  var alto = (lineas+1) * altoLinea;
-  var rx = ancho/1.7;
-  var ry = alto/1.7;
-  var cx = x+rx;
-  var cy = y+ry;
-  if (borde == 2)
-	borde = 1;
-//  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
-  if (borde == 1)
-  document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
-  for (var i=0; i<aTexto.length; i++)	{
-      var x1 = x+anchoLetra*(2.75+(lineaMax-aTexto[i].trim().length)/2);
-      var y1 = y+(i+1.50)*altoLinea;
-      document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
-  }
+	var sizeFuente = 18;
+	var anchoLetra = sizeFuente*0.6;
+	var altoLinea = sizeFuente*1.5;
+	var lineaMax = longMaxima(aTexto);
+	var lineas = aTexto.length;
+	var ancho = (anchoLetra+1) * lineaMax;
+	var alto = (lineas+1) * altoLinea;
+	var rx = ancho/1.7;
+	var ry = alto/1.7;
+	var cx = x+rx;
+	var cy = y+ry;
+	if (borde == 2)	{
+		conSombra();
+		document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white" filter="url(#f1)"></ellipse>');
+	}
+	if (borde == 1)
+		document.writeln('<ellipse cx="'+cx+'" cy="'+cy+'" rx="'+rx+'" ry="'+ry+'" stroke="gray" stroke-width="2" fill="white"></ellipse>');
+	for (var i=0; i<aTexto.length; i++)	{
+		var x1 = x+anchoLetra*(2.75+(lineaMax-aTexto[i].trim().length)/2);
+		var y1 = y+(i+1.50)*altoLinea;
+		document.writeln(' <text fill="black" font-size="'+sizeFuente+'" font-family="Courier New" x="'+x1+'" y="'+y1+'">'+aTexto[i]+'</text>');
+	}
 }
 function linea(x1, y1, x2, y2)	{
     document.writeln('<line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'"  stroke="gray" stroke-width="2"/>');
