@@ -1,4 +1,6 @@
+var n1, n2;
 function inicioNivel1(titulo)	{
+	n1 = nivel1;
 	document.writeln('  <div class="panel panel-default">');
 	document.writeln('    <div class="panel-heading" role="tab" id="heading'+nivel1+'">');
 	document.writeln('      <h4 class="panel-title">');
@@ -16,6 +18,7 @@ function finNivel1()	{
 	document.writeln('  </div>');
 }
 function inicioNivel2(nivel2, titulo)	{
+	n2 = nivel2;
 	document.writeln('          <div class="panel panel-default">');
 	document.writeln('            <div class="panel-heading" role="tab" id="subHeading'+nivel1+'-'+nivel2+'">');
 	document.writeln('              <h4 class="panel-title">');
