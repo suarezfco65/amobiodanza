@@ -543,6 +543,6 @@ Arendt, Hannah: “As Origenns do Totalitarismo: Imperialismo, a Expancao do Pod
 <p>Berkowitz, Leonard: “Os efeitos da observacao da violencia” y “A Ciencia Social num Mundo em Crise”. Textos do Scientific American. De. Perspestiva: S.P, 1973.</p>
 <p>Foucault, Michel: “Microfisica do Poder”. Graal. R.J, 1979.</p>
 <p>Rutherford, Ward: “Genocidio. Historia Ilustrada da II Guerra Mundial”. Tomo IV. Renes. R.J, 1976.</p>
-`+finNivel2()+
+`+finNivel2();
 return s;
 }
