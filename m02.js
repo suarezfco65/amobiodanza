@@ -103,7 +103,7 @@ function m02()  {
 <p>Algunos trastornos orgánicos y psicológicos son expresiones de un inconsciente vital caótico.</p>
 <center>
 <svg width="755" height="660">
-	`+
+	`+;
     	cuadroTexto(240,  07, ['                       ', 'Astenia','Falta de Energía', ' '])+;
     	cuadroTexto(07,  240, ['Perversión de ', 'los instintos'])+;
     	cuadroTexto(240, 435, ['Perturbaciones del', 'humor endógeno:', 'autodestructividad,', 'manía, pánico, angustia', 'endógena, depresión,', 'enfermedades', 'autoinmunes.'])+;
@@ -120,7 +120,7 @@ function m02()  {
 <p>Lo interesante es que, a partir de esa lectura diagnóstica, es posible prescribir un tratamiento coherente mediante la movilización armoniosa de los contenidos del inconsciente vital que están bloqueados. Ejercicios específicos de Biodanza pueden actuar sobre los diferentes aspectos del inconsciente vital.</p>
 <center>
 <svg width="910" height="580">
-	`+
+	`+;
     	cuadroTexto(360,   07, ['                       ', 'Danzas que estimulan','la alegría', ' '])+;
     	cuadroTexto(07,  165, ['Ejercicios de expresión','de instintos:','- Ceremonia de los', 'frutos (alimentario).', '- Encuentro-caricias', '(sexual).', '-	Nido grupal','(territorial).'])+;
     	cuadroTexto(360, 435, ['Ejercicios para elevar', 'el humor endógeno:', 'zambas, acariciamiento,', 'Biodanza acuática.'])+;
@@ -164,7 +164,7 @@ function m02()  {
 `+inicioNivel2('I-7','ESQUEMA “DOS VERTIENTES FILOSÓFICAS EN EL CONCEPTO DE INCONSCIENTE VITAL”')+`
 <center>
 <svg width="770" height="380">
-`+
+`+;
     	cuadroTexto(240,  10, ['Lopez Ibor', 'La corporeidad y el ánimo'],0)+;
     	cuadroTexto(07,  110, ['Ortega y Gasset','El Intracuerpo'],0)+;
     	cuadroTexto(570, 110, ['Zut', 'Yo soy mi cuerpo'],0)+;
@@ -181,7 +181,7 @@ function m02()  {
 `
 </svg><br><br>
 <svg width="900" height="430">
-`+
+`+;
 	cuadroTexto(380,  10, ['David Bohm', 'El orden implicado'],0)+;
 	cuadroTexto(07,  160, ['Albert Hofman','Poder Transformador de', 'las sustancias enteógenas'],0)+;
 	cuadroTexto(670, 175, ['Sheldrake', 'Resonancia Mórfica'],0)+;
@@ -232,7 +232,7 @@ function m02()  {
 `+inicioNivel2('I-13','ESQUEMA “FACTORES QUE INFLUYEN NEGATIVAMENTE SOBRE EL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="810" height="515">
-	`+
+	`+;
     	cuadroTexto(300,   07, ['Catástrofe existencial,','abandono amoroso,','mutilaciones físicas,','muerte de un ser amado.'])+;
     	cuadroTexto(07,  175, ['Medio ambiente,', 'alimentos – tóxicos:', 'polución del aire,', 'adulterados, aguas', 'contaminadas, etc.'])+;
     	cuadroTexto(360, 375, ['Depresión,', 'cáncer,', 'enfermedades', 'autoinmunes.'])+;
@@ -251,7 +251,7 @@ function m02()  {
 `+inicioNivel2('I-14','ESQUEMA “FACTORES QUE INFLUYEN EN LA VITALIDAD DEL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="740" height="490">
-	`+
+	`+;
     	cuadroTexto(260,   07, ['Experiencia', 'suprema de', 'fusión con el', 'cosmos.'])+;
     	cuadroTexto(07,  220, ['Motivaciones', 'para vivir.'])+;
     	cuadroTexto(260, 375, ['Salud, placer', 'cenestésico,', 'humor feliz.'])+;
@@ -274,7 +274,7 @@ function m02()  {
 `+inicioNivel2('I-16','ESQUEMA “MANIFESTACIONES DEL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="780" height="470">
-	`+
+	`+;
     	elipseTexto(285,   07, ['Deseo de ', 'vivir.'])+;
     	elipseTexto(10,  170, ['Humor', 'endógeno. '])+;
     	elipseTexto(230, 335, ['Integración de', 'todas las', 'funciones vitales'])+;
@@ -404,7 +404,7 @@ function m02()  {
 </ol>
 <h4>Representación esquemática del homeostato cultural, construido por componentes de estas cuatro vertientes (esquema):</h4>
 <svg width="900" height="430">
-`+
+`+;
 	cuadroTexto(5, 5, ['Componente oriental:', '‘la vida es una ilusión’', '(desprecio por la vida).'],0)+;
 	cuadroTexto(600, 20, ['Componente griego:', 'separación cuerpo-alma'],0)+;
 	cuadroTexto(385, 165, ['Homeostato', 'cultural'],0)+;
@@ -437,7 +437,7 @@ function m02()  {
 <li><h4>Cultura occidental:</h4>
 <center>
 <svg width="800" height="410">
-`+
+`+;
 	cuadroTexto(360, 0, ['Línea Oriental', '(A)'],0)+;
 	cuadroTexto(385, 165, ['Cultura', 'Occidental'],0)+;
 	cuadroTexto(5, 175, ['Línea Judeo Cristiana', '(B)'],0)+;
@@ -459,7 +459,7 @@ function m02()  {
 <li><h4>Nueva Civilización:</h4>
 <center>
 <svg width="840" height="400">
-	`+
+	`+;
 	cuadroTexto(5, 5, ['Línea de reverencia', 'por la vida.', '(A)'],0)+;
 	cuadroTexto(600, 0, ['Línea de Integración', 'ontocosmológica', 'cuerpo - alma', '(B)'],0)+;
 	cuadroTexto(335, 170, ['Nueva Civilización'],0)+;
