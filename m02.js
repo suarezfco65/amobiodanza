@@ -232,17 +232,17 @@ function m02()  {
 `+inicioNivel2('I-13','ESQUEMA “FACTORES QUE INFLUYEN NEGATIVAMENTE SOBRE EL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="810" height="515">
-	`+;
-    	cuadroTexto(300,   07, ['Catástrofe existencial,','abandono amoroso,','mutilaciones físicas,','muerte de un ser amado.'])+;
-    	cuadroTexto(07,  175, ['Medio ambiente,', 'alimentos – tóxicos:', 'polución del aire,', 'adulterados, aguas', 'contaminadas, etc.'])+;
-    	cuadroTexto(360, 375, ['Depresión,', 'cáncer,', 'enfermedades', 'autoinmunes.'])+;
-    	cuadroTexto(615, 220, ['Danzas de placer', 'Cenestésico'])+;
-        elipseTexto(310, 210, ['Convivencia con', 'personas tóxicas.'])+;
-        flecha(310, 260, 67, 'iz')+;
-        flecha(545, 260, 67, 'de')+;
-        flecha(430, 210, 67, 'ar')+;
-        flecha(445, 305, 67, 'ab')+;
-        flecha(415, 372, 67, 'ar')+;
+	`+
+    	cuadroTexto(300,   07, ['Catástrofe existencial,','abandono amoroso,','mutilaciones físicas,','muerte de un ser amado.'])+
+    	cuadroTexto(07,  175, ['Medio ambiente,', 'alimentos – tóxicos:', 'polución del aire,', 'adulterados, aguas', 'contaminadas, etc.'])+
+    	cuadroTexto(360, 375, ['Depresión,', 'cáncer,', 'enfermedades', 'autoinmunes.'])+
+    	cuadroTexto(615, 220, ['Danzas de placer', 'Cenestésico'])+
+        elipseTexto(310, 210, ['Convivencia con', 'personas tóxicas.'])+
+        flecha(310, 260, 67, 'iz')+
+        flecha(545, 260, 67, 'de')+
+        flecha(430, 210, 67, 'ar')+
+        flecha(445, 305, 67, 'ab')+
+        flecha(415, 372, 67, 'ar')+
     `
   Sorry, your browser does not support inline SVG. 7.1875 
 </svg>
