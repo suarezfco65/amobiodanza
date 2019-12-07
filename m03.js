@@ -1,4 +1,4 @@
-function m01()  {
+function m03()  {
     var s='';
     s += inicioNivel2('1','DEFINICIÓN DE VIVENCIA')+`
 <p>Vivencia es "una experiencia vivida con gran intensidad por un individuo en un lapso de tiempo aquí - ahora (‘génesis actual’), abarcando las funciones emocionales, cenestésicas y orgánicas." (Rolando Toro 1968). </p>
