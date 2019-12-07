@@ -1,0 +1,313 @@
+function m01()  {
+    var s='';
+    s += inicioNivel2('1','DEFINICIÓN DE VIVENCIA')+`
+<p>Vivencia es "una experiencia vivida con gran intensidad por un individuo en un lapso de tiempo aquí - ahora (‘génesis actual’), abarcando las funciones emocionales, cenestésicas y orgánicas." (Rolando Toro 1968). </p>
+<p>El primero que investigó el sentido de las vivencias fue Wilhelm Dilthey (1833 - 1911), para quien eran "algo revelado en el complejo anímico dado en la experiencia interna de un modo de existir la realidad para un cierto sujeto" (Dilthey, 1883). Este autor estableció una diferencia entre las ciencias de la naturaleza y ciencias del espíritu. Pienso que no existe una diferencia esencial entre lo natural y lo espiritual, pero no obstante las concepciones de Dilthey influyeron en la fenomenología de Merleau Ponty, la ontología de Heidegger y la sociología de Weber.</p>
+<p>La importancia del concepto de vivencia surge plenamente en la teoría de Biodanza de Rolando Toro, quien ha definido sus características esenciales y ha propuesto un método preciso para provocar ‘vivencias integrativas’ capaces de expresar la identidad, modificar el estilo de vida y restablecer el orden biológico. La descripción de las vivencias posee un valor científico, a pesar de acontecer en el interior de un individuo. En Biodanza se utiliza el ‘relato de vivencias’ para tener acceso al conocimiento fenomenológico de éstas. </p>
+`+finNivel2()+`
+`+inicioNivel2('2','PRIORIDAD DE LAS VIVENCIAS EN BIODANZA')+`
+<p>En Biodanza se da la mayor importancia a la inducción de vivencias integradoras de alegría, paz, ternura, erotismo, trascendencia, ímpetu vital, entusiasmo, etc. Las vivencias integradoras tienen un efecto armonizador en sí mismas, no es necesario elaborarlas al nivel de la conciencia. </p>
+<p>Estas consideraciones nos inducen a rechazar categóricamente la absurda pretensión de ‘elaborar, interpretar y racionalizar las vivencias’. La inteligencia conceptual no es el instrumento apropiado para ‘elaborar’ las vivencias. Las vivencias se elaboran en los órganos, en las glándulas endocrinas y en los neurotransmisores. La conciencia tiene el papel de registrar y resolver los problemas con el mundo externo. Las conmovedoras sensaciones que surgen de las vivencias, tienen que asumirse, no interpretarse. </p>
+<p>En la vivencia no hay conflicto, el conflicto surge entre la conciencia y el mundo externo. </p>
+<h4>Biodanza es una fuente de vivencias. </h4>
+<p>Las vivencias generan la sensación global de ‘sentirse vivo’, evocan la intensa percepción de ser uno mismo. </p>
+<p>La inducción de vivencias constituye la base de la metodología de Biodanza. La metodología de Biodanza da prioridad a la vivencia sobre la conciencia. </p>
+<p>Los ejercicios de Biodanza tienen un efecto vitalizador y permiten la expresión de los potenciales de la identidad, a través de la deflagración de las vivencias. </p>
+<p>Biodanza se diferencia radicalmente de las terapias que dan prioridad a la conciencia y al lenguaje. </p>
+<p>Un siglo de experiencias psicoterapeúticas ha demostrado que hacer conscientes los conflictos inconscientes no es suficiente para modificar los comportamientos. Son las vivencias las que inducen efectos modificadores profundos. </p>
+<p>Las iniciativas existenciales deben partir de la vivencia. Tardíamente, debe informarse a la conciencia. Si se informa de inmediato, la persona hace sutiles racionalizaciones y refuerza sus mecanismos de defensa. Los conflictos se instalan, entonces, en los órganos. </p>
+`+finNivel2()+`
+`+inicioNivel2('3','CARACTERÍSTICAS DE LAS VIVENCIAS')+`
+<ol>
+<li><b>Son subjetivas</b>. Es decir, se expresan desde la identidad de cada individuo. Las vivencias experimentadas por cada persona son únicas, pertenecen a la intimidad y, muchas veces, son incomunicables. </li>
+<li><b>Intensidad variable</b>. La intensidad de las vivencias es variable, según la sensibilidad de cada persona y el tipo específico de vivencia experimentada. </li>
+<li><b>Son anteriores a la conciencia</b>. Las vivencias pueden llegar a la conciencia en forma inmediata o tardíamente.</li>
+<li><b>Temporalidad</b>. Se producen en el lapso temporal ‘aquí-ahora’. Constituyen experiencias de ‘génesis actual’ en el sentido de Alfred Auersperg, es decir, tienen un carácter único.</li>
+<li><b>Dimensión cenestésica</b>. Las vivencias van siempre acompañadas de sensaciones cenestésicas, conllevan sensaciones de placer, alegría, bienestar, erotismo y comprometen todo el organismo.</li>
+<li>La raíz generadora de las vivencias es el sustrato orgánico del <b>inconsciente vital</b>.</li>
+<li>Las vivencias, como lo reconoció Heidegger, tienen un <b>valor ontológico</b>, es decir comprometen la totalidad del ser.</li>
+<li><b>Expresión de la identidad</b>. Las vivencias involucran la identidad como un todo. Esto significa que tienen influencia en todos los estratos orgánicos, emocionales y existenciales.</li>
+<li><b>Tienen consecuencias neuroendocrinas e inmunológicas</b>. La vivencia es la encrucijada psicosomática, es el proceso de transmutación de lo psíquico en orgánico. Vivencias desorganizadoras pueden producir trastornos orgánicos; vivencias integradoras conducen a una elevación de la vitalidad y la salud.</li>
+<li><b>Emocionalidad</b>. Es común que las vivencias se combinen, dando origen a las emociones.</li>
+<li><b>Influencia sobre el inconsciente vital</b>. Las vivencias integradoras son el mayor  factor de regulación del inconsciente vital.</li>
+<li><b>Las vivencias pueden ser descritas mediante el método fenomenológico</b>. No necesitan ser analizadas al nivel de la conciencia.</li>
+<li><b>Espontaneidad</b>. Como el agua de una vertiente, las vivencias surgen con espontaneidad y frescura; poseen la cualidad de lo originario y tienen una ‘fuerza de realidad’ que compromete todo el cuerpo. Las vivencias no están bajo el control de la conciencia; pueden ser ‘evocadas’ pero no dirigidas por la voluntad.</li>
+<li><b>Originaria expresión de nosotros mismos</b>. El poder reorganizador que poseen las vivencias, se debe a que constituyen la originaria expresión de nosotros mismos, anterior a toda elaboración simbólica o racional. Las vivencias son el dato primario de la identidad.</li>
+</ol>
+`+finNivel2()+`
+`+inicioNivel2('4','FISIOLOGÍA DE LAS VIVENCIAS')+`
+<p>Las vivencias integradoras poseen un valor organizador en sí mismas. Activan y armonizan las funciones límbico - hipotalámicas. </p>
+<p>Las vivencias tienen su representación fisiológica en el sistema límbico, centro regulador de la conducta flexible, de los instintos y emociones. El sistema límbico abarca las funciones del hipocampo, amígdala cerebral e hipotálamo. El hipotálamo regula la hipófisis la que, a su vez, influye sobre el sistema endocrino. </p>
+<h4>Efecto de las vivencias sobre las funciones orgánicas:</h4>
+<center>
+<img src="efectosVivencia.png"/><br>
+<i>Las vivencias estimulan la región límbico-hipotalámica y la hipófisis, la cual estimula, a su vez las glándulas sexuales.</i>
+</center>
+`+finNivel2()+`
+`+inicioNivel2('5','EMBRIOLOGÍA DE LA VIVENCIAS')+`
+<p>La propuesta de una embriología de las vivencias tiene el carácter de una teoría general de las vivencias. Me parece que es hora de tentar un estudio genético de las vivencias, buscando la génesis infantil de ellas. Largos años de investigación realizados con grupos de Biodanza me han permitido llevar a cabo este emprendimiento intelectual, que se impone como urgente necesidad dentro de las ciencias humanas, en especial en educación.</p>
+`+finNivel2()+`
+`+inicioNivel2('6','PROTOVIVENCIAS')+`
+<p>Durante los primeros meses de vida, el infante inicia neurológicamente la génesis de patrones de respuesta vivencial. Pareciera ser que la vivencia fundamental es la ‘vivencia oceánica’ (descrita por Freud y, posteriormente, por Jung) de estar disuelto en una totalidad sin límites. Las protovivencias son las experiencias cenestésicas que tiene el niño en los primeros 6 meses de vida.</p>
+<p>El niño durante su desarrollo inicial entra en un doble proceso: </p>
+<p><b>Cognitivo:</b>se estructura, según Piaget, el aprendizaje de tamaño, peso, cantidad, etc. La aparición del aprendizaje precoz o aprendizaje súbito - flash learning- fue estudiado por Timbergen en niños pequeños y en animales (Imprinting). </p>
+<p><b>Vivencial:</b> paralelo al aprendizaje conceptual, se da el desenvolvimiento vivencial que, curiosamente, no ha sido estudiado. El estudio genético de las vivencias ha sido iniciado por Rolando Toro con la descripción de las protovivencias:</p>
+<ol>
+<li><h4>Protovivencia de vitalidad: el movimiento. </h4>
+<p>El desarrollo del impulso vital se produce cuando los padres permiten al niño sus movimientos espontáneos, sus juegos y su autonomía. </p></li>
+<li><h4>Protovivencia de sexualidad: el contacto.</h4>
+<p>Si un niño es acariciado, se asegura una sexualidad normal. Para que ésta se desenvuelva, los padres deben comprender que los niños tienen  sexualidad y necesitan contacto, besos y caricias.</p></li>
+<li><h4>Protovivencia de creatividad: expresión y curiosidad.</h4>
+<p>El niño comienza a hacer ruidos, pequeños murmullos, gritos onomatopéyicos, en que manifiesta un protolenguaje. La madre -u otra persona a cargo- si presta atención, comienza a entender lo que él quiere expresar. Lentamente comienza a desarrollarse el lenguaje: el sí y el no, la protesta, la sonrisa, el canto y el diálogo. La curiosidad es parte importante de la protovivencia de creatividad. Los primeros dibujos representan una fase muy importante del desarrollo creativo. Conviene estimular esos dibujos caóticos y no intervenir con enseñanzas formalizadoras.</p>
+<p>Si un niño o niña aprende, en los primeros tiempos, a desarrollar su expresividad, desarrollará más fácilmente la creatividad.</p></li>
+<li><h4>Protovivencia de afectividad: nutrición.</h4> 
+<p>El niño bien amamantado siente el acto de nutrición como amor, recibe continente, seguridad. Si es abandonado, experimenta una serie de trastornos que Spitz describió como depresión anaclítica, marasmo y muerte; síntomas que aparecen aunque tenga higiene, alimentación y vacunas. Las iniciales sensaciones de tener continente afectivo dan al niño seguridad en sí mismo.</p></li>
+<li><h4>Protovivencia de trascendencia: armonía del ambiente.</h4> 
+<p>El niño no debe ser maltratado. Ciertas personas los ponen nerviosos, les quitan su tranquilidad. Los niños deben crecer en un ambiente armonioso y en contacto con la naturaleza.</p></li>
+</ol>
+<h4>Génesis de las vivencias en las protovivencias de la primera infancia:</h4>
+<table border="1">
+<thead style="background:#DDDDDD">
+	<tr><th>PROTOVIVENCIA</th><th>VIVENCIA</th></tr>
+</thead>
+<tbody>
+	<tr><td>Movimiento</td><td>Vitalidad</td></tr>
+	<tr><td>Caricias</td><td>Sexualidad</td></tr>
+	<tr><td>Expresión</td><td>Creatividad</td></tr>
+	<tr><td>Seguridad-alimento</td><td>Afectividad</td></tr>
+	<tr><td>Armonía</td><td>Trascendencia</td></tr>
+</tbody></table>
+`+finNivel2()+`
+`+inicioNivel2('7','LAS LÍNEAS DE VIVENCIA')+`
+<p>Los ejercicios de Biodanza están destinados a deflagrar vivencias. La activación frecuente de determinados tipos de vivencias reorganiza las respuestas frente a la vida. </p>
+<p>La acción reguladora de los ejercicios de Biodanza se ejerce principalmente sobre la región límbico - hipotalámica, asiento de las emociones. </p>
+<p>Las vivencias están clasificadas en cinco grandes conjuntos expresivos del potencial humano. Los ejercicios están organizados para estimular la producción específica de cada tipo de vivencia. </p>
+<ol>
+<li><h4>Vivencia de vitalidad. </h4>
+<p>El desarrollo de la línea de vitalidad se genera estimulando, mediante danzas, al sistema neurovegetativo (simpático-parasimpático); a la homeostasis (equilibrio interno que se conserva a pesar de los cambios externos); al instinto de conservación (lucha y fuga); a la energía para la acción; y a la defensa inmunológica. </p></li>
+<li><h4>Vivencia de sexualidad</h4>
+<p>Los ejercicios estimulan los movimientos y sensaciones relacionados con el erotismo, la identidad sexual y la función del orgasmo. </p></li>
+<li><h4>Vivencias de creatividad</h4>
+<p>Se estimulan los impulsos expresivos y de innovación, la capacidad de crear danzas y la creatividad existencial.</p></li>
+<li><h4>Vivencias de afectividad</h4> 
+<p>Ceremonias de encuentro, rituales de vínculo y danzas de solidaridad y afecto permiten una reeducación emocional y el acceso a la amistad y al amor.</p></li>
+<li><h4>Vivencias de trascendencia</h4> 
+<p>Las danzas en la naturaleza, los ejercicios en el agua y las ceremonias con el fuego y la tierra, vinculan a los estudiantes de Biodanza con la armonía cósmica, despiertan la actitud ecológica y el acceso a la conciencia cósmica.</p></li>
+</ol>
+<p>Las cinco líneas de vivencia se relacionan entre sí y se potencian recíprocamente. En los cursos de Biodanza se desarrollan las cinco líneas de vivencia en forma combinada. </p>
+<table border="1">
+<thead style="background:#DDDDDD">
+	<tr><th>VIVENCIAS</th><th>INSTINTOS</th><th>EMOCIONES</th></tr>
+</thead>
+<tbody>
+	<tr><td>Vitalidad</td>	<td>Hambre - sed<br>Conservación</td>	<td>Alegría<br>Entusiasmo<br>Ímpetu vital<br>Rabia<br>Miedo</td></tr>
+	<tr><td>Sexualidad</td>	<td>Sexual</td>	<td>Deseo - Placer<br>Voluptuosidad</td></tr>
+	<tr><td>Creatividad</td>	<td>Exploratorio, construcción del nido</td>	<td>Exaltación creativa<br>Exaltación estética</td></tr>
+	<tr><td>Afectividad</td>	<td>Nutrición Maternal</td>	<td>Ternura<br>Maternidad Solidaridad<br>Amor</td></tr>
+	<tr><td>Trascendencia</td>	<td>Fusión</td>	<td>Plenitud Éxtasis</td></tr>
+</tbody></table>  
+`+finNivel2()+`
+`+inicioNivel2('8','RELACIÓN DE LAS VIVENCIAS CON EL COMPORTAMIENTO Y LA EXPERIENCIA VIVIDA')+`
+<table border="1">
+<thead style="background:#DDDDDD">
+	<tr><th>VIVENCIA</th><th>EFECTOS COMPORTAMENTALES</th><th>EXPERIENCIA</th></tr>
+</thead>
+<tbody>
+	<tr><td>Vitalidad</td><td>Actividad, juego y lucha, fuga.</td><td>Plenitud</td></tr>
+	<tr><td>Sexualidad</td><td>Caricias, búsqueda de placer.</td><td>Voluptuosidad, fusión orgásmica.</td></tr>
+	<tr><td>Creatividad</td><td>Expresión de emociones, búsqueda de estímulos nuevos innovación existencial.</td><td>Creación artística o científica.</td></tr>
+	<tr><td>Afectividad</td><td>Dar continente, acción altruista, acción social.</td><td>Autodonación eucarística, amistad.</td></tr>
+	<tr><td>Trascendencia</td><td>Búsqueda de armonía.</td><td>Goce supremo, éxtasis, iluminación.</td></tr>
+</tbody>
+</table>
+`+finNivel2()+`
+`+inicioNivel2('9','PRINCIPALES EJERCICIOS DE CADA LÍNEA DE VIVENCIA')+`
+<center>
+<svg width="150" height="60">
+`+
+	cuadroTexto( 0, 0, ['VITALIDAD '])
++`<br>
+</svg>
+<svg width="830" height="420">
+`+
+	cuadroTexto(285,  07, ['Danzas euforizantes,', 'rítmicas/batucadas,', 'danzas de la alegría.'],0);
+	cuadroTexto( 50, 140, ['Biodanza', 'acuática'],0);
+	cuadroTexto(  0, 230, ['Percepción', 'la naturaleza con', 'los cinco sentidos.'],0);
+	cuadroTexto(250, 365, ['Danzas de placer cenestésico.'],0);
+	cuadroTexto(650, 150, ['Fluidez'],0);
+	cuadroTexto(580, 250, ['Ejercicios con', 'arcilla en el cuerpo.'],0);
+	elipseTexto(310, 170, ['Serie de', 'ejercicios de', 'integración.']);
+	flecha(310, 220,110, 'iz', 12);
+	flecha(310, 250, 90, 'iz', -15);
+	flecha(490, 220,130, 'de', -15);
+	flecha(490, 250,100, 'de', 15);
+	flecha(400, 170, 67, 'ar');
+	flecha(400, 300, 67, 'ab')
++`
+</svg><br><hr><br>
+<svg width="830" height="420">
+`+
+	cuadroTexto(320,  07, ['SEXUALIDAD  '])+
+	cuadroTexto(330,  60, ['Fluidez en', 'Pareja'],0)+
+	cuadroTexto(  0,  80, ['Acariciamiento del', 'cabello'],0)+
+	cuadroTexto( 10, 180, ['Danza de placer','cenestésico en', 'pareja'],0)+
+	cuadroTexto( 60, 320, ['Zamba 5'],0)+
+	cuadroTexto(250, 365, ['Danzas de placer cenestésico.'],0)+
+	cuadroTexto(620, 100, ['Grupo Compacto'],0)+
+	cuadroTexto(620, 190, ['Acariciamiento', 'en grupo de 5'],0)+
+	cuadroTexto(600, 280, ['Masaje Sensitivo'],0)+
+	elipseTexto(310, 170, ['Serie de', 'Acariciamiento', ' '])+
+	flecha(310, 220,140, 'iz', 30)+
+	flecha(310, 235,110, 'iz')+
+	flecha(313, 250,150, 'iz', -30)+
+	flecha(505, 220,130, 'de', -30)+
+	flecha(505, 235,110, 'de')+
+	flecha(505, 250,100, 'de', 30)+
+	flecha(400, 170, 40, 'ar')+
+	flecha(400, 300, 67, 'ab')
++`
+</svg><br><hr><br>
+<svg width="830" height="420">
+`+
+	cuadroTexto(320,  07, ['CREATIVIDAD  '])+
+	cuadroTexto(320,  60, ['Expresión de', 'Emociones'],0)+
+	cuadroTexto( 10, 140, ['Danza Creativa', 'libre'],0)+
+	cuadroTexto( 30, 250, ['Danzas', 'Ying - Yang'],0)+
+	cuadroTexto(320, 365, ['Danza canción'],0)+
+	cuadroTexto(620, 150, ['Danzas de', 'Transgresión'],0)+
+	cuadroTexto(630, 250, ['Creación', 'de un poema'],0)+
+	elipseTexto(310, 170, ['Danza de la  ', 'Creación', ' '])+
+	flecha(310, 220,110, 'iz', 12)+
+	flecha(310, 250,110, 'iz', -15)+
+	flecha(490, 220,130, 'de', -15)+
+	flecha(490, 250,130, 'de', 15)+
+	flecha(400, 170, 40, 'ar')+
+	flecha(400, 300, 67, 'ab')
++`
+</svg><br><hr><br>
+<svg width="830" height="420">
+`+
+	cuadroTexto(320,  07, ['AFECTIVIDAD '])+
+	cuadroTexto(330,  60, ['Encuentro en', 'Pareja'],0)+
+	cuadroTexto( 60,  80, ['Nido', 'grupal'],0)+
+	cuadroTexto( 10, 190, ['Danza de','la amistad'],0)+
+	cuadroTexto( 20, 300, ['Placer Cenestésico', 'en pareja'],0)+
+	cuadroTexto(310, 365, ['Ronda solidaria'],0)+
+	cuadroTexto(620, 100, ['Diálogo', 'Íntimo'],0)+
+	cuadroTexto(620, 190, ['Ronda concentrica', 'de miradas'],0)+
+	cuadroTexto(600, 280, ['Danzas de amor'],0)+
+	elipseTexto(310, 205, ['Dar y recibir '])+
+	flecha(310, 220,140, 'iz', 30)+
+	flecha(310, 235,130, 'iz')+
+	flecha(313, 250,150, 'iz', -20)+
+	flecha(505, 220,130, 'de', -30)+
+	flecha(505, 235,110, 'de')+
+	flecha(505, 250,100, 'de', 30)+
+	flecha(400, 200, 70, 'ar')+
+	flecha(400, 280, 80, 'ab')
++`
+</svg><br><hr><br>
+<svg width="830" height="420">
+`+
+	cuadroTexto(320,  07, ['TRASCENDENCIA '])+
+	cuadroTexto(300,  60, ['Danza de los', 'Cuatro Elementos'],0)+
+	cuadroTexto( 20, 140, ['Posiciones', 'Generatrices'],0)+
+	cuadroTexto( 60, 250, ['Bautismo', 'de luz.'],0)+
+	cuadroTexto(280, 365, ['Danza de los Ángeles'],0)+
+	cuadroTexto(620, 150, ['Coro de caña', 'Divina'],0)+
+	cuadroTexto(630, 250, ['Ronda', 'mandálica'],0)+
+	elipseTexto(310, 170, ['Trance de   ', 'Suspensión   ', ' '])+
+	flecha(310, 220,110, 'iz', 12)+
+	flecha(310, 250,110, 'iz', -15)+
+	flecha(490, 220,130, 'de', -15)+
+	flecha(490, 250,130, 'de', 15)+
+	flecha(400, 170, 40, 'ar')+
+	flecha(400, 300, 67, 'ab')
++`
+</svg>
+</center>
+`+finNivel2()+`
+`+inicioNivel2('10','RELACIONES ENTRE LAS LÍNEAS DE VIVENCIA')+`
+<p>Las líneas de vivencia generalmente se combinan entre sí, aumentando el nivel de integración individual.</p>
+<p>Cada persona tiene tendencia a desenvolver algunas líneas de vivencia e inhibir otras. El estudio de las líneas de vivencia permite hacer una descripción del mundo vivencial de cualquier persona. </p>
+<p>Ciertos individuos han reforzado, durante largo tiempo la línea de trascendencia en desmedro de la línea de sexualidad. Otros desenvuelven la línea sexual sin atender a la línea de afectividad. </p>
+<p>El individuo en plenitud desenvuelve las cinco líneas de vivencia. </p>
+<p>El estudio de los niveles de vivencia permite hacer prescripciones a cada individuo. </p>
+<p>El proceso de integración existencial se realiza estimulando las líneas de vivencia que están poco desarrolladas. </p>
+<p>La línea de vitalidad está conectada con la trascendencia en el punto en que ambas están vinculadas profundamente con la naturaleza. La línea de vitalidad se relaciona con la naturaleza para nutrirse de ella. La línea de trascendencia se relaciona con la naturaleza para fundirse e identificarse con ella.  </p>
+<p>La línea de la sexualidad está conectada con la línea de afectividad en dos sentidos: desde la sexualidad a la afectividad y de la afectividad hacia la sexualidad. </p>
+<p>La línea de creatividad tiene relación con la vitalidad en las artes populares, en las artesanías y en las canciones de celebración. </p>
+<p>La línea de creatividad tiene relación con la sexualidad en las artes eróticas, canciones, novelas o poesía cuyos temas son la pasión sexual; danzas nupciales, danzas de fecundación en pueblos originarios. </p>
+<p>La línea de creatividad tiene también relación con la afectividad en el arte social, arte-testimonio y expresiones artísticas comunitarias: festivales, himnos, coros y poesía amorosa. </p>
+<p>La línea de creatividad tiene relación con la trascendencia en todas las formas de arte místico: coros de Bach, pintura o poesía zen, danzas religiosas. </p>
+<p>La línea de afectividad tiene relación con la de vitalidad en lucha social, altruismo y trabajo de mudanza de la comunidad.</p>
+<center>
+	<img src="medirVivencias.png"><br>
+	<i>Diagrama de un individuo con déficit en vitalidad, afectividad y trascendencia con mediana sexualidad y alta creatividad. </i>
+</center>
+`+finNivel2()+`
+`+inicioNivel2('11','INTEGRACIÓN')+`
+<p>La integración de las líneas de vivencia, que expresan el potencial genético, representa la expresión de la identidad. </p>
+<p>El proceso de integración de las cinco líneas de vivencia se produce a través de las combinaciones de las líneas entre sí. La dificultad personal para la integración de las líneas de vivencia produce distintas formas de disociación y desorganización. </p>
+<p>Las líneas de vivencia pueden combinarse en diversas formas. Según el número de combinaciones que posee cada persona se puede determinar su nivel de integración. </p>
+`+finNivel2()+`
+`+inicioNivel2('12','EL GOCE DE VIVIR')+`
+<p>El goce de vivir está vinculado a las motivaciones para vivir. El desarrollo de cada  línea de vivencia y el grado de integración entre las diferentes líneas, determina el goce de vivir. </p>
+<p>Cuando algunas líneas de vivencia están bloqueadas o cuando no hay integración entre ellas, el deseo de  vivir puede disminuir hasta el grado de la depresión. El goce de vivir aumenta logarítmicamente según el grado de integración de los potenciales genéticos y es independiente del éxito profesional o económico. </p>
+<p>El nivel de integración de las cinco líneas de vivencia es un referencial profundo respecto a las motivaciones para vivir. La baja integración de las cinco líneas de vivencia revela diversos grado de depresión. La práctica de Biodanza, al integrar dichas líneas, constituye el instrumento terapéutico más eficaz contra la depresión. </p>
+<p>La trayectoria existencial tiene un carácter expansivo que puede compararse con un laberinto de bifurcaciones sucesivas o con una espiral logarítmica. Por supuesto estas imágenes tienen un carácter metafórico. Una espiral logarítmica se caracteriza por una curva plana que parte de un polo de modo que el área de un vector sea siempre un gnomon el área precedente. </p>
+<p>Creo que el deseo de vivir, categoría esencial de la existencia, se aumenta en proporción logarítmica según sea el grado de integración de las cinco líneas de vivencia. </p>
+<p>El desarrollo morfológico en forma de espiral logarítmica se da frecuentemente en la naturaleza. La espiral logarítmica es la única curva plana cuyos segmentos son homotéticos (semejantes). Tiene, pues, la propiedad de homotecia continua y es, como la había presentido Church, el símbolo matemático más impresionante de la relación entre forma y crecimiento. Podemos extrapolar esta metáfora matemática al crecimiento existencial organizado desde el proceso de integración de los potenciales genéticos. </p>
+<center>
+<img src="deseoDeVivir.png"><br>
+<i>El deseo de vivir aumenta la progresión logarítmica con el aumento de los niveles de integración.</i>
+</center>
+`+finNivel2()+`
+`+inicioNivel2('13','NIVELES DE INTEGRACIÓN')+`
+<p>Las posibilidades de combinación de las líneas entre sí pueden ser entre dos, tres, cuatro o cinco líneas; produciendo así los niveles de integración humana. </p>
+<p>Niveles de integración </p>
+<ol>
+<li>Nivel 1: (mínimo): combinación de 2 líneas de vivencia.</li>
+<li>Nivel 2: combinación de 3 líneas de vivencia.</li>
+<li>Nivel 3: combinación de 4 líneas de vivencia.</li>
+<li>Nivel 4: (máximo): combinación de 5 líneas de vivencia.</li>
+</ol>
+`+finNivel2()+`
+`+inicioNivel2('14','CARACTERÍSTICAS DE LAS COMBINACIONES')+`
+<p>Las características de las combinaciones son diferentes en cada caso. Por ejemplo, la combinación de vitalidad + sexualidad posee características diferentes de la combinación de sexualidad + trascendencia. Podemos decir, entonces, que existen 26 características diferentes de combinaciones. </p>
+<p>Lo que determina el perfil de la identidad es la cualidad de combinaciones y no el nivel de integración. Así por ejemplo: dos individuos de mismo nivel de integración, en que uno tiene la combinación vitalidad + sexualidad es completamente diferente del que posee la combinación vitalidad + afectividad. </p>
+<p>Lo que determina el nivel de integración es el número de combinaciones y lo que determina el perfil individual es la cualidad de combinaciones. </p>
+<p>El bloqueo de ciertas líneas de vivencia por ecofactores negativos determina la patología del proceso de integración. </p>
+<p>El deseo de vivir depende del grado de integración de los cinco conjuntos de potencial genético. </p>
+<h4>Combinación: una expresión matemática.</h4>
+<p>Combinación es una expresión matemática que se resuelve a través de la operación factorial. Como son 5 las líneas de vivencia el total de combinaciones son 26. Así demostrado:</p>
+<span>
+<p>C5,2 =  5! = 5.4.3.2.1 	= 	20 	= 	10</p>
+<p style="margin-left:10%">2! 3! 2.1.3.2.1 =  2</p>		
+<p>C5,3 =  5! = 10</p>
+<p style="margin-left:10%">3! 2!>/p>    
+<p>C5,4 =  5! = 5</p> 
+<p style="margin-left:10%">4! 1!</p>    
+<p>C5,3 =  5! = 1 </p>
+<p style="margin-left:10%">5! 0!</p> 
+<p>Total de combinaciones es 26<p>
+</span>
+`+finNivel2()+`
+`+inicioNivel2('15','EPISTEMOLOGÍA DE LA VIVENCIA')+`
+<p>El progreso del pensamiento contemporáneo impone una extensión del modelo epistemológico tradicional en las ciencias. Actualmente la investigación sobre la naturaleza del conocimiento no se limita al conocer racional. La cognición abarca aspectos biológicos instintivos, místicos y poéticos. Esto significa que los caminos para alcanzar el conocimiento sobre la realidad son múltiples y abarcan la información emocional y cenestésica. Biodanza inaugura, así, un acceso extremadamente profundo al conocimiento de sí y del mundo, a través de la vivencia. </p>
+<p>El conocer a través de la vivencia remite al ‘saber de los orígenes’, es decir, a una cognición primordial. Eugenio Pintor, brillante escritor italiano, ha expresado en su ensayo: "Biodanza: una nueva Epistemología" que "Biodanza permite recuperar el aspecto experimental" del abordaje cognoscitivo, de superar la escisión entre ‘experiencia íntima’ y ‘cognición’ y modificar la idea misma del conocimiento. </p>
+<p>El acto creativo, por ejemplo, es un modo legítimo de cognición, en el sentido de ponerse en contacto con las deslumbrantes relaciones entre la materia y las fuerzas organizadoras. Así mismo, puede considerarse a la experiencia mística como una de las más perfectas vías de conocimiento de la unidad ontocosmológica. "No podemos hablar de la Totalidad de lo Viviente - dice Eugenio Pintor- del hombre como partícipe de la vida, sino poniendo en juego todo lo que, de un modo u otro, pertenece a la vida... Se trata de vincular el saber con la experiencia, con la profundidad y la totalidad de nuestro ser viviente". </p>
+<p>Biodanza, propone una inversión de nuestra estrategia epistemológica reconociendo el valor cognitivo de la vivencia. </p>
+<p>La epistemología a partir de los estudios de la percepción y de un abordaje lógico-racional es restringida, si consideramos que la percepción no depende sólo de los órganos de los sentidos sino del contexto emocional de la percepción y de los substratos biológicos. No es aventurado, por lo tanto, proponer que la vivencia, con todas sus connotaciones cenestésicas, constituye, un modelo de exploración de los orígenes del conocimiento. </p>
+`+finNivel2()+`
+`+inicioNivel2('16','RELATOS DE VIVENCIA')+`
+<p>El relato de vivencias es una ceremonia de entrega íntima al grupo.</p>
+<p>Los alumnos hacen un breve relatorio de las vivencias experimentadas en la sesión anterior. </p>
+<p>Este relato se realiza eventualmente (una vez al mes), en reemplazo de la parte teórica. </p>
+<p>El alumno debe describir lo que sintió y no hacer comentarios racionales o interpretativos. Tampoco se permiten críticas. La descripción de las vivencias es una forma de poner en palabras estados interiores, un desafío de expresión. </p>
+<p>Es muy importante que el alumno se sienta escuchado y comprendido por el grupo. Esta es una forma de recibir continente de parte del grupo. </p>
+<p>El relato de vivencias no es sólo una descripción fenomenológica en el sentido de Merlau Ponty. Es, en realidad, un modo de conexión profunda consigo mismo y con los miembros del grupo. Una entrega generosa y auténtica de la intimidad, un acto de confianza. </p>
+<p>El relato de vivencia no se hará jamás después de la sesión vivencial, sino en la clase siguiente, pues es importante no activar el córtex (área del lenguaje), para conservar los efectos neuroquímicos de la sesión vivencial.</p>
+`+finNivel2();
+return s;
+}
