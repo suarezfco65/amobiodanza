@@ -130,18 +130,18 @@ function m03()  {
 </svg>
 <svg width="830" height="420">
 `+
-	cuadroTexto(285,  07, ['Danzas euforizantes,', 'rítmicas/batucadas,', 'danzas de la alegría.'],0);
-	cuadroTexto( 50, 140, ['Biodanza', 'acuática'],0);
-	cuadroTexto(  0, 230, ['Percepción', 'la naturaleza con', 'los cinco sentidos.'],0);
-	cuadroTexto(250, 365, ['Danzas de placer cenestésico.'],0);
-	cuadroTexto(650, 150, ['Fluidez'],0);
-	cuadroTexto(580, 250, ['Ejercicios con', 'arcilla en el cuerpo.'],0);
-	elipseTexto(310, 170, ['Serie de', 'ejercicios de', 'integración.']);
-	flecha(310, 220,110, 'iz', 12);
-	flecha(310, 250, 90, 'iz', -15);
-	flecha(490, 220,130, 'de', -15);
-	flecha(490, 250,100, 'de', 15);
-	flecha(400, 170, 67, 'ar');
+	cuadroTexto(285,  07, ['Danzas euforizantes,', 'rítmicas/batucadas,', 'danzas de la alegría.'],0)+
+	cuadroTexto( 50, 140, ['Biodanza', 'acuática'],0)+
+	cuadroTexto(  0, 230, ['Percepción', 'la naturaleza con', 'los cinco sentidos.'],0)+
+	cuadroTexto(250, 365, ['Danzas de placer cenestésico.'],0)+
+	cuadroTexto(650, 150, ['Fluidez'],0)+
+	cuadroTexto(580, 250, ['Ejercicios con', 'arcilla en el cuerpo.'],0)+
+	elipseTexto(310, 170, ['Serie de', 'ejercicios de', 'integración.'])+
+	flecha(310, 220,110, 'iz', 12)+
+	flecha(310, 250, 90, 'iz', -15)+
+	flecha(490, 220,130, 'de', -15)+
+	flecha(490, 250,100, 'de', 15)+
+	flecha(400, 170, 67, 'ar')+
 	flecha(400, 300, 67, 'ab')
 +`
 </svg><br><hr><br>
