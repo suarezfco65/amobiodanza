@@ -103,16 +103,16 @@ function m02()  {
 <p>Algunos trastornos orgánicos y psicológicos son expresiones de un inconsciente vital caótico.</p>
 <center>
 <svg width="755" height="660">
-	`+;
-    	cuadroTexto(240,  07, ['                       ', 'Astenia','Falta de Energía', ' '])+;
-    	cuadroTexto(07,  240, ['Perversión de ', 'los instintos'])+;
-    	cuadroTexto(240, 435, ['Perturbaciones del', 'humor endógeno:', 'autodestructividad,', 'manía, pánico, angustia', 'endógena, depresión,', 'enfermedades', 'autoinmunes.'])+;
-    	cuadroTexto(575, 240, ['Desordenes', 'Psicosomáticos '])+;
-        elipseTexto(240, 210, ['                   ','Inconsciente Vital', 'desestructurado', ' '])+;
-        flecha(240, 285, 67, 'iz')+;
-        flecha(505, 285, 67, 'de')+;
-        flecha(375, 210, 67, 'ar')+;
-        flecha(375, 367, 67, 'ab')+;
+	`+
+    	cuadroTexto(240,  07, ['                       ', 'Astenia','Falta de Energía', ' '])+
+    	cuadroTexto(07,  240, ['Perversión de ', 'los instintos'])+
+    	cuadroTexto(240, 435, ['Perturbaciones del', 'humor endógeno:', 'autodestructividad,', 'manía, pánico, angustia', 'endógena, depresión,', 'enfermedades', 'autoinmunes.'])+
+    	cuadroTexto(575, 240, ['Desordenes', 'Psicosomáticos '])+
+        elipseTexto(240, 210, ['                   ','Inconsciente Vital', 'desestructurado', ' '])+
+        flecha(240, 285, 67, 'iz')+
+        flecha(505, 285, 67, 'de')+
+        flecha(375, 210, 67, 'ar')+
+        flecha(375, 367, 67, 'ab')+
     `
   Sorry, your browser does not support inline SVG. 7.1875 
 </svg>
@@ -120,16 +120,16 @@ function m02()  {
 <p>Lo interesante es que, a partir de esa lectura diagnóstica, es posible prescribir un tratamiento coherente mediante la movilización armoniosa de los contenidos del inconsciente vital que están bloqueados. Ejercicios específicos de Biodanza pueden actuar sobre los diferentes aspectos del inconsciente vital.</p>
 <center>
 <svg width="910" height="580">
-	`+;
-    	cuadroTexto(360,   07, ['                       ', 'Danzas que estimulan','la alegría', ' '])+;
-    	cuadroTexto(07,  165, ['Ejercicios de expresión','de instintos:','- Ceremonia de los', 'frutos (alimentario).', '- Encuentro-caricias', '(sexual).', '-	Nido grupal','(territorial).'])+;
-    	cuadroTexto(360, 435, ['Ejercicios para elevar', 'el humor endógeno:', 'zambas, acariciamiento,', 'Biodanza acuática.'])+;
-    	cuadroTexto(705, 240, ['Danzas de placer', 'Cenestésico'])+;
-        elipseTexto(360, 210, ['                   ','Inconsciente Vital', 'estructurado', ' '])+;
-        flecha(360, 285, 67, 'iz')+;
-        flecha(622, 285, 67, 'de')+;
-        flecha(495, 210, 67, 'ar')+;
-        flecha(495, 367, 67, 'ab')+;
+	`+
+    	cuadroTexto(360,   07, ['                       ', 'Danzas que estimulan','la alegría', ' '])+
+    	cuadroTexto(07,  165, ['Ejercicios de expresión','de instintos:','- Ceremonia de los', 'frutos (alimentario).', '- Encuentro-caricias', '(sexual).', '-	Nido grupal','(territorial).'])+
+    	cuadroTexto(360, 435, ['Ejercicios para elevar', 'el humor endógeno:', 'zambas, acariciamiento,', 'Biodanza acuática.'])+
+    	cuadroTexto(705, 240, ['Danzas de placer', 'Cenestésico'])+
+        elipseTexto(360, 210, ['                   ','Inconsciente Vital', 'estructurado', ' '])+
+        flecha(360, 285, 67, 'iz')+
+        flecha(622, 285, 67, 'de')+
+        flecha(495, 210, 67, 'ar')+
+        flecha(495, 367, 67, 'ab')+
     `
   Sorry, your browser does not support inline SVG. 7.1875 
 </svg>
@@ -164,33 +164,33 @@ function m02()  {
 `+inicioNivel2('I-7','ESQUEMA “DOS VERTIENTES FILOSÓFICAS EN EL CONCEPTO DE INCONSCIENTE VITAL”')+`
 <center>
 <svg width="770" height="380">
-`+;
-    	cuadroTexto(240,  10, ['Lopez Ibor', 'La corporeidad y el ánimo'],0)+;
-    	cuadroTexto(07,  110, ['Ortega y Gasset','El Intracuerpo'],0)+;
-    	cuadroTexto(570, 110, ['Zut', 'Yo soy mi cuerpo'],0)+;
-    	cuadroTexto(07,  200, ['Humberto Maturana','Autopoyesis'],0)+;
-    	cuadroTexto(570, 200, ['Francisco Varela','Autorganización'],0)+;
-    	cuadroTexto(290, 300, ['Krhis', 'El humor endógeno:'],0)+;
-        elipseTexto(300, 150, ['Concepciones  ', 'Biológicas'])+;
-	flecha(300, 185, 80, 'iz', 18)+;
-	flecha(300, 215, 80, 'iz', -18)+;
-        flecha(490, 185, 67, 'de', -18)+;
-        flecha(490, 215, 67, 'de', 18)+;
-        flecha(400, 150, 67, 'ar')+;
-        flecha(400, 245, 67, 'ab')+;
+`+
+    	cuadroTexto(240,  10, ['Lopez Ibor', 'La corporeidad y el ánimo'],0)+
+    	cuadroTexto(07,  110, ['Ortega y Gasset','El Intracuerpo'],0)+
+    	cuadroTexto(570, 110, ['Zut', 'Yo soy mi cuerpo'],0)+
+    	cuadroTexto(07,  200, ['Humberto Maturana','Autopoyesis'],0)+
+    	cuadroTexto(570, 200, ['Francisco Varela','Autorganización'],0)+
+    	cuadroTexto(290, 300, ['Krhis', 'El humor endógeno:'],0)+
+        elipseTexto(300, 150, ['Concepciones  ', 'Biológicas'])+
+	flecha(300, 185, 80, 'iz', 18)+
+	flecha(300, 215, 80, 'iz', -18)+
+        flecha(490, 185, 67, 'de', -18)+
+        flecha(490, 215, 67, 'de', 18)+
+        flecha(400, 150, 67, 'ar')+
+        flecha(400, 245, 67, 'ab')+
 `
 </svg><br><br>
 <svg width="900" height="430">
-`+;
-	cuadroTexto(380,  10, ['David Bohm', 'El orden implicado'],0)+;
-	cuadroTexto(07,  160, ['Albert Hofman','Poder Transformador de', 'las sustancias enteógenas'],0)+;
-	cuadroTexto(670, 175, ['Sheldrake', 'Resonancia Mórfica'],0)+;
-	cuadroTexto(380, 340, ['TOE', 'Theory of everything'],0)+;
-	elipseTexto(400, 150, ['Concepciones  ', 'Holográficas', 'y místicas'])+;
-	flecha(400, 215, 80, 'iz')+;
-	flecha(595, 215, 67, 'de')+;
-	flecha(500, 150, 67, 'ar')+;
-	flecha(500, 277, 67, 'ab')+;
+`+
+	cuadroTexto(380,  10, ['David Bohm', 'El orden implicado'],0)+
+	cuadroTexto(07,  160, ['Albert Hofman','Poder Transformador de', 'las sustancias enteógenas'],0)+
+	cuadroTexto(670, 175, ['Sheldrake', 'Resonancia Mórfica'],0)+
+	cuadroTexto(380, 340, ['TOE', 'Theory of everything'],0)+
+	elipseTexto(400, 150, ['Concepciones  ', 'Holográficas', 'y místicas'])+
+	flecha(400, 215, 80, 'iz')+
+	flecha(595, 215, 67, 'de')+
+	flecha(500, 150, 67, 'ar')+
+	flecha(500, 277, 67, 'ab')+
 `
 </svg>
 </center>
@@ -251,16 +251,16 @@ function m02()  {
 `+inicioNivel2('I-14','ESQUEMA “FACTORES QUE INFLUYEN EN LA VITALIDAD DEL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="740" height="490">
-	`+;
-    	cuadroTexto(260,   07, ['Experiencia', 'suprema de', 'fusión con el', 'cosmos.'])+;
-    	cuadroTexto(07,  220, ['Motivaciones', 'para vivir.'])+;
-    	cuadroTexto(260, 375, ['Salud, placer', 'cenestésico,', 'humor feliz.'])+;
-    	cuadroTexto(540, 170, ['Expresión de', 'los potenciales,', 'placer sexual,', 'amor,', 'trascendencia.'])+;
-        elipseTexto(220, 210, ['Inconsciente vital', '(humor endógeno).'])+;
-        flecha(220, 260, 67, 'iz')+;
-        flecha(470, 260, 67, 'de')+;
-        flecha(340, 210, 67, 'ar')+;
-        flecha(340, 305, 67, 'ab')+;
+	`+
+    	cuadroTexto(260,   07, ['Experiencia', 'suprema de', 'fusión con el', 'cosmos.'])+
+    	cuadroTexto(07,  220, ['Motivaciones', 'para vivir.'])+
+    	cuadroTexto(260, 375, ['Salud, placer', 'cenestésico,', 'humor feliz.'])+
+    	cuadroTexto(540, 170, ['Expresión de', 'los potenciales,', 'placer sexual,', 'amor,', 'trascendencia.'])+
+        elipseTexto(220, 210, ['Inconsciente vital', '(humor endógeno).'])+
+        flecha(220, 260, 67, 'iz')+
+        flecha(470, 260, 67, 'de')+
+        flecha(340, 210, 67, 'ar')+
+        flecha(340, 305, 67, 'ab')+
     `
   Sorry, your browser does not support inline SVG. 7.1875 
 </svg>
@@ -274,16 +274,16 @@ function m02()  {
 `+inicioNivel2('I-16','ESQUEMA “MANIFESTACIONES DEL INCONSCIENTE VITAL”')+`
 <center>
 <svg width="780" height="470">
-	`+;
-    	elipseTexto(285,   07, ['Deseo de ', 'vivir.'])+;
-    	elipseTexto(10,  170, ['Humor', 'endógeno. '])+;
-    	elipseTexto(230, 335, ['Integración de', 'todas las', 'funciones vitales'])+;
-    	elipseTexto(567, 170, ['Índice de', 'sobrevivencia.'])+;
-        elipseTexto(220, 170, ['Inconsciente vital', '(psiquismo celular).'])+;
-        flecha(220, 220, 67, 'iz')+;
-        flecha(500, 220, 67, 'de')+;
-        flecha(350, 170, 67, 'ar')+;
-        flecha(350, 265, 67, 'ab')+;
+	`+
+    	elipseTexto(285,   07, ['Deseo de ', 'vivir.'])+
+    	elipseTexto(10,  170, ['Humor', 'endógeno. '])+
+    	elipseTexto(230, 335, ['Integración de', 'todas las', 'funciones vitales'])+
+    	elipseTexto(567, 170, ['Índice de', 'sobrevivencia.'])+
+        elipseTexto(220, 170, ['Inconsciente vital', '(psiquismo celular).'])+
+        flecha(220, 220, 67, 'iz')+
+        flecha(500, 220, 67, 'de')+
+        flecha(350, 170, 67, 'ar')+
+        flecha(350, 265, 67, 'ab')+
     `
 </svg><br>
 </center>
@@ -404,28 +404,28 @@ function m02()  {
 </ol>
 <h4>Representación esquemática del homeostato cultural, construido por componentes de estas cuatro vertientes (esquema):</h4>
 <svg width="900" height="430">
-`+;
-	cuadroTexto(5, 5, ['Componente oriental:', '‘la vida es una ilusión’', '(desprecio por la vida).'],0)+;
-	cuadroTexto(600, 20, ['Componente griego:', 'separación cuerpo-alma'],0)+;
-	cuadroTexto(385, 165, ['Homeostato', 'cultural'],0)+;
-	cuadroTexto(0, 300, ['Componente Judeo-Cristiano:', 'castració y depresión'],0)+;
-	cuadroTexto(600, 295, ['Componente romano:', 'imperialismo', 'discriminación social'],0)+;
-	flecha(300, 45, 300, 'de')+;
-	flecha(600, 75, 300, 'iz')+;
-	flecha(110, 100, 200, 'ab')+;
-	flecha(150, 300, 200, 'ar')+;
-	flecha(710, 100, 200, 'ab')+;
-	flecha(750, 300, 200, 'ar')+;
-	flecha(300, 330, 300, 'de')+;
-	flecha(600, 360, 300, 'iz')+;
-	flecha(280, 100, 120, 'ab', -55)+;
-	flecha(365, 190, 120, 'ar', -55)+;
-	flecha(625, 100, 120, 'ab', 55)+;
-	flecha(555, 180, 120, 'ar', 55)+;
-	flecha(345, 220, 120, 'ab', 55)+;
-	flecha(275, 300, 120, 'ar', 55)+;
-	flecha(530, 220, 120, 'ab', -55)+;
-	flecha(615, 310, 120, 'ar', -55)+;
+`+
+	cuadroTexto(5, 5, ['Componente oriental:', '‘la vida es una ilusión’', '(desprecio por la vida).'],0)+
+	cuadroTexto(600, 20, ['Componente griego:', 'separación cuerpo-alma'],0)+
+	cuadroTexto(385, 165, ['Homeostato', 'cultural'],0)+
+	cuadroTexto(0, 300, ['Componente Judeo-Cristiano:', 'castració y depresión'],0)+
+	cuadroTexto(600, 295, ['Componente romano:', 'imperialismo', 'discriminación social'],0)+
+	flecha(300, 45, 300, 'de')+
+	flecha(600, 75, 300, 'iz')+
+	flecha(110, 100, 200, 'ab')+
+	flecha(150, 300, 200, 'ar')+
+	flecha(710, 100, 200, 'ab')+
+	flecha(750, 300, 200, 'ar')+
+	flecha(300, 330, 300, 'de')+
+	flecha(600, 360, 300, 'iz')+
+	flecha(280, 100, 120, 'ab', -55)+
+	flecha(365, 190, 120, 'ar', -55)+
+	flecha(625, 100, 120, 'ab', 55)+
+	flecha(555, 180, 120, 'ar', 55)+
+	flecha(345, 220, 120, 'ab', 55)+
+	flecha(275, 300, 120, 'ar', 55)+
+	flecha(530, 220, 120, 'ab', -55)+
+	flecha(615, 310, 120, 'ar', -55)+
 `
 </svg>
 <hr>
@@ -437,16 +437,16 @@ function m02()  {
 <li><h4>Cultura occidental:</h4>
 <center>
 <svg width="800" height="410">
-`+;
-	cuadroTexto(360, 0, ['Línea Oriental', '(A)'],0)+;
-	cuadroTexto(385, 165, ['Cultura', 'Occidental'],0)+;
-	cuadroTexto(5, 175, ['Línea Judeo Cristiana', '(B)'],0)+;
-	cuadroTexto(630, 175, ['Línea Romana', '(C)'],0)+;
-	cuadroTexto(370, 340, ['Línea Griega', '(D)'],0)+;
-	flecha(445, 70, 100, 'ab')+;
-	flecha(270, 210, 100, 'de')+;
-	flecha(630, 210, 100, 'iz')+;
-	flecha(445, 345, 100, 'ar')+;
+`+
+	cuadroTexto(360, 0, ['Línea Oriental', '(A)'],0)+
+	cuadroTexto(385, 165, ['Cultura', 'Occidental'],0)+
+	cuadroTexto(5, 175, ['Línea Judeo Cristiana', '(B)'],0)+
+	cuadroTexto(630, 175, ['Línea Romana', '(C)'],0)+
+	cuadroTexto(370, 340, ['Línea Griega', '(D)'],0)+
+	flecha(445, 70, 100, 'ab')+
+	flecha(270, 210, 100, 'de')+
+	flecha(630, 210, 100, 'iz')+
+	flecha(445, 345, 100, 'ar')+
 `
 </svg><br>
 </center>
@@ -459,20 +459,20 @@ function m02()  {
 <li><h4>Nueva Civilización:</h4>
 <center>
 <svg width="840" height="400">
-	`+;
-	cuadroTexto(5, 5, ['Línea de reverencia', 'por la vida.', '(A)'],0)+;
-	cuadroTexto(600, 0, ['Línea de Integración', 'ontocosmológica', 'cuerpo - alma', '(B)'],0)+;
-	cuadroTexto(335, 170, ['Nueva Civilización'],0)+;
-	cuadroTexto(0, 300, ['Línea de libertad', 'sexual.', '(C)'],0)+;
-	cuadroTexto(615, 295, ['Línea de justicia', 'social.', '(D)'],0)+;
-	flecha(270, 35, 300, 'de')+;
-	flecha(570, 65, 300, 'iz')+;
-	flecha(110, 100, 200, 'ab')+;
-	flecha(150, 300, 200, 'ar')+;
-	flecha(700, 100, 200, 'ab')+;
-	flecha(740, 300, 200, 'ar')+;
-	flecha(270, 330, 300, 'de')+;
-	flecha(570, 360, 300, 'iz')+;
+	`+
+	cuadroTexto(5, 5, ['Línea de reverencia', 'por la vida.', '(A)'],0)+
+	cuadroTexto(600, 0, ['Línea de Integración', 'ontocosmológica', 'cuerpo - alma', '(B)'],0)+
+	cuadroTexto(335, 170, ['Nueva Civilización'],0)+
+	cuadroTexto(0, 300, ['Línea de libertad', 'sexual.', '(C)'],0)+
+	cuadroTexto(615, 295, ['Línea de justicia', 'social.', '(D)'],0)+
+	flecha(270, 35, 300, 'de')+
+	flecha(570, 65, 300, 'iz')+
+	flecha(110, 100, 200, 'ab')+
+	flecha(150, 300, 200, 'ar')+
+	flecha(700, 100, 200, 'ab')+
+	flecha(740, 300, 200, 'ar')+
+	flecha(270, 330, 300, 'de')+
+	flecha(570, 360, 300, 'iz')+
 	`
 	<line x1="250" y1="100" x2="250" y2="220" stroke="gray" stroke-width="2" transform="rotate(-55, 250, 100)" />
 	<line x1="625" y1="100" x2="625" y2="220" stroke="gray" stroke-width="2" transform="rotate( 55, 625, 100)" />
