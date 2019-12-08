@@ -449,6 +449,6 @@ function m11()  {
 	<tr><td>11. Sincronización melódica con otro</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 	<tr><td>12. Expresividad</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
-`+finNivel2()+
+`+finNivel2();
 return s;
 }
