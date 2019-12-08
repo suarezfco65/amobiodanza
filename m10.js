@@ -1,4 +1,4 @@
-function m07()  {
+function m10()  {
     var s='';
     s += inicioNivel2('1','INTRODUCCIÓN')+`
 <p>Todo cuerpo que no es acariciado empieza a morir. El contacto es una fuente de salud y es la acción terapéutica más importante.</p>
