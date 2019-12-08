@@ -1,4 +1,4 @@
-function m07()  {
+function m14()  {
     var s='<div class="panel-group" id="sub-accordion" role="tablist" aria-multiselectable="true">';
     s += inicioNivel2('1','DEFINICIÓN DE CREATIVIDAD')+`
 <p>Creatividad es una actividad que forma parte integrante de la transformación cósmica. Un camino del caos al orden. En el ser humano se manifiesta como impulso de innovación frente a la realidad. La actividad creativa organiza un lenguaje único a partir de la vivencia. La obra de creación es siempre el expresivo resultado del acto de vivir.</p>
