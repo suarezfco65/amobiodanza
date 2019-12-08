@@ -1,4 +1,4 @@
-function m07()  {
+function m24()  {
     var s='<H4>CAPÍTULO I: LA SESIÓN DE BIODANZA</H4>';
     s += inicioNivel2('I-1','SIGNIFICADO ANTROPOLÓGICO')+`
 `+finNivel2()+`
