@@ -1,5 +1,5 @@
 function m03()  {
-    var s='';
+var s='';
     s += inicioNivel2('1','DEFINICIÓN DE VIVENCIA')+`
 <p>Vivencia es "una experiencia vivida con gran intensidad por un individuo en un lapso de tiempo aquí - ahora (‘génesis actual’), abarcando las funciones emocionales, cenestésicas y orgánicas." (Rolando Toro 1968). </p>
 <p>El primero que investigó el sentido de las vivencias fue Wilhelm Dilthey (1833 - 1911), para quien eran "algo revelado en el complejo anímico dado en la experiencia interna de un modo de existir la realidad para un cierto sujeto" (Dilthey, 1883). Este autor estableció una diferencia entre las ciencias de la naturaleza y ciencias del espíritu. Pienso que no existe una diferencia esencial entre lo natural y lo espiritual, pero no obstante las concepciones de Dilthey influyeron en la fenomenología de Merleau Ponty, la ontología de Heidegger y la sociología de Weber.</p>
