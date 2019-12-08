@@ -297,6 +297,6 @@ Descubrimiento del ángel interior.</li>
 `+inicioNivel2('C-16','LABORATORIO DE CREATIVIDAD')+`
 `+finNivel2()+`
 `+inicioNivel2('C-17','BIODANZA Y LOS CUATRO ELEMENTOS')+`
-`+finNivel2()+
+`+finNivel2();
 return s;
 }
