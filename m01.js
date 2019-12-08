@@ -1,5 +1,5 @@
 function m01()  {
-    var s='';
+var s='';
     s += '<H3>CAPITULO I: DEFINICIÓN DE BIODANZA</H3>';
     s += inicioNivel2('I-1','DEFINICIÓN DE BIODANZA');
     s += `
