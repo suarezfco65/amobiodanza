@@ -1,5 +1,5 @@
 function m02()  {
-    var s='';
+var s='';
     s += '<H3>CAPITULO I : EL INCONSCIENTE VITAL</H3>';
     s += inicioNivel2('I-1','CONCEPTO DE INCONSCIENTE VITAL');
     s += `
