@@ -398,6 +398,6 @@ Editora Laterza, 1992 – Lezioni Italiane, Fondazione Sigma-Tau, Roma, Italia</
 <li>Unificar las fuerzas económicas, sociales, políticas y científicas en torno a la protección de la vida.</li>
 <li>Introducir la Educación Biocéntrica como Mediación en los Programas de Enseñanza de la Escuela (educación básica), con el objeto de reeducar la Afectividad y estimular la Creatividad de los niños.</li>
 </ol>
-`+finNivel2()+
+`+finNivel2();
 return s;
 }
