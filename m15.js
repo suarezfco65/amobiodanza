@@ -1,4 +1,4 @@
-function m07()  {
+function m15()  {
     var s=` 
 <p>Rolando apuesta al reconocimiento de ese hombre amoroso de corazón iluminado que habita en nosotros, en toda la raza humana; su expresión es impedida por  inhibiciones y bloqueos que vivimos en la sociedad que vivimos, el estilo de vida..ect.</p>
 <p>Cada capitulo del tema en el material anexo requieren una atención minusiosa que permite profundizar en lo que Rolando nos quiere transmitir. Revisa en su libro de la pag 140 a 143. En la ultima pagina hay referencia bibliografica, revisa alguna para ampliar la comprension del tema. Necesitamos tener presente que en Biodanza la Afectividad es su nucleo central.</p>
