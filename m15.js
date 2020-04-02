@@ -431,10 +431,14 @@ Prescripción terapéutica:<br>
 <p>Breton, Jean: “I Poeti dell’Emozione”, Edizioni La Pibole.</p>
 <p>Schwaitzer, Albert: “Rispetto per la Vita”, Claudiana Editrice, Torino.</p>
 `+finNivel2()+`
-<H4>OBSERVACIÓN</H4>
-<P>DEBERÁN FORMAR PARTE DEL PROGRAMA VIVENCIAL DE ESTE TEMA LOS EJERCICIOS ESPECÍFICOS DE LA LÍNEA DE AFECTIVIDAD</P>
-
-        </div>
-`;
+<H3>Otros puntos</H3>
+`+inicioNivel2('RL','RELATO FRANCISCO SUÁREZ')+`
+<p>Comprendo que en línea generales la afectividad es el estado de afinidad profunda hacia los otros seres; que a diferencia de las vivencias participa la conciencia y representación simbólica.</p>
+<p>Que para Biodanza la línea de afectividad tiene su expresión privilegiada en el amor; y que la afectividad es la expresión de la identidad.</p>
+<p>Que las emociones son momentáneas e instintivas que responden a circunstancias especiales e impulsan a la acción; a diferencia de los sentimientos que resultado de concientizar, componentes simbólicos y tiene duración en el tiempo. Que las emociones se suscitan a través de las expresiones artísticas en sus formas más complejas, sutiles y de gran intensidad. Y conseguimos en la literatura la mejor descripción de los sentimientos.</p>
+<p>Se acuña el concepto de reprogresión que indica que todo acto de progresión biológica requiere de una regresión previa (regresión regenerativa).</p>
+<p>En la biología celular se revela que la células son capaces de alterar su comportamiento bioquímico en beneficio de la comunidad celular. Los impulsos biológicos de cooperación, integración y solidaridad culminan en el ser humano en sentimientos altruistas constituyéndose en la génesis del amor.</p>
+<p>Son cuatro los componentes de afectividad: 1. La identidad (compromete las funciones orgánicas, humor endógeno, percepción y sentido ético); 2. Nivel de conciencia (Percepción de lo esencial, visión de totalidad que vincula a todo lo que está vivo); 3. Nivel de Comunicación (nivel de comunicación sutil que infunde intensidad, donde se comunica el Alma antes que el intelecto); 4. Ecofactores y antecedentes Biográficos (las tendencias afectivas adultas vienen determinadas por experiencias infantiles y el contexto social)</p>
+`+finNivel2();
 return s;
 }
