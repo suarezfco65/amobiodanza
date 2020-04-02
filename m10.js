@@ -433,7 +433,7 @@ Danza de dar, darse, pedir, recibir (posiciones generatrices).</li>
 <p>La caricia es un acto integrador por sí mismo, porque acoge y se adapta a aquello que encuentra, como es característico del agua. A nivel profundo, la caricia posee la sabiduría de la disponibilidad, de la apertura para estar con el otro: deviene entrega.</p>
 <p>A través del contacto y la caricia nos valorizamos a nosotros mismos, llegamos a ser sujeto para el otro. Alguien puede sentir que el otro lo busca, porque él es agradable al contacto. Se produce una autovalorización. En efecto, un cuerpo acariciado deviene sabroso, esto es, apetecible.</p>
 <p>Acariciar y ser acariciado es el íntimo reconocimiento de nuestro valor como ser vivo único.</p>
-`+finNivel2()`
+`+finNivel2()+`
 <h3>OTROS PUNTOS</h3>
 `+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
 <p>Un fin de semana aprendiendo sobre el aporte importante y significativo del contacto y la caricia en la biodanza; como ese contacto (manos, y resto de mi cuerpo) con mis compañeros durante la biodanza me estimula, sintiéndome más motivado y con razones de permanecer y crecer dentro de un contexto social, con gente a mi alrededor que vive y siente como yo; en una comunicación o conexión de la energía de la vida sin necesidad de palabras, con sus importantes efectos, entre ellos el liberar tensión, lograr atracción; y ademas como contexto de la comunicación para el entendimiento entre las personas, dando énfasis en la transmisión de mensajes de amor y cariño.</p>
