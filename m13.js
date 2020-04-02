@@ -634,7 +634,7 @@ más profundos y graves:
 <p>Hillman, J.: “Saggio su Pan”. Adelphi. Milano, 1991.</b>
 <p>Maffesoli, M.: “L'ombra di Dioniso - Una Sociología delle Pasión”. Garzanti. Italia, 1990. Reich, W.: “La Función del Orgasmo”. Paidos. Buenos Aires.</p>
 `+finNivel2()+`
-<H3>Otros puntos</H3>
+<H3>OTROS PUNTOS</H3>
 `+inicioNivel2('OP-correo','Correo')+`
 <p>Queridos todos, el 6 y 7 de abril tendremos el Modulo XIII - Sexualidad y les anexamos material;  Rolando trata el tema de una manera reveladora e ilumina dimensiones diferentes de lo habitual,lo  mira desde la perspectiva de energias transformadoras, con significado vital y belleza poetica.</p>
 <p>Las investigaciones y analisis presentados requieren mucha sensibilidad y empatia para penetrar en la profundidad de la visión de Rolando; muestra los origenes y funcionamiento de su propuesta de crear otro modo de estar en el mundo y de facilitar el desarrollo y la integracion de las personas.</p>
@@ -654,8 +654,8 @@ más profundos y graves:
 <p>Les pedimos que traigan los alimentos lo mas preparados posibles.</p>
 <p>La Inversión del Modelo sera 6 dolares, cancelados al equivalente en BsS segun paridad enviada el jueves de la semana del Modulo,   y pernocta 3.000bs noche, favor cancelar por adelantado. Agradecemos puntualidad .</p>
 <p>Los abrazo apretadito. Florelena
-`+finNivel2()
-+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+`+finNivel2()+`
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
 <p>A través de esta línea de vivencia, los elementos, como el placer, la genialidad, la sensualidad, el erotismo, y la divinidad; en la sexualidad, son todos una manifestación de la fuerza vital; que además se distribuye en todo el cuerpo como fuente de placer, y no es tema exclusivo de los genitales. Sentir también que la sexualidad se encuentra en el impulso, las ganas, el deseo de realizar cada una de las actividades cotidianas (bañarse, comer, dormir, contacto con otras personas, caminar, etc); también el sentir estímulos en diferentes objetos</p>
 <p>Interesante el tema sobre pareja ecológica, en esa forma de vida vinculada, don está presente la individualidad, la expresión de sus potencialidades, la presencia del compañero.</p>
 `+finNivel2();
