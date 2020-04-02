@@ -90,7 +90,7 @@ Trance de suspensión en el agua.</td></tr>
 		<td><i>Máscara del África Ecuatorial, revela el estado de trance: ojos cerrados, boca entreabierta, serenidad y plenitud del rostro</i></td></tr>
 </table>
 `+finNivel2()+`
-<H3>Otros puntos</H3>
+<H3>OTROS PUNTOS</H3>
 `+inicioNivel2('OP-correo','Correo')+`
 <p>Queridos todos nos estamos acercando al fin del primer ano de la formación como Profesor en Biodanza, 9 modulos en total, los felicito y abrazo con mucha alegría y entusiasmo.</p>
 <p>Nuestro próximo encuentro es el 1 y 2 de Diciembre con el tema Trance y Regresión; Biodanza, con su metodología vivencial, produce modificaciones de estados de consciencia que facilitan a las personas nutrirse en sus orígenes biológico-emocionales.</p>
@@ -118,6 +118,11 @@ Trance de suspensión en el agua.</td></tr>
 </ol>
 <p>El  Valor del Modulo de Formacion sera el equivalente en BsS  de 5 dolares. Como siempre la pararidad se la enviaremos la misma semana de nuestro encuentro.  .</p>
 <p>Los abrazo con amor. Florelena</p>
+`+finNivel2()`
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+<p>Vine con grandes expectativas a esta maratona debido a que la semana anterior tuve la oportunidad de vivenciar mi renacer en el "Árbol de los deseos", del cual, en todo lo que he vivido de Biodanza ha sido la vivencia más relevante hasta ahora. A los dos días de ésta experiencia he tomado conciencia que parte de mis dificultades para yo poderme expresar desde mi sentir es que estando niño debía previo a expresarme analizar lo que iba decir, pues recibí lo que hoy llaman "bulling" de mis hermanos mayores. Por otro lado, he tomado conciencia de que pasé gran parte de mi juventud y adultez cuidando lo que expresaba, por lo cual en muchos casos no expreso, o filtro mucho la información que expreso, bloqueando en muchas ocasiones el sentir.</p>
+<p>Durante las danzas el fin de semana vivencie la maravillosa experiencia de entrega a mi sentir, de una plenitud al danzar libre, de dejarme permear por las notas suaves de la musica, de poder disfrutar cruzar el umbral del control, de la rigidez. De hoy aún seguir experimentando una renovación unica, integradora y gratificante.</p>
+<p>Aún con una base teórica poco extendida, sin embargo me ha dejado un aprendizaje de profundidad y entendimiento que me permite acercarme más a las bases que sustentan el sistema de Biodanza en el cual Rolando Toro se permitió cubrir con relevancia ésta aristas que lo conforma. El trance como camino o vía entre la identidad y la regresión.</p>
 `+finNivel2();
 return s;
 }
