@@ -256,6 +256,13 @@ function m04()  {
 <p>La existencia de un sistema sensorio motor de alta eficacia, cuyos circuitos de retroalimentación son de extraordinaria plasticidad y precisión. Esto permitiría una gran independencia de los patrones de respuesta frente al medio.</p>
 <p>El segundo factor de autonomía es, a mi modo de ver, el sistema inmunológico, destinado a preservar la identidad biológica, disminuyendo el riesgo a los peligros del medio ambiente.</p>
 <p>El tercer factor de la autonomía parece ser la conciencia del semejante, a través de un mecanismo de identificación. Este proceso es el que da al ser humano su fuerza expresiva, autónoma y creativa.</p>
+`+finNivel2()+`
+<h3>OTROS PUNTOS</h3>
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+<p>En esta maratona me senti a gusto con el grupo, muchas caras conocidas en especial de personas con las que habia trabajado antes en la biodanza y en el master de la vida.</p>
+<p>El reconocerme parte del universo y desde ese sentir que somos parte de una estrella fue como algo mágico e increible, senti que existen variadas formas de creación y que lo fundamental es lo misterioso del origen de nuestra vida, también el integrar a mi vida los conceptos de la autorregulación como equilibrio; la integracón como lo vivido desde el placer de ir más allá; La identidad como conciencia de sí mismo de estar vivo; La autopoiesis como la capacidad de autogenerarse a sí mismo y el proceso de transformación e integración.</p>
+<p>Reconocer en mi código genético saber que mis células actúan en mi de acuerdo al sentir me sorprende que esta comunicación sea tan fluida. Hoy tomo conciencia de la autorregulación en mi vida para estar en armonia y disfrutar de cada cosa y a su tiempo.</p>
+<p>Me impresiono las explicaciones que se dieron con respecto al constante retorno o regreso cíclicos hacia nuestros origenes. Siento que debemos estar tranquilos porque en nuestros aspectos bilógicos hay de manera natural procesos en los cuales yo voy a tener la posibilidad de adaptarme, de hacer cambios a lo existente, con la posibilidad de sobrevivir en el ambiente donde me desarrollo.</p>
 `+finNivel2();
 return s;
 }
