@@ -94,151 +94,56 @@ Físico americano, estudio acústica de ambientes cerrados.</p>
 <p>La extensión de la Biodanza y voz la ha desarrollado con gran acertividad el Profesor Sergio Cruz.</p>
 <sub><i>Estreno mundial celebrado en el Queen Elisabeth may de Londres el 22 de Abril de 1969</i></sub>
 <h4>RILKE Y LA MÚSICA INTERIOR</h4>
-<p>“El canto, cual tu lo enseñas no es anhelo ni petición de algo que, al fin, es alcanzable.   
-Cantar es ser. Para el Dios esto es cosa facil Pero cuándo somos nosotros? 
-¿Cuándo vuelve nuestro ser la tierra y las estrellas” 
- 
-“En verdad cantar es un soplo distinto. 
-Un soplo por nada, una onda en el Dios 
- 
-En el tercer Soneto a Orfeo, Rilke (el viento revela la trascendencia del canto, la pura inocencia de exalar la voz de las profundidades. 
- 
-En la primera elegía, Rilke nos habla con perfecta conciencia de los riesgos que el hombre debe enfrentar en las proximidades de la belleza. 
- 
-Por esto, la música puede conducirnos por el hilo secreto de la imprevista divinidad. 
- 
-“Pues lo hermoso no es mas que el comienzo de lo terrible que todavía podemos soportar y lo admiramos en la medida en que, indiferente, rehúsa destruirnos. Todo angel es temible” 
- 
-La Música proviene de un fondo originario, divino, que nos vincula al éxtasis, al amor infinito y a nuestra sacralidad. 
- 
- 
- 
- DEL SUFRIMIENTO A LA PLENITUD 
- 
- 
-Para un estudio fenomenológico a partir de la obra musical de Beethoven). 
- 
-Hay en Beethoven un misterioso e inédito camino del sufrimiento a la plenitud. 
- 
-Su viaje musical tiene las características de la más grande aventura de ascensión desde el caos al orden. 
- 
-Un viaje desde el corazón. Desde la hondura de los ceñimientos que permanecen irrevelados y ocultos en el seno de la especie humana. Beethoven sacó desde a sí una revelación que nos habla de nosotros mismos. 
- 
-Quizás podamos, algún día, extender nuestra vida al estado de revelación, es decir, a sus formas inexplicables e irracionales. 
- 
-Esto sólo puede realizarse a través de las obras de creación. 
- 
-El poeta o el músico, hablan dentro de nosotros sobre el nosotros absoluto. 
- 
-Las obras de Beethoven, aparte de sus valores estéticos permanentes, poseen la calidad de un drama que se despliega, dentro del drama de la evolución humana, como una fuerza ascendente, como un impulso de organización de la energía hacia las metas más profundas de la vivencia. 
- 
- 
-No es un crecimiento en las esferas de evolución cognitiva. Es algo mucho más trascendente un impulso de optimización de los sentimientos humanos. 
- 
-Es por esta razón que he querido proponer una fenomenología de la trayectoria musical de Beethoven. 
- 
-La inmunidad de la vida se manifiesta ajena al pensamiento y al análisis. Lo inesperado de ciertas obras de Beethoven está en la Hierofanta, en la pavorosa intimidad que se revela en los hechos musicales, en su fascinante desnudez. 
- 
-Cuando los musicólogos describen la transición de Beethoven entre el Clasicismo de Haydn y Mozart al Romanticismo, se refieren a fenómenos culturales y no al cambio biológico de la energía neguentrópica que representa Beethoven para toda la humanidad. 
- 
-Beethoven realizó una empresa titánica en el universo de los sentimientos: conducir las fuerzas de la vida: ternura, sufrimiento, pasión, desesperanza, alegría, conciencia de sí mismo, sentido de la muerte, fuerza, determinación, amor, impotencia, necesidad de infinito…desde su fuente interior al lenguaje musical, a formas y estructuras de serena grandeza y unidad. 
- 
-Los hombre aprendimos de Beethoven una suerte de alquimia para caminar desde el sufrimiento a la plenitud, para transformar energía entrópica en energía neguentrópica. Desorden en orden, desorganización en estructura orgánica. 
- 
-La Sonata Nº 8 en Do menor Op. 13, llamada “Patética”, es un ejemplo de esta alquimia. El primer movimiento es realmente la expresión de una emoción patética, que despierta sentimientos encontrados de piedad y tristeza, entusiasmo y desesperación. La vivencia de profunda y oscilante conmoción interna, se transforma en el según movimiento, en un adagio cantabile verdaderamente sublime, evolucionando hacia el rondó final, amable y encantador. 
- 
-La Sonata Nº 23 en Fa menor Op. 57, “Appasionata”, es un grito de amor que atraviesa los siglos. 
- 
-¿Qué es esa sonata para el misterio del hombre abandonado?. Es el sonido anterior que tiene la fuerza del grito del recién nacido. 
-Es la canción del comienzo del mundo y del fin del mundo. 
- 
-Esa sonata voceará en el pecho de los amantes durante mil años, con todos los sonidos de la tristeza y de la grandeza. La “Apassionata” es una canción, un estado de resonancia con otro, un diálogo entre tú y el Desconocido. 
- 
-Toda la trayectoria de Beethoven es el Drama de la transmutación de la energía, desde el abismo a la cumbre, desde las tinieblas a la luz. 
- 
-En su primer período, Beethoven asume la tradición formal, la herencia mozartiana y los dictámenes clásicos. Son ejemplos de este período las Sonatas Op. 2 (3), 7, 10 (3), 13, 14 (2) y 22. 
-Un  segundo período se inicia con la liberación de los modelos clásicos y aparecen sus preocupaciones sociales: “Heroica”, “Egmont”, “Coroliano”. 
- 
-El lenguaje musical se torna éptico y multitudinario. Posteriormente ingresa en la plena zona de emociones personales, de amor, sentimiento de profundo vacío, pasión, confusión de sentimiento, soledad y nostalgia: “Fidello”, la “Apassionata”, Sonatas Op. 26, 27 (2), 28, 31 (3), 49 (2), 53, 54, 57, 78, 79, 81 y 90. 
- 
-Al tercer período, más audaz, libre y profundo, pertenecen las Sonatas Op. 101, 108, 109, 110, 111, los cuartetos Op. 127, 130, 131, 132 y 133, la Misa Solemne y la y la 9ª Sinfonía. 
- 
-La 5ª Sinfonía en Do menor, es la expresión de la lucha frente al destino, el horror poético de los desafíos que propone el acto de vivir. El 1º movimiento, “Allegro con Brío”, se inicia con tres golpes recios, admonitorios, que luego se repiten en tono más bajo. “La llamada del destino” denominó Beethoven a esta frase musical. 
- 
-Después de un fugaz desarrollo, aparece el 2º tema, en contraste con el inicial, una especie de súplica, un anhelo de paz. 
- 
-Este tema es abruptamente interrumpido por el 1º tema, que ahora adquiere una connotación siniestra y amenazante. A través del desarrollo del movimientro, se va imponiendo el 1º tema, sombrío y aterrador, como un despiadado triunfo de las fuerzas oscuras. 
- 
-En el 2º movimiento, “Andante”, cesa la agitación y la angustia, entrando en un clima casi místico de paz y serenidad. 
- 
-El 3º movimiento es de nuevo el universo del caos, el mundo de las furias, sugiriendo apenas una luz de esperanza. 
- 
-El 4º movimiento, “Finale-Allegro”, es el triunfo total de la alegría, el frenesí de las fuerzas luminosas y ascendentes de la vida. 
- 
-El descubrimiento de sus propias fuerzas y de su singularidad representa la eclosión de una energía 
-Ia inédita en la música. Un verdadero paradigma musical del camino que va del caos al orden es “La Tempestad”, pasaje que corresponde a la 5º Sinfonía,  “Pastoral”. 
- 
-Se escuchan voces de terror y fuerzas en oposición. Se emplean aquí todos los instrumentos, fragor de timbales, frases disonantes, temas vertiginosos en escalas descendentes, la furia de las fuerzas desencadenadas que crecen cada ves más, hasta alcanzar momentos culminantes de violencia creadora. 
- 
-Hay en este pasaje la determinación más absoluta, la libertad y la fuerza sin límites, que advierte a los hombres que nada quedará a mitad de camino. 
- 
-Hay prodigios bajo la fuerza oculta de la música de Beethoven. La vida adquiere la forma de una sinfonía. 
- 
-La fuerza del destino es totalmente asumida. El artista, como todo ser humano, no elige su vida, sino la desenvuelve, la vive. 
- 
-Tampoco se entrega al destino, pero le da el destino su posibilidad. 
- 
-El período final de la obra de Beethoven es el resultado supremo de la madurez introspectiva. Alcanza allí su total libertad de forma y expresión. Sus audacias musicales son las audacias de su actitud interior frente al mundo. Familiarizado con la grandeza, entra y sale del abismo, se eleva, gira en torno sl misterio de su identidad y de su soledad, pero por sobre todo interpreta el drntido ascendente del sufrimiento hacia la plenitud. 
- 
-Los cuartetos Rasumovsky muestran esa sabiduría del hombre que 
-viene de regreso, del huracán genético hacía el orden supraconciente de las energías de vida. 
- 
-El acto de vivir se torna musical. 
- 
-En el cuarteto Op. 135 en Fa mayor, realiza la sutil transformación, en la coda, de una respuesta alegre en pregunta patética, que luego se deshace en frases de celestial leveza, como solución afirmativa. 
- 
-La gravedad y profundidad de sus últimos cuartetos, sin  solemnidad ni grandilocuencia, hablan a lo más íntimo de lo último, con desnuda sinceridad, como si - habiéndose conciliado con su propio minotauro – volviera a ser un niño. 
- 
-Compases del cuarteto Op. 135 en Fa mayor. Accesos para la transmutación de energía. 
-La Novena Sinfonía es la apoteosis de la alegría, la afirmación de la vida y la grandeza del hombre. 
- 
-Fue compuesta en el período final, cuando el músico estaba completamente sordo. 
- 
-Su creación no fue un “mecanismo de compensación” de sus dolores y de su soledad, sino el producto de su superabundancia, de su capacidad para rescatar de la tinieblas el gérmen de iluminación. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
+<p>“El canto, cual tu lo enseñas no es anhelo ni petición de algo que, al fin, es alcanzable.  Cantar es ser. Para el Dios esto es cosa facil Pero ¿cuándo somos nosotros? ¿Cuándo vuelve nuestro ser la tierra y las estrellas” </p>
+<p>“En verdad cantar es un soplo distinto. Un soplo por nada, una onda en el Dios </p>
+<p>En el tercer Soneto a Orfeo, Rilke (el viento revela la trascendencia del canto, la pura inocencia de exalar la voz de las profundidades.</p>
+<p>En la primera elegía, Rilke nos habla con perfecta conciencia de los riesgos que el hombre debe enfrentar en las proximidades de la belleza.</p>
+<p>Por esto, la música puede conducirnos por el hilo secreto de la imprevista divinidad.</p>
+<p>“Pues lo hermoso no es mas que el comienzo de lo terrible que todavía podemos soportar y lo admiramos en la medida en que, indiferente, rehúsa destruirnos. Todo angel es temible”</p>
+<p>La Música proviene de un fondo originario, divino, que nos vincula al éxtasis, al amor infinito y a nuestra sacralidad.</p>
+<h4>DEL SUFRIMIENTO A LA PLENITUD</h4>
+<p>Para un estudio fenomenológico a partir de la obra musical de Beethoven).</p>
+<p>Hay en Beethoven un misterioso e inédito camino del sufrimiento a la plenitud.</p>
+<p>Su viaje musical tiene las características de la más grande aventura de ascensión desde el caos al orden.</p>
+<p>Un viaje desde el corazón. Desde la hondura de los ceñimientos que permanecen irrevelados y ocultos en el seno de la especie humana. Beethoven sacó desde a sí una revelación que nos habla de nosotros mismos.</p>
+<p>Quizás podamos, algún día, extender nuestra vida al estado de revelación, es decir, a sus formas inexplicables e irracionales.</p>
+<p>Esto sólo puede realizarse a través de las obras de creación.</p>
+<p>El poeta o el músico, hablan dentro de nosotros sobre el nosotros absoluto.</p>
+<p>Las obras de Beethoven, aparte de sus valores estéticos permanentes, poseen la calidad de un drama que se despliega, dentro del drama de la evolución humana, como una fuerza ascendente, como un impulso de organización de la energía hacia las metas más profundas de la vivencia.</p>
+<p>No es un crecimiento en las esferas de evolución cognitiva. Es algo mucho más trascendente un impulso de optimización de los sentimientos humanos.</p>
+<p>Es por esta razón que he querido proponer una fenomenología de la trayectoria musical de Beethoven.</p>
+<p>La inmunidad de la vida se manifiesta ajena al pensamiento y al análisis. Lo inesperado de ciertas obras de Beethoven está en la Hierofanta, en la pavorosa intimidad que se revela en los hechos musicales, en su fascinante desnudez.</p>
+<p>Cuando los musicólogos describen la transición de Beethoven entre el Clasicismo de Haydn y Mozart al Romanticismo, se refieren a fenómenos culturales y no al cambio biológico de la energía neguentrópica que representa Beethoven para toda la humanidad.</p>
+<p>Beethoven realizó una empresa titánica en el universo de los sentimientos: conducir las fuerzas de la vida: ternura, sufrimiento, pasión, desesperanza, alegría, conciencia de sí mismo, sentido de la muerte, fuerza, determinación, amor, impotencia, necesidad de infinito…desde su fuente interior al lenguaje musical, a formas y estructuras de serena grandeza y unidad.</p>
+<p>Los hombre aprendimos de Beethoven una suerte de alquimia para caminar desde el sufrimiento a la plenitud, para transformar energía entrópica en energía neguentrópica. Desorden en orden, desorganización en estructura orgánica.</p>
+<p>La Sonata Nº 8 en Do menor Op. 13, llamada “Patética”, es un ejemplo de esta alquimia. El primer movimiento es realmente la expresión de una emoción patética, que despierta sentimientos encontrados de piedad y tristeza, entusiasmo y desesperación. La vivencia de profunda y oscilante conmoción interna, se transforma en el segundo movimiento, en un adagio cantabile verdaderamente sublime, evolucionando hacia el rondó final, amable y encantador.</p>
+<p>La Sonata Nº 23 en Fa menor Op. 57, “Appasionata”, es un grito de amor que atraviesa los siglos.</p>
+<p>¿Qué es esa sonata para el misterio del hombre abandonado?. Es el sonido anterior que tiene la fuerza del grito del recién nacido. Es la canción del comienzo del mundo y del fin del mundo.</p>
+<p>Esa sonata voceará en el pecho de los amantes durante mil años, con todos los sonidos de la tristeza y de la grandeza. La “Apassionata” es una canción, un estado de resonancia con otro, un diálogo entre tú y el Desconocido.</p>
+<p>Toda la trayectoria de Beethoven es el Drama de la transmutación de la energía, desde el abismo a la cumbre, desde las tinieblas a la luz.</p>
+<p>En su primer período, Beethoven asume la tradición formal, la herencia mozartiana y los dictámenes clásicos. Son ejemplos de este período las Sonatas Op. 2 (3), 7, 10 (3), 13, 14 (2) y 22.  Un  segundo período se inicia con la liberación de los modelos clásicos y aparecen sus preocupaciones sociales: “Heroica”, “Egmont”, “Coroliano”.</p>
+<p>El lenguaje musical se torna éptico y multitudinario. Posteriormente ingresa en la plena zona de emociones personales, de amor, sentimiento de profundo vacío, pasión, confusión de sentimiento, soledad y nostalgia: “Fidello”, la “Apassionata”, Sonatas Op. 26, 27 (2), 28, 31 (3), 49 (2), 53, 54, 57, 78, 79, 81 y 90.</p>
+<p>Al tercer período, más audaz, libre y profundo, pertenecen las Sonatas Op. 101, 108, 109, 110, 111, los cuartetos Op. 127, 130, 131, 132 y 133, la Misa Solemne y la y la 9ª Sinfonía.</p>
+<p>La 5ª Sinfonía en Do menor, es la expresión de la lucha frente al destino, el horror poético de los desafíos que propone el acto de vivir. El 1º movimiento, “Allegro con Brío”, se inicia con tres golpes recios, admonitorios, que luego se repiten en tono más bajo. “La llamada del destino” denominó Beethoven a esta frase musical.</p>
+<p>Después de un fugaz desarrollo, aparece el 2º tema, en contraste con el inicial, una especie de súplica, un anhelo de paz.</p>
+<p>Este tema es abruptamente interrumpido por el 1º tema, que ahora adquiere una connotación siniestra y amenazante. A través del desarrollo del movimientro, se va imponiendo el 1º tema, sombrío y aterrador, como un despiadado triunfo de las fuerzas oscuras.</p>
+<p>En el 2º movimiento, “Andante”, cesa la agitación y la angustia, entrando en un clima casi místico de paz y serenidad.</p>
+<p>El 3º movimiento es de nuevo el universo del caos, el mundo de las furias, sugiriendo apenas una luz de esperanza.</p>
+<p>El 4º movimiento, “Finale-Allegro”, es el triunfo total de la alegría, el frenesí de las fuerzas luminosas y ascendentes de la vida.</p>
+<p>El descubrimiento de sus propias fuerzas y de su singularidad representa la eclosión de una energía inédita en la música. Un verdadero paradigma musical del camino que va del caos al orden es “La Tempestad”, pasaje que corresponde a la 5º Sinfonía,  “Pastoral”.</p>
+<p>Se escuchan voces de terror y fuerzas en oposición. Se emplean aquí todos los instrumentos, fragor de timbales, frases disonantes, temas vertiginosos en escalas descendentes, la furia de las fuerzas desencadenadas que crecen cada ves más, hasta alcanzar momentos culminantes de violencia creadora.</p>
+<p>Hay en este pasaje la determinación más absoluta, la libertad y la fuerza sin límites, que advierte a los hombres que nada quedará a mitad de camino.</p>
+<p>Hay prodigios bajo la fuerza oculta de la música de Beethoven. La vida adquiere la forma de una sinfonía.</p>
+<p>La fuerza del destino es totalmente asumida. El artista, como todo ser humano, no elige su vida, sino la desenvuelve, la vive.</p>
+<p>Tampoco se entrega al destino, pero le da el destino su posibilidad.</p>
+<p>El período final de la obra de Beethoven es el resultado supremo de la madurez introspectiva. Alcanza allí su total libertad de forma y expresión. Sus audacias musicales son las audacias de su actitud interior frente al mundo. Familiarizado con la grandeza, entra y sale del abismo, se eleva, gira en torno al misterio de su identidad y de su soledad, pero por sobre todo interpreta el sentido ascendente del sufrimiento hacia la plenitud.</p>
+<p>Los cuartetos Rasumovsky muestran esa sabiduría del hombre que viene de regreso, del huracán genético hacía el orden supraconciente de las energías de vida.</p>
+<p>El acto de vivir se torna musical.</p>
+<p>En el cuarteto Op. 135 en Fa mayor, realiza la sutil transformación, en la coda, de una respuesta alegre en pregunta patética, que luego se deshace en frases de celestial leveza, como solución afirmativa.</p>
+<p>La gravedad y profundidad de sus últimos cuartetos, sin  solemnidad ni grandilocuencia, hablan a lo más íntimo de lo último, con desnuda sinceridad, como si - habiéndose conciliado con su propio minotauro – volviera a ser un niño.</p>
+<p>Compases del cuarteto Op. 135 en Fa mayor. Accesos para la transmutación de energía. La Novena Sinfonía es la apoteosis de la alegría, la afirmación de la vida y la grandeza del hombre.</p>
+<p>Fue compuesta en el período final, cuando el músico estaba completamente sordo.</p>
+<p>Su creación no fue un “mecanismo de compensación” de sus dolores y de su soledad, sino el producto de su superabundancia, de su capacidad para rescatar de la tinieblas el gérmen de iluminación.</p>
  
 
 
