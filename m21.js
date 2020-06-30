@@ -22,6 +22,18 @@ ROLANDO TORO
 <p>Orfeo, Músico, cantante, poeta, recibió la lira de Apolo. Poseía el Poder Musical.  Sus suaves canciones atraían a las bestias feroces, influían sobre árboles y plantas.  Mitigaban el dolor y curaban a los hombres de sus males del cuerpo y del alma.</p>
 <p>Orfeo fue iniciado en los Misterios de Samotracia y según algunos autores, participó en la fundación de los Misterios de Eleusis.</p>
 <p>El poder Musical, el conocimiento de los misterios, su capacidad para descender al infierno volver sobre todo su poder musical para influir en los procesos de la naturaleza, inspiran actualmente a diversos terapeutas.</p>
+<h4>PITÁGORAS (570) – 490 (AC.)</h4>
+<p>Después de la muerte de Orfeo, se produjo la persecución de sus discípulos y la destrucción de sus templos. Pero la evolución espiritual continuó a pesar de las sucesivas tiranías y de la decadencia que se extendió por Grecia.</p>
+<p>Algunos pocos visionarios persistieron en trasmitir los Misterios y las Tradiciones espirituales. Entre ellos estaba el físico Tales de Mileto y el poeta Píndaro. En esta época (Siglo VI AC.) se destaco un iniciado de primera magnitud, un verdadero c5eador: Pitágoras. Coordinando las inspiraciones órficas, creó un sistema científico del mundo, propuso una visión integrada del universo y una moral implícita en la armonía cósmica.</p>
+<p>Los seguidores de Pitágoras fueron perseguidos y asesinados en Sicilia, sus templos incendiados y su doctrina fue dispersada.</p>
+<p>Platón consiguió, tras grandes esfuerzos, un manuscrito de Pitágoras a través de Arquitas. Pero la transmisión de su sabiduría era principalmente oral. La Escencia de las revelaciones Pitágoras y de sus sistemas está en los “Versos de Oro” de Lysis, en los comentarios de Hiercles, en los fragmentos de Filolan y de Arquitas. En el Timeo de Platón se expone la cosmogonía de Pitágoras.</p>
+<p>En su obra Pitágoras reunió concepciones esotéricas de India y Egipto, dándoles una ordenación lúcida y racional, al mismo tiempo exalto la idea de la libertad humana.</p>
+<p>Pitágoras tuvo su iniciación en Egipto. Los sacerdotes lo sometieron a pruebas muy difíciles, a los terrores y el éxtasis del iniciado de Isis, a las tentaciones, a la muerte cataléptica y su resurrección en la luz de Osiris.</p>
+<p>Pitágoras quería ir a fondo, a todo riesgo, en el contacto con las fuerzas ocultas. Cuando los sacerdotes egipcios se dieron cuenta de la extraordinaria fuerza interior de Pitágoras, lo iniciaron en sus profundos conocimientos: percepción de las esferas de la vida en un orden concéntrico, procesos de involución y evolución del espíritu y ascensión para la unidad.</p>
+<p>Pitágoras estableció relaciones matemáticas entre las notas musicales y las órbitas de los planetas. Postulo la unidad del universo y del ser humano y concibió la “música de las esferas”. Representa por lo tanto el espíritu de unidad del universo.</p>
+<p>Pitágoras inventó el monocordio.</p>
+<p>Elaboró una teoría ontocosmológica basada  en el número.</p>
+<p>Fue el primero en estudiar las escalas musicales</p>
 
 `+finNivel2()+`
 `+inicioNivel2('2','ARTE DE LA VIDA')+`
