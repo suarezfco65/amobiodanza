@@ -232,59 +232,114 @@ Inseguridad básica, identidad desintegrada, racismo</p>
 <li>Afectividad</li>
 </ul></p>
 <h4>Efectos Generales de la Música</h4>
-Se ha demostrado que la música mejora las funciones cognitivas e intelectuales. 
- 
-No se trata exclusivamente del “Efecto Mozart” propuesto por Don Cambell. 
-Muchas músicas influyen de un modo diferente sobre el psiquismo humano. 
- 
-A esto hay que agregar que la respuesta a una determinada música depende de su identidad  de quién la escucha. 
- 
-No obstante en Biodanza nos esforzamos por ofrecer músicas que poseen efectos específicos universales, dentro de los cinco grandes conjuntos que estimulan respuestas de vitalidad, erotismo, creatividad, afectividad y trascendencia. 
- 
-Posee efectos de relajación muscular y influye también en la coordinación e integración motora. 
-La música influye sobre la temperatura corporal. 
- 
-Temas musicales intensos, rítmicos pueden subir la temperatura corporal. Temas depresivos, lúgubres o disonantes pueden bajar la temperatura e inducir estaos depresivos. 
- 
-Fomenta la resistencia física cuando la música es de un contenido vital y potente. Músicas melódicas suaves inducen estados de regresión e disminución de las actividades motoras. 
- 
-La música influye también en la respiración. Músicas lentas (andante), estimulan una respiración armoniosa y profunda. 
- 
-La música produce cambios en el psiquismo y en el organismo en general. 
- 
- 
-La música produce cambios en el psiquismo y en el organismo en general. 
- 
-1.	Afecta el ritmo cardíaco , el pulso y la presión arterial.       Nuestro corazón late en término medio a 72 pulsaciones por          minúto. 
-   
-     Ciertas músicas rítmicas, tropicales y el jazz, aceleran el       ritmo cardiaco. 
- 
-     Otras, en cambio, lo disminuyen. 
- 
-     La presión arterial puede bajar hasta “5” puntos (MM Hg). 
- 
-2.	Ciertas músicas alegres y dulces aumentan la resistencia       Inmunológica. 
- 
-     Dar continente afectivo a niños enfermos acompañados con           música dulce al estilo de canciones de cuna, eleva la       resistencia inmunológica. 
- 
-     Los estados de ansiedad disminuyen con música armoniosa,       melódica y cierto nivel de determinación (Vivaldi, por       ejemplo). 
- 
-     Un recurso indispensable para tratar personas autistas,       esquisofrénicos y catatónicos, es la música ritmica          euforizante, tropicales, bazucadas, sambas o jazz. 
- 
-     Para estos enfermos están contraindicadas las músicas       suaves, tranquilas o regresivas. 
- 
-     Para los enfermos de Parkinson, en cambio son        recomendables, las que inducen trance de suspensión. 
- 
-     Las personas con sufrimientos morales, pueden encontrar       alivio y conformidad con músicas románticas. (F. Chopin, F.  
-     Lizt, O Schubert). 
- 
-     Adagios nocturnos inducen sentimientos tiernos y afectivos. 
- 
-<h4>Esquema de las Relaciones entre Emoción y Música</h4>
-
+<p>Se ha demostrado que la música mejora las funciones cognitivas e intelectuales.</p>
+<p>No se trata exclusivamente del “Efecto Mozart” propuesto por Don Cambell. Muchas músicas influyen de un modo diferente sobre el psiquismo humano.</p>
+<p>A esto hay que agregar que la respuesta a una determinada música depende de su identidad de quién la escucha.</p>
+<p>No obstante en Biodanza nos esforzamos por ofrecer músicas que poseen efectos específicos universales, dentro de los cinco grandes conjuntos que estimulan respuestas de vitalidad, erotismo, creatividad, afectividad y trascendencia.</p>
+<p>Posee efectos de relajación muscular e influye también en la coordinación e integración motora. La música influye sobre la temperatura corporal.</p>
+<p>Temas musicales intensos, rítmicos pueden subir la temperatura corporal. Temas depresivos, lúgubres o disonantes pueden bajar la temperatura e inducir estados depresivos.</p>
+<p>Fomenta la resistencia física cuando la música es de un contenido vital y potente. Músicas melódicas suaves inducen estados de regresión e disminución de las actividades motoras.</p>
+<p>La música influye también en la respiración. Músicas lentas (andante), estimulan una respiración armoniosa y profunda.</p>
+<p>La música produce cambios en el psiquismo y en el organismo en general.</p>
+<ol>
+<li>Afecta el ritmo cardíaco, el pulso y la presión arterial.  Nuestro corazón late en término medio a 72 pulsaciones por minúto.  Ciertas músicas rítmicas, tropicales y el jazz, aceleran el ritmo cardiaco.  Otras, en cambio, lo disminuyen.  La presión arterial puede bajar hasta “5” puntos (MM Hg).</li>
+<li>Ciertas músicas alegres y dulces aumentan la resistencia Inmunológica. Dar continente afectivo a niños enfermos acompañados con música dulce al estilo de canciones de cuna, eleva la resistencia inmunológica.  Los estados de ansiedad disminuyen con música armoniosa, melódica y cierto nivel de determinación (Vivaldi, por ejemplo).  Un recurso indispensable para tratar personas autistas, esquisofrénicos y catatónicos, es la música ritmica euforizante, tropicales, bazucadas, sambas o jazz. Para estos enfermos están contraindicadas las músicas suaves, tranquilas o regresivas. Para los enfermos de Parkinson, en cambio son recomendables, las que inducen trance de suspensión. Las personas con sufrimientos morales, pueden encontrar alivio y conformidad con músicas románticas. (F. Chopin, F. Lizt, O Schubert).  Adagios nocturnos inducen sentimientos tiernos y afectivos.</li>
+</ol>
+<h4>Esquema de las Relaciones entre Emoción y Música (pendiente)</h4>
 <h4>Preferencias musicales del adolescente</h4>
+<p>La música es una manifestación sociológica de cada época y lugar. En este proceso expresivo de los pueblos intervienen muchas variables; entre otras, las manipulaciones comerciales, la propaganda, el nivel cultural, la condición psicológica del grupo, las ideologías, el descontento económico, la necesidad de contestación, el nivel de liberación sexual, etc.</p>
+<p>La capacidad estética de la comunidad parece ser un factor secundario. Por esta razón puede hacerse un diagnóstico del estado mental de un pueblos a través de la música premiada en los Grammys y trasmitida en la televisión.</p>
+<p>Actualmente la música juvenil es la expresión de una profunda desorganización espiritual y del franco deterioro de la sensibilidad. La irrupción de grupos musicales, cuyos miembros hacen gala de exaltación motora, reiteración temática, pobreza rítmica, alto volumen del sonido, acompañados de canciones ingenuas y vulgares se ha expandido en Europa, Estados Unidos, América Latina y recientemente en Asia. Esta música es la expresión más nítida de la deformación del espíritu occidental.</p>
+<p>No obstante, dentro de la marea de ruidos en el escenario juvenil, algunos grupos musicales han alcanzado excelentes niveles creativos y de ejecución musical. Estos grupos han conseguido conmover a millones de jóvenes. Entre ellos debemos mencionar a The Beatles, Rolling Stones, Carpenters, Pink Floyd, Paul Williams, Led Zeppelín, Jenny Kravitz, Elvis Presley, Jimmy Henrich, The Doors y algunos otros.</p>
+<p>En los cursos de Biodanza para Adolescentes usamos algunas músicas de los autores mencionados, pero los ejercicios son frecuentes acompañados por otros tipos de música: Jazz, zamba, música gitana, ritmos africanos y música clásica: Vivaldi, Bach, Mozart, Chopin, Lizt, Brahms, Debussy, Ravel y otros.</p>
+<p>De este modo se produce una rehabilitación de la sensibilidad musical, sin descalificar a los ídolos juveniles de verdadero talento.</p>
+<p>El tema central del estudio de la adolescencia es, me parece la poética de la identidad. Y hablo de la “poética” porque sería completamente inútil un abordaje lógico – interpretativo. Para abordar al adolescente, debemos usar una aproximación irracional.</p>
+<p>La necesidad del adolescente de descubrir un sentido interior, que confirme su existencia, es el impulso inconsciente más profundo que lo mueve.</p>
+<p>“Empezar a vivir” en un mundo, casi desconocido, es una tarea tan compleja y provocativa que, sólo errando, puede el adolescente adquirir un “sentido”, un “hacia donde ir”. Esta tarea le exige una fuerza interior “heroica”. Vivir empieza a significar riesgo total y esta necesidad de riesgo es, para su alma, la cualidad de vivir: “la vida como proeza”.</p>
+<p>La oferta de riesgo que el mundo le ofrece es muy superior a la oferta de seguridad. Aún dentro de una familia que le dá continente afectivo y motivos para sentirse seguro, hay un factor que escapa de la circunstancia familiar o social.</p>
+<p>Es un factor interno – al que los educadores debieran dar extrema atención – el factor reprueba personal, de inventar una forma esencial de acoplamiento en el mundo. Una forma que no puede basarse en la adaptación propuesta desde fuera, sino en una revelación interna: la forma única de articulación y creación del mundo.</p>
+<p>Para el adolescente, su tarea es la creación del mundo propio, no del mundo establecido. La rebeldía frente al autoritarismo es una reacción normal, ya que las propuestas externas no se ajustan con su visión personal.</p>
+<p>El trato con el adolescente tiene que ser una forma de equilibrio, entre tolerancia y sinceridad. La educación del adolescente sólo es posible a través de su autoafirmación como ser independiente y a través de un vínculo afectivo. La educación totalitaria sólo forma criminales.</p>
+<p>La expresión del adolescente es un camino seguro para inducir los estados de perversión de la identidad. El arte de “poner límites” al adolescentes debe tener, a mi juicio, un carácter Biocéntrico, es decir, de sinceridad absoluta frente a los comportamientos anti – vida.</p>
+<p>En el ejercicio de búsqueda de su identidad, el adolescente inicia actos autodestructivos que, generalmente, encuentran de parte del adulto una “falsa comprensión” y una complacencia, basada en la esperanza de que se trata de una etapa. Las etapas de prueba deben ser breves o bien se estabilizan y se incorporar como patologías crónicas. Autodestructividad y violencia deben ser abordadas con decisión y sinceridad.</p>
+<p>Este brevísimo recorrido sobre las grandes corriente de la música juvenil incompleto. Agrego aquí una lista de otros grupos musicales que han influenciado en la apariciñon de la contracultura adolescente: 
+<ul>
+<li>Queen</li>
+<li>Carpenters</li>
+<li>Led Zepelin</li>
+<li>Hill Halley</li>
+<li>Paul Williams</li>
+<li>Guns and Roses</li>
+<li>Afrodit Chile</li>
+<li>Teen Years Alter</li>
+<li>Jany Joplin</li>
+<li>y otros.</li>
+</ul>
+<p>Esta evolución musical ha sido de una influencia marcante en las nuevas generaciones de adolescente, estimulando su rebeldía frente a los patrones culturales tradicionales. Los educadores no podemos dejar de pensar en una perspectiva más amplia.</p>
+`+finNivel2()+`
+`+inicioNivel2('6','ASPECTOS NEUROLÓGICOS DE LA PERCEPCIÓN MUSICAL Y DE LA DANZA')+`
+<p><i>Integración de las áreas asociativas somestésicas, auditivas y visuales en el mecanismo general para la interpretación de la experiencia sensorial. Todas esas áreas se proyectan para el área interpretatiova general, localizada en la parte postero-superior del lóbulo temporal; también debe ser notada el área prefrontal, el área motora y el área del lenguaje de Broca (Fisiología Humana – Artur C. Guyton).</i></p> 
+<h4>Efectos de la Música y la Danza sobre el Sistema Neurovegetativo</h4>
+<p>Los ejercicios de Biodanza que refuerzan la identidad activan el sistema simpático. Los ejercicios que inducen al trance activan el parasimpático. El entrenamiento contribuye a estabilizar el equilibrio neurovegetativo.</p>
+<p>De manera general, el sistema simpático actúa como estimulante circulatorio, elevando el ritmo cardíaco y la presión arterial. El parasimpático actúa como inhibidor. En el aparato digestivo estas acciones se invierten, funcionando como estimulante el parasimpático (colinérgico) y como inhibidor el simpático (adrenérgico)</p>
+<p>La música lenta y suave, las danzas en cámara lenta y los ejercicios de trance activan el parasimpático: 
+<ul>
+<li>Disminuye el ritmo cardíaco,</li>
+<li>Aumenta la secreción de las glándulas lacrimales y salivares</li>
+<li>Fomenta o acula las reservas</li>
+<li>Predispone el sueño o reposo,</li>
+<li>Activa el eros en general.</li>
+</ul><b>Observación</b>: Todas sensaciones de plenitud y paz.</p>
+<p>La música de ritmo alegre y euforizante tiene acción estimulante sobre el simpático: 
+<ul>
+<li>Aumenta el ritmo cardíaco (taquicardia),</li>
+<li>Eleva la presión arterial,</li>
+<li>Vasocontrae el área esplénica,</li>
+<li>Desplaza la sangre de los músculos que van a entrar en acción,</li>
+<li>Moviliza el glicógeno del hígado,</li>
+<li>Broncodilata, así permite una ventilación mayor.</li>
+</ul><b>Observación</b>: Todas reacciones de emergencia.</p>
+<p>Podemos caracterizar ciertas músicas como efectos ergotrópicos, es decir capaces de activar, elevar los niveles de vigilia y de atención, euforizar y energizar las relaciones con el medio.</p>
+<p>Otros grupos de músicas son de efecto trofotrópico, es decir que inducen tranquilidad, sueño y armonía íntima.</p>
+<h4>Efecto Ergotrópico y Efecto Trofotrópico</h4>
+<p>El significado emocional, la capacidad de inducir vivencias, es lo que caracteriza la música de Biodanza. Debemos, por lo tanto asumir que <span style="background-color: #FFF6E1;">el criterio de selección de música en Biodanza no es estético, sino funcional</span>.</p> 
+<h5>Efectos de la música sobre el sistema de regulación Simpático Parasimpático</h5>
 
 
+
+
+
+
+
+
+
+
+
+•	Anatomía del Oído 
+•	Niveles de experiencia musical 
+•	Cuando la Música se vuelve Biología 
+ 
+45    Aspectos metodológicos 
+•	Características de las música para las cinco líneas de vivencia 
+•	Ritmo 
+•	Ritmos orgánicos y motricidad 
+•	Evolución del concepto de armonía 
+•	Test Musical 
+ 
+56    Morfogénesis Musical 
+•	Vibraciones Sonoras y Morfogénesis 
+•	Arquitectura y Música 
+•	Mandala Musical 
+•	Morfología y Música 
+ 
+63	Breve Comentario sobre Música Contemporánea  
+ 
+64	Bibliografía 
+ 
+66     Fotografía del autor, prof. Rolando Toro Araneda 
+
+ 
+ 
 
 
 
