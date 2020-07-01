@@ -305,6 +305,153 @@ Inseguridad básica, identidad desintegrada, racismo</p>
 <p>El significado emocional, la capacidad de inducir vivencias, es lo que caracteriza la música de Biodanza. Debemos, por lo tanto asumir que <span style="background-color: #FFF6E1;">el criterio de selección de música en Biodanza no es estético, sino funcional</span>.</p> 
 <h5>Efectos de la música sobre el sistema de regulación Simpático Parasimpático</h5>
 
+<table>
+<thead>
+	<tr><th colspan="2">EFECTOS DE LA MUSICA SOBRE EL SISTEMA DE REGULACIÓN SIMPÁTICO PARASIMPÁTICO</th></tr>
+	<tr><th>MÚSICA DE EFECTO ERGOTRÓPICO</th><th>MÚSICA DE EFECTO TROFOTRÓPICO</th></tr>
+</thead>
+<tbody>
+	<tr>
+	<td><ul>
+		<li>Aleluya del Mesías-Haendel</li>
+		<li>Hot Jazz</li>
+		<li>Zamba, Cumbia</li>
+		<li>Marchas Militares</li>
+		<li>Alegro de la Sonata Nº3 para violín y clavecín</li>
+		<li>Bach</li>
+		<li>Tempestad de la Sinfonía Pastoral Beethoven</li>
+	</ul></td>
+	<td><ul>
+		<li>Canciones de amor</li>
+		<li>Daphnis et Chloé - Ravel (Nº6)</li>
+		<li>Meditación de la Opera Thais - Massenet</li>
+		<li>Consolación Nº3 - Litszt</li>
+		<li>Adagio del 1er. Concierto Brander-Burgués - Bach</li>
+		<li>Concierto Grosso en Re Menor-Largo - Vivaldi</li>
+	</ul></td>
+	</tr>
+</tbody>
+</table>
+<h4>Anatomía del Oído</h4>
+<p>Órgano de la AUDICIÓN y del equilibrio. El oído externo dirige las vibraciones sonoras por el conducto auditivo hasta el tímpano, membrana vibrátil que lo cierra en su extremo y las trasmite al oído medio, Ahí, una cadena de tres huesecillos conduce las vibraciones hacia el OÍDO INTERNO. El líquido contenido en la cóclea del oído interno estimula los cilios (vellos) sensoriales; estos a su vez, inician los impulsos nerviosos que viajan por el nervio auditivo hasta el encéfalo.</p>
+<p>El oído interno es también un órgano del equilibrio; la sensación de vértigo o mareo que se siente después de girar sobre sí mismo se produce porque el líquido dentro de los canales semicirculares continúa moviéndose y estimula los cilios sensoriales cuando el cuerpo ya está en reposo.</p>
+<center>
+<img src="oido.png">
+</center>
+<h4>Niveles de experiencia musical</h4>
+<p><u>Música orgánica:</u><br> 
+Llamaría de este modo a casi todas las formas de música tradicional que contienen atributos biológicos: fluidez, armonía, ritmo, tonus, unidad de sentido. Dentro de este grupo estarían todas aquellas músicas estructuradas a partir de un núcleo emocional o de un propósito fuertemente expresivo. Como ocurre, por ejemplo, en el “Concierto Grosso en Re Menor” de Vivaldi; en una “Partita” de Bach; o en un “Cuarteto” de Beethoven.</p>
+<p>De algún modo, la estructura musical forma una totalidad con la emoción que conlleva. Sería inútil tratar de separar, en el “Adagio del 1º Concierte Brandeburgués” de Bach, los signos de los significados; la semiótica de la semántica; la estructura musical de la dulce emoción que transporta. La música orgánica podemos considerarla de predominio límbico hipotalámica, ya que a pesar de la sensible inteligencia que puede intervenir en la estructura de la composición, hay emoción, expresividad, respuesta motora y profunda estimulación visceral.</p>
+<p><u>Música inorgánica:</u><br>
+El advenimiento de la música contemporánea se caracteriza por haberse desligado, progresivamente, de los atributos de lo orgánico. La música electrónica, la música de computadora, la música concreta, el serialismo, la música sintética y la música aleatoria o del azar, a pesar de sus enormes diferencias, tienen dos elementos comunes:</p>
+<p>Al haberse tornado cada vez más reflexiva y abstracta y haber abandonado, como hemos dicho, la coherencia en el tiempo y la fluidez de lo orgánico, la música contemporánea quebró abruptamente la unidad temática, se tornó discontinua, rompió con la armonía, despedazó los ritmos, trabajó más allá y más acá de la tonalidad, se hizo atonal, introdujo elementos aleatorios extraños, jugó con los silencios, los volúmenes, introdujo la estridencia y el ruido. Una verdadera pasión experimental llevó a los compositores al descubrimiento de nuevas e insospechadas estructuras sonoras y acústicas. Igor Stravinsky afirmó:</p>
+<p style="margin-left:10%">“Si, como frecuentemente ocurre, la música parece expresar algo, se trata sólo de una ilusión y no de una realidad”.</p>
+<p>Lo que la música contemporánea se proponía, era la investigación del universo sonoro, en tanto que misterio y proeza para ser disfrutado por el oído. La música se cerebralizó y llegó a ser más importante como pensamiento estético que como fenómeno expresivo. Los nuevos músicos, de alguna manera, negaron violentamente la génesis musical como un fluido orgánico. Podríamos decir que esta música abstracta o concreta era generada operacionalmente desde el córtex. Alguna conexión tiene esta postura con la música china, en la que, según Edward A. Mac Dowell, lo que hay que apreciar es la textura de un sonido, el largo y tembloroso tono de un gong de bronce o las ligeras corrientes de sonido del caramillo, por su capacidad de llenar el oído. Grandes genios de la música contemporánea, como Edgar Varese, John Cage, Lejaren Hiller, George Crumb, Erick Salzman y muchos otros, en su pasión experimentalista, han alcanzado niveles de experiencia musical absolutamente desconocida. Así por ejemplo, Hiller, en su “Tríptico para Jerónimo Bosch”, un drama en tres movimientos (Paraíso, Orgía, Infierno) basado en el cuadro de Bosch “El Jardín de las Delicias Terrestres”, utiliza música asiática antigua, temas de circo y sonidos electrónicos y la obertura de “Guillermo Tell”, de Rossini, tocada hacia atrás y hacia delante, simultáneamente en doce claves, en dos pianos. La obra termina con un montaje grabado de comerciales de televisión en cámara lenta.</p>
+<p>George Crumb, en “Once Ecos de Otoño”, música de cámara para piano, flauta, violín y clarinete, dirige al flautista y al clarinetista para que caminen hacia el piano y toquen directamente sobre el instrumento abierto, produciendo vibraciones en el piano abierto. En otra parte, el pianista debe silbar en el intervalo de una cuarta, contra el pianísimo tocado por un violinista. Varias veces puede oírse a los músicos hablar bajo en español ‘los arcos rotos donde sufre el tiempo’, de un poema de García Lorca.</p>
+<p>La combinación de elementos heterogéneos, efectos extraños, disonancias, elementos de shock y sorpresa, pueden, en ocasiones, conducir a experiencias sonoras de indiscutible interés. El hecho de que este tipo de música rompe con toda posibilidad de una prolepsis musical capaz de inducir movimientos y vivencias coherentes y fluidas, impide que puedan ser utilizadas en Biodanza, ya que se alejan demasiado de la dinámica que el cuerpo humano requiere para desplegar danzas.</p>
+<p>Excepcionalmente pueden utilizarse en la línea de creatividad, para inducir vivencias especiales dentro del contexto de una coreografía temática. No obstante, ni aún en creatividad pueden utilizarse elementos extremadamente disociativos, si consideramos la función creativa como profunda expresión de la unidad.</p>
+<p>En tanto que la música sea capaz de despertar emociones que pueden ser danzadas o inducir danzas que emocionen, tienen, para Biodanza, valor semántico. El significado emocional, la capacidad de inducir vivencias, es lo que caracteriza a la música de Biodanza. Debemos, por lo tanto, asumir que el criterio de selección de músicas en Biodanza no es estético, sino funcional.</p>
+<h4>Cuando la Música se vuelve Biología</h4>
+<p>Durante la práctica de Biodanza, la música se hace movimiento corporal, es decir, se encarna. La vivencia que surge del efecto ‘música-movimiento’ deflagra cambios sutiles en los umbrales límbico-hipotalámicos, en los neurotransmisores y en el sistema neurovegetativo. Estos cambios modifican sutilmente el estado de los órganos, los ritmos viscerales, el fondo endotímico y el metabolismo general del organismo.</p>
+<p>El sistema viviente humano se nutre de música. No se trata de bailar una música, sino de ‘ser música’. De hecho, la armonía musical induce armonía biológica: la melodía sonora acompaña las melodías de todo lo que fluye dentro de nosotros; el ritmo de la música activa o suaviza los ritmos viscerales.</p>
+<p>La música, en realidad, es una proyección de la música del universo. Podemos decir con certeza que la música es una réplica de las melodías eternas, de las metáforas divinas. El músico utiliza, sin proponérselo, patrones de procesos de organización biológica. Cuando la música es caótica, también constituye una expresión de los procesos escatológicos del universo.</p>
+<p>La biomúsica es el acceso cognitivo y vivencial a este proceso en que la música se vuelve biológica y la biología se torna música.</p>
+<p>Pitágoras, al proponer la existencia de la “Música de las Esferas”, concibió el universo como una inmensa sinfonía y al creador como el gran pulsador, en la génesis musical de la naturaleza.</p>
+
+`+finNivel2()+`
+`+inicioNivel2('7','LOS SIETE PODERES DE BIODANZA ')+`
+<p>El éxito pedagógico y terapéutico de Biodanza se debe a sus efectos sobre el organismo como totalidad y a su poder de rehabilitación existencial, y son las siguientes:
+<ol>
+<li>Poder Musical,</li>
+<li>Poder de la danza integrada,</li>
+<li>Poder de la metodología vivencial,</li>
+<li>Poder de la caricia,</li>
+<li>Poder del trance,</li>
+<li>Poder de la expansión de conciencia,</li>
+<li>Poder del grupo</li>
+</ol></p>
+<p>Cada uno de ellos, por sí mismo, un efecto transformador. Relacionados en un conjunto coherente, mediante un modelo teórico científico, constituyen un haz de ecofactores de extraordinarios efectos, capaces de influir incluso en las líneas de programación genética.</p>
+<h4>1. Poder Musical</h4>
+<p>Orfeo inauguró míticamente en Occidente el “poder musical”. Mediante la música integradora, con la lira de Apolo, era capaz de influir en las leyes de la naturaleza y en los misteriosos patrones que organizan la vida. Bajo el influjo de su música, Orfeo podía hacer florecer los árboles en el invierno y calmar a los animales salvajes.</p> 
+<p>Desde tiempos inmemoriales, el poder musical es conocido en Japón, China y otros países Orientales. El empleo de la música por chamanes, monjes tibetanos y danzarines sufíes para invocar las fuerzas de curación y vínculo cósmico, también es muy conocido por los antropólogos.</p> 
+<p>Actualmente la investigación científica en Músicoterapia y en Psicología de la Música confirma la eficacia del poder musical. Basta mencionar a Alfred Tomatis, Don Campbell, Yehudi Menuhim y Michel Imberty para comprender que la música no sólo se vincula con las área perceptivas de la sensibilidad y de la innovación, sino que posee poderes de transformación sobre plantas, animales y, en especial, sobre los seres humanos.</p> 
+<p>Alfred Tomates nos enseña que “escuchar el universo” abre la percepción en todas sus dimensiones y establece los vínculos esenciales con el medio ambiente y con las personas.</p> 
+<p>Don Campbell ha descubierto algunos efectos específicos de ciertas músicas de Mozart, capaces de estimular funciones cognitivas y perceptivas. El “Efecto Mozart” puede extrapolarse también al “Efecto Vivaldi”, “Efecto Bach” o al “Efecto Debussy”.</p> 
+<p>Yehudi Menuhim ha estudiado las relaciones entre música y neurociencias, comprobando los efectos de la música en las funciones neurofisiológicas y en el comportamiento de los niños.</p> 
+<p>Michel Imberty, uno de los mayores especialistas en semántica musical, ha hecho el análisis de diversos temas musicales y sus significados emocionales.</p> 
+<p>Investigaciones sobre semántica musical han sido realizadas por Gundlach (1935), hevner (1936), Campbell (1942) y Watson (1942). Muchos otros investigadores actuales han comprobado los efectos de la música sobre organismos vivos.</p> 
+<p>En Biodanza, la música es rigurosamente seleccionada para estimular los ecofactores relacionados con las cinco líneas de vivencia.</p> 
+<p>Denominamos “música orgánica” aquellas que presentan atributos biológicos: fluidez, armonía, ritmo, tono, unidad de sentido y efectos cenestésicos; ésta tienen el poder de inducir vivencias integradas.</p> 
+<p>Debido a que la música puede despertar vivencias intensas, su selección en Biodanza obedece a criterios semánticos, es decir a sus significaciones temáticas, emocionales y vivenciales. La música puede despertar emociones sentimentales eróticas, eufóricas, nostálgicas, etc., las cuales, al ser danzadas, se transforman en vivencias.</p> 
+<h4>2.	Poder de la danza integradora</h4>
+<p>Biodanza posee un repertorio de alrededor de 250 ejercicios y danzas cuya finalidad es activar los movimientos humanos en forma armónica e integradora; no existen movimientos disociativos en Biodanza. Contamos con un conjunto de ejercicios de integración sensorio-motora, afectivo-motora y de sensibilidad cenestésica; otro conjunto de ejercicios está formado por danzas sencillas que estimulan las vivencias de vitalidad, sexualidad, creatividad, afectividad y trascendencia.</p> 
+<p>Durante la práctica de Biodanza la música se transforma en movimiento corporal, es decir que “se encarna”, y el bailarín entra en vivencia. De la combinación música movimiento-vivencia se desencadenan cambios sutiles en los sistemas límbico-hipotalámico, neurovegetativo, inmunológico y en los neurotrasmisores.</p> 
+<p>Todas esta danzas son cofactores de gran poder de deflagración vivencial, se potencian recíprocamente y su efecto es la homeostasi de las funciones orgánicas, la regulación del sistema integrador-adaptativo-límbico-hipotalámico y la elevación de la calidad de vida en el sentido de la plenitud y goce de vivir.</p> 
+<h4>3.	Metodología Vivencial:</h4> 
+<p>La mitología de Biodanza se orienta a la deflagración de vivencias integradoras, capaces de superar las disociaciones que induce nuestra cultura.</p> 
+<p>Actualmente un gran número de personas viven estados de disociación psicosomática. Piensan en algo, sienten en forma diferente y actúan de modo disociado respecto a lo que sienten. La unidad de nuestra existencia está en permanente crisis. Es a través de las vivencias que se perfecciona la unidad neurofisiológica y existencial del ser humano.</p> 
+<p>La vivencia es la sensación intensa de estar vivo “aquí-ahora” y posee fuertes componentes cenestésicos y emocionales. Las vivencias tienen diferentes matices emocionales, tales como euforia, erotismo, ternura, paz interior, etc., esto constituye a la expresión auténtica de la identidad.</p> 
+<p>La vivencia es diferente de la emoción. Emoción es una respuesta a estímulos externos y desaparece cuando éstos cesan. La vivencia es una experiencia que abarca la existencia completa, posee efectos profundos y duraderos donde participa el organismo como totalidad e induce el sentimiento de estar vivo, trascendiendo el ego. Es una experiencia “aquí-ahora”. 
+ 
+El despertar de vivencias, que nos permiten ser nosotros mismos, constituye una nueva epistemología. Nuestras intensas motivaciones instintivas y afectivas son inhibidas por patrones culturales. Las vivencias profundas que comprometen la unidad de nuestro psiquismo son las fuerzas originarias de la vida. 
+ 
+El abordaje racional de nuestros conflictos no se resúelven a fondo las perturbaciones disociativas; tener conciencia de nuestros conflictos no modifica el comportamiento. Es la vivencia de estar vivo, la percepción cenestésica de nuestro cuerpo y, en suma, la posibilidad de “ser honestamente nosotros mismos” lo que permite una existencia integrada y saludable. Por este motivo no empleamos el análisis de conflictos, sino estimulamos la parte sana de nuestra identidad a través de vivencias intensas, “el instante es el único lugar donde se puede vivir”. 
+ 
+La metodología vivencial permite el proceso de integración. Biodanza es, por definición, un sistema de integración de potenciales humanos. Integración significa “coordinación de la actividad entre diversos sub-sistemas para alcanzar el funcionamiento armonioso de un sistema mayor”. La vivencia es el agente esencial de integración de la unidad funcional: “habitamos el aquí y ahora, en un tiempo cósmico”. 
+ 
+4. Poder deflagrador de la caricia: 
+ 
+“Biodanza es una poética del encuentro humano” 
+ 
+La conexión con las personas es esencial en todo acto de rehabilitación o curación, no existe crecimiento solitario (las técnicas místicas o terapéuticas de carácter solipsista son una falacia). El contacto con otras personas es lo que permite el crecimiento. 
+ 
+La conexión verbal es insuficiente. Es necesario el contacto, la danza en pareja ó colectiva y el compromiso corporal dentro de un contexto sensible, sutil y en feed-back 
+ 
+Sobre los efectos terapéuticos de la caricia, actualmente existen múltiples investigaciones científicas. Centenares de autores han descubierto que el contacto valoriza y da continente afectivo a las personas. Sin embargo no basta el contacto, es necesaria la conexión, es decir que cualquier forma de vínculo físico esté movido por una fuerza afectiva sincera. 
+ 
+Existen fundamentos científicos de las terapias de contacto. Podemos mencionar, entre numerosos investigadores, los siguientes: S. F. Harlow, René Spitz, Rof  Carballo, Lopez Ibor, Bowlby, etc. 
+ 
+La caricia, por lo tanto, no es solo contacto sino conexión. Las terapias que no tienen compromiso corporal son disociativas, ya que trabajan sólo a nivel de la conciencia y no en las vivencias significativas de amor y comunión. 
+ 
+La afectividad núcleo central de todas las terapias, incluye: la conexión, la coparticipación, el “nosotros” de Martín Buber. 
+ 
+5.  El poder del trance: 
+ 
+El trance es una estado alterado de conciencia que implica la disminución del ego y regresión a lo primordial, a lo originario, en cierto modo a etapas perinatales. Se trata de un fenómeno de regresión a los estados iniciales de la existencia. 
+ 
+Los efectos del trance son de renovación biológica, porque durante este estado se reeditan las condiciones biológicas del comienzo del desarrollo humano (metabolismo más intenso y despertar de la percepción cenestésica) y las primeras necesidades de protección, nutrición y contacto. 
+ 
+Por está razón, los ejercicios de trance en Biodanza permiten la reparentalización, es decir el “nacer de nuevo” dentro de un contexto de amor y cuidado. Muchos adultos llevan dentro de sí a un niño herido, un niño abandonado, sin amor. La reparentalización permite curarlo en ceremonias de trance y renacimiento. 
+Entre los recurso del Sistema de Biodanza, contamos con el innovador método de “trance de suspensión”, que permite tener acceso al estado de trance en forma progresiva y de dulce abandono. 
+ 
+6. Poder de la expansión de conciencia: 
+ 
+La expansión de conciencia es un estado de percepción ampliada que se caracteriza por establecer el vínculo primordial con el universo. Su efecto subjetivo es un sentimiento intenso de unidad ontocosmológica y alegría trascendente. 
+ 
+Biodanza induce estados de expansión de conciencia mediante músicas, danzas y ceremonias de encuentro. Tener acceso a la “experiencia suprema” requiere una preparación previa y un nivel superior de integración y madurez. Los procedimientos que utilizamos para inducir cambios progresivos de estado de conciencia son: 
+ 
+-	Ejercicios para ampliar la percepción de la naturales y de las personas a través de los cinco sentidos. 
+-	“Lectura del alma” mediante la percepción del rostro de los compañeros después del trance. 
+-	Ejercicios de placer cenestésico para disminuir la intervención del ego. 
+-	Ejercicios de fluidez lenta con abandono. 
+-	Ejercicios de éxtasis e íntasis. 
+ 
+Diversas técnicas psicoterapéuticas y de desarrollo interior utilizan drogas y “plantas mágicas” para inducir estados de expansión de conciencia, las propuestas de la psicoterapia transpersonal la buscan por otros medios. 
+ 
+El Dr. Albert Hofmann, creador del LSD-25 (dietilamida del ácido lisérgico), ha propuesto una nueva forma de educación de la percepción y de la capacidad de empatía mediante la “experiencia enteógena”, en un contexto de intimidad con la vida. Esta propuesta es difícil de realizar debido a la ignorancia científica; la frivolidad de muchos autores como Timothy Leary ha desprestigiado la experiencia lisérgica, con lo cual la humanidad ha sido profundamente perjudicada. 
+ 
+En Biodanza no utilizamos drogas y preferimos activar los mecanismos de los neurotrasmisores que existen normalmente en el organismo y que cumplen el mismo efecto de las drogas enteógenas. Después de vivir una “experiencia suprema” (estrictamente acompañado), se descubre un nuevo sentido de la vida y la elevación del vínculo con la naturaleza, con otras personas y consigo mismo. La transtasis (cambio súbito de transformación interior) consiste en la integración orgánica de la percepción, de la inteligencia abstracta y de la afectividad. 
+ 
+ 
+ 
+Biodanza induce estados de plenitud, y frecuentemente de éxtasis, a través de ejercicios de afectividad y trascendencia. Los estados de expansión de conciencia tienen un efcto perdurable respecto al sentido de la existencia y al modo de ser en el mundo,  y consisten en un éxtasis por toda la creación, sus bosquez, animales y en especial las personas. 
+ 
+La experiencia enteógena es “el despertar de lo divino en el hombre”. Tiene dos aspectos: 
+ 
+a)	Éxtasis  (vínculo con el mundo externo y con las personas): La profundización de este estado puede conducir al éxtasis contemplativo con llanto frente a la belleza indescriptible de la realidad, unido a la pérdida del límite corporal e intenso placer. También puede producirse una profunda identificación con la esencia de una persona, causando una comprensión absoluta de ella y logrando sentir una emoción intensa de amor y fraternidad. El estado de placer cenestésico es cuando una persona se abandona a “ser sí misma” y, de pronto, es un médium de la música, es decir que el “individuo es música”. Se produce cuando se danza con los ojos cerrados, en profunda sensibilidad, lenta y armónicamente. 
+ 
+b)	Íntasis (vínculo consigo mismo): Es la súbita ampliación de   
+                  conciencia unida a la vivencia emotiva de “estar vivo” por                    primera y única vez, concentrando todas las posibilidades de ser.                    Esta vivencia va acompañada de un sentimiento de belleza y                    plenitud. Es sentirse parte viva de una totalidad orgánica, unido a                   un sentimiento de eternidad (atemporalidad). La vivencia                    corporal es pulsante, con sensaciones de escalofrío y                   piloerección. 
 
 
 
@@ -312,12 +459,6 @@ Inseguridad básica, identidad desintegrada, racismo</p>
 
 
 
-
-
-
-•	Anatomía del Oído 
-•	Niveles de experiencia musical 
-•	Cuando la Música se vuelve Biología 
  
 45    Aspectos metodológicos 
 •	Características de las música para las cinco líneas de vivencia 
