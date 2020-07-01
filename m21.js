@@ -357,7 +357,6 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 <p>La música, en realidad, es una proyección de la música del universo. Podemos decir con certeza que la música es una réplica de las melodías eternas, de las metáforas divinas. El músico utiliza, sin proponérselo, patrones de procesos de organización biológica. Cuando la música es caótica, también constituye una expresión de los procesos escatológicos del universo.</p>
 <p>La biomúsica es el acceso cognitivo y vivencial a este proceso en que la música se vuelve biológica y la biología se torna música.</p>
 <p>Pitágoras, al proponer la existencia de la “Música de las Esferas”, concibió el universo como una inmensa sinfonía y al creador como el gran pulsador, en la génesis musical de la naturaleza.</p>
-
 `+finNivel2()+`
 `+inicioNivel2('7','LOS SIETE PODERES DE BIODANZA ')+`
 <p>El éxito pedagógico y terapéutico de Biodanza se debe a sus efectos sobre el organismo como totalidad y a su poder de rehabilitación existencial, y son las siguientes:
@@ -390,68 +389,72 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 <h4>3.	Metodología Vivencial:</h4> 
 <p>La mitología de Biodanza se orienta a la deflagración de vivencias integradoras, capaces de superar las disociaciones que induce nuestra cultura.</p> 
 <p>Actualmente un gran número de personas viven estados de disociación psicosomática. Piensan en algo, sienten en forma diferente y actúan de modo disociado respecto a lo que sienten. La unidad de nuestra existencia está en permanente crisis. Es a través de las vivencias que se perfecciona la unidad neurofisiológica y existencial del ser humano.</p> 
-<p>La vivencia es la sensación intensa de estar vivo “aquí-ahora” y posee fuertes componentes cenestésicos y emocionales. Las vivencias tienen diferentes matices emocionales, tales como euforia, erotismo, ternura, paz interior, etc., esto constituye a la expresión auténtica de la identidad.</p> 
-<p>La vivencia es diferente de la emoción. Emoción es una respuesta a estímulos externos y desaparece cuando éstos cesan. La vivencia es una experiencia que abarca la existencia completa, posee efectos profundos y duraderos donde participa el organismo como totalidad e induce el sentimiento de estar vivo, trascendiendo el ego. Es una experiencia “aquí-ahora”. 
- 
-El despertar de vivencias, que nos permiten ser nosotros mismos, constituye una nueva epistemología. Nuestras intensas motivaciones instintivas y afectivas son inhibidas por patrones culturales. Las vivencias profundas que comprometen la unidad de nuestro psiquismo son las fuerzas originarias de la vida. 
- 
-El abordaje racional de nuestros conflictos no se resúelven a fondo las perturbaciones disociativas; tener conciencia de nuestros conflictos no modifica el comportamiento. Es la vivencia de estar vivo, la percepción cenestésica de nuestro cuerpo y, en suma, la posibilidad de “ser honestamente nosotros mismos” lo que permite una existencia integrada y saludable. Por este motivo no empleamos el análisis de conflictos, sino estimulamos la parte sana de nuestra identidad a través de vivencias intensas, “el instante es el único lugar donde se puede vivir”. 
- 
-La metodología vivencial permite el proceso de integración. Biodanza es, por definición, un sistema de integración de potenciales humanos. Integración significa “coordinación de la actividad entre diversos sub-sistemas para alcanzar el funcionamiento armonioso de un sistema mayor”. La vivencia es el agente esencial de integración de la unidad funcional: “habitamos el aquí y ahora, en un tiempo cósmico”. 
- 
-4. Poder deflagrador de la caricia: 
- 
-“Biodanza es una poética del encuentro humano” 
- 
-La conexión con las personas es esencial en todo acto de rehabilitación o curación, no existe crecimiento solitario (las técnicas místicas o terapéuticas de carácter solipsista son una falacia). El contacto con otras personas es lo que permite el crecimiento. 
- 
-La conexión verbal es insuficiente. Es necesario el contacto, la danza en pareja ó colectiva y el compromiso corporal dentro de un contexto sensible, sutil y en feed-back 
- 
-Sobre los efectos terapéuticos de la caricia, actualmente existen múltiples investigaciones científicas. Centenares de autores han descubierto que el contacto valoriza y da continente afectivo a las personas. Sin embargo no basta el contacto, es necesaria la conexión, es decir que cualquier forma de vínculo físico esté movido por una fuerza afectiva sincera. 
- 
-Existen fundamentos científicos de las terapias de contacto. Podemos mencionar, entre numerosos investigadores, los siguientes: S. F. Harlow, René Spitz, Rof  Carballo, Lopez Ibor, Bowlby, etc. 
- 
-La caricia, por lo tanto, no es solo contacto sino conexión. Las terapias que no tienen compromiso corporal son disociativas, ya que trabajan sólo a nivel de la conciencia y no en las vivencias significativas de amor y comunión. 
- 
-La afectividad núcleo central de todas las terapias, incluye: la conexión, la coparticipación, el “nosotros” de Martín Buber. 
- 
-5.  El poder del trance: 
- 
-El trance es una estado alterado de conciencia que implica la disminución del ego y regresión a lo primordial, a lo originario, en cierto modo a etapas perinatales. Se trata de un fenómeno de regresión a los estados iniciales de la existencia. 
- 
-Los efectos del trance son de renovación biológica, porque durante este estado se reeditan las condiciones biológicas del comienzo del desarrollo humano (metabolismo más intenso y despertar de la percepción cenestésica) y las primeras necesidades de protección, nutrición y contacto. 
- 
-Por está razón, los ejercicios de trance en Biodanza permiten la reparentalización, es decir el “nacer de nuevo” dentro de un contexto de amor y cuidado. Muchos adultos llevan dentro de sí a un niño herido, un niño abandonado, sin amor. La reparentalización permite curarlo en ceremonias de trance y renacimiento. 
-Entre los recurso del Sistema de Biodanza, contamos con el innovador método de “trance de suspensión”, que permite tener acceso al estado de trance en forma progresiva y de dulce abandono. 
- 
-6. Poder de la expansión de conciencia: 
- 
-La expansión de conciencia es un estado de percepción ampliada que se caracteriza por establecer el vínculo primordial con el universo. Su efecto subjetivo es un sentimiento intenso de unidad ontocosmológica y alegría trascendente. 
- 
-Biodanza induce estados de expansión de conciencia mediante músicas, danzas y ceremonias de encuentro. Tener acceso a la “experiencia suprema” requiere una preparación previa y un nivel superior de integración y madurez. Los procedimientos que utilizamos para inducir cambios progresivos de estado de conciencia son: 
- 
--	Ejercicios para ampliar la percepción de la naturales y de las personas a través de los cinco sentidos. 
--	“Lectura del alma” mediante la percepción del rostro de los compañeros después del trance. 
--	Ejercicios de placer cenestésico para disminuir la intervención del ego. 
--	Ejercicios de fluidez lenta con abandono. 
--	Ejercicios de éxtasis e íntasis. 
- 
-Diversas técnicas psicoterapéuticas y de desarrollo interior utilizan drogas y “plantas mágicas” para inducir estados de expansión de conciencia, las propuestas de la psicoterapia transpersonal la buscan por otros medios. 
- 
-El Dr. Albert Hofmann, creador del LSD-25 (dietilamida del ácido lisérgico), ha propuesto una nueva forma de educación de la percepción y de la capacidad de empatía mediante la “experiencia enteógena”, en un contexto de intimidad con la vida. Esta propuesta es difícil de realizar debido a la ignorancia científica; la frivolidad de muchos autores como Timothy Leary ha desprestigiado la experiencia lisérgica, con lo cual la humanidad ha sido profundamente perjudicada. 
- 
-En Biodanza no utilizamos drogas y preferimos activar los mecanismos de los neurotrasmisores que existen normalmente en el organismo y que cumplen el mismo efecto de las drogas enteógenas. Después de vivir una “experiencia suprema” (estrictamente acompañado), se descubre un nuevo sentido de la vida y la elevación del vínculo con la naturaleza, con otras personas y consigo mismo. La transtasis (cambio súbito de transformación interior) consiste en la integración orgánica de la percepción, de la inteligencia abstracta y de la afectividad. 
- 
- 
- 
-Biodanza induce estados de plenitud, y frecuentemente de éxtasis, a través de ejercicios de afectividad y trascendencia. Los estados de expansión de conciencia tienen un efcto perdurable respecto al sentido de la existencia y al modo de ser en el mundo,  y consisten en un éxtasis por toda la creación, sus bosquez, animales y en especial las personas. 
- 
-La experiencia enteógena es “el despertar de lo divino en el hombre”. Tiene dos aspectos: 
- 
-a)	Éxtasis  (vínculo con el mundo externo y con las personas): La profundización de este estado puede conducir al éxtasis contemplativo con llanto frente a la belleza indescriptible de la realidad, unido a la pérdida del límite corporal e intenso placer. También puede producirse una profunda identificación con la esencia de una persona, causando una comprensión absoluta de ella y logrando sentir una emoción intensa de amor y fraternidad. El estado de placer cenestésico es cuando una persona se abandona a “ser sí misma” y, de pronto, es un médium de la música, es decir que el “individuo es música”. Se produce cuando se danza con los ojos cerrados, en profunda sensibilidad, lenta y armónicamente. 
- 
-b)	Íntasis (vínculo consigo mismo): Es la súbita ampliación de   
-                  conciencia unida a la vivencia emotiva de “estar vivo” por                    primera y única vez, concentrando todas las posibilidades de ser.                    Esta vivencia va acompañada de un sentimiento de belleza y                    plenitud. Es sentirse parte viva de una totalidad orgánica, unido a                   un sentimiento de eternidad (atemporalidad). La vivencia                    corporal es pulsante, con sensaciones de escalofrío y                   piloerección. 
+<p>La vivencia es la sensación intensa de estar vivo “aquí-ahora” y posee fuertes componentes cenestésicos y emocionales. Las vivencias tienen diferentes matices emocionales, tales como euforia, erotismo, ternura, paz interior, etc., esto constituye a la expresión auténtica de la identidad.</p>
+<p>La vivencia es diferente de la emoción. Emoción es una respuesta a estímulos externos y desaparece cuando éstos cesan. La vivencia es una experiencia que abarca la existencia completa, posee efectos profundos y duraderos donde participa el organismo como totalidad e induce el sentimiento de estar vivo, trascendiendo el ego. Es una experiencia “aquí-ahora”.</p>
+<p>El despertar de vivencias, que nos permiten ser nosotros mismos, constituye una nueva epistemología. Nuestras intensas motivaciones instintivas y afectivas son inhibidas por patrones culturales. Las vivencias profundas que comprometen la unidad de nuestro psiquismo son las fuerzas originarias de la vida.</p>
+<p>El abordaje racional de nuestros conflictos no se resúelven a fondo las perturbaciones disociativas; tener conciencia de nuestros conflictos no modifica el comportamiento. Es la vivencia de estar vivo, la percepción cenestésica de nuestro cuerpo y, en suma, la posibilidad de “ser honestamente nosotros mismos” lo que permite una existencia integrada y saludable. Por este motivo no empleamos el análisis de conflictos, sino estimulamos la parte sana de nuestra identidad a través de vivencias intensas, “el instante es el único lugar donde se puede vivir”.</p>
+<p>La metodología vivencial permite el proceso de integración. Biodanza es, por definición, un sistema de integración de potenciales humanos. Integración significa “coordinación de la actividad entre diversos sub-sistemas para alcanzar el funcionamiento armonioso de un sistema mayor”. La vivencia es el agente esencial de integración de la unidad funcional: “habitamos el aquí y ahora, en un tiempo cósmico”.</p>
+<H4>4. Poder deflagrador de la caricia:</h4>
+<p>“Biodanza es una poética del encuentro humano”</p>
+<p>La conexión con las personas es esencial en todo acto de rehabilitación o curación, no existe crecimiento solitario (las técnicas místicas o terapéuticas de carácter solipsista son una falacia). El contacto con otras personas es lo que permite el crecimiento.</p>
+<p>La conexión verbal es insuficiente. Es necesario el contacto, la danza en pareja ó colectiva y el compromiso corporal dentro de un contexto sensible, sutil y en feed-back</p>
+<p>Sobre los efectos terapéuticos de la caricia, actualmente existen múltiples investigaciones científicas. Centenares de autores han descubierto que el contacto valoriza y da continente afectivo a las personas. Sin embargo no basta el contacto, es necesaria la conexión, es decir que cualquier forma de vínculo físico esté movido por una fuerza afectiva sincera.</p>
+<p>Existen fundamentos científicos de las terapias de contacto. Podemos mencionar, entre numerosos investigadores, los siguientes: S. F. Harlow, René Spitz, Rof Carballo, Lopez Ibor, Bowlby, etc.</p>
+<p>La caricia, por lo tanto, no es solo contacto sino conexión. Las terapias que no tienen compromiso corporal son disociativas, ya que trabajan sólo a nivel de la conciencia y no en las vivencias significativas de amor y comunión.</p>
+<p>La afectividad núcleo central de todas las terapias, incluye: la conexión, la coparticipación, el “nosotros” de Martín Buber.</p>
+<h4>5.  El poder del trance:</h4>
+<p>El trance es una estado alterado de conciencia que implica la disminución del ego y regresión a lo primordial, a lo originario, en cierto modo a etapas perinatales. Se trata de un fenómeno de regresión a los estados iniciales de la existencia.</p>
+<p>Los efectos del trance son de renovación biológica, porque durante este estado se reeditan las condiciones biológicas del comienzo del desarrollo humano (metabolismo más intenso y despertar de la percepción cenestésica) y las primeras necesidades de protección, nutrición y contacto.</p>
+<p>Por está razón, los ejercicios de trance en Biodanza permiten la reparentalización, es decir el “nacer de nuevo” dentro de un contexto de amor y cuidado. Muchos adultos llevan dentro de sí a un niño herido, un niño abandonado, sin amor. La reparentalización permite curarlo en ceremonias de trance y renacimiento.</p>
+<p>Entre los recurso del Sistema de Biodanza, contamos con el innovador método de “trance de suspensión”, que permite tener acceso al estado de trance en forma progresiva y de dulce abandono.</p>
+<h4>6. Poder de la expansión de conciencia:</h4>
+<p>La expansión de conciencia es un estado de percepción ampliada que se caracteriza por establecer el vínculo primordial con el universo. Su efecto subjetivo es un sentimiento intenso de unidad ontocosmológica y alegría trascendente.</p>
+<p>Biodanza induce estados de expansión de conciencia mediante músicas, danzas y ceremonias de encuentro. Tener acceso a la “experiencia suprema” requiere una preparación previa y un nivel superior de integración y madurez. Los procedimientos que utilizamos para inducir cambios progresivos de estado de conciencia son: 
+<ul>
+<li>Ejercicios para ampliar la percepción de la naturaleza y de las personas a través de los cinco sentidos.</li>
+<li>“Lectura del alma” mediante la percepción del rostro de los compañeros después del trance.</li>
+<li>Ejercicios de placer cenestésico para disminuir la intervención del ego.</li>
+<li>Ejercicios de fluidez lenta con abandono.</li>
+<li>Ejercicios de éxtasis e íntasis.</li>
+</ul></p>
+<p>Diversas técnicas psicoterapéuticas y de desarrollo interior utilizan drogas y “plantas mágicas” para inducir estados de expansión de conciencia, las propuestas de la psicoterapia transpersonal la buscan por otros medios.</p>
+<p>El Dr. Albert Hofmann, creador del LSD-25 (dietilamida del ácido lisérgico), ha propuesto una nueva forma de educación de la percepción y de la capacidad de empatía mediante la “experiencia enteógena”, en un contexto de intimidad con la vida. Esta propuesta es difícil de realizar debido a la ignorancia científica; la frivolidad de muchos autores como Timothy Leary ha desprestigiado la experiencia lisérgica, con lo cual la humanidad ha sido profundamente perjudicada.</p>
+<p>En Biodanza no utilizamos drogas y preferimos activar los mecanismos de los neurotrasmisores que existen normalmente en el organismo y que cumplen el mismo efecto de las drogas enteógenas. Después de vivir una “experiencia suprema” (estrictamente acompañado), se descubre un nuevo sentido de la vida y la elevación del vínculo con la naturaleza, con otras personas y consigo mismo. La transtasis (cambio súbito de transformación interior) consiste en la integración orgánica de la percepción, de la inteligencia abstracta y de la afectividad.</p>
+<p>Biodanza induce estados de plenitud, y frecuentemente de éxtasis, a través de ejercicios de afectividad y trascendencia. Los estados de expansión de conciencia tienen un efcto perdurable respecto al sentido de la existencia y al modo de ser en el mundo,  y consisten en un éxtasis por toda la creación, sus bosques, animales y en especial las personas.</p>
+<p>La experiencia enteógena es “el despertar de lo divino en el hombre”. Tiene dos aspectos: 
+<ol type="a"> 
+<li><u>Éxtasis</ul> (vínculo con el mundo externo y con las personas): La profundización de este estado puede conducir al éxtasis contemplativo con llanto frente a la belleza indescriptible de la realidad, unido a la pérdida del límite corporal e intenso placer. También puede producirse una profunda identificación con la esencia de una persona, causando una comprensión absoluta de ella y logrando sentir una emoción intensa de amor y fraternidad. El estado de placer cenestésico es cuando una persona se abandona a “ser sí misma” y, de pronto, es un médium de la música, es decir que el “individuo es música”. Se produce cuando se danza con los ojos cerrados, en profunda sensibilidad, lenta y armónicamente.</li>
+<li><u>Íntasis</ul> (vínculo consigo mismo): Es la súbita ampliación de conciencia unida a la vivencia emotiva de “estar vivo” por primera y única vez, concentrando todas las posibilidades de ser.  Esta vivencia va acompañada de un sentimiento de belleza y plenitud. Es sentirse parte viva de una totalidad orgánica, unido a un sentimiento de eternidad (atemporalidad). La vivencia corporal es pulsante, con sensaciones de escalofrío y piloerección.</li>
+</ol>
+<table>
+<thead>
+	<tr><th>ÍNTASIS</th><th>EXTASIS</th></tr>
+</thead>
+<tbody>
+	<tr>
+	<td><ul>
+		<li>Armonía cenestésica</li>
+		<li>Extasis musical</li>
+		<li>Vivencia intrauterina</li>
+		<li>Vivencia Oceánica</li>
+		<li>Iluminación</li>
+	</ul></td>
+	<td><ul>
+		<li>Empatía</li>
+		<li>Extasis amoroso</li>
+		<li>Extasis altruista</li>
+		<li>Extasis contemplativo</li>
+		<li>Extasis cósmico</li>
+	</ul></td>
+	</tr>
+</tbody>
+</table></p>
+<h4>Poder del Grupo</h4>
+<p>El grupo en Biodanza es una matriz de renacimiento que se integra a nivel afectivo y constituye un campo de interacciones muy intenso.</p>
+<p>Biodanza no es un sistema solipsista ni de comunicación verbal. Su poder está en la inducción recíproca de vivencias entre los participantes del grupo. Las situaciones de encuentro tienen el poder de cambiar profundamente actitudes y formas de relacionamiento humano.</p>
+<p>La forma de integración del grupo en Biodanza se diferencia radicalmente de la dinámica de grupo tradicional.</p> 
+`+finNivel2()+`
+`+inicioNivel2('7','ASPECTOS METODOLÓGICOS')+`
 
 
 
