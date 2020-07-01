@@ -151,7 +151,138 @@ Físico americano, estudio acústica de ambientes cerrados.</p>
 <p>Compases del cuarteto Op. 135 en Fa mayor. Accesos para la transmutación de energía. La Novena Sinfonía es la apoteosis de la alegría, la afirmación de la vida y la grandeza del hombre.</p>
 <p>Fue compuesta en el período final, cuando el músico estaba completamente sordo.</p>
 <p>Su creación no fue un “mecanismo de compensación” de sus dolores y de su soledad, sino el producto de su superabundancia, de su capacidad para rescatar de la tinieblas el gérmen de iluminación.</p>
+`+finNivel2()+`
+`+inicioNivel2('4','YEHUDI MENUHIN: HACIA UNA SOCIOLOGÍA MUSICAL')+`
+<p>Yehudi Menuhin tenía una confianza absoluta sobre los efectos de la música en la evolución ética y afectiva de la humanidad.</p>
+<p>En nuestras entrevistas me expresó que la música podría salvar al mundo.</p>
+<p>En sus últimos años se asoció con varios científicos para investigar las imágenes, con escaner de las diversas zonas del cerebro y las neurológicas a la audición de músicas diferentes.</p>
+<p>Por otra parte, trabajó en diversas escuelas elementales en Londres y Paris para investigar cambios de conducta en los niños.</p>
+<p>Yo por mi parte le comunicaba mis utopías con Biodanza en niños y adultos y el efecto de la música de las danzas integrativas y de la poética del encuentro. Yehudi Menhuin comprendió muy a fondo la importancia de unir nuestros sueños.</p>
+<p><i>“Es la música la que entrega lo espiritual y lo sensual. Puede trasmitir el éxtasis libre de culpa, la fé sin dogma, el amor como un homenaje, y al propio hombre conviviendo con la naturaleza y el infinito”</p>
+`+finNivel2()+`
+`+inicioNivel2('5','ASPECTOS PSICOLÓGICOS')+`
+<h4>La Percepción Musical como Experiencia de Totalidad</h4>
+<p>La percepción musical no es sólo un acto auditivo.</p>
+<p>La música se escucha con todo el cuerpo: aún más, con todos los tejidos corporales. Es semejante al fenómeno de la nutrición y sus efectos envuelven no sólo el “Psiquismo” y las emociones, sino que influyen en los umbrales de respuesta hipotalámica, en el equilibrio neurovegetativo y en la homeostasis. Los órganos tienen distintas resonancias frente a los variados pasajes de una obra musical; esa resonancia tiene una dimensión física, como estímulo táctil cenestésico, y una dimensión neuroendocrina.</p>
+<p>Las investigaciones acerca de la relación entre música y organismo son abundates y extremadamente sugerentes. En el campo de la Musicoterapia, se ha probado la influencia de ritmos musicales sobre el ritmo del corazón y de ciertas músicas sobre la presión arterial. Creemos, por lo tanto, no exagerar cuando afirmamos que la percepción musical es una experiencia de totalidad. Percibimos la música con nuestro aparato congnitivo, con nuestra sensibilidad, con toda la gama de nuestras emociones, con nuestros instintos, con nuestros órganos y, en suma, con todo lo que nuestro sistema viviente representa.</p>
+<h4>El Proceso de Audición Fisiológica y Psicológica (Pendiente)</h4>
+<h4>Identidad y Música</h4>
+<p>Yo puedo identificarme, en un momento dado, con el “Aleluya” de Haendel. ¿Qué significa esto? Simplemente, que me dejo conducir por ese movimiento musical hasta el punto de disminuir de tal modo la distancia entre la música y la propia percepción de mí mismo, que la frontera exterior – interior queda abolida y, entonces, ya no estoy escuchando el Aleluya, sino que “yo soy la música”. Se ha producido, entonces, una transubstanciación ontológica, un acto de mediumnidad.</p>
+<p>Este fenómeno tiene que ser el paradigma de nuestra meditación respecto al fenómeno de la identidad, puesto que de su examen fenomenológico podemos inferir la cualidad evanescente a la vez que presuntiva de la Identidad, su etérea condición ectoplasmática capaz de penetrar cualquier entidad cósmica, en el pavoroso y sobrecogedor acto de ser y no ser. Como si el ser y el no ser estuviesen apenas fijados por un acto de conciencia que se abre y se cierra sobre la realidad. La ontología imposible de Heidegger no encontró la brecha en la pesquisa de la identificación musical. Digo que el centro de atención para la investigación de una ontología tiene que hacerse a través del éxtasis musical, por ser la música la “vía regia”, es decir, la forma en que la conciencia se transforma en vivencia y la forma en que la conciencia se transforma en vivencia y la vivencia retorna de nuevo a la conciencia. Y es también, el fenómeno de la identificación musical, el que nos hace accesible la comprensión de la unidad cuerpoalma, del continuo psico-somático y, en fin, de la filiación visceral del lenguaje poético. </p>
+<h4>Música y Proyección Existencial</h4>
+<p>En su “critic as Artist” Oscar Wilde escribió: “Después de tocar a Chopin, siéntome como si estuviera llorando por pecados que nunca cometí y planteando tragedias que jamás viví.</p>
+<p>La música me parece producir siempre ese efecto. Ella crea en nosotros un pasado que ignorábamos y nos llena con una sensación de dolores antes escondidos en nuestras lágrimas. Puedo imaginar un hombre que hubiese llevado una vida perfectamente banal, oyendo casualmente alguna pieza musical y descubriendo, de repelente, que su alma, sin que él tuviese conciencia, pasara por terribles experiencias y conociera alegrías asustadoras, locos amores románticos y grandes renuncias”.</p>
+<p>La posibilidad de que este episodio suceda dependerá de la inteligencia Musical del oyente, es decir de su capacidad para identificarse con el contenido de la música y de la resonancia afectiva que ésta le produjera. Sin un fondo afectivo integrado, el oyente no tiene la menor opción de acceso a experiencias desconocidas e intensas.</p>
+<p>Quienes han pedido un amor y están sufriendo por ello, al escuchar la Sonata Nº 27 de Beethoven suelen experimentar con profunda intensidad el dolor de la pérdida.</p>
+<p>Este acto de resonancia afectiva y comprensión del lenguaje nostálgico y, a veces desesperado de la obra, es un acto de percepción de un contenido complejo sonoroafectivo que requiere una conexión intensa con el lenguaje de la sonata.</p>
+<p>Me parece que la indagación sobre la inteligencia Musical hay que abordarla desde donde se origina y como se desarrolla el embrión temático. Sin duda que durante el desarrollo de la obra se produce una secuencia de momentos de tensión emocional, ya sea de placer debido a soluciones previstas o sentimientos de ansiedad.</p>
+<h4>Contenido Sonoro y Contenido Musical</h4>
+<p>La preferencia por las cualidades sonoras o estéticas sobre la fuerza emotiva de una música puede perjudicar el nivel de la vivencia que se desea inducir.</p>
+<p>El Contenido emocional de una música puede en muchos casos, ser más efectivo que el ritmo o la melodía.</p>
+<p>Es indispensable aprender a diferenciar entre estos dos aspectos.</p>
+<p>En Biodanza se trata de danzar la alegría, el romanticismo, la vitalidad o la misticidad de la música, no simplemente su ritmo.</p>
+<p>La música en Biodanza debe tener un poder desplayador de emociones y vivencias.</p>
+<p>Es muy diferente, por ejemplo danzar solamente el ritmo de la canción “I’ve cot voman” de Ray Charles que danzar el tema “eufórico, expresivo y algo desesperado”.</p>
+<p>Lo importante en Biodanza es la interpretación emocional y no puramente la secuencia sonora.</p>
+<p>Siempre es necesario entrar en empatía con el sentido emocional y expresivo de la música.</p>
+<h4>Biodanza: Transformación del Individuo en Danza</h4>
+<p>Cuando el danzarín pone en acción sus movimientos, ajustándolos a necesidades expresivas, estéticas o de representación. Está tomando el comando de una serie de funciones vinculadas a la identidad. Entre ellas podemos mencionar los movimientos voluntarios, el desplazamiento dentro del espacio, la semántica expresiva en relación a ciertos códigos gestuales, la búsqueda consciente de algunos efectos y la coordinación de los distintos movimientos en función de la temática, la coordinación auditivo-motora y viso-motora, la localización en torno a otras figuras referenciales y relacionales, la introducción espontánea de elementos de fantasía, etc. </p>
+<p>El danzarín pone en acción toda su capacidad de juego, equilibrio, coordinación y expresión.</p>
+<p>A través de la historia de la danza ha existido el fuerte propósito de formar buenos bailarines que sean capaces de alcanzar, mediante el ejercicio y del aprendizaje, niveles de optimización en la destreza y belleza de los movimientos. </p>
+<p>Existe, no obstante, una posibilidad completamente opuesta, que consiste en transformar al danzarín andanza. Este camino fue ocasionalmente descubierto en las ceremonias pertenecientes a las religiones arcaicas, en ciertas danzas místicas, de éxtasis y en algunos estados inducidos por ácidos lisérgico, mescalina o psilocibina. En estos casos el tonus y la armonía del biosistema corporal entrena en conexión inmediata con la armonía cósmica. En estos casos el individuo ingresa a un estado vivencial en el que él “es” la música.</p>
+<p>La música danza al individuo, y entonces no hay individuo sino danza. La identidad se disuelve en una especie de matriz del universo que está en movimiento orgánico, en que cada elemento forma parte de la danza mayor. La danza cósmica consiste en el viviente interjuego de todas las fuerzas presentes.</p>
+<p style="background-color: #FFF6E1;">Para conseguir el estado de trance necesario que permita al danzarín llegar a “ser la danza” es necesario partir de la casi inmobilidad, en un estado de tonus “abierto” a los impulsos propioceptivos espontáneos. Un estado incondicional y receptivo, libre de todo propósito. En estas condiciones el individuo “permite” que la música se infiltre en su organismo e induzca el estado cenestésico.</p>
+<p>Ser la danza constituye una experiencia ya que en el fondo se síntoniza el biosistema humano con el biosistema cósmico. Esta es la más poderosa fuente de renovación y energetización.</p>
+<h4>Inteligencia Afectiva</h4>
+<p>La inteligencia afectiva no es un tipo especial de inteligencia. Todas las formas diferenciadas de inteligencia motora, especial, mecánica, semántica, social, etc., tienen una fuente común: la afectividad.</p>
+<p>Para comprender esto es necesario examinar las relaciones entre inteligencia, percepción, elaboración simbólica y nivel de conciencia.</p>
+<p>Las relaciones entre percepción y afectividad fueron ya demostradas en las investigaciones sobre la percepción en la “Habitación de Perspectivas Alteradas de Ames”, el tamaño de los personajes, vistos a través de un oficio en la habitación construida por Ames, es percibido completamente diferente según el grado de relación afectiva existente entre el observador y la persona observada, esto significa que la afectividad organiza la percepción.</p>
+<p>Ni las matemáticas ni la lógica pueden ocupar a los procesos afectivos de elaboración simbólica. La comprensión semántica de la realidad y de las relaciones objetales, numéricas o verbales, están intrínsecamente unidas a la captación de significados. Las operaciones de la inteligencia se generan en la percepción del “sentido” de un conjunto de realidad. La cualidad de la inteligencia se organiza de la fuente afectiva.</p>
+<p>Pienso que una definición más esencial de la inteligencia sería “la capacidad afectiva de establecer conexiones con la ida y relacionar la identidad personal con la identidad del universo”.</p>
+<p>Esta capacidad potencial la poseen todos los miembros de la humanidad, sean salvajes o civilizados, cultos o ignorantes, pero está profundamente bloqueada por la disociación afectiva que enluta a la sociedad. Conectarse con la vida es la propuesta de Biodanza.</p>
+<p><b><u>La Afectividad</u></b></p>
+<p>La Afectividad es una de las funciones psicológicas más perturbadoras y reprimidas dentro del mundo nacional, social, educacional y político actual.</p>
+<p>La Afectividad aproxima la percepción a un sentido realista, conecta, la vida con el significado esencial de los hechos. Impregna la percepción de belleza, imaginación y comprensión.</p>
+<p>La afectividad se refiere específicamente a lo que se ama, aquello que se manifiesta subjetivamente como ternura, amistad, altruismo, amor universal, afinidad por la vida. Es una disposición abierta, una inclinación permanente de cuidado y empatía con las personas y con todo aquello que está vivo.</p>
+<p>La afectividad por lo tanto, está determinada por factores genéticos, fisiológicos, culturales y ambientales. Solamente un estado de expansión de la conciencia puede regular las relaciones humanas, y trascender la malignidad que adquiere formas monstruosas en el inconsciente colectivo.</p>
+<h4>Inteligencia Musical y Movimiento Corporal</h4>
+<p>Sabemos que la música deflagra emociones en las personas. Este hecho, a veces, induce a pensar en forma extremadamente restringida sobre los efectos de la música en el ser humano.</p>
+<p>La música cambia la existencia. No es tan sólo un efecto cenestésico de satisfacción emocional y sus correspondientes cambios neurovegetativos.</p>
+<p>La música, según Jahudi Menhujim, modifica la estructura misma del sistema nervioso y la sensibilidad para relacionarse con los demás. Durante sus últimos años, Menhujim se dedicó a difundir un proyecto de audiciones musicales en las escuelas de los primeros grados, incluyendo música clásica, jazz música gitana, canciones regionales, etc., de modo que los niños iniciaran tempranamente una educación de la sensibilidad musical con un amplio repertorio de temas y estilos musicales. Este sistema se ha extendido principalmente en Inglaterra, Francia y Austria.</p>
+<p>Al desarrollar la sensibilidad musical y ampliar el registro selectivo se estimulan otras facultades psicológicas como la sensibilidad global, la capacidad estética, el placer cenestésico, la capacidad de aceptar y comprender estímulos altamente diferenciados.</p>
+<p>Si a la percepción musical le agregamos Biodanza, podemos desarrollar en los niños la afectividad y nuevas formas de comunicación y contacto.</p>
+<p>Más allá de la expresión de las emociones, la música influye en la estructura selectiva individual, induce la armonía interior, sentido del ritmo, reeducación afectiva y, sobre todo, incorpora estructuras holográficas al sistema nervioso que elicitan nuevas respuestas frente al medio ambiente.</p>
+<h4>Efectos de la Música sobre el Psiquismo</h4>
+<p>La multiplicidad de los efectos de la música sobre la psiquis humana pueden resumirse en el siguiente esquema:</p>
+<p>PATOLOGIA DE LA AFECTIVIDAD</p>
+<p><b>Autodestructividad</b><br>
+Falta de amor a sí mismo, sentimientos de inferioridad</p>
+<p><u>Prescripción terapéutica</u>:
+<ul>
+<li>Ejercicios de Refuerzo de la Identidad</li>
+<li>Conexión con el Niño Interior</li>
+<li>Contacto y Caricias</li>
+</ul></p>
+<p><b>Intolerancia frente a la diversidad</b><br> 
+Inseguridad básica, identidad desintegrada, racismo</p>
+<p><u>Prescripción terapéutica</u>:
+<ul>
+<li>Ejercicios de Refuerzo de la Identidad</li>
+<li>Ejercicios de las Líneas de Sexualidad y</li>
+<li>Afectividad</li>
+</ul></p>
+<h4>Efectos Generales de la Música</h4>
+Se ha demostrado que la música mejora las funciones cognitivas e intelectuales. 
  
+No se trata exclusivamente del “Efecto Mozart” propuesto por Don Cambell. 
+Muchas músicas influyen de un modo diferente sobre el psiquismo humano. 
+ 
+A esto hay que agregar que la respuesta a una determinada música depende de su identidad  de quién la escucha. 
+ 
+No obstante en Biodanza nos esforzamos por ofrecer músicas que poseen efectos específicos universales, dentro de los cinco grandes conjuntos que estimulan respuestas de vitalidad, erotismo, creatividad, afectividad y trascendencia. 
+ 
+Posee efectos de relajación muscular y influye también en la coordinación e integración motora. 
+La música influye sobre la temperatura corporal. 
+ 
+Temas musicales intensos, rítmicos pueden subir la temperatura corporal. Temas depresivos, lúgubres o disonantes pueden bajar la temperatura e inducir estaos depresivos. 
+ 
+Fomenta la resistencia física cuando la música es de un contenido vital y potente. Músicas melódicas suaves inducen estados de regresión e disminución de las actividades motoras. 
+ 
+La música influye también en la respiración. Músicas lentas (andante), estimulan una respiración armoniosa y profunda. 
+ 
+La música produce cambios en el psiquismo y en el organismo en general. 
+ 
+ 
+La música produce cambios en el psiquismo y en el organismo en general. 
+ 
+1.	Afecta el ritmo cardíaco , el pulso y la presión arterial.       Nuestro corazón late en término medio a 72 pulsaciones por          minúto. 
+   
+     Ciertas músicas rítmicas, tropicales y el jazz, aceleran el       ritmo cardiaco. 
+ 
+     Otras, en cambio, lo disminuyen. 
+ 
+     La presión arterial puede bajar hasta “5” puntos (MM Hg). 
+ 
+2.	Ciertas músicas alegres y dulces aumentan la resistencia       Inmunológica. 
+ 
+     Dar continente afectivo a niños enfermos acompañados con           música dulce al estilo de canciones de cuna, eleva la       resistencia inmunológica. 
+ 
+     Los estados de ansiedad disminuyen con música armoniosa,       melódica y cierto nivel de determinación (Vivaldi, por       ejemplo). 
+ 
+     Un recurso indispensable para tratar personas autistas,       esquisofrénicos y catatónicos, es la música ritmica          euforizante, tropicales, bazucadas, sambas o jazz. 
+ 
+     Para estos enfermos están contraindicadas las músicas       suaves, tranquilas o regresivas. 
+ 
+     Para los enfermos de Parkinson, en cambio son        recomendables, las que inducen trance de suspensión. 
+ 
+     Las personas con sufrimientos morales, pueden encontrar       alivio y conformidad con músicas románticas. (F. Chopin, F.  
+     Lizt, O Schubert). 
+ 
+     Adagios nocturnos inducen sentimientos tiernos y afectivos. 
+ 
+<h4>Esquema de las Relaciones entre Emoción y Música</h4>
+
+<h4>Preferencias musicales del adolescente</h4>
 
 
 
