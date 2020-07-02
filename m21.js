@@ -456,7 +456,97 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 `+finNivel2()+`
 `+inicioNivel2('7','ASPECTOS METODOLÓGICOS')+`
 
-
+<table>
+<thead>
+	<tr><th colspan="2">Ejemplo de Ejercicios y Músicas en Relación con el Proceso de Integración y las Líneas de Vivencia</th></tr>
+	<tr><th>Ejercicios</th><th>Música</th></tr>
+</thead>
+<tbody>
+	<tr>	<td>Fluidez</td>
+		<td><ul><li>Jean Michel Jarré: Oxigene</li>
+			<li>George Harrison: The light that has lightes the world Isn’t it a pity.</li></ul></td></tr>
+	<tr>	<td>Flexibilidad</td>
+		<td><ul><li>Rythmes africains</li></ul></td></tr>
+	<tr>	<td>Levedad</td>
+		<td><ul><li>Ella Fitzgeral: The wonderful world of Ella Fitzgeral; Waht is this thing called love. </li></ul></td></tr>
+	<tr>	<td>Extensión</td>
+		<td><ul><li>Taxi driver (film): Theme from Taxi driver.</li></ul></td></tr>
+	<tr>	<td colspan="2">&nbsp;</td></tr>
+	<tr>	<th colspan="2">Líneas de Vivencia</th></tr>
+	<tr>	<th>Vitalidad</th>
+		<td><ul><li>Gipsy Kings: Djobi Djoba</li>
+			<li>Rythmes africains</li>
+			<li>Bazucada fantástica</li>
+			<li>Tradicional Jazz: It’s wonderful</li>
+			<li>Guem et Zaka: Best of percusión</li>
+			<li>Barodin: Danzas polovsian Nº 17</li>
+			<li>Beth Carvalho: The Best of Brasil (1) (3) (5) (6)</li>
+			<li>Ella Fitzgeral: Ella en Berlin: Mack the knife</li></ul></td></tr>
+	<tr>	<th colspan="2" align="left">Sexualidad</th></tr>
+	<tr>	<td>Pelvis</td>
+		<td><ul><li>Guitarre havaianne autentic</li></ul></td></tr>
+	<tr>	<td>Pulsación</td>
+		<td><ul><li>Emilio Santiago: Aquarela brasileira, Ronda, Samba</li></ul></td></tr>
+	<tr>	<td>Encuentro con acariciamiento</td>
+		<td><ul><li>Helen Cerril (todas)</li>
+			<li>Morris Albert: Feellings</li>
+			<li>Fafá de Belem: Tamba tajá, Cancao de volta</li>
+			<li>Nana Caymmi: Voz e sour (todas).</li></ul></td></tr>
+	<tr>	<th colspan="2" align="left">Creatividad</th></tr>
+	<tr>	<td>&nbsp;</td>
+		<td><ul><li>Eric Serra: The big blue, Aberture</li>
+			<li>Vangelis: Cariot of fire, Abraham’s theme</li>
+			<li>Sibelius: Finlandia</li>
+			<li>Kitaro: The light of the spirit, Sundance</li>
+			<li>Duke Elligton y Jonh Coltrane: Stevie</li></ul></td></tr>
+	<tr>	<td>Danza Yin</td>
+		<td><ul><li>Meditation 1 – Classical  relaxation: Schubert: Adagio quinteto de primavera (4)</li>
+			<li>Chopin: Nocturno Nº 8 Op.27</li></ul></td></tr>
+	<tr>	<td>Danza Yang-Yin</td>
+		<td><ul><li>Beethoven: Sinfonia Nº 5</li></ul></td></tr>
+	<tr>	<th colspan="2" align="left">Afectividad</th></tr>
+	<tr>	<td>Encuentros</td>
+		<td><ul><li>Elis Regina: Fascinacao</li>
+			<li>George Zamfir: Bilitis</li>
+			<li>María Creuza: Convite para ouvir</li>
+			<li>Fibich: Poeme, Op. 41, Nº 6</li>
+			<li>Natalie Cole: Unforgettable</li>
+			<li>Stan Getz: The bossa nova (Disco 3)</li></ul></td></tr>
+	<tr>	<td>Danza para un ser ausente</td>
+		<td><ul><li>Villalobos: Floresta amazónica</li>
+			<li>Mahler: Sinfonía Nº 5, adagietto</li></ul></td></tr>
+	<tr>	<th colspan="2" align="left">Trascendencia</th></tr>
+	<tr>	<td>Danza de Shiva y Vishnu</td>
+		<td><ul><li>The Mahabharata real wold</li></ul></td></tr>
+	<tr>	<td>Abrazos de consuelo</td>
+		<td><ul><li>Franz Liszt: Consolations</li></ul></td></tr>
+	<tr>	<td>Marcha de Iluminación</td>
+		<td><ul><li>Vangelis: 1492</li></ul></td></tr>
+	<tr>	<td>Bautismo de Luz</td>
+		<td><ul><li>Debussy: Clair de lune</li></ul></td></tr>
+	<tr>	<td colspan="2">&nbsp;</td></tr>
+	<tr>	<th>Posiciones Generatrices</th>
+		<td><ul><li>Gounod: Ave María</li>
+			<li>Debussy: Claro de luna</li>
+			<li>Convite para ouvir música à luz da oraçâo (todas). </li>
+			<li>Jean Pierre Posit: Magie d’amour; L’horloge de ma vie</li></ul></td></tr>
+	<tr>	<th>Danza de Ángeles</th>
+		<td><ul><li>Relax with the classics: (4) (5) (13) (14).</li></ul></td></tr>
+	<tr>	<th>Grupo Compacto de Mesimiento</th>
+		<td><ul><li>El-Hadra: The mystik dance</li>
+			<li>Fafá de Belem: Tamba taja</li>
+			<li>Zamfir: Bilitis</li></ul></td></tr>
+	<tr>	<th colspan="2" align="left">Trance de Suspensión</th></tr>
+	<tr>	<td>1<sup>a</sup> Etapa</td>
+		<td><ul><li>Debussy: Clair de lune.</li></ul></td></tr>
+	<tr>	<td>2<sup>a</sup> Etapa</td>
+		<td><ul><li>Gounod: Ave María</li></ul></td></tr>
+	<tr>	<td>3<sup>a</sup> Etapa</td>
+		<td><ul><li>George Harrison: I’d have you anytime</li></ul></td></tr>
+	<tr>	<td>4<sup>a</sup> Etapa</td>
+		<td><ul><li>Vivaldi: Gloria, RV 598.</li></ul></td></tr>
+</tbody>
+</table>
 
 
 
