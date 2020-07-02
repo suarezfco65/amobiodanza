@@ -454,7 +454,7 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 <p>Biodanza no es un sistema solipsista ni de comunicación verbal. Su poder está en la inducción recíproca de vivencias entre los participantes del grupo. Las situaciones de encuentro tienen el poder de cambiar profundamente actitudes y formas de relacionamiento humano.</p>
 <p>La forma de integración del grupo en Biodanza se diferencia radicalmente de la dinámica de grupo tradicional.</p> 
 `+finNivel2()+`
-`+inicioNivel2('7','ASPECTOS METODOLÓGICOS')+`
+`+inicioNivel2('8','ASPECTOS METODOLÓGICOS')+`
 
 <table>
 <thead>
