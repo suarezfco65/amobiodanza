@@ -423,8 +423,8 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 <p>Biodanza induce estados de plenitud, y frecuentemente de éxtasis, a través de ejercicios de afectividad y trascendencia. Los estados de expansión de conciencia tienen un efcto perdurable respecto al sentido de la existencia y al modo de ser en el mundo,  y consisten en un éxtasis por toda la creación, sus bosques, animales y en especial las personas.</p>
 <p>La experiencia enteógena es “el despertar de lo divino en el hombre”. Tiene dos aspectos: 
 <ol type="a"> 
-<li><u>Éxtasis</ul> (vínculo con el mundo externo y con las personas): La profundización de este estado puede conducir al éxtasis contemplativo con llanto frente a la belleza indescriptible de la realidad, unido a la pérdida del límite corporal e intenso placer. También puede producirse una profunda identificación con la esencia de una persona, causando una comprensión absoluta de ella y logrando sentir una emoción intensa de amor y fraternidad. El estado de placer cenestésico es cuando una persona se abandona a “ser sí misma” y, de pronto, es un médium de la música, es decir que el “individuo es música”. Se produce cuando se danza con los ojos cerrados, en profunda sensibilidad, lenta y armónicamente.</li>
-<li><u>Íntasis</ul> (vínculo consigo mismo): Es la súbita ampliación de conciencia unida a la vivencia emotiva de “estar vivo” por primera y única vez, concentrando todas las posibilidades de ser.  Esta vivencia va acompañada de un sentimiento de belleza y plenitud. Es sentirse parte viva de una totalidad orgánica, unido a un sentimiento de eternidad (atemporalidad). La vivencia corporal es pulsante, con sensaciones de escalofrío y piloerección.</li>
+<li><u>Éxtasis</u> (vínculo con el mundo externo y con las personas): La profundización de este estado puede conducir al éxtasis contemplativo con llanto frente a la belleza indescriptible de la realidad, unido a la pérdida del límite corporal e intenso placer. También puede producirse una profunda identificación con la esencia de una persona, causando una comprensión absoluta de ella y logrando sentir una emoción intensa de amor y fraternidad. El estado de placer cenestésico es cuando una persona se abandona a “ser sí misma” y, de pronto, es un médium de la música, es decir que el “individuo es música”. Se produce cuando se danza con los ojos cerrados, en profunda sensibilidad, lenta y armónicamente.</li>
+<li><u>Íntasis</u> (vínculo consigo mismo): Es la súbita ampliación de conciencia unida a la vivencia emotiva de “estar vivo” por primera y única vez, concentrando todas las posibilidades de ser.  Esta vivencia va acompañada de un sentimiento de belleza y plenitud. Es sentirse parte viva de una totalidad orgánica, unido a un sentimiento de eternidad (atemporalidad). La vivencia corporal es pulsante, con sensaciones de escalofrío y piloerección.</li>
 </ol>
 <table>
 <thead>
@@ -547,15 +547,128 @@ El advenimiento de la música contemporánea se caracteriza por haberse desligad
 		<td><ul><li>Vivaldi: Gloria, RV 598.</li></ul></td></tr>
 </tbody>
 </table>
-
-
-
-
+<h4>Características de las música para las cinco líneas de vivencia</h4>
+<table>
+<thead>
+	<tr><th>Líneas de Vivencia</th><th>Características</th></tr>
+</thead>
+<tbody>
+	<tr><td>Vitalidad</td>
+	<td><ul><li>Género rítmico</li>
+		<li>Ritmo contagioso</li>
+		<li>Alegría-Euforia</li>
+		<li>Velocidad</li>
+		<li>Ímpetu al salto, al grito, a juegos </li></ul></td></tr>
+	<tr><td>Sexualidad</td>
+	<td><ul><li>Género melódico</li>
+		<li>Colorido Emocional</li>
+		<li>Intensidad del Sentimiento</li>
+		<li>Eros en la voz del cantante</li>
+		<li>En forma secundaria, la letra</li></ul></td></tr>
+	<tr><td>Creatividad</td>
+	<td><ul><li>En especial, música selecta</li>
+		<li>Riqueza de contenidos simbólicos</li>
+		<li>Intensidad del sentimiento</li></ul></td></tr>
+	<tr><td>Afectividad</td>
+	<td><ul><li>Género melódico</li>
+		<li>Lirismo</li>
+		<li>Romanticismo</li>
+		<li>Suave Erotismo</li>
+		<li>Canciones de cuna (y melodias que trasladan a la infancia)</li></ul></td></tr>
+	<tr><td>Trascendencia</td>
+	<td><ul><li>Género: armonía</li>
+		<li>Melodias infinitas</li>
+		<li>Profunda armonía</li>
+		<li>Elementos de la naturaleza</li></ul></td></tr>
+</tbody>
+</table>
+<h4>Principios del Encuentro corporal</h4>
+<p>El encuentro corporal es, tal vez, la ceremonia más trascendente de la existencia. Es la creación de una energía nueva que tiene una cualidad diferente de la energía individual y cuyo efecto es profundamente transformador.</p>
+<p>El encuentro interhumano tiene diversos aspectos comportamentales y vivenciales cuyo estudio contribuye a su comprensión. Uno de los ejercicios fundamentales en Biodanza es la Ceremonia de Encuentro.</p>
+<p>Muchos ejercicios de Biodanza abarcan el Encuentro Corporal y poseen características diversas:
+<ol>
+<li><b>Sintonía (magnetismo inicial)</b>
+	<ul><li>Danzas de aproximación y encuentro.</li>
+	<li>Encuentro de manos en grupo.</li></ul></li>
+<li><b>Iniciativa Recíproca</b>
+	<ul><li>Acariciamiento recíproco de rostro, cabello, manos y del cuerpo en su totalidad..</li></ul></li>
+<li><b>Sincronicidad</b>
+	<ul><li>Danzas de complementación (ocupación de los espacios vacíos).</li></ul></li>
+<li><b>Fluidez</b>
+	<ul><li>Ejercicios de fluidez</li>
+	<li>Danza de fluidez</li>
+	<li>Danza de fluidez en parejas</li>
+	<li>Fluidez en grupo</li>
+	<li>Fluidez en el suelo</li>
+	<li>Fluidez en el agua</li></ul></li>
+<li><b>Diálogo Psicotónico<b>
+	<ul><li>Danza Eutónica</li>
+	<li>Eutonía de manos y pies</li></ul></li>
+<li><b>Eurrítmia</b>
+	<ul><li>Zamba 5 rítmico</li>
+	<li>Danza Eurrítmica (seguir el movimiento del otro por detrás)</li>
+	<li>Danza del trabajo</li>
+	<li>Juego de zamba</li></ul></li>
+<li><b>reciprocidad (relación en “feed-back”)</b>
+	<ul><li>Diálogo de contacto</li>
+	<li>Contacto en “feed-back” en el suelo</li>
+	<li>Fluidez en pareja</li>
+	<li>Danza del Amor I</li>
+	<li>Ronda de Comunicación</li>
+	<li>Ronda de Contacto</li>
+	<li>Ronda Giratoria</li>
+	<li>Coordinación rítmica en parejas</li></ul></li>
+<li><b>Integración</b>
+	<ul><li>Danza en pareja con integración de los tres centros (mentales-afectivo-sexual)</li>
+	<li>Ejercicios de Acariciamiento (integración afectivo-motora)</li>
+	<li>Zamba 5 melódico</li>
+	<li>Danza de integración en tríade</li>
+	<li>Grupo Compacto</li>
+	<li>Abrazo de fusión</li></ul></li>
+<li><b>Diversificación</b>
+	<ul><li>Fluidez en pareja con acariciamiento</li>
+	<li>Danza de contacto mínimo</li>
+	<li>Contacto en “feb-back” en el suelo</li></ul></li>
+<li><b>Compresión - Descompresión<b>
+	<ul><li>Compresión – descompresión de manos</li>
+	<li>Compresión – descompresión de abrazo</li></ul></li>
+<li><b>Incondicionalidad</b>
+	<ul><li>Danza Eurrítmica</li></ul></li>
+<li><b>Expresividad<b>
+	<ul><li>Grupo compacto con sonido</li>
+	<li>Danza de DAR, DARSE, PEDIR, RECIBIR (posiciones generatrices).</li></ul></li>
+</ol></p>
+<h4>Ritmo</h4>
+<p>El ritmo es un padrón de regularidades cósmicas que se manifiestan en los sistemas vivientes (ritmos metabólicos, sexuales, hormonales, respiratorios y cardíacos).</p>
+<p>En la naturaleza están los ritmos del día y de la noche, de las estaciones y en el comportamiento de los átomos y de los astros.</p>
+<p>El ritmo del corazón no es una sucesión matemática regular; este ritmo es regulado en cada instante por las emociones. La complejidad efectiva modula suavemente la regularidad del ritmo eléctrico del corazón.</p>
+<p>La danza rítmica conecta lo humano con lo cósmico. Así lo han comprendido todos los pueblos primitivos.</p>
+<p>La experiencia de la danza une los incidental humano con lo universal. Por esta razón la danza pone en marcha los procesos trascendentes.</p>
 
  
-45    Aspectos metodológicos 
-•	Características de las música para las cinco líneas de vivencia 
-•	Ritmo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 •	Ritmos orgánicos y motricidad 
 •	Evolución del concepto de armonía 
 •	Test Musical 
