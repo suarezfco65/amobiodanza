@@ -1,7 +1,7 @@
 function m23()  {
     var s='';
     s += inicioNivel2('1','MODELO TEÓRICO DE BIODANZA Y MÚSICA')+`
-<op>
+<ol>
 <li>Semenjanzas entre el modelo teórico de Biodanza y la estructura de una cantata.<li>
 <li>Identidad y música.<li>
 <li>La vivencia oceánica<li>
@@ -37,7 +37,7 @@ Armonía con otro.<li>
 <li>La música creativa.<li>
 <li>Creación musical y danza creativa.<br>
 Niveles de experiencia musical.<li>
-</op>
+</ol>
 `+finNivel2()+`
 `+inicioNivel2('2','HACIA UNA SEMÁNTICA MUSICAL')+`
 `+finNivel2()+`
