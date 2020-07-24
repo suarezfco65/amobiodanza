@@ -123,7 +123,7 @@ creando una nueva canción<br>
 <p>Es indispensable descubrir el contenido emocional de la música:</p>
 <p>Ejemplo:<br>
 <center>
-
+</center>
 `+finNivel2()+`
 `+inicioNivel2('6','EJEMPLOS DE EJERCICIOS Y MÚSICAS EN RELACIÓN AL PRECESO DE INTEGRACIÓN Y LAS LÍNEAS DE VIVENCIA')+`
 `+finNivel2()+`
