@@ -158,7 +158,7 @@ Físico americano, estudio acústica de ambientes cerrados.</p>
 <p>En sus últimos años se asoció con varios científicos para investigar las imágenes, con escaner de las diversas zonas del cerebro y las neurológicas a la audición de músicas diferentes.</p>
 <p>Por otra parte, trabajó en diversas escuelas elementales en Londres y Paris para investigar cambios de conducta en los niños.</p>
 <p>Yo por mi parte le comunicaba mis utopías con Biodanza en niños y adultos y el efecto de la música de las danzas integrativas y de la poética del encuentro. Yehudi Menhuin comprendió muy a fondo la importancia de unir nuestros sueños.</p>
-<p><i>“Es la música la que entrega lo espiritual y lo sensual. Puede trasmitir el éxtasis libre de culpa, la fé sin dogma, el amor como un homenaje, y al propio hombre conviviendo con la naturaleza y el infinito”</p>
+<p><i>“Es la música la que entrega lo espiritual y lo sensual. Puede trasmitir el éxtasis libre de culpa, la fé sin dogma, el amor como un homenaje, y al propio hombre conviviendo con la naturaleza y el infinito”</i></p>
 `+finNivel2()+`
 `+inicioNivel2('5','ASPECTOS PSICOLÓGICOS')+`
 <h4>La Percepción Musical como Experiencia de Totalidad</h4>
@@ -757,7 +757,7 @@ Transcripción musical de la estructura de algunos cristales. Hans Kayser, Von K
 <p>Raramente podemos usar obras atonales o dodecafónicas por la ausencia de armonía, falta de flujo argumental emotivo y por los ritmos tan variados.</p>
 <p>Algunas de estas obras tal vez no contribuyen a integrar los movimientos.</p>
 `+finNivel2()+`
-`+inicioNivel2('11','Bibliografía:')+`
+`+inicioNivel2('11','BIBLIOGRAFÍA:')+`
 <p><b>Frehtman, Carlos D.</b>, “O Tao Da Música”. Editorial Pensamiento, Buenos Aires, Argentina, 1985.</p>
 <p><b>Cotte Roger</b>, J.V. “Música y Simbolismo”. Editorial Cultrix, Sao Paulo, Brasil, 1988.</p>
 <p><b>Gadner Howard</b>, “Arte, Mente y Cerebro”. Editorial Paidos, Barcelona, España – Buenos Aires, Argentina – México, 1999.</p>
