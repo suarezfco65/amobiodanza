@@ -76,14 +76,54 @@ mitasmáticos: la experiencia del tiempo está, entonces, en el centro de la sem
 estilo.<sup>
 </center>
 <p>Una investigación realizada por Michel Imberty tiene, para nosotros, un extraordinario interés. Este investigador se propone determinar el impacto de ciertos fragmentos musicales sobre la organización de los adjetivos que describen dichos textos e, inversamente, el impacto de los adjetivos sobre las diferenciaciones perceptivas de los fragmentos musicales. He aquí un ejemplo de este tipo de análisis semántico sobre fragmentos musicales extraídos de <a target="_blank" href="https://www.youtube.com/watch?v=Gok5osGeKa8"> “Los Preludios” de Debussy</a>.</p>
-
-<p>En Biodanza utilizamos una metodología más simple, pero dentro de la misma concepción. Los adjetivos se organizan dentro de las categorías de las cinco líneas de vivencia y se confrontan con las obras musicales. Así, por ejemplo, dentro de la línea de vitalidad utilizaremos adjetivos como: euforizante, tranquilizador, energizante, alegre, vital, etc. En la línea de afectividad: tierno, solidario, amable, cálido. En la línea de la sexualidad: erótico, sensual, apasionado. En la línea de la creatividad: profundo, diverso, intenso, grandioso, misterioso. En la línea de trascendencia: armónico, sublime, oceánico, eterno, ilimitado. Esto nos permite combinar músicas con características generalmente percibidas como eróticas con ejercicios de erotismo. Así, cuando queremos inducir una vivencia erótica a través de ejercicios de acariciamiento, es más probable que obtengamos el efecto deseado con una canción de amor brasilera que con una balada solitaria de música andina. Pensamos que una canción interpretada por María Creuza (<a target="_blank" href="https://www.youtube.com/watch?v=Ar0jh7jDT1k">Ej.</a>), Nana Caymmi (<a target="_blank" href="https://www.youtube.com/watch?v=WY8HsJ1r6bY">Ej.</a>, María Bethania (<a target="_blank" href="https://www.youtube.com/watch?v=uIK4MnrZuFs">Ej.</a>), hablan mucho más al erotismo que la soledad metafísica de Neil Diamond. Si queremos inducir vivencias de trascendencia, podemos usar algún preludio de Bach, el “Aleluya del Mesías” de Haendel, con más éxito que una sinfonía de Tchaikovsky. Si buscamos, dentro de la línea de afectividad, utilizaremos, por ejemplo, la “Zamba en Preludio”, de Vinicius de Morais, en lugar de la violencia creativa de los Rolling Stones. </p>
+<center>
+<img src="impacto de ciertos fragmentos musicales.png">
+</center>
+<p>En Biodanza utilizamos una metodología más simple, pero dentro de la misma concepción. Los adjetivos se organizan dentro de las categorías de las cinco líneas de vivencia y se confrontan con las obras musicales. Así, por ejemplo, dentro de la línea de vitalidad utilizaremos adjetivos como: euforizante, tranquilizador, energizante, alegre, vital, etc. En la línea de afectividad: tierno, solidario, amable, cálido. En la línea de la sexualidad: erótico, sensual, apasionado. En la línea de la creatividad: profundo, diverso, intenso, grandioso, misterioso. En la línea de trascendencia: armónico, sublime, oceánico, eterno, ilimitado. Esto nos permite combinar músicas con características generalmente percibidas como eróticas con ejercicios de erotismo. Así, cuando queremos inducir una vivencia erótica a través de ejercicios de acariciamiento, es más probable que obtengamos el efecto deseado con una canción de amor brasilera que con una balada solitaria de música andina. Pensamos que una canción interpretada por María Creuza (<a target="_blank" href="https://www.youtube.com/watch?v=Ar0jh7jDT1k">Ej.</a>), Nana Caymmi (<a target="_blank" href="https://www.youtube.com/watch?v=WY8HsJ1r6bY">Ej.</a>, María Bethania (<a target="_blank" href="https://www.youtube.com/watch?v=uIK4MnrZuFs">Ej.</a>), hablan mucho más al erotismo que la soledad metafísica de Neil Diamond (<a target="_blank" href="https://www.youtube.com/watch?v=MTAzsMWSYIo">Ej.</a>). Si queremos inducir vivencias de trascendencia, podemos usar algún preludio de Bach, el <a target="_blank" href="https://www.youtube.com/watch?v=QdK5RThrp4I">“Aleluya del Mesías” de Haendel</a>, con más éxito que una sinfonía de Tchaikovsky. Si buscamos, dentro de la línea de afectividad, utilizaremos, por ejemplo, la <a target="_blank" href="https://www.youtube.com/watch?v=6-yiarMiNk8">“Zamba en Preludio”, de Vinicius de Morais</a>, en lugar de la violencia creativa de los Rolling Stones. </p>
 `+finNivel2()+`
 `+inicioNivel2('3','MÚSICA–MOVIMIENTO-VIVENCIA UNA ESTRUCTURA UNITARIA')+`
+<p>La eficacia de un ejercicio de Biodanza, radica en la profunda integración entre la música, el movimiento y la vivencia. Estos tres factores constituyen una gestalt en sentido estricto; un conjunto ‘organizado’, en que cada una de las partes es inseparable de la función de totalidad. En la definición de Kurt Lewin, “un sistema cuyas partes están dinámicamente conectadas, de tal modo que la modificación de una parte produce un cambio en todas las otras”.</p>
+<p>El distanciamiento semántico de estos tres elementos, constituiría la reproducción experimental de la disociación esquizofrénica, en que percepción, motricidad y emoción funcionan independientemente. Un criterio para el diagnóstico de los ‘niveles de disociación’ sería la descripción del desajuste entre música, movimiento y expresión de la persona que danza.</p>
+<p>La influencia recíproca entre música-movimiento-emoción, se evidencia cuando se realiza un mismo ejercicio con músicas diferentes: el resultado son vivencias distintas. Por ejemplo: el ejercicio de integración de los centros pelviano, pectoral y cefálico, cuyo objetivo es reforzar los circuitos de retroalimentación entre los aspectos erótico, afectivo y mental, debe realizarse con una música que estimule el proceso de integración de los tres referidos centros. Si se ejecuta con el “Andante” del <a targte="_blank" href="https://www.youtube.com/watch?v=WkD9nC1M688">Concierto Brandeburgués Nº1 de Bach</a>, se estimula una vivencia de armonía y un aumento de la conciencia cósmica, pero no se obtiene el objetivo del ejercicio: la integración corporal se torna vivencia de trascendencia. El mismo ejercicio, realizado con la canción <a target="_blank" href="https://www.youtube.com/watch?v=Pb25TRA5fmI">“Graças a Deus”, cantada por María Creuza</a>, produce un estado de integración corporal, con fuerte matiz erótico.</p>
+<p>Las vivencias pueden, además, ser perturbadas, promovidas o exacerbadas por situaciones de grupo. El sutil espejo del ánimo puede ser opacado por situaciones casi imperceptibles, como por ejemplo, la proximidad de una persona tóxica. La estructura de grupo posee elementos determinantes: puede ser permisiva o represiva, tóxica o feliz, armoniosa o disociada. Los patrones desencadenantes de vivencias deben, por lo tanto, tener una extraordinaria carga intencional para conservar, a pesar de esos factores perturbadores, su eficacia. <a target="_blank" href="https://www.youtube.com/watch?v=0Ib1Ww1dz_k">El ‘campo’, en el sentido de Kurt Lewin</a>, debe poseer un alto grado de unidad dinámica. Una danza de comunicación, realizada en grupos diferentes, puede inducir fraternidad, erotismo, sentimientos de culpa y, aún, agresión. Todas estas vivencias, sin embargo, pertenecen al ‘campo’ de la comunicación y afectividad. Frente a estas consideraciones, comprendemos la delicada responsabilidad técnica que tiene el profesor de Biodanza y la sensibilidad y asertividad que requiere para lograr resultados efectivos.</p>
+<p>Los ejercicios de Biodanza tendrán en cada persona una resonancia y un grado de intensidad diferentes. No obstante, el patrón inductor apuntará siempre a una de las cinco líneas de vivencia. De este modo, una música unida a determinado ejercicio producirá, en cada miembro del grupo, vivencias afines, aunque de distinta intensidad y matiz, de acuerdo a los grados de represión y sensibilidad. Un alumno avanzado, dentro de un grupo de iniciantes, experimentará con mayor intensidad las vivencias invocadas por el patrón inductor, debido a que su capacidad para sentir está facilitada y la represión se encuentra disminuida.</p>
+<p>El programa de ejercicios y músicas para Biodanza, es el producto de un cuidadoso y paciente trabajo de selección y pesquisa, que ha demorado más de veinte años. Los principales criterios para su selección son:<br> 
+<ol type="a">
+<li>Potencial de integración (movimiento-emoción).</i> 
+<li>Potencial armonizador de la totalidad.</i> 
+<li>Potencial deflagador de la comunicación interhumana.</i> 
+<li>Potencial psicomotor arquetípico.</i> 
+<li>Potencial creativo.</i> 
+<li>Potencial de desenvolvimiento de la sensibilidad frente a la vida.</i> 
+</ol></p>
+<p>En esta selección quedan eliminados, por lo tanto, todos los ejercicios disociativos, los que refuerzan la inmovilidad o el hieratismo y ejercicios de orden mecánico.</p>
+<p>La unidad perfecta entre música y expresión, fue percibida ya en la antigüedad:</p>
+<p>“Eres la nota única<br>
+sobre la eternidad del<br>
+silencio Tu danza está<br>
+creando una nueva canción<br> 
+¿Quién eres caminando hacia el lago?”<br>
+(Anónimo chino, siglo XIV d.C)</p>
 `+finNivel2()+`
 `+inicioNivel2('4','CRITERIOS DE SELECCIÓN DE LAS MÚSICAS PARA BIODANZA')+`
+<ol>
+<li>Descripción del contenido emocional de la música: definir si el tema es alegre, triste, erótico, nostálgico, euforizante, tenebroso, desesperado, etc.</li>
+<li>Determinar a qué línea de vivencia pertenece la pieza musical.</li>
+<li>Observar la fuerza inductora de la música para movilizar vivencias.</li>
+<li>Diferenciar entre músicas orgánicas e inorgánicas. Si la música determina movimientos integrados o disociados.</li>
+<li>Observar si la música tiene un contenido emocional definido. Es importante que el tema se mantenga estable y que no sea divagación emocional.</li>
+<li>Separar claramente si el tema es alegre o triste.</li>
+<li>Observar si la música se ajusta al ejercicio y a la vivencia que se quiere inducir. La gestalt música-vivencia-movimiento debe ser perfecta.</li>
+<li>Observar que el texto de la canción no sea contradictorio a la vivencia que se quiere inducir.</li>
+<li>Cuidar que el pasaje de temas clásicos a temas ligeros no sea violento.</li>
+<li>Mejorar siempre la calidad musical sin perder de vista la fuerza inductora.</li>
+</ol>
 `+finNivel2()+`
 `+inicioNivel2('5','EJEMPLO ESQUEMÁTICO DE LA RELACIÓN ENTRE EMOCIÓN Y MÚSICA')+`
+<p>Es indispensable descubrir el contenido emocional de la música:</p>
+<p>Ejemplo:<br>
+<center>
+
 `+finNivel2()+`
 `+inicioNivel2('6','EJEMPLOS DE EJERCICIOS Y MÚSICAS EN RELACIÓN AL PRECESO DE INTEGRACIÓN Y LAS LÍNEAS DE VIVENCIA')+`
 `+finNivel2()+`
