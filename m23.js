@@ -142,7 +142,7 @@ creando una nueva canción<br>
     	cuadroTexto(667, 635, ['9-Path Metheny:','September.'],0)+
         
         cuadroTexto(395, 707, ['Erotismo  '])+
-    	cuadroTexto(375, 747, ['10-Natalie Kole: Unforgattable', '11-Natalie Kole: With love',  '12-Nana Caymmi'],0)+
+    	cuadroTexto(330, 747, ['10-Natalie Kole: Unforgattable', '11-Natalie Kole: With love',  '12-Nana Caymmi'],0)+
         linea(455, 120, 455, 700)+
         linea(255, 390, 655, 390)+
         linea(255, 160, 655, 620)+
@@ -165,6 +165,14 @@ creando una nueva canción<br>
 </ol>
 `+finNivel2()+`
 `+inicioNivel2('6','EJEMPLOS DE EJERCICIOS Y MÚSICAS EN RELACIÓN AL PRECESO DE INTEGRACIÓN Y LAS LÍNEAS DE VIVENCIA')+`
+<table>
+<thead>
+	<tr><th>Ejercicios</th><th>Músicas</th></tr>
+</thead>
+<tbody>
+	<tr><th>Fluidez</th><td><ul>
+</tbody>
+</table>
 `+finNivel2()+`
 `+inicioNivel2('7','ANEXO: CRITERIOS PARA LA SELECCIÓN DE MÚSICA EN LAS CINCO LÍNEAS DE VIVENCIAS')+`
 `+finNivel2();
