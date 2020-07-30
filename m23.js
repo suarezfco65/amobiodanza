@@ -123,7 +123,46 @@ creando una nueva canción<br>
 <p>Es indispensable descubrir el contenido emocional de la música:</p>
 <p>Ejemplo:<br>
 <center>
+<svg width="910" height="820">
+	`+
+        cuadroTexto(380,   07, ['Rabia','(Violencia)  '],2)+
+        cuadroTexto(320,   77, ['1-Ravel: Daphins et Cloé.'],0)+
+   	    cuadroTexto(57,  125, ['Miedo  '],2)+
+    	cuadroTexto(07,  165, ['2-Luigi Nono:','Como una ola de','fuerza y luz'],0)+
+    	cuadroTexto(57,  360, ['Alegría  '],2)+
+    	cuadroTexto(07,  400, ['4-Beht Carvalho:','Ao vivo no Olimpia.','5-Vivaldi:', 'Gloria.'],0)+
+    	cuadroTexto(57,  595, ['Melancolía '],2)+
+    	cuadroTexto(07,  635, ['8-Antonio Carlos Jobin e convidados:','Pra dizer a deus'],0)+
+        
+    	cuadroTexto(705, 125, ['Euforia  '],2)+
+    	cuadroTexto(667, 165, ['3-Gonzaguinha:','O que é o que é','o Talento de','Clara Nunes'],0)+
+    	cuadroTexto(675, 360, ['Desesperación  '],2)+
+    	cuadroTexto(667, 400, ['6-Wagner:','Preludio e','morte de Isolda','7-Mahler:','Sinfonía No 5', 'Adagietto.'],0)+
+    	cuadroTexto(690, 595, ['Melancolía  '],2)+
+    	cuadroTexto(667, 635, ['9-Path Metheny:','September.'],0)+
+        
+        cuadroTexto(395, 707, ['Erotismo  '])+
+    	cuadroTexto(375, 747, ['10-Natalie Kole: Unforgattable', '11-Natalie Kole: With love',  '12-Nana Caymmi'],0)+
+        linea(455, 120, 455, 700)+
+        linea(255, 390, 655, 390)+
+        linea(255, 160, 655, 620)+
+        linea(655, 160, 255, 620)+
+        `Sorry, your browser does not support inline SVG. 7.1875 
+</svg>
 </center>
+<ol>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=O4lzPz3NnI0">Ravel: Daphins et Cloé.</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=BY4iCqLYMWU">Luigi Nono: Como una ola de fuerza y luz</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=YSTHoC327mI">Gonzaguinha: O que é o que é o Talento de Clara Nunes</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=Rn5DkCHKWFs">Beht Carvalho: Ao vivo no Olimpia</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=OvZYhxT5Mf8">Vivaldi: Gloria</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=l0aLKnTJ_fA">Wagner preludio e morte di isotta</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=Les39aIKbzE">Mahler: Sinfonía No 5 Adagietto</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=ol8PD5IrZBM">Antonio Carlos Jobin e convidados: Pra dizer a deus</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=QxK1Mf6_yBw">Pat Metheny & Lyle Mays: September Fifteenth</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=JhAPKLH2I7Y">Natalie Kole: Unforgattable</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=9iiio4h60qU">Natalie Kole: With love</a></li>
+</ol>
 `+finNivel2()+`
 `+inicioNivel2('6','EJEMPLOS DE EJERCICIOS Y MÚSICAS EN RELACIÓN AL PRECESO DE INTEGRACIÓN Y LAS LÍNEAS DE VIVENCIA')+`
 `+finNivel2()+`
