@@ -353,35 +353,41 @@ creando una nueva canción<br>
 </table>
 `+finNivel2()+`
 `+inicioNivel2('7','ANEXO: CRITERIOS PARA LA SELECCIÓN DE MÚSICA EN LAS CINCO LÍNEAS DE VIVENCIAS')+`
-Música para Vitalidad 
-•	Alegre: vivaz. 
-•	Euforizante: excitante, exultante, entusiasta. 
-•	Energizante: energética, vigorosa, fuerte. 
- 
-Música para Sexualidad 
-•	Sensual: voluptuosa (que provoca deseo). 
-•	Erótica: afrodisíaca (que estimula el deseo sexual). 
-•	Apasionada: ardiente. 
- 
-Música para Trascendencia 
-•	Armónica: armoniosa. 
-•	Sublime: espléndida, maravillosa. 
-•	Oceánica: inmensa, grandiosa. 
-•	Eterna: sin tiempo. 
-•	Expansiva: sin confines. 
-Observación: es importante no usar músicas new age, debido a que sus contenidos evanescentes no ofrecen un tema claro para despertar vivencias. 
- 
-Música para Creatividad 
-•	Profunda: íntima. 
-•	Diversas: diferente, única. 
-•	Intensa: poderosa, suscita sentimientos de grandeza. 
- 
-Música para Afectividad 
-•	Tierna: dulce, delicada. 
-•	Solidaria: une, vincula. 
-•	Gentil: delicada, fina, cordial. 
-•	Romántica: sentimental, poética, apasionada, soñadora. 
-Observación: además se puede agregar ligereza y profundidad. 
+<h4>Música para Vitalidad</h4>
+<ul>
+<li>Alegre: vivaz.</li>
+<li>Euforizante: excitante, exultante, entusiasta</li>
+<li>Energizante: energética, vigorosa, fuerte</li>
+</ul>
+<h4>Música para Sexualidad</h4>
+<ul>
+<li>Sensual: voluptuosa (que provoca deseo).</li>
+<li>Erótica: afrodisíaca (que estimula el deseo sexual).</li>
+<li>Apasionada: ardiente.</li>
+</ul>
+<h4>Música para Trascendencia</h4>
+<ul>
+<li>Armónica: armoniosa.</li>
+<li>Sublime: espléndida, maravillosa.</li>
+<li>Oceánica: inmensa, grandiosa.</li>
+<li>Eterna: sin tiempo.</li>
+<li>Expansiva: sin confines.</li>
+</ul>
+<p>Observación: es importante no usar músicas new age, debido a que sus contenidos evanescentes no ofrecen un tema claro para despertar vivencias.</p>
+<h4>Música para Creatividad</h4>
+<ul>
+<li>Profunda: íntima.</li>
+<li>Diversas: diferente, única.</li>
+<li>Intensa: poderosa, suscita sentimientos de grandeza.</li>
+</ul>
+<h4>Música para Afectividad</h4>
+<ul>
+<li>Tierna: dulce, delicada.</li>
+<li>Solidaria: une, vincula.</li>
+<li>Gentil: delicada, fina, cordial.</li>
+<li>Romántica: sentimental, poética, apasionada, soñadora.</li>
+</ul>
+<p>Observación: además se puede agregar ligereza y profundidad.</p>
 `+finNivel2();
 return s;
 }
