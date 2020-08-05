@@ -349,13 +349,39 @@ creando una nueva canción<br>
                 </ul>
             </td>
         </tr>
- 
- 
- 
-
-
+    </tbody>
+</table>
 `+finNivel2()+`
 `+inicioNivel2('7','ANEXO: CRITERIOS PARA LA SELECCIÓN DE MÚSICA EN LAS CINCO LÍNEAS DE VIVENCIAS')+`
+Música para Vitalidad 
+•	Alegre: vivaz. 
+•	Euforizante: excitante, exultante, entusiasta. 
+•	Energizante: energética, vigorosa, fuerte. 
+ 
+Música para Sexualidad 
+•	Sensual: voluptuosa (que provoca deseo). 
+•	Erótica: afrodisíaca (que estimula el deseo sexual). 
+•	Apasionada: ardiente. 
+ 
+Música para Trascendencia 
+•	Armónica: armoniosa. 
+•	Sublime: espléndida, maravillosa. 
+•	Oceánica: inmensa, grandiosa. 
+•	Eterna: sin tiempo. 
+•	Expansiva: sin confines. 
+Observación: es importante no usar músicas new age, debido a que sus contenidos evanescentes no ofrecen un tema claro para despertar vivencias. 
+ 
+Música para Creatividad 
+•	Profunda: íntima. 
+•	Diversas: diferente, única. 
+•	Intensa: poderosa, suscita sentimientos de grandeza. 
+ 
+Música para Afectividad 
+•	Tierna: dulce, delicada. 
+•	Solidaria: une, vincula. 
+•	Gentil: delicada, fina, cordial. 
+•	Romántica: sentimental, poética, apasionada, soñadora. 
+Observación: además se puede agregar ligereza y profundidad. 
 `+finNivel2();
 return s;
 }
