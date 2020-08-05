@@ -312,6 +312,48 @@ creando una nueva canción<br>
         </tr>
     </tbody>
 </table>
+<table>
+    <thead>
+        <tr><th>Ejercicios</th><th>Músicas</th></tr> 
+    </thead>
+    <tbody>
+        <tr><th>Posiciones Generatrices.</th>
+            <td><ul>
+                <li>Gounod: Ave María.</li>
+                <li>Debussy: Claro de luna.</li>
+                <li>Convite para ouvir música à luz da oraçâo (todas).</li>
+                <li>Jean Pierre Posit: Magie d’amour; L’horloge de ma vie.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Danza de Ángeles.</th>
+            <td><ul>
+                <li>Relax with the classics: (4) (5) (13) (14).</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Grupo Compacto de Mecimiento.</th>
+            <td><ul>
+                <li>El-Hadra: The mystik dance.</li>
+                <li>Fafá de Belem: Tamba taja.</li>
+                <li>Zamfir: Bilitis.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Trance de Suspensión.</th>
+            <td><ul>
+                <li>1ª Etapa, Debussy: Clair de lune.</li>
+                <li>2ª Etapa, Gounod: Ave María.</li>
+                <li>3ª Etapa, George Harrison: I’d have you anytime.</li>
+                <li>4ª Etapa, Vivaldi: Gloria, RV 598.</li>
+                </ul>
+            </td>
+        </tr>
+ 
+ 
+ 
+
+
 `+finNivel2()+`
 `+inicioNivel2('7','ANEXO: CRITERIOS PARA LA SELECCIÓN DE MÚSICA EN LAS CINCO LÍNEAS DE VIVENCIAS')+`
 `+finNivel2();
