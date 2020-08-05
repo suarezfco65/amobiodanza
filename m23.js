@@ -166,12 +166,151 @@ creando una nueva canción<br>
 `+finNivel2()+`
 `+inicioNivel2('6','EJEMPLOS DE EJERCICIOS Y MÚSICAS EN RELACIÓN AL PRECESO DE INTEGRACIÓN Y LAS LÍNEAS DE VIVENCIA')+`
 <table>
-<thead>
-	<tr><th>Ejercicios</th><th>Músicas</th></tr>
-</thead>
-<tbody>
-	<tr><th>Fluidez</th><td><ul>
-</tbody>
+    <thead>
+        <tr><th>Ejercicios</th><th>Músicas</th></tr> 
+    </thead>
+    <tbody>
+        <tr><th>Fluidez.</th>
+            <td><ul>
+                <li>Jean Michel Jarré: Oxigene.</li>
+                <li>George Harrison: The light that has lighted the world. Isn’t it a pity.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Flexibilidad.</th>
+            <td><ul>
+                <li>Rythmes africains.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Levedad.</th>
+            <td><ul>
+                <li>Ella Fitzgerald: The wonderful world of Ella Fitzgerald; What is this thing called love.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Extensión.</th>
+            <td><ul>
+                <li>Taxi driver (film): Theme from Taxi driver.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr><th>Línea de Vivencia.</th><th>Músicas</th></tr>
+    </thead>
+    <tbody>
+        <tr><th>Vitalidad.</th>
+            <td><ul>
+                <li>Gippsy Kings: Djobi djoba.</li>
+                <li>Rythmes africains.</li>
+                <li>Batucada fantástica.</li>
+                <li>Traditional Jazz Band: It’s wonderful.</li>
+                <li>Guem et Zaka: Best of percusión.</li>
+                <li>Borodin: Danzas polovsian N° 17.</li>
+                <li>Beth Carvalho: The Best of Brasil (1) (3) (5) (6).</li>
+                <li>Ella Fitzgerald: Ella en Berlin: Mack the knife.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th colspan="2">Sexualidad</th></tr>
+        <tr><td>Pelvis</td>
+            <td><ul>
+                <li>Guitarre havaianne autentic. </li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Pulsación.</td>
+            <td><ul>
+                <li>Emilio Santiago: Aquarela brasileira, Ronda, Samba.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Encuentros con acariciamiento.</td>
+            <td><ul>
+                <li>Helen Merril (todas).</li>
+                <li>Morris Albert: Feellings.</li>
+                <li>Fafá de Belem: Tamba tajá, Cançâo de volta.</li>
+                <li>Nana Caymmi: Voz e sour (todas)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th>Creatividad.</th>
+            <td><ul>
+                <li>Eric Serra: The big blue, Aberture</li>
+                <li>Vangelis: Cariots of fire, Abraham’s theme.</li>
+                <li>Sibelius: Finlandia.</li>
+                <li>Kitaro: The light of the spirit, Sundance.</li>
+                <li>Duke Ellington y Jonh Coltrane: Stevie.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Danza Yin.</td>
+            <td><ul>
+                <li>Meditation 1 – Classical Relaxation: Schubert: Adagio quinteto de primavera (4)</li>
+                <li>Chopin: Noturno Nº 8 Op. 27.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Danza Yang-Yin.</td>
+            <td><ul>
+                <li>Beethoven: Sinfonía Nº 5.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th colspan="2">Afectividad.</th></tr>
+        <tr><td>Encuentros.</td>
+            <td><ul>
+                <li>Elis Regina: Fascinaçâo.</li>
+                <li>George Zamfir: Bilitis.</li>
+                <li>Maria Creuza: Convite para ouvir.</li>
+                <li>Fibich: Poeme, Op. 41, Nº 6.</li>
+                <li>Natalie Cole: Unforgettable.</li>
+                <li>Stan Getz: The bossa nova (Disco 3).</li>
+                </ul>
+            </td>
+        </tr> 
+        <tr><td>Danza telepática.</td>
+            <td><ul>
+                <li>Aretha Franklin: Unforgettable.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Danza para un ser ausente.</td>
+            <td><ul>
+                <li>Villalobos: Floresta amazónica.</li>
+                <li>Mahler: Sinfonía Nº5, adagietto.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><th colspan="2">Trascendencia.</th></tr> 
+        <tr><td>Danza de Shiva y Vishnu.</td>
+            <td><ul>
+                <li>The Mahabharata real world.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Abrazos de consuelo.</td>
+            <td><ul>
+                <li>Franz Liszt: Consolations.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Marcha de iluminación.</td>
+            <td><ul>
+                <li>Vangelis: 1492.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr><td>Bautismo de luz.</td>
+            <td><ul>
+                <li>Debussy: Clair de lune.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
 </table>
 `+finNivel2()+`
 `+inicioNivel2('7','ANEXO: CRITERIOS PARA LA SELECCIÓN DE MÚSICA EN LAS CINCO LÍNEAS DE VIVENCIAS')+`
