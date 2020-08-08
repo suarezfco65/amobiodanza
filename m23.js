@@ -172,26 +172,28 @@ creando una nueva canción<br>
     <tbody>
         <tr><th>Fluidez.</th>
             <td><ul>
-                <li>Jean Michel Jarré: Oxigene.</li>
-                <li>George Harrison: The light that has lighted the world. Isn’t it a pity.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=Sj7A8SX7ccI">Jean Michel Jarré: Oxigene</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=m1hcMyqlO0o">George Harrison: The light that has lighted the world</a>.</li>
+		<li><a target="_blank" href="https://www.youtube.com/watch?v=eDrLTW_sesI">George Harrison: Isn’t it a pity</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th>Flexibilidad.</th>
             <td><ul>
-                <li>Rythmes africains.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=OHA7wPPHhfM">Rythmes africains.</a></li>
                 </ul>
             </td>
         </tr>
         <tr><th>Levedad.</th>
             <td><ul>
-                <li>Ella Fitzgerald: The wonderful world of Ella Fitzgerald; What is this thing called love.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=7rsyA6h93Gw">Ella Fitzgerald: The wonderful world</a>.</li>
+		<li><a target="_blank" href="https://www.youtube.com/watch?v=qo2P7AhMbxk">Ella Fitzgerald: What is this thing called love</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th>Extensión.</th>
             <td><ul>
-                <li>Taxi driver (film): Theme from Taxi driver.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=Bx4aK-YsPeU">Bernard Herrmann: Taxi Driver (theme)</a>.</li>
                 </ul>
             </td>
         </tr>
@@ -204,27 +206,27 @@ creando una nueva canción<br>
     <tbody>
         <tr><th>Vitalidad.</th>
             <td><ul>
-                <li>Gippsy Kings: Djobi djoba.</li>
-                <li>Rythmes africains.</li>
-                <li>Batucada fantástica.</li>
-                <li>Traditional Jazz Band: It’s wonderful.</li>
-                <li>Guem et Zaka: Best of percusión.</li>
-                <li>Borodin: Danzas polovsian N° 17.</li>
-                <li>Beth Carvalho: The Best of Brasil (1) (3) (5) (6).</li>
-                <li>Ella Fitzgerald: Ella en Berlin: Mack the knife.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=oxNK7VBizac">Gippsy Kings: Djobi djoba</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=OHA7wPPHhfM">Rythmes africains</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=448qADNPBCY">Batucada fantástica</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=Gy-xj273_kU">Traditional Jazz Band: It’s wonderful</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=P6Rvsd-nWYc">Guem et Zaka: Best of percusión</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=LZnjkXiZ9u8">Borodin: Danzas polovsian N° 17</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=azOkw7bEPPo">Beth Carvalho: The Best of Brasil (1) (3) (5) (6)</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=6vXAtVbZbkI">Ella Fitzgerald: Ella en Berlin: Mack the knife</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th colspan="2">Sexualidad</th></tr>
         <tr><td>Pelvis</td>
             <td><ul>
-                <li>Guitarre havaianne autentic. </li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=l3rMEAirhbo">Guitarre havaianne autentic</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Pulsación.</td>
             <td><ul>
-                <li>Emilio Santiago: Aquarela brasileira, Ronda, Samba.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=N4YRgV4KOEs">Emilio Santiago: Aquarela brasileira, Ronda, Samba</a>.</li>
                 </ul>
             </td>
         </tr>
