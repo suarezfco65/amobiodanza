@@ -232,83 +232,85 @@ creando una nueva canción<br>
         </tr>
         <tr><td>Encuentros con acariciamiento.</td>
             <td><ul>
-                <li>Helen Merril (todas).</li>
-                <li>Morris Albert: Feellings.</li>
-                <li>Fafá de Belem: Tamba tajá, Cançâo de volta.</li>
-                <li>Nana Caymmi: Voz e sour (todas)</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=TQnjNAoRZyc&list=PL8qM0_1jmknW99SelOHJ0Sx-c9TVmmzrT&index=1">Helen Merril (todas)</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=oEbtf9DezqU">Morris Albert: Feellings</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/UOlzdNc2AxM">Fafá de Belem: Tamba tajá</a>.</li>
+		<li><a target="_blank" href="https://youtu.be/voINyfm6r4w">Fafá de Belem: Cançâo de volta</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/tBgtwfMVYjQ">Nana Caymmi: Voz e sour (todas)</a></li>
                 </ul>
             </td>
         </tr>
         <tr><th>Creatividad.</th>
             <td><ul>
-                <li>Eric Serra: The big blue, Aberture</li>
-                <li>Vangelis: Cariots of fire, Abraham’s theme.</li>
-                <li>Sibelius: Finlandia.</li>
-                <li>Kitaro: The light of the spirit, Sundance.</li>
-                <li>Duke Ellington y Jonh Coltrane: Stevie.</li>
+                <li><a target="_blank" href="https://youtu.be/4YSJGp9iV1k">Eric Serra: The big blue, Aberture</a></li>
+                <li><a target="_blank" href="https://youtu.be/hzF9uTtdZuI">Vangelis: Cariots of fire, Abraham’s theme</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/F5zg_af9b8c">Sibelius: Finlandia</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/kBQpbL8Iiu4">Kitaro: The light of the spirit</a></li>
+		<li><a target="_blank" href="https://youtu.be/nFnTpnt4YuU">Sundance</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/2OdOQEWEZa4">Duke Ellington y Jonh Coltrane: Stevie</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Danza Yin.</td>
             <td><ul>
-                <li>Meditation 1 – Classical Relaxation: Schubert: Adagio quinteto de primavera (4)</li>
-                <li>Chopin: Noturno Nº 8 Op. 27.</li>
+                <li><a target="_blank" href="https://youtu.be/vIiSp7wSyC8">Meditation 1 – Classical Relaxation: Schubert: Adagio quinteto de primavera (4)</a></li>
+                <li><a target="_blank" href="https://youtu.be/WNZBtYT1vF0">Chopin: Noturno Nº 8 Op. 27</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Danza Yang-Yin.</td>
             <td><ul>
-                <li>Beethoven: Sinfonía Nº 5.</li>
+                <li><a target="_blank" href="https://youtu.be/gkDbAWKkeX4">Beethoven: Sinfonía Nº 5</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th colspan="2">Afectividad.</th></tr>
         <tr><td>Encuentros.</td>
             <td><ul>
-                <li>Elis Regina: Fascinaçâo.</li>
-                <li>George Zamfir: Bilitis.</li>
-                <li>Maria Creuza: Convite para ouvir.</li>
-                <li>Fibich: Poeme, Op. 41, Nº 6.</li>
-                <li>Natalie Cole: Unforgettable.</li>
-                <li>Stan Getz: The bossa nova (Disco 3).</li>
+                <li><a target="_blank" href="https://youtu.be/EIyyFyZtQzE">Elis Regina: Fascinaçâo</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/K4WQoE-_aRE">George Zamfir: Bilitis</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/FLq_-oF0RCY">Maria Creuza: Convite para ouvir</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/-gwdwyQnjbQ">Fibich: Poeme, Op. 41, Nº 6</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/JhAPKLH2I7Y">Natalie Cole: Unforgettable</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/w7VGpKdX3f8">Stan Getz: The bossa nova (Disco 3)</a>.</li>
                 </ul>
             </td>
         </tr> 
         <tr><td>Danza telepática.</td>
             <td><ul>
-                <li>Aretha Franklin: Unforgettable.</li>
+                <li><a target="_blank" href="https://youtu.be/L4fpYvKNd6o">Aretha Franklin: Unforgettable</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Danza para un ser ausente.</td>
             <td><ul>
-                <li>Villalobos: Floresta amazónica.</li>
-                <li>Mahler: Sinfonía Nº5, adagietto.</li>
+                <li><a target="_blank" href="https://youtu.be/mrKYuN-IMMg">Villalobos: Floresta amazónica</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/Les39aIKbzE">Mahler: Sinfonía Nº5, adagietto</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th colspan="2">Trascendencia.</th></tr> 
         <tr><td>Danza de Shiva y Vishnu.</td>
             <td><ul>
-                <li>The Mahabharata real world.</li>
+                <li><a target="_blank" href="https://youtu.be/cqeGX69r7Rw">The Mahabharata real world</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Abrazos de consuelo.</td>
             <td><ul>
-                <li>Franz Liszt: Consolations.</li>
+                <li><a target="_blank" href="https://youtu.be/sUDqX4AZL7w">Franz Liszt: Consolations</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Marcha de iluminación.</td>
             <td><ul>
-                <li>Vangelis: 1492.</li>
+                <li><a target="_blank" href="https://youtu.be/R3MIVMjSVgM">Vangelis: 1492</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><td>Bautismo de luz.</td>
             <td><ul>
-                <li>Debussy: Clair de lune.</li>
+                <li><a target="_blank" href="https://youtu.be/CvFH_6DNRCY">Debussy: Clair de lune</a>.</li>
                 </ul>
             </td>
         </tr>
@@ -321,33 +323,34 @@ creando una nueva canción<br>
     <tbody>
         <tr><th>Posiciones Generatrices.</th>
             <td><ul>
-                <li>Gounod: Ave María.</li>
-                <li>Debussy: Claro de luna.</li>
-                <li>Convite para ouvir música à luz da oraçâo (todas).</li>
-                <li>Jean Pierre Posit: Magie d’amour; L’horloge de ma vie.</li>
+                <li><a target="_blank" href="https://youtu.be/cNM9AYYaXYY">Gounod: Ave María</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/CvFH_6DNRCY">Debussy: Claro de luna</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/iPnz8TyFUBo">Convite para ouvir música à luz da oraçâo (todas)</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/Onz1aCD3EE4">Jean Pierre Posit: Magie d’amour</a>.</li>
+		<li><a target="_blank" href="https://youtu.be/GwjAaWopwog">L’horloge de ma vie</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th>Danza de Ángeles.</th>
             <td><ul>
-                <li>Relax with the classics: (4) (5) (13) (14).</li>
+                <li><a target="_blank" href="https://youtu.be/hjpHv_ZOFWw">Relax with the classics: (4) (5) (13) (14)</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th>Grupo Compacto de Mecimiento.</th>
             <td><ul>
-                <li>El-Hadra: The mystik dance.</li>
-                <li>Fafá de Belem: Tamba taja.</li>
-                <li>Zamfir: Bilitis.</li>
+                <li><a target="_blank" href="https://youtu.be/JniV66yxhbw">El-Hadra: The mystik dance</a>.</li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=2XbzVwJPgeU&list=PLrt7VbxNS8rcjdkcm6BFThraAZ0JG9qzs">Fafá de Belem: Tamba taja</a>.</li>
+                <li><a target="_blank" href="https://youtu.be/K4WQoE-_aRE">Zamfir: Bilitis</a>.</li>
                 </ul>
             </td>
         </tr>
         <tr><th>Trance de Suspensión.</th>
             <td><ul>
-                <li>1ª Etapa, Debussy: Clair de lune.</li>
-                <li>2ª Etapa, Gounod: Ave María.</li>
-                <li>3ª Etapa, George Harrison: I’d have you anytime.</li>
-                <li>4ª Etapa, Vivaldi: Gloria, RV 598.</li>
+                <li>1ª Etapa, <a target="_blank" href="https://youtu.be/CvFH_6DNRCY">Debussy: Clair de lune</a>.</li>
+                <li>2ª Etapa, <a target="_blank" href="https://youtu.be/cNM9AYYaXYY">Gounod: Ave María</a>.</li>
+                <li>3ª Etapa, <a target="_blank" href="https://youtu.be/8mnDSI-fRp4">George Harrison: I’d have you anytime</a>.</li>
+                <li>4ª Etapa, <a target="_blank" href="https://youtu.be/DlCeEPUFUHQ">Vivaldi: Gloria, RV 598</a>.</li>
                 </ul>
             </td>
         </tr>
