@@ -532,7 +532,6 @@ Abandono y fusión con el ‘todo’.</td></tr>
 <p>En el Modulo nos acompanaran estudiantes del grupo que los precede y que tienen pendiente esta maratona.</p>
 <p>Los abrazo con alegria de encontrarnos pronto. Cualquier duda pueden llamarme . Florelena</p>
 `+finNivel2()+`
-<h3>OTROS PUNTOS</h3>
 `+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
 <p>El inicio de Biodanza en mi vida se da en un taller de desarrollo personal, al cual en un principio rechacé mucho en ir, ya con mis 50 años y con experiencias en varios talleres de desarrollo personal pensaba que otro taller sería igual o similar, al final accedí y asistí; debo confesar que fué diferente, como parte de las actividades de ese taller tuve una sesión de biodanza de la cual me sentí muy a gusto, hablo entonces de los origenes de Biodanza en mi, fue muy hermoso tomarnos las manos para una rueda de danza, luego desplazarme en caminatas con un sentido, también danzar a gusto con lo que se estaba sintiendo, ademas de danzas en conjunto con otras personas, desde ese momento se abrió en mi la necesidad de buscar y seguir en esa actividad, BIODANZA.</p> 
 <p>Y no se trata de que en oportunidades no haya realizado alguna actividad relacionada, donde nos tomemos las manos, donde se haga una ronda, donde se dance, donde haya contacto con los demas, etc; pero saber que esa actividad lo hacian con intensión y regularidad, me gustó, y la busque para continuarla.</p>
