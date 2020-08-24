@@ -58,11 +58,16 @@ function m24()  {
 <p>La parte práctica de la sesión de Biodanza es también llamada vivencia y consiste en una secuencia de ejercicios de Biodanza que deben realizarse después de la parte teórica. Cada ejercicio induce una vivencia singular. La parte práctica o ‘vivencia’ es una secuencia de diferentes y breves vivencias singulares, deflagradas por los ejercicios y sus respectivas músicas.</p>
 <h4>Estructura de la Vivencia de Biodanza (parte práctica de la sesión):</h4>
 <p>La vivencia debe ser estructurada según el Modelo Teórico de Biodanza. Durante la vivencia hay una continua pulsación entre dos polos, representados en el eje horizontal del Modelo Teórico: conciencia de la propia identidad y regresión.</p>
-
-
-
-
-
+<center>
+<svg width="910" height="820">
+	`+
+   	    cuadroTexto(57,   07, ['Conciencia de', 'si mismo'], 2)+
+    	cuadroTexto(705,  07, ['Regresión'], 2)+
+        cuadroTexto(395,  57, ['Pulsación'], 1)+
+        linea(120, 120, 705, 120)+
+        `Sorry, your browser does not support inline SVG. 7.1875 
+</svg>
+</center>
 `+finNivel2()+`
 <H4>CAPÍTULO II: LOS EJERCICIOS DE BIODANZA</H4>
 `+inicioNivel2('II-1','EFECTOS FISIOLOGIOS')+`
