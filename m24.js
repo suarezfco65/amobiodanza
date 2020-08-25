@@ -191,199 +191,211 @@ profundización lo reactivan. Además, prepara a los participantes para la reali
 ejercicios específicos de expresión de potenciales genéticos, organizados según las cinco
 líneas de vivencia.</p>
 `+inicioNivel2('III-1','EJEMPLOS DE EJERCICIOS DE INTEGRACIÓN MOTORA, AFECTIVO-MOTORA, COMUNICACIÓN AFECTIVA Y COMUNIÓN E INDICADOR DE DÓNDE COLOCARLOS EN LA ESTRUCTURA DE LA VIVENCIA')+`
-Ejercicios de Integración Motora:
- Ejercicios Básicos de Marcha
-Marcha sinérgica.
-Marcha fisiológica.
-Marcha con motivación afectiva.
-Coordinación rítmica a dos (caminar con otro).
-
-23-Metodología II 12
-Después de la ronda inicial, conviene proponer ejercicios de marcha. La marcha es
+<ol>
+<li><b><u>Ejercicios de Integración Motora:</u></b>
+<ul>
+<li><b><i>Ejercicios Básicos de Marcha</i></b>
+<ul>
+<li>Marcha sinérgica.</li>
+<li>Marcha fisiológica.</li>
+<li>Marcha con motivación afectiva.</li>
+<li>Coordinación rítmica a dos (caminar con otro).</li>
+</ul>
+<p>Después de la ronda inicial, conviene proponer ejercicios de marcha. La marcha es
 el comienzo de la danza y por esta razón estos ejercicios se realizan en la parte
 inicial de la sesión, lo que constituye una preparación de la motricidad para los
 ejercicios siguientes. En cada sesión conviene proponer solamente uno de los
-ejercicios básicos de marcha.
-La coordinación rítmica a dos es también un ejercicio de marcha y tiene un carácter
+ejercicios básicos de marcha.</p>
+<p>La coordinación rítmica a dos es también un ejercicio de marcha y tiene un carácter
 más complejo, ya que requiere sintonía con el compañero. Por esta razón es
 aconsejable colocar este ejercicio después de los de la marcha individual.
 Eventualmente, en algunas sesiones, la coordinación rítmica a dos puede reemplazar
-el ejercicio de marcha individual.
- Ejercicios de Ritmo y Sinergismo
-Variaciones rítmicas.
-Danzas rítmicas.
-Salto sinérgico.
-Danza con ritmos tropicales (por ejemplo: zamba, mambo, forró, cumbia).
-El entrenamiento rítmico ocupa un lugar fundamental en las sesiones de Biodanza y
+el ejercicio de marcha individual.</p></li>
+<li><b><i>Ejercicios de Ritmo y Sinergismo</i></b>
+<ul>
+<li>Variaciones rítmicas.</li>
+<li>Danzas rítmicas.</li>
+<li>Salto sinérgico.</li>
+<li>Danza con ritmos tropicales (por ejemplo: zamba, mambo, forró, cumbia).</li>
+</ul>
+<p>El entrenamiento rítmico ocupa un lugar fundamental en las sesiones de Biodanza y
 debe realizarse en la primera parte de la vivencia. El ritmo es una expresión natural
 del organismo y su más primitiva función, ya que presenta centenares de ritmos en
 perfecta armonía: ritmo cardíaco, respiratorio, peristáltico, entre otros. Por otra
 parte, la naturaleza presenta una infinidad de ritmos: ritmo nicto-emeral (ritmo del
 día y de la noche); ritmo de las estaciones del año; ritmo de las mareas; entre otros.
-Entonces el universo del ritmo es un universo de naturaleza primordial.
-La mayor parte de las personas posee la capacidad rítmica innata. Incluso en
+Entonces el universo del ritmo es un universo de naturaleza primordial.</p>
+<p>La mayor parte de las personas posee la capacidad rítmica innata. Incluso en
 personas psicóticas, en niños con síndrome de Down y en deficientes sensoriales
-esta capacidad se manifiesta.
-La danza rítmica es un ejercicio de integración sensorio-motora. Para realizar una
+esta capacidad se manifiesta.</p>
+<p>La danza rítmica es un ejercicio de integración sensorio-motora. Para realizar una
 danza rítmica, el bailarín debe combinar los estímulos auditivos provenientes de la
 música con su propia motricidad. Es evidente que los centros cerebrales de la
 audición y de la motricidad tienen que entrar en perfecta coordinación cuando una
 persona realiza una danza rítmica. Las personas arrítmicas revelan una disociación
-entre los estímulos que vienen del ambiente y sus propias respuestas motoras.
-Los ritmos tropicales, además de estimular el ritmo y la comunicación afectiva,
-tienen un efecto extraordinario sobre el humor endógeno.
-El sinergismo tiene un gran poder de integración, ya que la alternancia cruzada de
+entre los estímulos que vienen del ambiente y sus propias respuestas motoras.</p>
+<p>Los ritmos tropicales, además de estimular el ritmo y la comunicación afectiva,
+tienen un efecto extraordinario sobre el humor endógeno.</p>
+<p>El sinergismo tiene un gran poder de integración, ya que la alternancia cruzada de
 brazos y piernas unifica neurológicamente los centros motores de ambos
 hemisferios. El ejercicio de salto sinérgico debe también realizarse en la primera
-parte de la vivencia
- Ejercicios de Desplazamiento con Levedad
-Danza de desplazamiento con levedad.
-
-23-Metodología II 13
-Vals (desplazamiento, levedad y coordinación).
-Estos ejercicios pueden proponerse como alternativa a los ejercicios rítmicos en
+parte de la vivencia</p></li>
+<li><b><i>Ejercicios de Desplazamiento con Levedad</i></b>
+<ul>
+<li>Danza de desplazamiento con levedad.</li>
+<li>Vals (desplazamiento, levedad y coordinación).</li>
+</ul>
+<p>Estos ejercicios pueden proponerse como alternativa a los ejercicios rítmicos en
 alguna de las sesiones. Son ejercicios más complejos que los rítmicos ya que
 requieren del desplazamiento en el espacio, en perfecta coordinación con la
-melodía, estimulando además destreza, flexibilidad y levedad.
- Ejercicios de Extensión
-Extensión armónica.
-Extensión máxima.
-Elasticidad integrativa.
-Los ejercicios de extensión deben proponerse en el final de la primera parte de la
+melodía, estimulando además destreza, flexibilidad y levedad.</p></li>
+<li><b><i>Ejercicios de Extensión</i></b>
+<ul>
+<li>Extensión armónica.</li>
+<li>Extensión máxima.</li>
+<li>Elasticidad integrativa.</li>
+</ul>
+<p>Los ejercicios de extensión deben proponerse en el final de la primera parte de la
 vivencia. Después de la estimulación de la vitalidad, estos ejercicios producen una
 sensación de unidad de todo el cuerpo y de control motor. Eventualmente, se puede
-proponer el ejercicio de elasticidad integrativa en la segunda parte de la vivencia.
- Ejercicios de Fluidez
-Secuencias de fluidez.
-Danza libre de fluidez.
-Los ejercicios de fluidez constituyen un importante grupo de movimientos
+proponer el ejercicio de elasticidad integrativa en la segunda parte de la vivencia.</p></li>
+<li><b><i>Ejercicios de Fluidez</i></b>
+<ul>
+<li>Secuencias de fluidez.</li>
+<li>Danza libre de fluidez.</li>
+</ul>
+<p>Los ejercicios de fluidez constituyen un importante grupo de movimientos
 integradores, ya que relajación y tensión (yin y yang) se alternan en perfecta
-continuidad, generando procesos de integración muy profundos.
-Los ejercicios de fluidez tienen semejanza con los del Tai Chi Chuan, con la
+continuidad, generando procesos de integración muy profundos.</p>
+<p>Los ejercicios de fluidez tienen semejanza con los del Tai Chi Chuan, con la
 diferencia de que en la fluidez de Biodanza interviene el factor emotivo, inducido
-por la música.
-En los ejercicios de fluidez la energía fluye sin interrupción y con reducido control
+por la música.</p>
+<p>En los ejercicios de fluidez la energía fluye sin interrupción y con reducido control
 voluntario. En las danzas de fluidez, el danzarín se abandona a un flujo energético
-de gran interioridad.
-Los ejercicios de fluidez pueden proponerse como alternativa a los ejercicios de
-extensión, al final de la primera parte de la vivencia.
- Ejercicios de Disolución de Tensiones Crónicas
-Movimientos segmentarios.
-Integración motora y cenestésicas de los tres centros.
-Respiración abdominal.
-Respiración danzante.
-Estos ejercicios pueden proponerse como alternativa a los de extensión o fluidez, al
+de gran interioridad.</p>
+<p>Los ejercicios de fluidez pueden proponerse como alternativa a los ejercicios de
+extensión, al final de la primera parte de la vivencia.</p>
+<li><b><i>Ejercicios de Disolución de Tensiones Crónicas</i></b>
+<ul>
+<li>Movimientos segmentarios.</li>
+<li>Integración motora y cenestésicas de los tres centros.</li>
+<li>Respiración abdominal.</li>
+<li>Respiración danzante.</li>
+</ul>
+<p>Estos ejercicios pueden proponerse como alternativa a los de extensión o fluidez, al
 final de la primera parte de la vivencia. Esta alternativa tiene una dimensión más
 terapéutica. El problema de la somatización de tensiones emocionales, tanto en la
 musculatura como en los órganos, fue planteado por Wilhelm Reich. Los
-
-23-Metodología II 14
 movimientos segmentarios, la respiración abdominal y la respiración danzante, son
-ejercicios diseñados para disolver las tensiones crónicas a distintos niveles.
-Los ejercicios de extensión, fluidez y disolución de tensiones crónicas pueden
+ejercicios diseñados para disolver las tensiones crónicas a distintos niveles.</p>
+<p>Los ejercicios de extensión, fluidez y disolución de tensiones crónicas pueden
 combinarse en una misma sesión o realizarse alternativamente en diferentes
 sesiones. Es importante recordar que estos ejercicios deben proponerse
 reiteradamente en sucesivas sesiones, para que se estabilicen sus efectos
-integradores.
-2) Ejercicios de Integración Afectivo- Motora
-Sincronización rítmica.
-Sincronización melódica.
-Danzas de eutonía.
-Abanico chino.
-Ejercicios de expresividad.
-Ejercicios de contacto sensible.
-Los ejercicios de integración afectivo-motora permiten superar la disociación entre la
+integradores.</p></li>
+</ul></li>
+<li><b><u>Ejercicios de Integración Afectivo- Motora</u></b>
+<ul>
+<li>Sincronización rítmica.</li>
+<li>Sincronización melódica.</li>
+<li>Danzas de eutonía.</li>
+<li>Abanico chino.</li>
+<li>Ejercicios de expresividad.</li>
+<li>Ejercicios de contacto sensible.</li>
+</ul>
+<p>Los ejercicios de integración afectivo-motora permiten superar la disociación entre la
 afectividad y la acción. De este modo, el comportamiento (acción) es organizado por la
 afectividad, disminuyendo o eliminando eventuales tendencias a la manipulación y al
-uso de estrategias para obtener ventajas.
-La danza de sincronización rítmica melódica puede ubicarse indistintamente en la
+uso de estrategias para obtener ventajas.</p>
+<p>La danza de sincronización rítmica melódica puede ubicarse indistintamente en la
 primera o en la segunda parte de la vivencia. Cuando se coloca en la segunda parte,
-tiene la función de preparar al alumno para los ejercicios de afectividad.
-Los ejercicios de expresividad son más complejos, debido a que integran patrones
-motores específicos con todo el mundo emocional de una persona.
-Así por ejemplo la alegría, el éxtasis, el dolor, la depresión, el miedo, la rabia, el
+tiene la función de preparar al alumno para los ejercicios de afectividad.</p>
+<p>Los ejercicios de expresividad son más complejos, debido a que integran patrones
+motores específicos con todo el mundo emocional de una persona.</p>
+<p>Así por ejemplo la alegría, el éxtasis, el dolor, la depresión, el miedo, la rabia, el
 erotismo, la angustia, entre otros estados interiores, poseen patrones expresivos muy
 específicos de la musculatura del rostro y de los gestos, hasta el punto que constituyen
 un lenguaje corporal. Son ejemplos de ejercicios de expresividad: las danzas de los
 cuatro animales (expresión de los esquemas motores posturales del tigre, el
 hipopótamo, la serpiente y la grulla); las posiciones generatrices del código I y sus
 respectivas danzas; las danzas de expresión de emociones (alegría, tristeza, erotismo,
-etc.)
-Los ejercicios de expresividad pueden ubicarse en la mitad o en la segunda parte de la
-vivencia.
-Son ejemplos de ejercicios de contacto sensible la danza de contacto mínimo y la danza
+etc.)</p>
+<p>Los ejercicios de expresividad pueden ubicarse en la mitad o en la segunda parte de la
+vivencia.</p>
+<p>Son ejemplos de ejercicios de contacto sensible la danza de contacto mínimo y la danza
 sensible de contacto, también llamada sintonía silenciosa. Estos ejercicios pueden
-proponerse en la segunda parte de la vivencia.
-Los demás ejercicios de integración afectivo-motora, pueden ubicarse después de los
-de integración motora.
-
-23-Metodología II 15
-3) Ejercicios de Comunicación Afectiva y Comunión
-Todas las formas de encuentro.
-Minuto de eternidad.
-Ronda de mecimiento.
-Ronda de comunión.
-Fluidez en grupo con contacto sensible.
-Grupo compacto de mecimiento.
-Los ejercicios de comunicación afectiva y comunión deben proponerse en la segunda
+proponerse en la segunda parte de la vivencia.</p>
+<p>Los demás ejercicios de integración afectivo-motora, pueden ubicarse después de los
+de integración motora.</p></li>
+<li><b><u>Ejercicios de Comunicación Afectiva y Comunión</u></b>
+<ul>
+<li>Todas las formas de encuentro.</li>
+<li>Minuto de eternidad.</li>
+<li>Ronda de mecimiento.</li>
+<li>Ronda de comunión.</li>
+<li>Fluidez en grupo con contacto sensible.</li>
+<li>Grupo compacto de mecimiento.</li>
+</ul>
+<p>Los ejercicios de comunicación afectiva y comunión deben proponerse en la segunda
 parte de la vivencia, después de la precedente preparación realizada a través de los
-ejercicios de integración.
+ejercicios de integración.</p></li>
+</ol>
 `+finNivel2()+`
 `+inicioNivel2('III-2','EJEMPLOS DE EJERCICIOS ESPECÍFICOS DE EXPRESIÓN DE LOS POTENCIALES GENÉTICOS')+`
-Danza de conexión con la propia fuerza.
-• Danza de fluidez en pareja.
-• Grupo compacto de acariciamiento.
-• Danzas de amor.
-• Danza de la creación.
-• Rondas concéntricas de miradas.
-• Danza de la amistad.
-• Posiciones generatrices (códigos II y III).
-• Trance de suspensión.
-Nota: La ubicación de ejercicios específicos de cada línea de vivencia será ejemplificada en
-el ítem referente a las sesiones de profundización.
+<ul>
+<li>Danza de conexión con la propia fuerza.</li>
+<li>Danza de fluidez en pareja.</li>
+<li>Grupo compacto de acariciamiento.</li>
+<li>Danzas de amor.</li>
+<li>Danza de la creación.</li>
+<li>Rondas concéntricas de miradas.</li>
+<li>Danza de la amistad.</li>
+<li>Posiciones generatrices (códigos II y III).</li>
+<li>Trance de suspensión.</li>
+</ul>
+<p>Nota: La ubicación de ejercicios específicos de cada línea de vivencia será ejemplificada en
+el ítem referente a las sesiones de profundización.</p>
 `+finNivel2()+`
 `+inicioNivel2('III-3','EL PASAJE DE UN EJERCICIO A OTRO')+`
-El pasaje de un ejercicio a otro debe permitir el flujo vivencial. Es necesario, por lo tanto,
+<p>El pasaje de un ejercicio a otro debe permitir el flujo vivencial. Es necesario, por lo tanto,
 que la estructura de la sesión permita a los participantes fluir orgánicamente hacia nuevos
 niveles de intensidad y calidad vivencial, sin interrupción del estado orgánico y emocional.
 El pasaje entre dos niveles de intensidad vivencial se obtiene mediante ejercicios de
-armonización, suaves y neutrales.
-El pasaje desde los ejercicios ergotrópicos hacia aquellos trofotrópicos requiere un ejercicio
+armonización, suaves y neutrales.</p>
+<p>El pasaje desde los ejercicios ergotrópicos hacia aquellos trofotrópicos requiere un ejercicio
 intermedio de desaceleración que puede ser breve. Los ejercicios de armonización son muy
 útiles para hacer esta transición. Son ejemplos de ejercicios de armonización las secuencias
 de fluidez; la danza de extensión armónica; la sincronización melódica a dos; la danza a dos
 con zamba cadenciosa; el movimiento segmentario de pecho-brazos; y la danza sensible de
-brazos; entre otros.
-
-23-Metodología II 16
-El pasaje desde ejercicios trofotrópicos hacia aquellos ergotrópicos debe ser muy lento y
+brazos; entre otros.</p>
+<p>El pasaje desde ejercicios trofotrópicos hacia aquellos ergotrópicos debe ser muy lento y
 progresivo y debe realizarse mediante una activación leve que permita la elevación de
 identidad en forma suave. Es muy desagradable pasar bruscamente de vivencias regresivas
-hacia ejercicios muy activos.
+hacia ejercicios muy activos.</p>
 `+finNivel2()+`
 `+inicioNivel2('III-4','ACTIVACIÓN FINAL')+`
-En la fase final de la vivencia debe hacerse siempre el procedimiento de activación.
+<p>En la fase final de la vivencia debe hacerse siempre el procedimiento de activación.
 Durante la vivencia de Biodanza se induce una reducción momentánea de las funciones de
 vigilancia y control, con el objetivo de estimular las funciones límbico-hipotalámicas de
 autorregulación orgánica. Se llega a un momento de regresión en que todas las personas
 están en un estado relajado y cálido. Luego es necesario elevar la identidad para terminar la
-sesión.
-La activación final no debe ser intensa en ningún caso. Cuando se propone una activación
+sesión.</p>
+<p>La activación final no debe ser intensa en ningún caso. Cuando se propone una activación
 final intensa, muchos alumnos quedan eufóricos y dicen que la sesión fue magnífica, muy
 alegre, una fiesta. Este fenómeno me permite identificar a los que han entendido la
 propuesta de Biodanza y a aquellos que no. El estado interno de regresión es suave,
-maravilloso y las personas que han entendido permanecen en ese estado sereno.
-Sucede a veces, al final de la sesión, que algunos alumnos piden zambas muy activas o
+maravilloso y las personas que han entendido permanecen en ese estado sereno.</p>
+<p>Sucede a veces, al final de la sesión, que algunos alumnos piden zambas muy activas o
 empiezan a agitar a otras personas, destruyéndoles el efecto de renovación orgánica y
 existencial producido por el estado de regresión integradora. Es un problema de percepción,
 ya que algunos alumnos identifican erróneamente el estado de regresión con la tristeza.
 Esas personas no entienden la propuesta: los efectos del estado regresivo, inducido en
-Biodanza, son fundamentales para el proceso de conexión con la vida.
-Es necesario cultivar una sensibilidad para ver cómo fue el recorrido de la sesión y así
+Biodanza, son fundamentales para el proceso de conexión con la vida.</p>
+<p>Es necesario cultivar una sensibilidad para ver cómo fue el recorrido de la sesión y así
 comprender cómo es mejor terminarla. Al final de la vivencia, se alcanza un nivel óptimo
 de regulación térmica y una sensación general de armonía. Hacer una activación final
-intensa significa destruir esa armonía conseguida.
-Con este conocimiento, el profesor puede afinar su sensibilidad para organizar la sesión.
+intensa significa destruir esa armonía conseguida.</p>
+<p>Con este conocimiento, el profesor puede afinar su sensibilidad para organizar la sesión.</p>
 `+finNivel2();
 return s;
 }
