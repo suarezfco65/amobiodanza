@@ -712,6 +712,10 @@ var s='';
 <p>Recuerden el envio de su relato de vivencia al mail: relatosvivenciase7@gmail.com</p>
 <p>Si no has podido descargar el libro de Biodanza , trae un pende drive para pasartelo</p>
 <p>Confirma tu participación, abrazos. Florelena</p>
+`+finNivel2()+`
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+<p></p>
 `+finNivel2();
 return s;
 }
+// INCONSCIENTE VITAL Y PRINCIPIO BIOCÉNTRICO
