@@ -126,7 +126,7 @@ particularmente eficaz a nivel motor.</li>
 gestos a las emociones, en el sentido de reducir progresivamente la disociación
 afectivo-motora.</li>
 <hr>
-<sup>∗Hess, W. R.: Die Funktionelle Organisation des Vegetativen Nervensystems. Schawabe, Basel 1948.</sub>
+<sup>∗Hess, W. R.: Die Funktionelle Organisation des Vegetativen Nervensystems. Schawabe, Basel 1948.</sup>
 <li><b>Comunicación Afectiva y Comunión:</b> Son ejercicios que evocan vivencias de
 comunión a partir de la comunicación de los propios sentimientos y emociones entre
 los participantes del grupo, a través de los gestos, la mirada y el contacto sensible en
