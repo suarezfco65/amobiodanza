@@ -5,8 +5,8 @@ function m24()  {
 <p>La sesión de Biodanza es una fuente de vivencias y no un espectáculo, excepto cuando premeditadamente se crean coreografías en la línea de creatividad. Las sesiones tienen, por momentos, pasajes expresivos y eróticos de profunda intimidad, que se generan dentro del contexto de ceremonia sagrada en el sentido de sinceridad absoluta del encuentro. Dentro de este contexto trascendente, la sesión de Biodanza genera una libertad interior que jamás se alcanza en la vida pública.</p>
 <p>El lugar donde se realiza la sesión debe tener condiciones de dignidad y decoro propias de un ‘centro del mundo’, en el sentido junguiano, donde se inducen transformaciones internas. Debe poseer, además, las condiciones básicas de privacidad donde los participantes puedan tener encuentros auténticos, sin espectadores. No se puede, por lo tanto, realizar una sesión en un lugar público, en un bar o en otro recinto frecuentado por el público.</p>
 <p>El espacio privado de Biodanza, formado por el grupo que tiene ya la iniciación teórica y ritual, genera situaciones de liberación que para la mirada de un extraño puede resultar chocantes. La presencia de extraños es muy perjudicial porque no perciben el misterio de la vivencia y transmiten ulteriormente una imagen distorsionada. Es necesario, por lo tanto, preservar la belleza interior y la privacidad de la sesión de Biodanza, para que sea una auténtica ceremonia de transformación interna donde sea posible la veracidad del encuentro.</p>
-`;
-    s += inicioNivel2('I-1','SIGNIFICADO ANTROPOLÓGICO')+`
+`+finNivel2()+`
+`+inicioNivel2('I-1','SIGNIFICADO ANTROPOLÓGICO')+`
 <p>Considerando los antecedentes míticos en los que se inspira, la sesión de Biodanza es una ceremonia de celebración de la vida. Los participantes tienen que ser ‘iniciados’ dentro de un grupo estructurado y no se deben aceptar invitados ocasionales para contemplar la sesión.</p>
 <p>El cribo (cedazo) es un símbolo de iniciación y predestinación porque separa el grano de la paja, la vida de la muerte. En las ceremonias eleusianas de celebración de la vida, la ‘iniciación’ era un acto fundamental que permitía el acceso a los Misterios de Eleusis.</p>
 <center><img src="misteriosDeEulises.png"></center>
@@ -102,6 +102,7 @@ se realizan con los sonidos de la naturaleza.</p>
 algunos ejercicios de expresión mediante onomatopeyas, protolenguajes y la palabra
 poética.</p>
 <p>Biodanza no es autoritaria, por lo tanto, si un alumno no desea participar de un ejercicio, el profesor no insiste para que lo haga.</p>
+`+finNivel2()+`
 `+inicioNivel2('II-1','EFECTOS FISIOLOGIOS DE LOS EJERCICIOS DE BIODANZA')+`
 <p>Los ejercicios de Biodanza producen efectos bioquímicos y neurovegetativos que deben ser
 considerados en la estructuración de la vivencia de Biodanza. Algunos ejercicios estimulan
@@ -192,6 +193,7 @@ iniciación, estos ejercicios introducen el proceso de integración y en las ses
 profundización lo reactivan. Además, prepara a los participantes para la realización de los
 ejercicios específicos de expresión de potenciales genéticos, organizados según las cinco
 líneas de vivencia.</p>
+`+finNivel2()+`
 `+inicioNivel2('III-1','EJEMPLOS DE EJERCICIOS DE INTEGRACIÓN MOTORA, AFECTIVO-MOTORA, COMUNICACIÓN AFECTIVA Y COMUNIÓN E INDICADOR DE DÓNDE COLOCARLOS EN LA ESTRUCTURA DE LA VIVENCIA')+`
 <ol>
 <li><b><u>Ejercicios de Integración Motora:</u></b>
