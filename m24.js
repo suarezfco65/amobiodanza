@@ -401,18 +401,18 @@ intensa significa destruir esa armonía conseguida.</p>
 `+finNivel2()+`
 `+inicioNivel2('III-5','EJERCICIO DE CLASES')+`
 <table>	<thead>	<tr>	<th>Nro.</th>	<th>EJERCICIO</th>	<th>MUSICA</th>	<th>INTERPRETE</th>	<th>CONSIGNA</th>	</tr>	</thead>	
-	<tbody>	<tr>	<td>1</td>	<td>Ronda</td>	<td>La Vida eu Bonita</td>	<td></td>	<td>Conecta con la musica, dejate impregnar, permite que la musica te invada, y  danza.</td>	</tr>		
-		<tr>	<td>2</td>	<td>Caminar</td>	<td>Another on Bites The  Dust</td>	<td>Queen</td>	<td>Conectar consigo mismo y salir a caminar, con coraje.</td>	</tr>		
-		<tr>	<td>3</td>	<td>Danza Creativa</td>	<td>Alfie</td>	<td>Lily Allen</td>	<td>Liberacion de movimientos.</td>	</tr>		
-		<tr>	<td>4</td>	<td>Danza de la Orquesta</td>	<td>Violin Partita N3 BWV</td>	<td>Ralph Holmes</td>	<td>Elije tu instrumento musical y todos somos la orquesta.</td>	</tr>		
-		<tr>	<td>5</td>	<td>Romper Estructura</td>	<td>Industrial Revolucion, Part 3(Remastered)</td>	<td>Jean Michel  Jarre</td>	<td>Siempre hacemos el mismo camino,  comienza a experimentar la vida para el disfrute de toda tu humanidad.</td>	</tr>		
-		<tr>	<td>6</td>	<td>Repiracion Danzante</td>	<td>Barbara</td>	<td>Bia</td>	<td>No hay desplazamiento. Siente la vida a traves de tu respiracion.</td>	</tr>		
-		<tr>	<td>7</td>	<td>Danza Yin</td>	<td>Distance</td>	<td>Pat Metheny Group</td>	<td>Movimientos redondeados , pequeñitos.</td>	</tr>		
-		<tr>	<td>8</td>	<td>Danza para un ser Ausente</td>	<td>Melodia Sentimental</td>	<td>Leila Guimaraes</td>	<td>Cerrar ciclos, y situaciones pendientes por resolver, situaciones inconclusas,que me permiten entregarme a la vida plenamente</td>	</tr>		
-		<tr>	<td>9</td>	<td>Recibir la Gracia Divina</td>	<td>List:6 Consolations,s.172 No3</td>	<td>Daniel Barenboim</td>	<td>Recibir la Gracia Divina.</td>	</tr>		
-		<tr>	<td>10</td>	<td>Pocision de estrella</td>	<td>Ave  Maria</td>	<td>Ñao Tempo&Desiderata</td>	<td>Acostaditos en el piso, con ambas manos a los lados.</td>	</tr>		
-		<tr>	<td>11</td>	<td>Entregar la Flor o el Corazon</td>	<td>Emily Dickson</td>	<td>Marvin Hamlisch</td>	<td>Entregar el corazón</td>	</tr>		
-		<tr>	<td>12</td>	<td>Cierre de la Ronda </td>	<td>Lanca Perfume</td>	<td>Rita Lee</td>	<td></td>	</tr>	</tbody>	</table>
+	<tbody>	<tr>	<td>1</td>	<td>Ronda</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=g6Gkt4vX0xE'>O que é, O que é</a></td>	<td>Gonzaguinha</td>	<td>Conecta con la musica, dejate impregnar, permite que la musica te invada, y  danza.</td>	</tr>		
+		<tr>	<td>2</td>	<td>Caminar</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=rY0WxgSXdEE'>Another on Bites The  Dust</a></td>	<td>Queen</td>	<td>Conectar consigo mismo y salir a caminar, con coraje.</td>	</tr>		
+		<tr>	<td>3</td>	<td>Danza Creativa</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=Sr2Grfi3lFg'>Alfie</a></td>	<td>Lily Allen</td>	<td>Liberacion de movimientos.</td>	</tr>		
+		<tr>	<td>4</td>	<td>Danza de la Orquesta</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=uju--tMDar8'>Violin Partita N3 BWV</a></td>	<td>Ralph Holmes</td>	<td>Elije tu instrumento musical y todos somos la orquesta.</td>	</tr>		
+		<tr>	<td>5</td>	<td>Romper Estructura</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=--IzB637Glg'>Industrial Revolucion, Part 3(Remastered)</a></td>	<td>Jean Michel  Jarre</td>	<td>Siempre hacemos el mismo camino,  comienza a experimentar la vida para el disfrute de toda tu humanidad.</td>	</tr>		
+		<tr>	<td>6</td>	<td>Repiracion Danzante</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=Gg5I7EsqGn8'>Barbara</a></td>	<td>Bia</td>	<td>No hay desplazamiento. Siente la vida a traves de tu respiracion.</td>	</tr>		
+		<tr>	<td>7</td>	<td>Danza Yin</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=c7uPsljy0eY'>Distance</a></td>	<td>Pat Metheny Group</td>	<td>Movimientos redondeados , pequeñitos.</td>	</tr>		
+		<tr>	<td>8</td>	<td>Danza para un ser Ausente</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=qfCRHnLoWCU'>Melodia Sentimental</a></td>	<td>Leila Guimaraes</td>	<td>Cerrar ciclos, y situaciones pendientes por resolver, situaciones inconclusas,que me permiten entregarme a la vida plenamente</td>	</tr>		
+		<tr>	<td>9</td>	<td>Recibir la Gracia Divina</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=roFXldnkMqA'>List:6 Consolations,s.172 No3</a></td>	<td>Daniel Barenboim</td>	<td>Recibir la Gracia Divina.</td>	</tr>		
+		<tr>	<td>10</td>	<td>Pocision de estrella</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=aiu08L0ROkQ'>Ave  Maria</a></td>	<td>Ñao Tempo&Desiderata</td>	<td>Acostaditos en el piso, con ambas manos a los lados.</td>	</tr>		
+		<tr>	<td>11</td>	<td>Entregar la Flor o el Corazon</td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=DySN0OKoi3Y'>Emily Dickson</a></td>	<td>Marvin Hamlisch</td>	<td>Entregar el corazón</td>	</tr>		
+		<tr>	<td>12</td>	<td>Cierre de la Ronda </td>	<td><a target='_blank' href='https://www.youtube.com/watch?v=-nY31bga-GY'>Lanca Perfume</a></td>	<td>Rita Lee</td>	<td></td>	</tr>	</tbody>	</table>
 `+finNivel2();
 return s;
 }
