@@ -1,6 +1,6 @@
 function m24()  {
     var s='<H4>CAPÍTULO I: LA SESIÓN DE BIODANZA</H4>';
-    s += `
+    s += inicioNivel2('I-0','INTRODUCCIÓN')+`
 <p>La sesión de Biodanza es una ceremonia de transformación interna mediante la vivencia. Consiste en un proceso de integración de la identidad en sus aspectos viscerales y comportamentales. Como ceremonia, requiere cumplir con ciertas exigencias que le den estructura. No puede, por lo tanto, confundirse con una reunión danzante de carácter público y la privacidad es una condición esencial e indispensable para su realización.</p>
 <p>La sesión de Biodanza es una fuente de vivencias y no un espectáculo, excepto cuando premeditadamente se crean coreografías en la línea de creatividad. Las sesiones tienen, por momentos, pasajes expresivos y eróticos de profunda intimidad, que se generan dentro del contexto de ceremonia sagrada en el sentido de sinceridad absoluta del encuentro. Dentro de este contexto trascendente, la sesión de Biodanza genera una libertad interior que jamás se alcanza en la vida pública.</p>
 <p>El lugar donde se realiza la sesión debe tener condiciones de dignidad y decoro propias de un ‘centro del mundo’, en el sentido junguiano, donde se inducen transformaciones internas. Debe poseer, además, las condiciones básicas de privacidad donde los participantes puedan tener encuentros auténticos, sin espectadores. No se puede, por lo tanto, realizar una sesión en un lugar público, en un bar o en otro recinto frecuentado por el público.</p>
@@ -84,6 +84,7 @@ integración que dura toda la vida. Cada vivencia de Biodanza tiene una estructu
 del Modelo Teórico.</p>
 `+finNivel2()+`
 <H4>CAPÍTULO II: LOS EJERCICIOS DE BIODANZA</H4>
+`+inicioNivel2('II-0','INTRODUCCIÓN')+`
 <p>Los ejercicios de Biodanza tienen el objetivo de inducir vivencias, para estimular la
 expresión de los potenciales genéticos humanos, representados por las cinco líneas de
 vivencia.</p>
@@ -175,6 +176,7 @@ requiere una amplia experiencia y condiciones especiales de sensibilidad para in
 unidad música-movimiento-vivencia.</p>
 `+finNivel2()+`
 <H4>CAPÍTULO III: ESTRUCTURACIÓN DE LA PARTE VIVENCIAL</H4>
+`+inicioNivel2('III-0','INTRODUCCIÓN')+`
 <p>Para estructurar una vivencia de Biodanza es necesario seleccionar un número medio de
 diez ejercicios y ponerlos en secuencia, teniendo como criterio ordenador el aumento
 progresivo del grado de intensidad vivencial, desde el comienza hasta el final.</p>
@@ -396,6 +398,21 @@ comprender cómo es mejor terminarla. Al final de la vivencia, se alcanza un niv
 de regulación térmica y una sensación general de armonía. Hacer una activación final
 intensa significa destruir esa armonía conseguida.</p>
 <p>Con este conocimiento, el profesor puede afinar su sensibilidad para organizar la sesión.</p>
+`+finNivel2()+`
+`+inicioNivel2('III-5','EJERCICIO DE CLASES')+`
+<table>	<thead>	<tr>	<th>Nro.</th>	<th>EJERCICIO</th>	<th>MUSICA</th>	<th>INTERPRETE</th>	<th>CONSIGNA</th>	</tr>	</thead>	
+	<tbody>	<tr>	<td>1</td>	<td>Ronda</td>	<td>La Vida eu Bonita</td>	<td></td>	<td>Conecta con la musica, dejate impregnar, permite que la musica te invada, y  danza.</td>	</tr>		
+		<tr>	<td>2</td>	<td>Caminar</td>	<td>Another on Bites The  Dust</td>	<td>Queen</td>	<td>Conectar consigo mismo y salir a caminar, con coraje.</td>	</tr>		
+		<tr>	<td>3</td>	<td>Danza Creativa</td>	<td>Alfie</td>	<td>Lily Allen</td>	<td>Liberacion de movimientos.</td>	</tr>		
+		<tr>	<td>4</td>	<td>Danza de la Orquesta</td>	<td>Violin Partita N3 BWV</td>	<td>Ralph Holmes</td>	<td>Elije tu instrumento musical y todos somos la orquesta.</td>	</tr>		
+		<tr>	<td>5</td>	<td>Romper Estructura</td>	<td>Industrial Revolucion, Part 3(Remastered)</td>	<td>Jean Michel  Jarre</td>	<td>Siempre hacemos el mismo camino,  comienza a experimentar la vida para el disfrute de toda tu humanidad.</td>	</tr>		
+		<tr>	<td>6</td>	<td>Repiracion Danzante</td>	<td>Barbara</td>	<td>Bia</td>	<td>No hay desplazamiento. Siente la vida a traves de tu respiracion.</td>	</tr>		
+		<tr>	<td>7</td>	<td>Danza Yin</td>	<td>Distance</td>	<td>Pat Metheny Group</td>	<td>Movimientos redondeados , pequeñitos.</td>	</tr>		
+		<tr>	<td>8</td>	<td>Danza para un ser Ausente</td>	<td>Melodia Sentimental</td>	<td>Leila Guimaraes</td>	<td>Cerrar ciclos, y situaciones pendientes por resolver, situaciones inconclusas,que me permiten entregarme a la vida plenamente</td>	</tr>		
+		<tr>	<td>9</td>	<td>Recibir la Gracia Divina</td>	<td>List:6 Consolations,s.172 No3</td>	<td>Daniel Barenboim</td>	<td>Recibir la Gracia Divina.</td>	</tr>		
+		<tr>	<td>10</td>	<td>Pocision de estrella</td>	<td>Ave  Maria</td>	<td>Ñao Tempo&Desiderata</td>	<td>Acostaditos en el piso, con ambas manos a los lados.</td>	</tr>		
+		<tr>	<td>11</td>	<td>Entregar la Flor o el Corazon</td>	<td>Emily Dickson</td>	<td>Marvin Hamlisch</td>	<td>Entregar el corazón</td>	</tr>		
+		<tr>	<td>12</td>	<td>Cierre de la Ronda </td>	<td>Lanca Perfume</td>	<td>Rita Lee</td>	<td></td>	</tr>	</tbody>	</table>
 `+finNivel2();
 return s;
 }
