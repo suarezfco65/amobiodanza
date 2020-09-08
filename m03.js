@@ -308,6 +308,20 @@ var s='';
 <p>Es muy importante que el alumno se sienta escuchado y comprendido por el grupo. Esta es una forma de recibir continente de parte del grupo. </p>
 <p>El relato de vivencias no es sólo una descripción fenomenológica en el sentido de Merlau Ponty. Es, en realidad, un modo de conexión profunda consigo mismo y con los miembros del grupo. Una entrega generosa y auténtica de la intimidad, un acto de confianza. </p>
 <p>El relato de vivencia no se hará jamás después de la sesión vivencial, sino en la clase siguiente, pues es importante no activar el córtex (área del lenguaje), para conservar los efectos neuroquímicos de la sesión vivencial.</p>
+`+finNivel2()+`
+<h3>OTROS PUNTOS</h3>
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+<p>Me siento como al inicio de un viaje, un viaje a un lugar que voy por primera vez, con expectativas, con entusiasmo, pero tranquilo porque lo conozco de sentirlo, pero no he ido a palparlo y tocarlo en sus profundidades;  voy seguro de encontrarme con cosas maravillosas, así ha transcurrido mi andar en estos primeros pasos en la formación de biodanza.  Y también seguro que es en el viaje donde me voy a encontrar lo maravilloso.</p>
+<p>En mi andar arribo a “La vivencia”, herramienta fundamental en la biodanza, como la vía “regia” para los cambios, e involucra todo el cuerpo para la transformación celular, metabólica, inmunológica, neuroendocrina y existencial; es decir evolución a todos los niveles de mi ser.</p>
+<p>Biodanza induce “vivencias integrativas” para la expresión de la identidad, modificación del estilo de vida y restablecimiento del orden biológico; a través del relato se tiene acceso al conocimiento “fenomenológico” de éstas.  Biodanza induce vivencias en cinco líneas: Vitalidad, Sexualidad, Afectividad, Creatividad y Transcendencia.</p>
+<p>Las vivencias en Biodanza tienen un efecto armonizador, al sentirlas, no es necesario llevarlas a nivel de conciencia; éstas se elaboran en los órganos, en las glándulas endocrinas y en los neurotransmisores, el racionalizarlas activa mecanismos de defensa que inhiben su función integradora.</p>
+<p>Entre las características de la vivencia esta: en que los efectos que experimenta cada quien son únicos, pertenecen a su intimidad; con intensidad variable, dependiendo de la sensibilidad de cada quien, y constituye una experiencia en el ”aquí-ahora”.</p>
+<p>Que delicia evidenciar el carácter cenestésico de la vivencia (sensaciones de placer, alegría, bienestar, erotismo) y que estas sensaciones te este generando bienestar a tu vida, a tu ser; es decir un brebaje medicinal delicioso, que te mejora y ordena estando en un estado de placer y gozo; confieso que me disfruto mis maratonas y mis sesiones de biodanza.</p>
+<p>Es importante saber que existen vivencias Integradoras que conducen a una elevación de la vitalidad y salud; pero también existen las vivencias desorganizadoras o disociadoras capaces de causar trastornos.</p>
+<p>Importante las primeras vivencias de nuestro ser en los primeros 6 meses de vida (protovivencias) las cuales marcan nuestro inicio en el camino de una vida armónica, cuando recibimos cariños, alimentación, continente, libertad de movimiento, atención a las distintas expresiones, y un ambiente en sana paz y armonía.</p>
+<p>Me produce curiosidad y ganas de hablar con mi mamá sobre los primeros meses de mi vida después de haber nacido, preguntarle sobre su estado de ánimo en ese periodo, mi alimentación, donde estábamos y con que tenía interacción; algún evento en particular.</p>
+<p>Los ejercicio de biodanza buscan deflagrar vivencias para la expresión de los principales potenciales humanos: la vitalidad, sexualidad, creatividad, afectividad y trascendencia; y en su conjunto aumentan el nivel de integración individual para su plenitud y lo que se llamó “goce de vivir”.   El deseo de vivir que es el aumento de los niveles de integración aumenta en progesión logarítmica.</p>
+<p>El relato de la vivencia corresponde en una ceremonia de entrega íntima al grupo</p>
 `+finNivel2();
 return s;
 }
