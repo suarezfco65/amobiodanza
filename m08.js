@@ -19,7 +19,7 @@ function m08()  {
 <small><sup>2</sup>Jean Piaget: Psicólogo y pedagogo suizo (Neuchatel 1896 – Ginebra 1980). Estudió el desarrollo intelectual de los niños y fundó la psicología genética y la epistemología genética, que analizó en numerosas obras.</small>
 `+finNivel2()+`
 `+inicioNivel2('3','DIVERSAS CONCEPCIONES SOBRE LA IDENTIDAD')+`
-<p>La revisión del concepto de identidad representa, a mi modo de ver, la tarea fundamental de la biología y psicología contemporáneas. La filosofía del ‘idealismo especulativo’, configurada por Leibniz y Kant, fundó nuevas aclaraciones sobre la esencia de la identidad. Fiche, Schelling y Hegel contribuyeron profundamente al examen filosófico de la identidad. Los estudios de Piaget sobre ‘psicología y epistemología de la identidad’ hicieron evidente que el concepto de identidad ocultaba complejidad aún insospechada.</p>
+<p>La revisión del concepto de identidad representa, a mi modo de ver, la tarea fundamental de la biología y psicología contemporáneas. La filosofía del ‘idealismo especulativo’, configurada por Leibniz y Kant, fundó nuevas aclaraciones sobre la esencia de la identidad. Fiche, Schelling y Hegel contribuyeron profundamente al examen filosófico de la identidad. Los estudios de Piaget sobre ‘psicología y <span title="Parte de la filosofía que estudia los principios, fundamentos, extensión y métodos del conocimiento humano">epistemología</span> de la identidad’ hicieron evidente que el concepto de identidad ocultaba complejidad aún insospechada.</p>
 <p>Las dos paradojas de la identidad hacían de este concepto un enigma, al parecer, insondable:</p>
 <ol type="a">
 <li>La identidad se hace patente sólo a través de ‘el otro’ (este planteamiento superaba en profundidad y dinamismo la antigua división entre ‘mismidad y alteridad’, todavía influidas por el neoplatonismo y cartesianismo disociativos).</li>
@@ -199,3 +199,4 @@ Octavio Paz</p>
 `+finNivel2();
 return s;
 }
+// IDENTIDAD E INTEGRACIÓN
