@@ -196,6 +196,20 @@ Octavio Paz</p>
 <img src="disociacionCorporal.png"><br><br>
 <img src="diagnosticoDisociacion.png">
 </center>
+`+finNivel2()+`
+<h3>OTROS PUNTOS</h3>
+`+inicioNivel2('OP-RL','RELATO FRANCISCO SUÁREZ')+`
+<p>Al descubrir la identidad aprendí que va mas allá de la “igualdad”, está asociada al ser, y un ser en transformación constante sin dejar su identidad; hoy soy, y mañana aún transformado en otro sigo siendo en esencia yo (según Heidegger, Martín: Filósofo alemán). En su definición la identidad es el único y sus atributos, lo que cada quien es esencialmente frente a cualquier otro sistema de realidad.</p>
+<p>Aprendo que la identidad tiene sus raíces en la estructura genética y su expresión biológica más dramática es el sistema inmunológico y la incompatibilidad con estructuras extrañas.</p>
+<p>Además, de que la identidad se manifiesta en toda la estructura de tu ser, desde las células hasta el nivel psicológico-existencial; también que la identidad está en constante evolución, y esta evolución termina cuando mueres.</p>
+<p>Por otro lado se entiende que la vivencia fundamental de la identidad surge con la sensación del “estar vivo”. Nuestra identidad se revela en presencia del otro, al convivir (vivir en alegría de ser con otro).</p>
+<p>Aprendo de que la conciencia de sí mismo se organiza por un doble camino: conciencia del propio cuerpo (fuente de placer y dolor), conciencia de ser diferente (mi identidad se hace presente en el espejo de otras identidades).</p>
+<p>Verifico el concepto  de autoestima, la importancia de los padres y seres queridos, la relación con la sensación  de estar vivo, de sentir el cuerpo como fuente de placer y saber lo que se quiere.  También el concepto de auto imagen, que se encuentra en la imagen mental (interna y externa) que tenemos de nosotros mismo.</p>
+<p>Me siento en búsqueda de la identidad normal, sana y saludable; aquella donde me pueda constituir en  una criatura única, en resonancia e intimidad con todo lo viviente.</p>
+<p>Ahora entiendo que todos los seres vivos, objetos y elementos poseen identidad (aunque no tengan consciencia de ella), por el hecho de poseer características intrínsecas. La identidad de una persona es ‘lo que esa persona es’ como acontecimiento único dentro de la diversidad. La identidad es por lo tanto la cualidad de ser.</p>
+<p>Ahora comprendo que la identidad es permeable a la música, reconociendo a la música como la ‘via regia’, es decir la forma en que la consciencia se transforma en vivencia, y la vivencia retorna de nuevo a la consciencia.</p>
+<p>Que hermoso descubrir que durante los ejercicios de biodanza, somos, mas que nunca, nosotros mismos: respetados, valorizados, queridos y aceptados; y a medida que la practicamos vamos a ir alcanzando una identidad suficientemente integra como para alcanzar estados de consciencia cósmica.</p>
+<p>Siento que la verdad básica de quién soy, no es yo soy esto o yo soy aquello, sino simplemente yo soy.</p>
 `+finNivel2();
 return s;
 }
