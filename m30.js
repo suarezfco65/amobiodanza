@@ -10,7 +10,8 @@ function m30()  {
 `+inicioNivel2('8','REHABILITACIÓN EXISTENCIAL')+``+finNivel2()+`
 `+inicioNivel2('9','MOTIVACIONES PARA VIVIR')+``+finNivel2()+`
 `+inicioNivel2('10','LENGUAJE Y EXPRESIÓN')+``+finNivel2()+`
-`+inicioNivel2('11','ANTROPOLOGÍA DE LA DANZA')+``+finNivel2()+`
+`+inicioNivel2('11','ANTROPOLOGÍA DE LA DANZA')+`
 `+finNivel2();
 return s;
 }
+// PROGRAMA DE SEMINARIOS
