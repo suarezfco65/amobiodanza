@@ -129,7 +129,7 @@ Que no conoce cambio, ni alteración”</center><br>
 `+inicioNivel2('5','')+`
 `+finNivel2()+`
 `+inicioNivel2('VIDEOS','MARATONA PEDRO LABBE SEP-2020')+`
-<video class="video-fluid z-depth-1">
+<video class="video-fluid z-depth-1" controls>
   <source src="INuminoso01.mp4" type="video/mp4" />
 </video>
 <!--
