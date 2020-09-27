@@ -129,27 +129,14 @@ Que no conoce cambio, ni alteración”</center><br>
 `+inicioNivel2('5','')+`
 `+finNivel2()+`
 `+inicioNivel2('VIDEOS','MARATONA PEDRO LABBE SEP-2020')+`
-<video class="video-fluid z-depth-1" controls>
-  <source src="INuminoso01.mp4" type="video/mp4" />
-</video>
-<!--
-<video src="INuminoso01.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 1/8<br><br>
-<video src="INuminoso02.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 2/8<br><br>
-<video src="INuminoso03.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 3/8<br><br>
-<video src="INuminoso04.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 4/8<br><br>
-<video src="INuminoso05.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 5/8<br><br>
-<video src="INuminoso06.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 6/8<br><br>
-<video src="INuminoso07.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 7/8<br><br>
-<video src="INuminoso08.mp4">Tu navegador no admite el elemento <code>video</code>.</video><br>
-Maratona Inconsciente Numinoso - Pedro Labbe - Parte 8/8<br><br> 
--->
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso01.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 1/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso02.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 2/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso03.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 3/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso04.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 4/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso05.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 5/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso06.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 6/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso07.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 7/8</p></center>
+<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso08.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 8/8</p></center>
 `+finNivel2();
 return s;
 }
