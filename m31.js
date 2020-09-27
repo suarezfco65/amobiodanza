@@ -126,7 +126,43 @@ Que no conoce cambio, ni alteración”</center><br>
 <p>Tras todas estas experiencias de los años 60’s, y ya a principios de 1970, Rolando formula su paradigma aglutinador: el Principio Biocéntrico. No sólo ya para la Biodanza, sino para las ciencias humanas, y uno de cuyos axiomas principales, reza: “El Universo existe porque existe la vida, y no al revés…”, según lo cual "toda vida es sagrada". Esta reflexión condujo a Rolando con el tiempo, a integrar los resultados de sus estudios en una escala y profundidad mucho más amplia.</p>
 <p>“La Biodanza es, entonces, una abierta transgresión a los valores contemporáneos y a los dictámenes de alienación de la sociedad de consumo y de las ideologías totalitarias. La Biodanza se propone restaurar en el ser humano, el vínculo originario con la especie como totalidad biológica y con el universo como totalidad cósmica.” Rolando Toro.</p>
 `+finNivel2()+`
-`+inicioNivel2('5','')+`
+`+inicioNivel2('5','ROLANDO TORO E INSCONCIENTE VITAL')+`
+<P>Desde la perspectiva científica, los dos grandes aportes teóricos de los estudios, observaciones experimentales y bibliográficas de Rolando y que, en sí mismos, son el gran sustento para entender la profunda mirada desde donde se estructura Biodanza, han sido el Principio Biocéntrico, que ya expusimos, y lo que él denominó como el <i>Inconsciente Vital</i>.</p>
+<p>Este concepto se nutre, por ejemplo, con los trabajos y estudios de Humberto Maturana y Francisco Varela, los que ciertamente vinieron a renovar la visión mundial sobre el proceso de la vida a partir del abordaje de las neurociencias.</p>
+<p>Uno de los aportes más importantes de estos dos grandes científicos chilenos fue enunciar que la "cognición" es la actividad misma de la autogeneración y de la autoperpetuación de la vida.</p>
+<p>La cognición, según estos autores, sería la interacción entre los organismos y su ambiente, es decir, el proceso cognitivo tendría como soporte base el acoplamiento estructural con el ambiente. Con ello, instalaron el novedoso concepto de “autopoiesis” (del go αυτο -auto-: "sí mismo", y ποιησις -poiesis:- "creación" o "producción") como una propiedad genética de los seres vivos y que designa la dinámica de una estructura no estática, pero capaz de mantener estable su estructura u organización, durante períodos prolongados.</p>
+<p>Rolando profundiza en este ámbito y postula que existe una forma de “psiquismo celular” de los órganos, tejidos y células, y que obedece a un "sentido" global de autoconservación, más allá de constituirse en “los universos cerrados sólo de los seres vivos”. Sobre la base de este “psiquismo celular” sugiere el “Inconsciente Vital”. Su distinción como “Inconsciente” deriva de la gran autonomía respecto a la conciencia y al comportamiento volitivo (de la voluntad) de las personas.</p>
+<p>El Inconsciente Vital daría cuenta y origen de fenómenos de solidaridad celular, creación de tejidos, defensa inmunológica y, en suma, al acontecer exitoso del sistema viviente. Este "psiquismo" coordinaría las funciones de regulación orgánica y homeostasis. Así, de acuerdo con Rolando, el Inconsciente Vital se nutre de la memoria e inteligencia cósmica y organiza la materia (cadenas proteicas, sistemas orgánicos) sobre la base de una programación presuntiva que puede o no, generar sistemas orgánicos estables.</p>
+<p>Para Rolando, los descubrimientos de la neurociencia, la fisiología y los aportes de Maturana y Varela permitían reconocer en el conjunto de mecanismos que crean las regularidades y los procesos de autoorganización a nivel celular, en los organismos vivos, a través de un orden implícito en la existencia del mundo biofísico. Desde esta perspectiva, Rolando estableció que es posible hablar concretamente de un Inconsciente Vital, en un plano complementario al Inconsciente personal de Freud y al Inconsciente colectivo de Jung, donde los tres interactuarían recíprocamente sobre cada individuo.</p>
+<p>Rolando determinó entonces que el Inconsciente Vital, al igual que los otros dos Inconscientes, tenían medios de expresarse, de visualizarse, y que, en su caso, podemos tener “noticias de él” (esto es, de nosotros mismos) a través del humor endógeno, el bienestar cenestésico y del estado global de salud de las personas. En ese sentido, el Inconsciente Vital está en sintonía con la esencia viviente del universo. Cuando esta sintonía se perturba, se inicia la enfermedad. El acto de curación será comprendido, entonces, como un movimiento para recuperar esa sintonía vital con el universo, y no con una patología meramente fisiológica.</p>
+<p>Los medios que Rolando sugiere para tener un acceso exitoso al Inconsciente Vital, nos los heredó en gran parte a través de los ejercicios que fue diseñando para Biodanza y en sus elementos concomitantes. Estos son:
+<ul>
+<li>Caricias y erotismo.</li>
+<li>Juegos (humor y risa).</li>
+<li>Alimentación (ceremonia de los frutos).</li>
+<li>Vínculo con la naturaleza.</li>
+<li>Éxtasis cósmico.</li>
+<li>Despertar de los instintos mediante danzas primitivas.</li>
+<li>Mediumnidad para identificarse a través de la danza con la música.</li>
+<li>Masaje no dirigido a la musculatura, sino a las sensaciones cenestésicas.</li>
+<li>Biodanza Acuática y Biodanza con baños de Barro.</li>
+<li>Regresión mediante el Trance de Suspensión.</li>
+</ul></p>
+<p>A partir de su investigación sobre el modelo de Biodanza, Rolando propone entonces una visión ontocosmológica donde el sistema autopoyético es cognitivo en el mismo sentido que el cosmos es cognitivo. El concepto de Inconsciente Vital permitiría, además, como se puede vislumbrar, el comprender con mayor profundidad el Principio Biocéntrico como una "tendencia" cósmica que genera las condiciones para que surja la vida.</p>
+`+finNivel2()+`
+`+inicioNivel2('6','INTELIGENCIA COSMICA')+`
+`+finNivel2()+`
+`+inicioNivel2('7','')+`
+`+finNivel2()+`
+`+inicioNivel2('8','')+`
+`+finNivel2()+`
+`+inicioNivel2('9','')+`
+`+finNivel2()+`
+`+inicioNivel2('10','')+`
+`+finNivel2()+`
+`+inicioNivel2('11','')+`
+`+finNivel2()+`
+`+inicioNivel2('12','')+`
 `+finNivel2()+`
 `+inicioNivel2('VIDEO','VIDEOS')+`
 <h4>Maratona Pedro Labbe Sep 2020</h4>
