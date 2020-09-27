@@ -100,213 +100,31 @@ Que no conoce cambio, ni alteración”</center><br>
 <p>El carácter del encuentro para Levinas: la relación con el otro puede alcanzar estado de epifanía en el encuentro con la mirada y al entrar en comunión, la manifestación de lo sagrado del otro. El vínculo con el otro tiene la cualidad de lo infinito, es inabarcable, el encuentro es la posibilidad de rescatar lo divino del otro”. (Extractos de la tesis para obtención del título de “Facilitador de Biodanza” Escuela Cordillera de los Andes, nombre de la tesis “La ética de Levinas, una ética para Biodanza” Autor: Rodolfo Cesar Carter Canales, Año 2009).</p>
 `+finNivel2()+`
 `+inicioNivel2('4','HACIA LA EPISTEMOLOGÍA DE ROLANDO TORO')+`
-Entre 1924 y 1929, cuando tras la catástrofe de la Primera Guerra Mundial, la
-economía mundial conoció una etapa de expansión, en un fresco 19 de abril de
-1924, en la sureña ciudad chilena de Concepción, nacía nuestro querido Rolando
-Toro Araneda. Aunque no tan lejos de estos avatares, en este país pequeño,
-varias décadas después Rolando profundizaría rotundamente los alcances de lo
-que estos grandes pensadores que hemos sintetizado acá intuyeron y describieron
-sobre “lo inconsciente”.
-Para entender las motivaciones que llevaron a Rolando a adentrarse dentro del
-mundo de lo inconsciente hemos de interiorizarnos en uno de sus principales ejes
-de trabajo que fue el estudio del aprendizaje y el conocimiento, y para ello es
-necesario entonces recorrer un poco su biografía.
-La vida de Rolando posee una matriz de evolución que detona todo el desarrollo
-de su historia. De acuerdo con sus palabras, él considera que esta matriz fue su
-relación con Berta, su madre, quien, tras morir abruptamente una de sus hijas, 
-14
-vuelca su vida entera hacia él, desde donde Rolando recibe lo que posteriormente
-él llama “un amor incondicional”, en todo el sentido levinasiano de la expresión.
-Éste sería para él, años más tarde, la sencilla pero inconmensurable clave de
-gestación de toda su mirada respecto del origen de su propio proceso formativo,
-existencial y de vida: la necesidad del continente afectivo en medio del caos
-existencial, donde el atractor principal es el amor. Él vivió esta relación como un
-milagro, pero lo entendió como el único camino para transitar aquella “sombra
-jungiana”. Más tarde él instalaría su experiencia a un nivel cósmico, y la
-denominaría bajo la forma de un paradigma universal: el Principio Biocéntrico.
-Esta relación materno-filial la asimiló mucho más allá de la obvia y parcial
-perspectiva de una madre con su hijo, sino desde una decidida e inédita
-afirmación sobre los valores y méritos innatos de cualquier ser humano respecto a
-otro, anterior a él ciertamente: “la valoración del otro, como un ser sagrado”
-(Levinas).
-Así, su propio desarrollo personal empieza a tornarse en un campo de estudio.
-Rolando se sumerge en el mundo de los libros desde temprana edad, incluso en
-textos que hasta su propia madre considerada inadecuados para un adolescente
-de la época como él.
-En ese sentido, marcaron su temprana juventud, un paliforme y ecléctico conjunto
-de autores como Einstein, Rilke, Salgari, Kipling, y otros autores que unían la
-historia de la humanidad con el desarrollo del conocimiento humano. Esta hambre
-por conocer y entender lo marcaron hasta el día de su muerte, siempre empapado
-de saber más, para entender mejor, especialmente las grandes contradicciones de
-los procesos históricos y las desigualdades sociales, que para él sólo han
-generado guerras, el verdadero rostro de la miseria humana.
-Desde esta insaciable hambre por aprender y conocer, no fue extraño que tuviera
-muchas inquietudes vocacionales. Tras 3 años estudiando medicina en la Facultad
-de Medicina de la Universidad de Concepción, sintió necesario entregarse a
-aquello que pulsaba en sus genes familiares: ser profesor. Gran parte de su
-familia lo era: su propia madre, siete de sus tías y dos de sus hermanos fueron
-profesores también. Cambia todo, y se viene a Santiago a formarse como Profesor
-de Estado en la reputada Escuela Normalista José Abelardo Núñez. Rolando pudo
-empaparse allí de la gran tradición innovadora de la enseñanza normalista, desde
-donde inicia una larga trayectoria docente. Tras egresar como profesor de
-enseñanza primaria el año 1943, ejercería alrededor de dieciséis años en
-Talcahuano, Valparaíso, Pocuro y Santiago sucesivamente. En cada una de las
-escuelas donde trabajó, fue descubriendo aspectos que estaban ausentes en la
-educación tradicional.
-Su creatividad pedagógica intentaba reproducir su propia forma de aprender:
-vivenciando todo lo que conocía. Así enseñaba a pintar a niños campesinos en
-Pocuro, mostrándoles in situ los eventos que luego iban a plasmar en la tela. Esa 
-15
-generación, llamada “Los Niños de Pocuro”, vio sus obras expuestas en Europa en
-importantes museos, con un impacto inédito para la época en las esferas
-pedagógicas del arte. Asimismo, sus alumnos de Valparaíso aprendieron a leer
-con un nuevo método de lectoescritura creado por él, y que producía resultados
-más rápidos y profundos que los alcanzados por el método tradicional.
-De una carta a su primera esposa en 1952, Pilar Acuña, mientras era profesor del
-Internado en Pocuro, se podía leer: “Mi querida Pilarcita: salí al patio por un
-momento para mirar hacia arriba, pensando en ti. (...) Aquí la escuela está muy
-vacía. El próximo lunes llegarán los niños. Tuve la idea de una ciencia rítmicamusical para ordenar el movimiento natural del cuerpo, especialmente en los
-"actos", de modo que su forma noble y espiritual, distribuya un tiempo, una
-intensidad y una fuerza. Algo así como provocar la musicalidad del Ser".
-La concepción pedagógica de Rolando Toro estaba centrada en nuevas formas de
-aprendizaje vivencial, a partir de la afectividad y del goce de vivir. En esta
-propuesta no se excluían materias de carácter intelectual; se trataba de integrar la
-inteligencia con la afectividad y el respeto recíproco. Claramente, se puede colegir
-una especie de “persecución” obsesiva en Rolando por “descubrir” un camino de
-transformación, por llegar al fondo del alma humana y que afianzara su real y
-profundo desarrollo.
-Corría el año 1952, cuando la connotada doctora Lola Hoffman vuelve a Chile tras
-realizar sus estudios con Jung y sus discípulos, para dedicarse para siempre a la
-“sanación de almas”, como ella diría, transformada en una experta en análisis de
-sueño. Rolando nos reveló que su encuentro con la Dra. Hoffman dejaría
-profundas huellas en él y una entrañable admiración por la “genial maestra”,
-además de una serie de más de doscientos análisis de sueño guiado.
-Debido a sus revolucionarias concepciones sobre educación, el Decano de la
-Universidad de Concepción, don Rolando Merino, invitó a Rolando a dar un Ciclo
-de Conferencias en la Escuela de Educación de esa sede, y posteriormente,
-aceptó el descabellado pedido de Rolando para crear un Laboratorio de Psicología
-en la Escuela de Educación de la Universidad de Concepción, sin él aun ser
-Psicólogo. Desde esta fase de experimentación psicopedagógica, Rolando tomó la
-decisión de realizar estudios al respecto, y con la mediación del entonces Rector
-de la Universidad Chile, don Jorge Gómez Millas (1953-1963), pudo entrar a
-segundo año de Psicología en la Escuela de Psicología del Instituto Pedagógico
-de la Universidad de Chile. En este lugar se generó una encuesta a un gran
-conjunto de alumnos y profesores, cuyos resultados fueron estudiados a través de
-un análisis fenomenológico, y que dieron pie a determinar las cinco Líneas de
-Vivencia con las que, tiempo más tarde, estructuraría el trabajo de Biodanza.
-A mediados de los años 60’s, Rolando pudo conocer al doctor Claudio Naranjo,
-con quien estableció una profunda amistad. Gracias a su intervención, Rolando 
-16
-Toro ingresó al Centro de Estudios de Antropología Médica (CEAM) de la Escuela
-de Medicina de la Universidad de Chile.
-La propuesta de trabajo de Rolando fue la organización de fiestas recreativas,
-donde los pacientes mostraron un gran interés por “prepararse” y un entusiasmo
-inédito por asistir. Allí descubrió y comprobó la transparente permeabilidad de
-nuestra identidad a la música y al movimiento (danza), al poder inducir distintos
-tipos de vivencias con estos pacientes. La primera fase de ese descubrimiento fue
-que, muy por el contrario, como se pensó, las danzas y músicas euforizantes
-fueron las que calmaron los delirios en aquellos, y no las relajadas y suaves que,
-en los primeros experimentos, provocaron una alteración marcada en sus
-trastornos, gatillando alucinaciones y delirios. Este primer intento fallido casi
-termina con el estudio debido al reclamo general por parte de las enfermeras que
-cuidaban de noche a los pacientes. Junto con descubrir este fascinante y
-poderoso portal modificador de la conducta humana, Rolando pudo comprender
-además que no era sólo una cuestión de musicoterapia, -la que ya formaba parte
-de las psicoterapias que se aplicaban desde el CEAM-, sino que la fuerza principal
-y responsable de la transformación estaba en esa conexión profunda y concreta
-con el sí mismo, con los otros y el entorno, que la vivencia inducía en cada
-música-danza en los pacientes, y que si se continuaba con ella, permanecía en el
-tiempo.
-A partir de estas experiencias, se generaron las bases para la construcción del
-Modelo teórico-operativo de Biodanza, en el que fueron localizados, en un polo,
-los ejercicios/danzas de reforzamiento de la Identidad (“conciencia ampliada del sí
-mismo y del mundo”), y en el otro, los ejercicios/danzas de Regresión (“fusión con
-el Universo”). Con los resultados de la encuesta diseñada en Concepción, poco a
-poco se definieron las llamadas cinco líneas de Vivencia que son los ámbitos de
-los que se ocupa, estimula y con las que trabaja Biodanza en cada sesión: la
-Afectividad, la Sexualidad, la Creatividad, la Vitalidad y la Trascendencia (del ego).
-Todas ellas fueron estudiadas en profundidad, y se determinó que, además de
-coincidir estadísticamente con los cinco principales ámbitos de desarrollo humano
-en las personas, tienen una base genética, pues se activan o inhiben por efectos
-de estímulos del entorno o ambiente, influenciándose entre sí, aumentando
-recíprocamente la energía de sus potencialidades.
-En esos años, se suma a sus trabajos formales, un encuentro con el mundo
-“hippie” chileno. Rolando vio que ese grupo idealista y desenfadado de personas,
-“los hijos de las flores”, reflejaba y ejemplificaba una propuesta demasiado
-parecida a sus postulados de cambio cultural y de vida, viendo
-desprejuiciadamente en casi todos ellos, una identidad bien integrada: entre ellos,
-con los otros y con su entorno.
-Con ellos, Rolando empezó a organizar ahora fiestas de encuentro en su propia
-casa (“La casa de Los Olmos”), y un sinnúmero de eventos con los cuales, aquel
-primer descubrimiento del CEAM, traspasó la esfera de los grupos con problemas 
-17
-siquiátricos y se aplicó a otras personas, sin patologías. Estos eventos, tuvieron
-una arista muy particular, debido a la gran amistad que sostuvo Rolando con
-Albert Hoffman (11 de enero de 1906 - 29 de abril de 2008), químico e intelectual
-suizo, nacido en Basilea. Describió la estructura de la quitina, pero es más
-conocido por haber sintetizado por primera vez la LSD, mientras estudiaba los
-alcaloides producidos por el cornezuelo del centeno. Hoffman dentro de una
-profunda seriedad respecto del enorme potencial terapéutico y científico de la
-nueva sustancia, y de las consecuencias de un uso inapropiado, confió en
-Rolando y le entregó un número apropiado de dosis. Con ellas, Rolando convocó
-a experimentar en nuevas propuestas creativas de expansión de conciencia, a
-través de la ingesta de LSD, dentro de una línea de absoluta seriedad científica.
-En ellas se incorporaron activamente, destacados científicos y artistas de la
-época, músicos, pintores y escritores.
-“En 1968, un grupo de jóvenes artistas se enclaustró en Villavicencio 349 para
-“ensayar” con ese poderoso alucinógeno. Bajo la supervisión de Rolando,
-cuarenta artistas realizaron una sesión de pintura bajo los efectos del ácido
-lisérgico y las expusieron pocos días después con bailes y música psicodélicas
-incluidas.” (“Se oyen los pasos 1964 a 1973”, libro de Gonzalo Planet, periodista e
-integrante de la banda rock chilena Matorral).
-Estas fiestas experimentales terminarían dando pie al primer esbozo de
-implementación de lo que luego sería la Biodanza formal: los Juegos de
-Psicodanza. En estos Juegos, participaban entre otros, su familia, los amigos más
-cercanos e interesados, y también alumnos de las clases que le habían solicitado
-a Rolando desde el Instituto de Estética de la UC. Allí diseñó un curso sobre
-Expresión, Arte y Psicología, aplicando los resultados de las vivencias de las
-fiestas y sumando un gran estímulo en la manifestación libre de la expresión
-personal.
-En este sentido, y tras conocerse los efectos de Biodanza en la activación e
-interacción con los mismos neurotransmisores que poseen muchas drogas y
-plantas enteógenas, Rolando decidió dejar de lado el uso de alteradores externos
-de la conciencia. Para él, en ese sentido, Biodanza podía ser una “droga” mas
-poderosa y efectiva.
-Es así como desde este acercamiento a la vida de Rolando, podemos valorar ese
-“vértigo por la vida” como lo llamaba él, ese goce profundo y apasionado por
-desentrañar una nueva forma de aprender y conocer, y con el cual llegó a
-desarrollar finalmente un nuevo código de convivencia entre las personas:
-restituyendo la profundidad del vínculo humano, demostrando a lo largo de su
-vida, una convicción y una fe inquebrantable en sus amorosos y pacíficos
-postulados.
-Un viaje a principios de los 70’s a la mítica Comunidad de Esalen, en Big Sur,
-California, y al pequeño pueblo de Bodega, en San Francisco, Rolando compartió 
-18
-experiencias grupales, donde el Contacto y la Caricia eran las propuestas
-principales como premisas y prácticas sanadoras. Allí conoció los trabajos de
-René Spitz, que ya trabajaba con los llamados “niños institucionalizados”, es decir
-de Orfanatos o internados públicos. En Rolando calaron hondo sus postulados,
-que sostenían que había una relación directa entre la estimulación afectiva y el
-sistema inmunológico. Los chicos que eran visitados por sus madres
-continuamente, casi no se enfermaban respecto a los que permanecían solos y sin
-visitas. Rolando volvió a Chile e incorporó indisolublemente a su Modelo operativo,
-la presencia sanadora de las caricias y el contacto en sus ejercicios.
-“La base conceptual de Biodanza proviene de una meditación sobre la vida; del
-deseo de renacer de nuestros gestos despedazados y de nuestra vacía y estéril
-estructura de represión; es decir, proviene con certeza de la nostalgia del amor.”
-Rolando Toro.
-Tras todas estas experiencias de los años 60’s, y ya a principios de 1970, Rolando
-formula su paradigma aglutinador: el Principio Biocéntrico. No sólo ya para la
-Biodanza, sino para las ciencias humanas, y uno de cuyos axiomas principales,
-reza: “El Universo existe porque existe la vida, y no al revés…”, según lo cual
-"toda vida es sagrada". Esta reflexión condujo a Rolando con el tiempo, a integrar
-los resultados de sus estudios en una escala y profundidad mucho más amplia.
-“La Biodanza es, entonces, una abierta transgresión a los valores contemporáneos
-y a los dictámenes de alienación de la sociedad de consumo y de las ideologías
-totalitarias. La Biodanza se propone restaurar en el ser humano, el vínculo
-originario con la especie como totalidad biológica y con el universo como totalidad
-cósmica.” Rolando Toro.
-
+<p>Entre 1924 y 1929, cuando tras la catástrofe de la Primera Guerra Mundial, la economía mundial conoció una etapa de expansión, en un fresco 19 de abril de 1924, en la sureña ciudad chilena de Concepción, nacía nuestro querido Rolando Toro Araneda. Aunque no tan lejos de estos avatares, en este país pequeño, varias décadas después Rolando profundizaría rotundamente los alcances de lo que estos grandes pensadores que hemos sintetizado acá intuyeron y describieron sobre “lo inconsciente”.</p>
+<p>Para entender las motivaciones que llevaron a Rolando a adentrarse dentro del mundo de lo inconsciente hemos de interiorizarnos en uno de sus principales ejes de trabajo que fue el estudio del aprendizaje y el conocimiento, y para ello es necesario entonces recorrer un poco su biografía.</p>
+<p>La vida de Rolando posee una matriz de evolución que detona todo el desarrollo de su historia. De acuerdo con sus palabras, él considera que esta matriz fue su relación con Berta, su madre, quien, tras morir abruptamente una de sus hijas, vuelca su vida entera hacia él, desde donde Rolando recibe lo que posteriormente él llama “un amor incondicional”, en todo el sentido levinasiano de la expresión. Éste sería para él, años más tarde, la sencilla pero inconmensurable clave de gestación de toda su mirada respecto del origen de su propio proceso formativo, existencial y de vida: la necesidad del continente afectivo en medio del caos existencial, donde el atractor principal es el amor. Él vivió esta relación como un milagro, pero lo entendió como el único camino para transitar aquella “sombra jungiana”. Más tarde él instalaría su experiencia a un nivel cósmico, y la denominaría bajo la forma de un paradigma universal: el <i>Principio Biocéntrico</i>.</p>
+<p>Esta relación materno-filial la asimiló mucho más allá de la obvia y parcial perspectiva de una madre con su hijo, sino desde una decidida e inédita afirmación sobre los valores y méritos innatos de cualquier ser humano respecto a otro, anterior a él ciertamente: “la valoración del otro, como un ser sagrado” (Levinas).</p>
+<p>Así, su propio desarrollo personal empieza a tornarse en un campo de estudio. Rolando se sumerge en el mundo de los libros desde temprana edad, incluso en textos que hasta su propia madre considerada inadecuados para un adolescente de la época como él.</p>
+<p>En ese sentido, marcaron su temprana juventud, un paliforme y ecléctico conjunto de autores como Einstein, Rilke, Salgari, Kipling, y otros autores que unían la historia de la humanidad con el desarrollo del conocimiento humano. Esta hambre por conocer y entender lo marcaron hasta el día de su muerte, siempre empapado de saber más, para entender mejor, especialmente las grandes contradicciones de los procesos históricos y las desigualdades sociales, que para él sólo han generado guerras, el verdadero rostro de la miseria humana.</p>
+<p>Desde esta insaciable hambre por aprender y conocer, no fue extraño que tuviera muchas inquietudes vocacionales. Tras 3 años estudiando medicina en la Facultad de Medicina de la Universidad de Concepción, sintió necesario entregarse a aquello que pulsaba en sus genes familiares: ser profesor. Gran parte de su familia lo era: su propia madre, siete de sus tías y dos de sus hermanos fueron profesores también. Cambia todo, y se viene a Santiago a formarse como Profesor de Estado en la reputada Escuela Normalista José Abelardo Núñez. Rolando pudo empaparse allí de la gran tradición innovadora de la enseñanza normalista, desde donde inicia una larga trayectoria docente. Tras egresar como profesor de enseñanza primaria el año 1943, ejercería alrededor de dieciséis años en Talcahuano, Valparaíso, Pocuro y Santiago sucesivamente. En cada una de las escuelas donde trabajó, fue descubriendo aspectos que estaban ausentes en la educación tradicional.</p>
+<p>Su creatividad pedagógica intentaba reproducir su propia forma de aprender: vivenciando todo lo que conocía. Así enseñaba a pintar a niños campesinos en Pocuro, mostrándoles in situ los eventos que luego iban a plasmar en la tela. Esa generación, llamada “Los Niños de Pocuro”, vio sus obras expuestas en Europa en importantes museos, con un impacto inédito para la época en las esferas pedagógicas del arte. Asimismo, sus alumnos de Valparaíso aprendieron a leer con un nuevo método de lectoescritura creado por él, y que producía resultados más rápidos y profundos que los alcanzados por el método tradicional.</p>
+<p>De una carta a su primera esposa en 1952, Pilar Acuña, mientras era profesor del Internado en Pocuro, se podía leer: “Mi querida Pilarcita: salí al patio por un momento para mirar hacia arriba, pensando en ti. (...) Aquí la escuela está muy vacía. El próximo lunes llegarán los niños. Tuve la idea de una ciencia rítmica-musical para ordenar el movimiento natural del cuerpo, especialmente en los "actos", de modo que su forma noble y espiritual, distribuya un tiempo, una intensidad y una fuerza. Algo así como provocar la musicalidad del Ser".</p>
+<p>La concepción pedagógica de Rolando Toro estaba centrada en nuevas formas de aprendizaje vivencial, a partir de la afectividad y del goce de vivir. En esta propuesta no se excluían materias de carácter intelectual; se trataba de integrar la inteligencia con la afectividad y el respeto recíproco. Claramente, se puede colegir una especie de “persecución” obsesiva en Rolando por “descubrir” un camino de transformación, por llegar al fondo del alma humana y que afianzara su real y profundo desarrollo.</p>
+<p>Corría el año 1952, cuando la connotada doctora Lola Hoffman vuelve a Chile tras realizar sus estudios con Jung y sus discípulos, para dedicarse para siempre a la “sanación de almas”, como ella diría, transformada en una experta en análisis de sueño. Rolando nos reveló que su encuentro con la Dra. Hoffman dejaría profundas huellas en él y una entrañable admiración por la “genial maestra”, además de una serie de más de doscientos análisis de sueño guiado.</p>
+<p>Debido a sus revolucionarias concepciones sobre educación, el Decano de la Universidad de Concepción, don Rolando Merino, invitó a Rolando a dar un Ciclo de Conferencias en la Escuela de Educación de esa sede, y posteriormente, aceptó el descabellado pedido de Rolando para crear un Laboratorio de Psicología en la Escuela de Educación de la Universidad de Concepción, sin él aun ser Psicólogo. Desde esta fase de experimentación psicopedagógica, Rolando tomó la decisión de realizar estudios al respecto, y con la mediación del entonces Rector de la Universidad Chile, don Jorge Gómez Millas (1953-1963), pudo entrar a segundo año de Psicología en la Escuela de Psicología del Instituto Pedagógico de la Universidad de Chile. En este lugar se generó una encuesta a un gran conjunto de alumnos y profesores, cuyos resultados fueron estudiados a través de un análisis fenomenológico, y que dieron pie a determinar las cinco Líneas de Vivencia con las que, tiempo más tarde, estructuraría el trabajo de Biodanza.</p>
+<p>A mediados de los años 60’s, Rolando pudo conocer al doctor Claudio Naranjo, con quien estableció una profunda amistad. Gracias a su intervención, Rolando Toro ingresó al Centro de Estudios de Antropología Médica (CEAM) de la Escuela de Medicina de la Universidad de Chile.</p>
+<p>La propuesta de trabajo de Rolando fue la organización de fiestas recreativas, donde los pacientes mostraron un gran interés por “prepararse” y un entusiasmo inédito por asistir. Allí descubrió y comprobó la transparente permeabilidad de nuestra identidad a la música y al movimiento (danza), al poder inducir distintos tipos de vivencias con estos pacientes. La primera fase de ese descubrimiento fue que, muy por el contrario, como se pensó, las danzas y músicas euforizantes fueron las que calmaron los delirios en aquellos, y no las relajadas y suaves que, en los primeros experimentos, provocaron una alteración marcada en sus trastornos, gatillando alucinaciones y delirios. Este primer intento fallido casi termina con el estudio debido al reclamo general por parte de las enfermeras que cuidaban de noche a los pacientes. Junto con descubrir este fascinante y poderoso portal modificador de la conducta humana, Rolando pudo comprender además que no era sólo una cuestión de musicoterapia, -la que ya formaba parte de las psicoterapias que se aplicaban desde el CEAM-, sino que la fuerza principal y responsable de la transformación estaba en esa conexión profunda y concreta con el sí mismo, con los otros y el entorno, que la vivencia inducía en cada música-danza en los pacientes, y que si se continuaba con ella, permanecía en el tiempo.</p>
+<p>A partir de estas experiencias, se generaron las bases para la construcción del Modelo teórico-operativo de Biodanza, en el que fueron localizados, en un polo, los ejercicios/danzas de reforzamiento de la Identidad (“conciencia ampliada del sí mismo y del mundo”), y en el otro, los ejercicios/danzas de Regresión (“fusión con el Universo”). Con los resultados de la encuesta diseñada en Concepción, poco a poco se definieron las llamadas cinco líneas de Vivencia que son los ámbitos de los que se ocupa, estimula y con las que trabaja Biodanza en cada sesión: la Afectividad, la Sexualidad, la Creatividad, la Vitalidad y la Trascendencia (del ego). Todas ellas fueron estudiadas en profundidad, y se determinó que, además de coincidir estadísticamente con los cinco principales ámbitos de desarrollo humano en las personas, tienen una base genética, pues se activan o inhiben por efectos de estímulos del entorno o ambiente, influenciándose entre sí, aumentando recíprocamente la energía de sus potencialidades.</p>
+<p>En esos años, se suma a sus trabajos formales, un encuentro con el mundo “hippie” chileno. Rolando vio que ese grupo idealista y desenfadado de personas, “los hijos de las flores”, reflejaba y ejemplificaba una propuesta demasiado parecida a sus postulados de cambio cultural y de vida, viendo desprejuiciadamente en casi todos ellos, una identidad bien integrada: entre ellos, con los otros y con su entorno.</p>
+<p>Con ellos, Rolando empezó a organizar ahora fiestas de encuentro en su propia casa (“La casa de Los Olmos”), y un sinnúmero de eventos con los cuales, aquel primer descubrimiento del CEAM, traspasó la esfera de los grupos con problemas siquiátricos y se aplicó a otras personas, sin patologías. Estos eventos, tuvieron una arista muy particular, debido a la gran amistad que sostuvo Rolando con Albert Hoffman (11 de enero de 1906 - 29 de abril de 2008), químico e intelectual suizo, nacido en Basilea. Describió la estructura de la quitina, pero es más conocido por haber sintetizado por primera vez la LSD, mientras estudiaba los alcaloides producidos por el cornezuelo del centeno. Hoffman dentro de una profunda seriedad respecto del enorme potencial terapéutico y científico de la nueva sustancia, y de las consecuencias de un uso inapropiado, confió en Rolando y le entregó un número apropiado de dosis. Con ellas, Rolando convocó a experimentar en nuevas propuestas creativas de expansión de conciencia, a través de la ingesta de LSD, dentro de una línea de absoluta seriedad científica. En ellas se incorporaron activamente, destacados científicos y artistas de la época, músicos, pintores y escritores.</p>
+<p>“En 1968, un grupo de jóvenes artistas se enclaustró en Villavicencio 349 para “ensayar” con ese poderoso alucinógeno. Bajo la supervisión de Rolando, cuarenta artistas realizaron una sesión de pintura bajo los efectos del ácido lisérgico y las expusieron pocos días después con bailes y música psicodélicas incluidas.” (“Se oyen los pasos 1964 a 1973”, libro de Gonzalo Planet, periodista e integrante de la banda rock chilena Matorral).</p>
+<p>Estas fiestas experimentales terminarían dando pie al primer esbozo de implementación de lo que luego sería la Biodanza formal: los Juegos de Psicodanza. En estos Juegos, participaban entre otros, su familia, los amigos más cercanos e interesados, y también alumnos de las clases que le habían solicitado a Rolando desde el Instituto de Estética de la UC. Allí diseñó un curso sobre Expresión, Arte y Psicología, aplicando los resultados de las vivencias de las fiestas y sumando un gran estímulo en la manifestación libre de la expresión personal.</p>
+<p>En este sentido, y tras conocerse los efectos de Biodanza en la activación e interacción con los mismos neurotransmisores que poseen muchas drogas y plantas enteógenas, Rolando decidió dejar de lado el uso de alteradores externos de la conciencia. Para él, en ese sentido, Biodanza podía ser una “droga” mas poderosa y efectiva.</p>
+<p>Es así como desde este acercamiento a la vida de Rolando, podemos valorar ese “vértigo por la vida” como lo llamaba él, ese goce profundo y apasionado por desentrañar una nueva forma de aprender y conocer, y con el cual llegó a desarrollar finalmente un nuevo código de convivencia entre las personas: restituyendo la profundidad del vínculo humano, demostrando a lo largo de su vida, una convicción y una fe inquebrantable en sus amorosos y pacíficos postulados.</p>
+<p>Un viaje a principios de los 70’s a la mítica Comunidad de Esalen, en Big Sur, California, y al pequeño pueblo de Bodega, en San Francisco, Rolando compartió experiencias grupales, donde el Contacto y la Caricia eran las propuestas principales como premisas y prácticas sanadoras. Allí conoció los trabajos de René Spitz, que ya trabajaba con los llamados “niños institucionalizados”, es decir de Orfanatos o internados públicos. En Rolando calaron hondo sus postulados, que sostenían que había una relación directa entre la estimulación afectiva y el sistema inmunológico. Los chicos que eran visitados por sus madres continuamente, casi no se enfermaban respecto a los que permanecían solos y sin visitas. Rolando volvió a Chile e incorporó indisolublemente a su Modelo operativo, la presencia sanadora de las caricias y el contacto en sus ejercicios.</p>
+<p>“La base conceptual de Biodanza proviene de una meditación sobre la vida; del deseo de renacer de nuestros gestos despedazados y de nuestra vacía y estéril estructura de represión; es decir, proviene con certeza de la nostalgia del amor.” Rolando Toro.</p>
+<p>Tras todas estas experiencias de los años 60’s, y ya a principios de 1970, Rolando formula su paradigma aglutinador: el Principio Biocéntrico. No sólo ya para la Biodanza, sino para las ciencias humanas, y uno de cuyos axiomas principales, reza: “El Universo existe porque existe la vida, y no al revés…”, según lo cual "toda vida es sagrada". Esta reflexión condujo a Rolando con el tiempo, a integrar los resultados de sus estudios en una escala y profundidad mucho más amplia.</p>
+<p>“La Biodanza es, entonces, una abierta transgresión a los valores contemporáneos y a los dictámenes de alienación de la sociedad de consumo y de las ideologías totalitarias. La Biodanza se propone restaurar en el ser humano, el vínculo originario con la especie como totalidad biológica y con el universo como totalidad cósmica.” Rolando Toro.</p>
 `+finNivel2()+`
 `+inicioNivel2('5','')+`
 `+finNivel2()+`
