@@ -417,17 +417,18 @@ intensa significa destruir esa armonía conseguida.</p>
 		<tr>	<td>12</td>	<td>Cierre de la Ronda </td>	<td><a target="_blank" href="https://www.youtube.com/watch?v=-nY31bga-GY">Lanca Perfume</a></td>	<td>Rita Lee</td>	<td></td>	</tr>	</tbody>	</table>
 `+finNivel2()+`
 `+inicioNivel2('VIDEO','VIDEOS')+`
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII01.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 1/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII02.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 2/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII03.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 3/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII04.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 4/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII05.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 5/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII06.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 6/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII07.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 7/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII08.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 8/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII09.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 9/10</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="MetodologiaII10.mp4" type="video/mp4" /></video><br>Maratona Metodología II - Florelena - Parte 10/10</p></center>
+<h4>Maratona Metodología II - Florelena</h4>
+<a target="_blank" href="MetodologiaII01.mp4">Parte 1/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 2/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 3/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 4/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 5/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 6/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 7/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 8/10</a>, 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 9/10</a> y 
+<a target="_blank" href="MetodologiaII01.mp4">Parte 10/10</a>.
 `+finNivel2();
 return s;
 }
-//METODOLOGÍA II – LA SESIÓN DE BIODANZA
+// METODOLOGÍA II – LA SESIÓN DE BIODANZA
