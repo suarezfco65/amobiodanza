@@ -51,21 +51,21 @@ function m31()  {
 </ul></p>
 `+finNivel2()+`
 `+inicioNivel2('VIDEOS','MARATONA PEDRO LABBE SEP-2020')+`
-<embed type="video/webm" src="INuminoso01.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso01.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 1/8<br><br>
-<embed type="video/webm" src="INuminoso02.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso02.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 2/8<br><br>
-<embed type="video/webm" src="INuminoso03.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso03.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 3/8<br><br>
-<embed type="video/webm" src="INuminoso04.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso04.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 4/8<br><br>
-<embed type="video/webm" src="INuminoso05.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso05.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 5/8<br><br>
-<embed type="video/webm" src="INuminoso06.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso06.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 6/8<br><br>
-<embed type="video/webm" src="INuminoso07.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso07.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 7/8<br><br>
-<embed type="video/webm" src="INuminoso08.mp4" width="400" height="300"><br>
+<embed type="video/webm" src="INuminoso08.mp4" width="400" height="300" autostart="false"><br>
 Maratona Inconsciente Numinoso - Pedro Labbe - Parte 8/8<br><br> 
 `+finNivel2();
 return s;
