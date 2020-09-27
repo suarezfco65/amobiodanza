@@ -128,15 +128,16 @@ Que no conoce cambio, ni alteración”</center><br>
 `+finNivel2()+`
 `+inicioNivel2('5','')+`
 `+finNivel2()+`
-`+inicioNivel2('VIDEOS','MARATONA PEDRO LABBE SEP-2020')+`
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso01.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 1/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso02.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 2/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso03.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 3/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso04.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 4/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso05.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 5/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso06.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 6/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso07.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 7/8</p></center>
-<center><p><video class="video-fluid z-depth-1" width="400" controls><source src="INuminoso08.mp4" type="video/mp4" /></video><br>Maratona Inconsciente Numinoso - Pedro Labbe - Parte 8/8</p></center>
+`+inicioNivel2('VIDEO','VIDEOS')+`
+<h4>Maratona Pedro Labbe Sep 2020</h4>
+<a target="_blank" href="INuminoso01.mp4">Parte 1</a>, 
+<a target="_blank" href="INuminoso02.mp4">Parte 2</a>, 
+<a target="_blank" href="INuminoso03.mp4">Parte 3</a>, 
+<a target="_blank" href="INuminoso04.mp4">Parte 4</a>, 
+<a target="_blank" href="INuminoso05.mp4">Parte 5</a>, 
+<a target="_blank" href="INuminoso06.mp4">Parte 6</a>, 
+<a target="_blank" href="INuminoso07.mp4">Parte 7</a> y  
+<a target="_blank" href="INuminoso08.mp4">Parte 8</a>. 
 `+finNivel2();
 return s;
 }
