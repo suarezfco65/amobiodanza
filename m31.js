@@ -169,6 +169,31 @@ Que no conoce cambio, ni alteración”</center><br>
 <p>¿Qué es el átomo?</p>
 <p>Átomo es la partícula más pequeña en que un elemento puede ser dividido sin perder sus propiedades químicas.</p>
 <p>El origen de las palabras, muchas veces nos develan su significado y nos ayuda a comprender en toda su dimensión.</p>
+<table>
+<tbody>
+<tr><td><img src="atomo.png"></td>
+<td>El Origen de la palabra átomo proviene del griego, que significa indivisible. En el momento que se bautizaron estas partículas se creía que efectivamente no se podían dividir, aunque hoy en día sabemos que los átomos están formados por partículas aún más pequeñas, repartidas en las dos partes del átomo, las llamadas partículas subatómicas.</td></tr>
+</tbody>
+</table>
+<p>También, es necesario que se conozca y se comprenda su estructura:</p>
+<h4>Estructura del átomo</h4>
+<p>Los átomos están conformados de tres partículas básicas que constituyen el núcleo atómico:</p>
+<ul>
+<li>Protones (+)</li>
+<li>Neutrones ( )</li>
+<li>Electrones (-)</li>
+</ul>
+<p>Como todo elemento, el átomo se compone de un núcleo:</p>
+<h4>Núcleo atómico</h4>
+<table>
+<tbody>
+<tr><td><ul>
+<li>El núcleo es el centro del átomo.</li>
+<li>Es donde se concentra más del 99,94 % de la masa del átomo.</li>
+<li>Está formado por protones y neutrones.</li>
+</ul></td><td><img src="estructuraAtomo.png"></td></tr>
+</tbody>
+</table>
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
