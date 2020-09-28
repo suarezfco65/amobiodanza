@@ -194,6 +194,44 @@ Que no conoce cambio, ni alteración”</center><br>
 </ul></td><td><img src="estructuraAtomo.png"></td></tr>
 </tbody>
 </table>
+<p>¿Qué son estos componentes del átomo?</p>
+<table>
+<tr><td align="center">
+Protón<br>
+<svg width="100" height="100">
+   <circle cx="50" cy="50" r="40" fill="red" />
+   Sorry, your browser does not support inline SVG.
+</svg> 
+</td><td align="center">
+Neutrón<br>
+<svg width="100" height="100">
+   <circle cx="50" cy="50" r="40" fill="blue" />
+   Sorry, your browser does not support inline SVG.
+</svg> 
+</td><td align="center">
+Electrón<br>
+<svg width="100" height="100">
+   <circle cx="50" cy="50" r="40" fill="gray" />
+   Sorry, your browser does not support inline SVG.
+</svg> 
+</td></tr>
+<tr><td>
+<ul>
+<li>Tiene carga eléctrica positiva.</li>
+<li>Se encuentra en el núcleo del átomo</li>
+</ul>
+</td><td>
+<ul>
+<li>No tiene carga eléctrica.</li>
+<li>Se encuentra en el núcleo del átomo</li>
+</ul>
+</td><td>
+<ul>
+<li>Tiene carga eléctrica negativa.</li>
+<li>Orbitan el núcleo del átomo</li>
+</ul>
+</td></tr>
+</table>
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
