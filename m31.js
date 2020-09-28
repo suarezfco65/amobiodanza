@@ -232,6 +232,17 @@ Electrón<br>
 </ul>
 </td></tr>
 </table>
+<p>Ya se ha conocido el átomo, entonces ahora es necesario que entender las moléculas y los iones, que son parte de nuestro todo.</p>
+<h4>Moléculas e Iones</h4>
+<ul>
+<li>En una molécula, dos o más átomos se unen formando una partícula con carga eléctrica denominada <i>Ion</i>.</li>
+<li>Hay dos tipos de iones:
+<ul>
+<li>Catión: ion con carga positiva</li>
+<li>Anión: ion con carga negativa</li>
+</ul>
+</ul>
+
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
