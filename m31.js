@@ -257,6 +257,19 @@ Electrón<br>
 <li>Se localiza principalmente en el núcleo de la célula, también se ubica en la mitocondria y el cloroplasto.</li>
 <li>El ADN tiene toda una programación y también tiene la capacidad de replicarse a sí misma.</li>
 </ul>
+<center><img src="estructuraADN.png"></center>
+<p>Conocer la estructura del ADN nos permite ampliar su comprensión:</p>
+<table><tr><td><img src="dobleHebraADN.png"></td><td>
+<ul>
+<li>Una molécula de ADN se compone de dos cadenas de nucleótidos unidas por puentes de hidrógeno entre las bases nitrogenadas.</li>
+<li>Las cadenas de nucleótidos forman un espiral alrededor de un centro común.</li>
+<li>La forma espiral de la molécula es una <i>doble hélice</i></li>
+</ul></td></tr>
+</table>
+<p>Con la presencia de ADN en la célula somos testigos de la Autopoiesis.</p>
+<h4>Del átomo a la célula</h4>
+<p>El tránsito del átomo a la célula se puede clarificar comprendiendo que elementos químicos como C.H.O.N… (Carbono, Hidrógeno, Oxígeno, Nitrógeno…) se unen formando moléculas o compuestos inorgánicos y orgánicos: las biomoléculas.</p>
+
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
