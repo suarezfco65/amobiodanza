@@ -242,7 +242,21 @@ Electrón<br>
 <li>Anión: ion con carga negativa</li>
 </ul>
 </ul>
-
+<center>
+<img src="composicionMateriaViva.png">
+</center>
+<h4>¿Qué permite la vida en nuestro planeta?</h4>
+<p>La macromolécula orgánica está formada por átomos que se han organizado de tal manera de permitir la vida en el planeta.</p>
+<p>Como se ha expuesto anteriormente, el universo, la naturaleza y nosotros estamos conformados por átomos, siendo éste el componente más pequeño del inicio de todo. También se debe hacer mención de la célula, que es una unidad anatómica fundamental de todos los organismos vivos, formada por citoplasma, uno o más núcleos y una membrana que la rodea. En la célula se encuentra el ADN.</p>
+<h4>¿Qué es el ADN?</h4>
+<p>Molécula de ácido nucleico que se encuentra en el núcleo celular, portadora de la información genética la cual esta codificada en una secuencia de subunidades moleculares nitrogenadas.</p>
+<h4>Características del ADN:</h4>
+<li>El ADN se relaciona directamente con la transmisión de caracteres hereditarios, pasándolos de una generación a otra.</li>
+<li>Es capaz de contener la codificación de las proteínas.</li>
+<li>Tiene una estructura con doble fila que tienen forma de espiral.</li>
+<li>Se localiza principalmente en el núcleo de la célula, también se ubica en la mitocondria y el cloroplasto.</li>
+<li>El ADN tiene toda una programación y también tiene la capacidad de replicarse a sí misma.</li>
+</ul>
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
