@@ -296,6 +296,26 @@ Electrón<br>
 <p>Nuestro inconciente vital se sustenta en los pilares biológicos de las células. Somos materia viva.</p>
 <p>Al ser materia viva respondemos a diferentes estímulos, esto se logra a través del Sistema Nervioso, que es el encargado de controlar y regular la mayoría de las funciones del cuerpo, desde la capatación de los estímulos mediante receptores sensoriales hasta acciones motoras que se llevan a cabo para dar una respuesta, pasando por la regulación involuntaria de los órganos internos.</p>
 <p>Nuestro Sistema Nervioso, está conformado por el Sistema Nervios Central y el Sistema Nervioso Periférico.</p>
+<center><img src="sistemaNervioso.png"></center>
+<p>El Sistema Nervios Central (SNC) está conformado por el cerebro y la médula espinal. Integra información de todo el cuerpo y coordina la actividad en todo el organismo. En el ser humano por el cerebro y la médula espinal.</p>
+<table><tr><td align="center">
+<img src="sistemaNerviosoCentral.png"></td>
+<td><p>Es la parte del sistema nervioso constituida por:
+<ul>
+<li>Encéfalo:
+<ul>
+<li>Cerebro.</li>
+<li>Cerebelo.</li>
+<li>Tronco encefálico.</li></li>
+<li>Medula espinal.</li>
+</ul>
+</p></td></tr></table>
+<h4>Breve Análisis de las Partes del Cerebro y sus Funciones</h4>
+<table><tr><td align="center">
+<img src="cerebelo.png"></td><td>
+<h4>El Cerebelo</h4>
+<p>Una de las porciones más antiguas del cerebro.  Coordina los movimientos voluntarios como la postura, el equilibrio, la coordinación y el habla.</p>
+</td></tr></table>
 `+finNivel2()+`
 `+inicioNivel2('8','')+`
 `+finNivel2()+`
