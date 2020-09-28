@@ -151,60 +151,24 @@ Que no conoce cambio, ni alteración”</center><br>
 <p>A partir de su investigación sobre el modelo de Biodanza, Rolando propone entonces una visión ontocosmológica donde el sistema autopoyético es cognitivo en el mismo sentido que el cosmos es cognitivo. El concepto de Inconsciente Vital permitiría, además, como se puede vislumbrar, el comprender con mayor profundidad el Principio Biocéntrico como una "tendencia" cósmica que genera las condiciones para que surja la vida.</p>
 `+finNivel2()+`
 `+inicioNivel2('6','INTELIGENCIA COSMICA')+`
-Autopoiesis
-Es un neologismo que designa la cualidad de un sistema capaz de reproducirse y
-mantenerse por sí mismo.
-Maturana y Francisco Varela (1973) definen así el auto mantenimiento de las
-células vivas.
-Autopoiesis: De Auto: a sí mismo; y Poiesis: (griego, creación, fabricación,
-construcción) Literalmente, autopoiesis significa autoorganización. Concepto que
-nace en la biología de la mano de los chilenos Humberto Maturana y Francisco
-Varela (1973), y que designa un proceso mediante el cual un sistema (por
-ejemplo, una célula, un ser vivo o una organización) se genera a sí mismo a través
-de la interacción con su medio. Un sistema autopoyético es operacionalmente
-cerrado y determinado estructuralmente. Característica definitoria de los seres
-vivos.
-Según Maturana y Varela son autopoiéticos los sistemas que presentan una red
-de procesos u operaciones (que lo define como tal y lo hace distinguible de los
-demás sistemas), y que pueden crear o destruir elementos del mismo sistema,
-como respuesta a las perturbaciones del medio. Aunque el sistema cambie
-estructuralmente, dicha red permanece invariante durante toda su existencia,
-manteniendo la identidad de este. Los seres vivos son sistemas autopoiéticos y
-están vivos solo mientras están en autopoiesis.
-21
-Inteligencia Cósmica
-La autopoiesis es autopoiética en el sentido que el universo es autopoiético.
-(Rolando Toro A.)
-Desarrollo de la Inteligencia Cósmica
-La autopoiesis celular se basa en el conocimiento celular, supondremos que la
-autopoiesis cósmica podemos verla a través del conocimiento cósmico.
-La Inteligencia cósmica y la inteligencia humana
-Son de la misma naturaleza. La organización del universo, comprendiendo las
-formas y funciones internas del reino mineral, vegetal y animal, responde a las
-probabilidades del cerebro global.
-Los organismos vivos poseen un cierto grado de organización que se refleja en la
-totalidad. Los instintos son impulsos cósmicos que se manifiestan en las
-estructuras vivientes.
-Las emociones de amor y de violencia son fuerzas universales que se exprimen
-en las células. Garras, colmillos, picos aguzados, espinas, son manifestaciones
-orgánicas de profundos impulsos de depredación, absorción y nutrición. Las alas
-de los pájaros se desenvuelven por el impulso biocósmico hasta elevarse y
-desplazarse en el aire, venciendo la fuerza de gravedad. La furia de la tempestad
-no es ajena a la furia de nuestras pasiones.
-La evolución humana es solo una forma particular en el inmenso y desconocido
-anagrama viviente. La conciencia solo puede explicarse como un reflejo
-neurológico de la conciencia cósmica que se mira así mismo. Las personas
-pueden comunicarse y amarse porque comparten sutiles afinidades en las cuales
-estamos sumergidos. Todos somos uno. (Rolando Toro Araneda. Libro: La
-Inteligencia Afectiva.)
-Entonces, está unión y este todo tienen un inicio, un comienzo. Comenzamos a
-ser desde lo más pequeño de la naturaleza y el universo: el átomo.
-¿Qué es el átomo?
-Átomo es la partícula más pequeña en que un elemento puede ser dividido sin
-perder sus propiedades químicas.
-22
-El origen de las palabras, muchas veces nos develan su significado y nos ayuda a
-comprender en toda su dimensión.
+<h4>Autopoiesis</h4>
+<p>Es un neologismo que designa la cualidad de un sistema capaz de reproducirse y mantenerse por sí mismo.</p>
+<p>Maturana y Francisco Varela (1973) definen así el auto mantenimiento de las células vivas.</p>
+<p><b>Autopoiesis</b>: De Auto: a sí mismo; y Poiesis: (griego, creación, fabricación, construcción) Literalmente, autopoiesis significa autoorganización. Concepto que nace en la biología de la mano de los chilenos Humberto Maturana y Francisco Varela (1973), y que designa un proceso mediante el cual un sistema (por ejemplo, una célula, un ser vivo o una organización) se genera a sí mismo a través de la interacción con su medio. Un sistema autopoyético es operacionalmente cerrado y determinado estructuralmente. Característica definitoria de los seres vivos.</p>
+<p>Según Maturana y Varela son autopoiéticos los sistemas que presentan una red de procesos u operaciones (que lo define como tal y lo hace distinguible de los demás sistemas), y que pueden crear o destruir elementos del mismo sistema, como respuesta a las perturbaciones del medio. Aunque el sistema cambie estructuralmente, dicha red permanece invariante durante toda su existencia, manteniendo la identidad de este. Los seres vivos son sistemas autopoiéticos y están vivos solo mientras están en autopoiesis.</p>
+<h4>Inteligencia Cósmica</h4>
+<p>La autopoiesis es autopoiética en el sentido que el universo es autopoiético. (Rolando Toro A.)</p>
+<h4>Desarrollo de la Inteligencia Cósmica</h4>
+<p>La autopoiesis celular se basa en el conocimiento celular, supondremos que la autopoiesis cósmica podemos verla a través del conocimiento cósmico.</p>
+<h4>La Inteligencia cósmica y la inteligencia humana</h4>
+<p>Son de la misma naturaleza. La organización del universo, comprendiendo las formas y funciones internas del reino mineral, vegetal y animal, responde a las probabilidades del cerebro global.</p>
+<p>Los organismos vivos poseen un cierto grado de organización que se refleja en la totalidad. Los instintos son impulsos cósmicos que se manifiestan en las estructuras vivientes.</p>
+<p>Las emociones de amor y de violencia son fuerzas universales que se exprimen en las células. Garras, colmillos, picos aguzados, espinas, son manifestaciones orgánicas de profundos impulsos de depredación, absorción y nutrición. Las alas de los pájaros se desenvuelven por el impulso biocósmico hasta elevarse y desplazarse en el aire, venciendo la fuerza de gravedad. La furia de la tempestad no es ajena a la furia de nuestras pasiones.</p>
+<p>La evolución humana es solo una forma particular en el inmenso y desconocido anagrama viviente. La conciencia solo puede explicarse como un reflejo neurológico de la conciencia cósmica que se mira así mismo. Las personas pueden comunicarse y amarse porque comparten sutiles afinidades en las cuales estamos sumergidos. Todos somos uno. (Rolando Toro Araneda. Libro: La Inteligencia Afectiva.)</p>
+<p>Entonces, está unión y este todo tienen un inicio, un comienzo. Comenzamos a ser desde lo más pequeño de la naturaleza y el universo: el átomo.</p>
+<p>¿Qué es el átomo?</p>
+<p>Átomo es la partícula más pequeña en que un elemento puede ser dividido sin perder sus propiedades químicas.</p>
+<p>El origen de las palabras, muchas veces nos develan su significado y nos ayuda a comprender en toda su dimensión.</p>
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
 `+finNivel2()+`
