@@ -311,11 +311,45 @@ Electrón<br>
 </ul>
 </p></td></tr></table>
 <h4>Breve Análisis de las Partes del Cerebro y sus Funciones</h4>
-<table><tr><td align="center">
-<img src="cerebelo.png"></td><td>
-<h4>El Cerebelo</h4>
-<p>Una de las porciones más antiguas del cerebro.  Coordina los movimientos voluntarios como la postura, el equilibrio, la coordinación y el habla.</p>
-</td></tr></table>
+<table>
+<tr><td colspan="2" align="center">El Cerebelo</td></tr>
+<tr><td align="center"><img src="cerebelo.png"></td><td>
+Una de las porciones más antiguas del cerebro.  Coordina los movimientos voluntarios como la postura, el equilibrio, la coordinación y el habla.
+</td></tr>
+<tr><td colspan="2" align="center">La Amígdala</td></tr>
+<tr><td>Estructura en forma de almendra en el cerebro. Ayuda en nuestra capacidad de sentir ciertas emociones y de percibirlas en otras personas. Este incluye el miedo y los muchos cambios que éste genera en nuestro cuerpo
+</td><td align="center"><img src="amigdala.png"></td></tr>
+
+<tr><td colspan="2" align="center">El Hipocampo</td></tr>
+<tr><td align="center"><img src="hipocampo.png"></td><td>
+Está ubicado en el lóbulo temporal intermedio del cerebro. Juega un papel clave en la formación de la memoria a largo plazo, como la navegación espacial. También se encarga de categorizar y clasificar la información.
+</td></tr>
+<tr><td colspan="2" align="center">El Hipotálamo</td></tr>
+<tr><td>Esta glándula con forma de guisantes. Está ubicada en el centro del cerebro. Controla muchas funciones corporales, incluyendo el apetito, la sed, la temperatura, el sistema inmunitario y el sueño, entre otros. Juega rol muy importante en el control de nuestras emociones.
+</td><td align="center"><img src="hipotalamo.png"></td></tr>
+
+<tr><td colspan="2" align="center">El Cuerpo Calloso</td></tr>
+<tr><td align="center"><img src="cuerpoCalloso.png"></td><td>
+Es el puente neuronal que conecta los dos hemisferios del cerebro. Se encuentra en el centro mismo del cerebro.
+</td></tr>
+<tr><td colspan="2" align="center">El Tálamo</td></tr>
+<tr><td>Es la estación de retransmisión del cerebro. Transmite la mayoría de las señales sensoriales percibidas (auditivas, visual y del tacto) y ayuda a que se procesen en otras partes del cerebro. También juega un papel importante en el control motor.
+</td><td align="center"><img src="talamo.png"></td></tr>
+
+<tr><td colspan="2" align="center">Lóbulo Frontal</td></tr>
+<tr><td align="center"><img src="lobuloFrontal.png"></td><td>
+Es el centro de mando y de control de tu cerebro. Se encarga del razonamiento y la resolución de problemas, junto con el juicio y los impulsos. También ayuda a gestionar las emociones superiores tales como la empatía y la generosidad. Además, puede estar implicado en el control motor y la memoria.
+</td></tr>
+<tr><td colspan="2" align="center">Lóbulo Parietal</td></tr>
+<tr><td>Ayuda a procesar el dolor y la sensación de tacto. También participa en la cognición.
+</td><td align="center"><img src="lobuloParietal.png"></td></tr>
+
+<tr><td colspan="2" align="center">Lóbulo Occipital</td></tr>
+<tr><td align="center"><img src="lobuloOccipital.png"></td><td>
+Participa en la sensación visual y el procesamiento. Aquí reside la parte que controla e interpreta la visión.
+</td></tr>
+
+</table>
 `+finNivel2()+`
 `+inicioNivel2('8','')+`
 `+finNivel2()+`
