@@ -269,6 +269,19 @@ Electrón<br>
 <p>Con la presencia de ADN en la célula somos testigos de la Autopoiesis.</p>
 <h4>Del átomo a la célula</h4>
 <p>El tránsito del átomo a la célula se puede clarificar comprendiendo que elementos químicos como C.H.O.N… (Carbono, Hidrógeno, Oxígeno, Nitrógeno…) se unen formando moléculas o compuestos inorgánicos y orgánicos: las biomoléculas.</p>
+<center><img src="origenCelula.png"></center>
+<p>Éstas se agrupan para constituir estructuras más complejas que se denominan células.</p>
+<p>Todos los seres vivos están compuestos por una o muchas células.</p>
+<h4>¿Qué es la célula?</h4>
+<p><b>La célula es la unidad vital de organización de los seres vivos.</b></p>
+<p>La célula está viva: se nutre, se reproduce y se relaciona con su medio. Vale decir, realiza las tres funciones esenciales de los seres vivos.</p>
+<p>Todas las células también están compuestas por átomos y sus respectivos elementos químicos. Se debe mencionar que un elemento químico es una sustancia que está formada por átomos del mismo tipo cuyos núcleos presentan la misma cantidad de protones más allá del número de neutrones.</p>
+<p>A fin de facilitar la comprensión de la conformación de los elementos químicos, Dmitri Mendelýve creó una ordenación de las sustancias que conforman el mundo que conocemos: La tabla Periódica, ésta está configurada por 118 elemento químicos, de los cuales 80 están presentes en nuestro organismo.</p>
+<center><img src="tablaPeriodica.png"></center>
+<p>Los elementos químicos con mayor presencia en los seres vivos son: <b>C</b> carbono, <b>H</b> hidrógeno, <b>O</b> oxígeno y <b>N</b> nitrógeno.</p>
+<p>También, tenemos la presencia de otros elementos que son fundamentales para nuestro funcionamiento sano: <b>Ca</b> calcio, <b>P</b> fósforo, <b>Fe</b> hierro. Uno de los elementos de los que se compone nuestra sangre, es el glóbulo rojo, que tiene la presencia de la hemoglobina la cual contiene, entre otros elementos el <b>Fe</b> (fierro).  Si existe un desequilibrio entre los componentes, se puede producir una enfermedad.</p>
+<p>Sin embargo, los seres vivos estamos conformados principalmente por 4 elementos químicos, los cuales están en armonía y nos permiten desarrollarnos y crecer.</p>
+
 
 `+finNivel2()+`
 `+inicioNivel2('7','')+`
