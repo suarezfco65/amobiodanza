@@ -281,10 +281,21 @@ Electrón<br>
 <p>Los elementos químicos con mayor presencia en los seres vivos son: <b>C</b> carbono, <b>H</b> hidrógeno, <b>O</b> oxígeno y <b>N</b> nitrógeno.</p>
 <p>También, tenemos la presencia de otros elementos que son fundamentales para nuestro funcionamiento sano: <b>Ca</b> calcio, <b>P</b> fósforo, <b>Fe</b> hierro. Uno de los elementos de los que se compone nuestra sangre, es el glóbulo rojo, que tiene la presencia de la hemoglobina la cual contiene, entre otros elementos el <b>Fe</b> (fierro).  Si existe un desequilibrio entre los componentes, se puede producir una enfermedad.</p>
 <p>Sin embargo, los seres vivos estamos conformados principalmente por 4 elementos químicos, los cuales están en armonía y nos permiten desarrollarnos y crecer.</p>
-
-
+<center><img src="composicionSerVivo.png"></center>
+<p>Es importante que como seres humanos también estemos conectados con la Madre Tierra, para ello también se hace necesario conocer cómo está conformada, así la podedremos respetar y cuidar. La Madre Tierra es fuente de vida y energía, es en ella donde hacemos nuestra existencia, nuestro transitar y crecimiento como seres humanos.</p>
+<p>Los elementos químicos que conforman la corteza de la Madre Tierra son: <b>Si</b> silicio, <b>O</b> oxígeno, <b>Al</b> aluminio, <b>Fe</b> hierro, <b>Ca</b> calcio, <b>Na</b> sodio.</p>
+<center><img src="composicionCortezaTerrestre.png"></center>
+<p>Entonces, para codensar lo antes visto, analicémos la siguiente figura:</p>
+<center><img src="elementosMoleculasCelulas.png"></center>
 `+finNivel2()+`
-`+inicioNivel2('7','')+`
+`+inicioNivel2('7','EL CUERPO COMO HOLOGRAMA')+`
+<h4>¿Qué es un Holograma?</h4>
+<p>Es un neologismo que se compone del griego holos, que indica “todo”, y grama que se refiere a “mensaje”. El holograma tiene la propiedad de contener la imagen del objeto en su totalidad a pesar de ser dividida en partes pequeñas.</p>
+<h4>Nuestro Cuerpo e Inconsiente Vital:</h4>
+<p>Todo nuestro cuerpo está conformado por células, y en cada célula está contenido el ADN completo, esta información se repite millones de veces. Es parte de nuestro todo.</p>
+<p>Nuestro inconciente vital se sustenta en los pilares biológicos de las células. Somos materia viva.</p>
+<p>Al ser materia viva respondemos a diferentes estímulos, esto se logra a través del Sistema Nervioso, que es el encargado de controlar y regular la mayoría de las funciones del cuerpo, desde la capatación de los estímulos mediante receptores sensoriales hasta acciones motoras que se llevan a cabo para dar una respuesta, pasando por la regulación involuntaria de los órganos internos.</p>
+<p>Nuestro Sistema Nervioso, está conformado por el Sistema Nervios Central y el Sistema Nervioso Periférico.</p>
 `+finNivel2()+`
 `+inicioNivel2('8','')+`
 `+finNivel2()+`
