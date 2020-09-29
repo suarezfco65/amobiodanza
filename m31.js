@@ -404,6 +404,85 @@ Electrón<br>
 <center><img src="interaccionMolecular.png"></center>
 <h4>Neurotransmisores</h4>
 <p>Las neuronas se comunican entre sí a través de impulsos electroquímicos. El impulso nervioso viaja desde el cuerpo hacia el axón hasta alcanzar una sinapsis, donde desencadena la liberación de mensajeros químicos que se unen a receptores específicos, transfiriendo la información y continuando su propagación. El cerebro humano contiene decenas de billones de neuronas interrelacionadas por un número de seis a la diez veces mayor de sinapsis. Existen más de noventa neurotransmisores diferentes conocidos actuando en la sinapsis; sin embargo, los seis más destacados son:</p>
+<center>
+<svg width="780" height="320">`+
+	elipseTexto(270, 10,  ['Acetilcolina     '])+
+	elipseTexto(10,  80,  ['Noradrenalina    '])+
+	elipseTexto(530, 80,  ['Dopamina         '])+
+	elipseTexto(270, 130, ['Neurotransmisores'])+
+	elipseTexto(10,  180, ['Serotonina       '])+
+	elipseTexto(530, 180, ['L-Glutamato      '])+
+	elipseTexto(270, 250, ['GABA             '])+
+	linea(390, 75, 390, 130)+
+	linea(235, 125, 285, 145)+
+	linea(540, 125, 490, 145)+
+	linea(240, 200, 290, 180)+
+	linea(540, 200, 490, 180)+
+	linea(390, 195, 390, 250)+`
+</svg>
+</center>
+<p>Los neurotransmisores son categorizados de la siguiente manera:
+<ul>
+<li><b>Primera Categoría</b><br>Neurotransmisores aminoácidos.</li>
+<li><b>Segunda Categoría</b><br>Catecolominas.</li>
+<li><b>Tercera Categoría</b><br>Péptidos.</li>
+</ul></p>
+<h4>Neurotransmisores: Primera categoría</h4>
+<p>Neurotransmisores aminoácidos:
+<ul>
+<li>Ácido Gama (GABA), inhibe la corteza cerebral, relaja y produce sueño.</li>
+<li>Ácido Glutámico, excita la corteza cerebral, su déficit disminuye rendimiento tanto físico como mental.</li>
+</ul></p>
+<h4>Neurotransmisores: Segunda categoría</h4>
+<p>Catecolaminas:
+<ul>
+<li>Dopamina: produce euforia, optimismo, enamoramiento, afirmación, alegría, placer, concentración, motivación existencial, entusiasmo por sexo y dinero, conductas arriesgadas, activa efectos de alcohol.</li>
+<li>Noradrenalina: regula el sueño, la atención, las emociones y el humor.</li>
+<li>Adrenalina: Se encuentra en nervios viscerales, efecto vaso constrictor de arterias en general y vaso dilatador de arterias del corazón.</li>
+<li>Acetilcolina: Contrae músculos esqueléticos, deprime músculos cardíacos.</li>
+<li>Serotonina: Regula motilidad intestinal.</li>
+</ul></p>
+<h4>Neurotransmisores: Tercera categoría</h4>
+<p>Péptidos opiáceos: Se ubican en el hipotálamo, se puede mencionar: Encefalinas, endorfinas y dinorfinas. Sus efectos: deprimen la actividad eléctrica de las neuronas. Producen bienestar y euforia.</p>
+<p>Todas las maravillas que ejecuta el cerebro se optimizan a través de las redes neuronales.</p>
+<h4>Las Redes Neuronales</h4>
+<center><img scr="redesNeurales.png"></center>
+<p>El cerebro es un procesador de información con unas características muy notables: es capaz de procesar a gran velocidad grandes cantidades de información procedentes de los sentidos, combinarla o compararla con la información almacenada y dar respuestas adecuadas incluso en situaciones nuevas. Logra discernir un susurro en una sala ruidosa, distinguir una calle mal iluminada o leer entre líneas en una declaración política; pero lo más impresionante de todo es su capacidad de aprender a representar la información necesaria para desarrollar tales habilidades sin instrucciones explicitas para ello.</p>
+<h4>Vías de Comunicación Neuronal</h4>
+<p>Nuestro cerebro posee vías de comunicación, a través de ellas podemos transmitir:</p>
+<p>Emociones y Sentimientos:
+<ul>
+<li>MIEDO</li>
+<li>AMOR</li>
+</ul></p>
+<center><img src="viasComunicacionNeural.png"></center>
+<h4>LA EMOCION</h4>
+<p>El termino emoción, viene del latín moverse, indica movimiento: La emoción es un impulso que nos lleva a la acción.</p>
+<p>Las emociones son reacciones subjetivas a estímulos del ambiente que van acompañadas por respuestas neuronales y hormonales.</p>
+<p>Generalmente se experimentan como agradables o desagradables. También existen reacciones adaptativas que afectan nuestra manera de pensar.</p>
+<h4>Características de la emoción:</h4>
+<ul>
+<li>Cambios automáticos y coordinados del cuerpo y del SN por incitación de un estímulo Emocional.</li>
+<li>Preparación del cuerpo para la acción.</li>
+<li>Comunicación de estados emocionales a otros (Teoría de la Mente).</li>
+<li>En la emoción participan el sistema nervioso y el sistema endocrino, mediado por neurotransmisores:
+<table>
+<tr><td nowrap>Sistema Nervioso Autónomo</td>   <td>______</td><td nowrap>Frecuencia cardíaca y repiratoría<br>Sudoración-Piloerección<br>Redistribución sanguinea</td></tr>
+<tr><td nowrap>Sistema motor somático</td>      <td>______</td><td nowrap>Expresión facial -<br>Postura Conducta de ataque, huida, etc.</td></tr>
+<tr><td nowrap>Otros cambios en el SN</td>      <td>______</td><td nowrap>Sensibilidad al Dolor - <br>Velocidad de Respuesta</td></tr>
+<tr><td nowrap>Sistema Endocrino</td>           <td>______</td><td nowrap>Hormona del estrés</td></tr>
+</table>
+<p><i>La diferencia fundamental entre emoción y sentimiento, según el neurocientífico Antonio Damásio, es que las emociones son respuestas involuntarias, una versión más compleja de un reflejo. Por ejemplo, cuando estás en peligro y el pulso se acelera. El sentimiento es ser consciente de esa emoción.</i></p>
+<h4>SENTIMIENTO</h4>
+<p>Es la parte consiente de una emoción. Así que interpretamos los sentimientos como emociones más elaboradas. Básicamente, los sentimientos se pueden categorizar en negativos y positivos.</p>
+<h4>SENTIMIENTOS NEGATIVOS</h4>
+<center><img src="sentimientos.png"></center>
+<h4>SENTIMIENTOS POSITIVOS</h4>
+<center><img src="sentimientosPositivos.png"></center>
+<h4>SENTIMIENTOS NEUTROS</h4>
+<center><img src="sentimientosNeutros.png"></center>
+<h4>Neurología de la emoción</h4>
+<p>El Sistema Límbico contiene diversas estructuras anatómico–funcionales: tálamo medio, amígdala, hipocampo, núcleos, hipotálamo, cíngulo, entre otros.</p>
 `+finNivel2()+`
 `+inicioNivel2('8','')+`
 
