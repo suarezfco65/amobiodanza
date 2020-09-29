@@ -396,8 +396,16 @@ Electrón<br>
 <p><b>Impulso Nervioso</b>: Información recibida por la neurona que, codificada, se propaga dentro de la neurona a través de fenómenos eléctricos.</p>
 <p><b>Cavidad presináptica</b>: Espacio de la sinapsis que separa las membranas de la célula transmisora y receptoras. Está lleno de fluido sináptico. La señal eléctricamente liberada por la neurona presináptica en este espacio no puede trapazar sus límites.</p>
 <p><b>Neurotransmisores</b>: Sustancias químicas especiales liberadas por la membrana emisora presináptica que se difunden hasta los receptores de la membrana de la neurona receptora postsináptica. Los neurotransmisores permiten que los impulsos nerviosos de una célula influyan en los impulsos nerviosos de otra y así las células del cerebro pueden “dialogar”.</p>
+<center><img src="neuroDecision.png"></center>
+<h4>TIPOS DE SINAPSIS</h4>
+<p><b>Eléctricas</b>: Permiten la transferencia directa de la corriente iónica de una célula a otra y tiene lugar en localizaciones especiales llamadas uniones, que son canales que permiten a los iones pasar directamente del citoplasma de una célula al citoplasma de otra, proporcionando una transmisión muy rápida.</p>
+<p><b>Químicas</b>: En este tipo de sinapsis, la señal liberada de entrada es transmitida cuando una neurona libera un neurotransmisor en la cavidad sináptica, lo cual es detectado por la segunda neurona a través de la activación de los receptores situados en el lado opuesto al lugar de la liberación. Los neurotransmisores son sustancias químicas producidas por las neuronas y son utilizados para transmitir sinapsis (impulsos nerviosos) a otras neuronas o a células no neuronales, como, por ejemplo, músculos esqueléticos, del miocardio o de la glándula epitelial.</p>
+<h4>Sinapsis Interacción Molecular</h4>
+<center><img src="interaccionMolecular.png"></center>
+<h4>Neurotransmisores</h4>
+<p>Las neuronas se comunican entre sí a través de impulsos electroquímicos. El impulso nervioso viaja desde el cuerpo hacia el axón hasta alcanzar una sinapsis, donde desencadena la liberación de mensajeros químicos que se unen a receptores específicos, transfiriendo la información y continuando su propagación. El cerebro humano contiene decenas de billones de neuronas interrelacionadas por un número de seis a la diez veces mayor de sinapsis. Existen más de noventa neurotransmisores diferentes conocidos actuando en la sinapsis; sin embargo, los seis más destacados son:</p>
 `+finNivel2()+`
-`+inicioNivel2('8','SISTEMA INTEGRADOR ADAPTATIVO LÍMBICO HIPOTÁLAMICO')+`
+`+inicioNivel2('8','')+`
 
 `+finNivel2()+`
 `+inicioNivel2('9','')+`
