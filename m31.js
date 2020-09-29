@@ -373,6 +373,29 @@ Electrón<br>
 <h4>¿Qué es la neurona?</h4>
 <p>Su nombre procede del vocablo griego neyron (nervio), célula especializada en captar los estímulos provenientes del ambiente y de transportar y transmitir impulsos nerviosos.</p>
 <p>Las partes de la neurona se detallan en la siguiente ilustración.</p>
+<center><img src="neurona.png"></center>
+<p>Se ha determinado que la neurona es una célula, al ser célula contiene ADN. Está llena de información.</p>
+<center><img src="neuronaADN.png"></center>
+<h4>ESTRUCTURA DE LA NEURONA</h4>
+<ul>
+<li>Dendritas: Principales unidades receptoras de la neurona.</li>
+<li>Cuerpo celular.</li>
+<li>Núcleo: Unidades que contiene la información genética.</li>
+<li>Axones: Principales unidades conductoras de la neurona.</li>
+<li>Terminales presinápticos: región en que las ramificaciones de los axones de una neurona (presináptica) transmiten señales a otra neurona (postsináptica). Las ramificaciones de un único axón pueden formar sinapsis con otras mil neuronas.</li>
+<li>Capa de mielina: Sustancia grasa que ayuda a los axones a transmitir mensajes con mayor rapidez.</li>
+</ul>
+<center><img src="estructuraNeurona.png"></center>
+<h4>COMUNICACIÓN NEURONAL</h4>
+<p>Una persona capta determinada información y la transforma en impulsos nerviosos que son trasmitidos a otra neurona, estableciendo una cadena de comunicación en la red neuronal. Se entiende por Impulso Nervioso, a la actividad bioeléctrica que se transmite en la neurona unidireccionalmente a través de su prolongación más larga, el axón. De ahí en adelante y como no hay continuidad celular entre una neurona y otra, la transmisión del impulso nervioso tendrá lugar en la sinapsis, que es un lugar especialmente destinado a la propagación de información entre neuronas.</p>
+<p>Una vez que ocurre la sinapsis, la neurona transmisora libera el impulso nervioso en la cavidad presináptica, pero necesita de un “empujoncito” para llegar a la terminal receptora de otra neurona, denominada dendrita y este empujoncito es dado por los neurotransmisores, que bien podemos llamar “mensajeros del cerebro”.</p>
+<h4>ELEMENTOS DE COMUNICACIÓN NEURONAL</h4>
+<p><b>Sinapsis</b>: Mecanismo de comunicación entre dos o más neuronas, con el fin de transmitir masivamente, un impulso nervioso destinado a coordinar una función en los organismos.</p>
+<p><b>Neurona presináptica o transmisor</b>: Neurona que va a transmitir la información, conduce el potencial de acción hasta la zona de sinapsis.</p>
+<p><b>Neurona postsináptica o receptor</b>: Neurona que va a recibir la información.</p>
+<p><b>Impulso Nervioso</b>: Información recibida por la neurona que, codificada, se propaga dentro de la neurona a través de fenómenos eléctricos.</p>
+<p><b>Cavidad presináptica</b>: Espacio de la sinapsis que separa las membranas de la célula transmisora y receptoras. Está lleno de fluido sináptico. La señal eléctricamente liberada por la neurona presináptica en este espacio no puede trapazar sus límites.</p>
+<p><b>Neurotransmisores</b>: Sustancias químicas especiales liberadas por la membrana emisora presináptica que se difunden hasta los receptores de la membrana de la neurona receptora postsináptica. Los neurotransmisores permiten que los impulsos nerviosos de una célula influyan en los impulsos nerviosos de otra y así las células del cerebro pueden “dialogar”.</p>
 `+finNivel2()+`
 `+inicioNivel2('8','SISTEMA INTEGRADOR ADAPTATIVO LÍMBICO HIPOTÁLAMICO')+`
 
