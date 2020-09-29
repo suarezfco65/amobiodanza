@@ -471,7 +471,7 @@ Electrón<br>
 <tr><td nowrap>Sistema motor somático</td>      <td>______</td><td nowrap>Expresión facial -<br>Postura Conducta de ataque, huida, etc.</td></tr>
 <tr><td nowrap>Otros cambios en el SN</td>      <td>______</td><td nowrap>Sensibilidad al Dolor - <br>Velocidad de Respuesta</td></tr>
 <tr><td nowrap>Sistema Endocrino</td>           <td>______</td><td nowrap>Hormona del estrés</td></tr>
-</table>
+</table></li></ul>
 <p><i>La diferencia fundamental entre emoción y sentimiento, según el neurocientífico Antonio Damásio, es que las emociones son respuestas involuntarias, una versión más compleja de un reflejo. Por ejemplo, cuando estás en peligro y el pulso se acelera. El sentimiento es ser consciente de esa emoción.</i></p>
 <h4>SENTIMIENTO</h4>
 <p>Es la parte consiente de una emoción. Así que interpretamos los sentimientos como emociones más elaboradas. Básicamente, los sentimientos se pueden categorizar en negativos y positivos.</p>
@@ -483,8 +483,42 @@ Electrón<br>
 <center><img src="sentimientosNeutros.png"></center>
 <h4>Neurología de la emoción</h4>
 <p>El Sistema Límbico contiene diversas estructuras anatómico–funcionales: tálamo medio, amígdala, hipocampo, núcleos, hipotálamo, cíngulo, entre otros.</p>
+<center><img src="emocion.png"></center>
+<ul>
+<li>El Tálamo recibe casi toda la información sensorial.</li>
+<li>Si ésta va acompañada de una carga emocional crítica, la envía a la amígdala de manera súbita y en forma SOS.</li>
+</ul>
+<center><img src="neurologiaEmocion.png"></center>
+<center><img src="viaEmociones.png"></center>
+<h4>Neurología de la emoción ante una vivencia</h4>
+<p>En caso de ser necesario, el hipotálamo, como rector del sistema endocrino y del neurovegetativo, puede desencadenar un patrón de urgencia:</p>
+<center><img src="hipotalamoVivencia.png"></center>
+<h4>Neurología de una emoción ante una vivencia</h4>
+<table>
+<tr><td>Las emociones positivas también se conocen como emociones saludables, porque afectan positivamente al bienestar del individuo que las siente. Favorecen la manera de pensar, de razonar y de actuar de las personas. Por ejemplo, la alegría, la satisfacción, la gratitud nos provocan una actitud positiva frente a la vida y nos hacen sentir experiencias que nos ayudan a sentirnos bien.</td>
+	<td><img src="emocionVivencia.png"></td></tr>
+<tr><td><img src="biodanzaVivencia.png"></td>
+	<td><h4>NEUROTRASMISORES</h4>
+	<ul>
+	<li>Dopamina (acción)</li>
+	<li<Oxitocina (apego)</li>
+	<li>Esteroides sexuales</li>
+	<li>Endorfinas (amor y orgasmo)</li>
+	<li>Noradrenalina (primeras etapas del amor)</li>
+	<li>Serotonina (amor)</li>
+	</ul>
+</td></tr>
+</table>
 `+finNivel2()+`
-`+inicioNivel2('8','')+`
+`+inicioNivel2('8','SISTEMA HOTRMONAL ENDOCRINO Y EMOCIONES')+`
+<h4>Las hormonas y las emociones</h4>
+<p>El sistema endocrino también participa de las emociones. Todas las glándulas (tiroides, paratiroides, glándulas suprarrenales, ovarios, testículos, páncreas etc.) están bajo el control de la Hipófisis.</p>
+<center><img src="sistemaEndocrino.png"></center>
+<ul>
+<li>El Giro Cingulado Anterior conecta el sistema límbico con la corteza prefrontal y muy especialmente con la corteza orbito central.</li>
+<li>En la Corteza Orbito central tienen lugar las asociaciones reforzantes del comportamiento.</li>
+</ul>
+<center><img src="cortezaCingulada.png"></center>
 
 `+finNivel2()+`
 `+inicioNivel2('9','')+`
