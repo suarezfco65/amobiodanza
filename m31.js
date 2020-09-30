@@ -519,6 +519,40 @@ Electrón<br>
 <li>En la Corteza Orbito central tienen lugar las asociaciones reforzantes del comportamiento.</li>
 </ul>
 <center><img src="cortezaCingulada.png"></center>
+<table>
+<tr><td>Es también en esa corteza donde vamos archivando, una vez recuperadas del Hipocampo, las experiencias emocionales de nuestra vida</td>
+	<td><img src="cortezaOrbito Central.png"></td>
+</tr>
+</table>
+<h4>Amor y Neurotransmisores</h4>
+<center><img src="amorNeurotransmisores.png"></center>
+<h4>Neurotransmisores eslabón al universo</h4>
+<table>
+<tr><td><img src="dopamina.png"></td>
+<td><b>Dopamina</b>
+<ul>
+<li>Atención enfocada, motivación, comportamientos dirigidos hacia el logro de objetivos.</li>
+<li>Aprendizaje sobre estímulos novedosos.</li>
+<li>Preferencia por un objeto.</li>
+<li>Éxtasis, energía aumentada, hiperactividad, insomnio, pérdida de apetito, temblor, aumento frecuencia cardiaca, respiración acelerada y a veces manía, ansiedad y temor.</li>
+<li>Dependencia y anhelo, parte de adicción (drogas).</li>
+<li>Esfuerzo desesperado, persistencia.</li>
+<li>Deseo sexual, mediante el aumento de testosterona.</li>
+</ul></td></tr>
+<tr><td><img src="nonadrenalina.png"></td>
+<td><b>Nonadrenalina</b>
+<ul>
+<li>Estimulación, insomnio y pérdida de apetito.</li>
+<li>Aumentada memoria para nuevos estímulos.</li>
+</ul></td></tr>
+<tr><td><img src="serotonina.png"></td>
+<td><b>Serotonina</b>
+<ul>
+<li>Apetito y ánimo.</li>
+<li>Relación negativa con dopamina y norepinefrina.</li>
+<li>Bajos niveles asociados con pensamientos obsesivos (trastorno Obsesivo Compulsivo).</li>
+</ul></td></tr>
+</table>
 
 `+finNivel2()+`
 `+inicioNivel2('9','')+`
