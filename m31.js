@@ -80,7 +80,7 @@ Abismo de la dicha más perfecta<br>
 Majestad Eterna, espléndido sol,<br>
 Que no conoce cambio, ni alteración”</center><br>
 <span style="text-align:right">Bernard de Cluny</span></li>
-<ul>
+</ul>
 <p>Rudolf Otto describe lo numinoso como un encuentro impresionante lleno de la realidad última, un misterio que es a la vez terrorífico y fascinante, y lo coloca como el atributo mayor de la experiencia religiosa, desde donde lo numinoso se nos ofrece como una experiencia inefable.</p>
 <p>Carl Jung tomaría desde Otto también el concepto numinoso con relación al carácter de los Arquetipos, agregando que “inmediatamente, el temor es superado de forma chocante, sorprendente” por medio de la misericordia (sentir o irradiar afecto entrañable) y la gracia. Jung adhiere a la definición de Otto sobre el carácter numinoso en tanto comparte que es un ámbito de “lo fuera de lo común”, un modo no ordinario o elevado de conciencia.</p>
 <p>Jung hace referencia además a la importancia de la presencia de la sombra en lo numinoso, y que en ella misma estaría la sanación, donde tanto los aspectos positivos y negativos de la numinosidad pueden ser potencialmente útiles para el desarrollo humano psicológico y espiritual.</p>
