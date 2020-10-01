@@ -553,15 +553,79 @@ Electrón<br>
 <li>Bajos niveles asociados con pensamientos obsesivos (trastorno Obsesivo Compulsivo).</li>
 </ul></td></tr>
 </table>
-
+<h4>Conclusión</h4>
+<p>A través de nuestros sentidos somos capaces de captar vivencias, reaccionando nuestro organismo con la elaboración de una respuesta sensitiva, amor, alegría, tristeza, etc. Todos mediados por neurotransmisores y hormonas que se han formado con elementos que hay en el Universo, así como cada una de nuestras células.</p>
+<p>Se produce un desgaste químico y celular que es reemplazado a través de miles de células madres que posee nuestro organismo: produciéndose nuevas células y nuevas macromoléculas, formadas por elementos químicos que hay en el universo y que llegan a nosotros a través de la nutrición macroscópica (alimentación) y microscópica a nivel celular.</p>
 `+finNivel2()+`
-`+inicioNivel2('9','')+`
+`+inicioNivel2('9','BIODANZA')+`
+<p>Biodanza es una disciplina de efectos multifacéticos, reeducación afectiva, rehabilitación y psicoterapia basada en vivencias inducidas por la música. En un sentido más amplio es una “Biología de la existencia”. Su objetivo es aprender a danzar la vida y tener acceso al goce de vivir.</p>
+<p>Biodanza permite la expresión de la identidad, desarrolla la creatividad y despierta en las personas su condición trascendente al vincularlos con la armonía del universo. En esta actividad se integra la danza, la música, la psicología, la biología y la filosofía.</p>
+<h4>Rolando Toro Araneda. Libro: La Inteligencia Afectiva</h4>
+<p>La Biodanza permite obtener vivencias positivas e integradoras a través de la música, el canto, el movimiento y situaciones de encuentro de grupo <b><u>“en tiempo breve”</u></b>, lo que permite la estimulación positiva de nuestro organismo generando la activación de neurotransmisores (acetilcolina, noradrenalina, adrenalina, dopamina, gaba, etc.) y del Sistema Endocrino (hormonas hipofisiarias, oxitocina, tiroideas, paratiroideas, suprarrenales, estrógeno, progesterona, testosterona), provocando sensaciones de agrado, nutriéndonos desde el universo, potenciando nuestra inteligencia afectiva y emocional.</p>
+<table><tr><td>La estructura psíquica y nuestra estructura física son interacciones moleculares y a través de la emoción, el universo se hace patente y va entrando en nuestras células; la emoción trasmitida por neurotransmisores, que son macromoléculas, ingresa a nuestro ser, permitiendo con esto nuestro desarrollo y nuestra intensa conexión con el universo. Desde nuestra mirada, las emociones son sinapsis, es decir, unión entre el cosmos y el ser vivo, experiencias únicas de mayor o menor intensidad; las de mayor intensidad las denominamos vivencias, es en estas interacciones moleculares que psique y cosmos se transforman en cuerpo.</td></tr></table>
 `+finNivel2()+`
-`+inicioNivel2('10','')+`
+`+inicioNivel2('10','EL CAMINO DE ROLANDO TORO AL INCONSCIENTE NUMINOSO')+`
+<p>Hemos visto hasta ahora que hay distintos enfoques sobre lo inconsciente, todos abrazan ciertos pilares comunes: la complejidad de su acceso desde lo consciente; ser inefable, es decir, residir bajo el umbral de la conciencia; el emanar al alero de la teoría de la represión; compartir algunas acepciones respecto a su ubicación física (aparato psíquico, universo celular) y ciertamente el esconder ciertos tabúes contraculturales como parte de su estructura de contenidos.</p>
+<p>Estas similitudes llevaron a plantearse a Rolando, que ciertos tabúes como el sexo u otros solo escondían una parte de los efectos de los sistemas culturales represivos, y que pasaban a formar parte de los dos tipos de Inconscientes conocidos hasta entonces. Con una atenta y acuciosa mirada, Rolando llegó a la conclusión que lo más reprimido a lo largo de la historia de la humanidad, no eran en rigor aquellos tabúes, sino la ausencia de reconocimiento desde la especie, respecto de su propia grandeza, la grandeza humana.</p>
+<p>Incorporando los trabajos de Rudolf Otto, y sumados a la nueva filosofía de la Ética por sobre la ontológica que introdujo Levinas, Rolando instala la posibilidad de un nuevo Inconsciente, uno que respondiera a esta nueva mirada. Él lo llamará el Inconsciente Numinoso, otorgándole la característica de ser el depósito donde se aloja, inefablemente, la esencia del alma humana, las claves de su existencia, y cuyo contenido primordial -la grandeza humana-, ha sufrido la mayor y persistente represión por parte de nuestra civilización a través de la historia.</p>
+<p>De acuerdo con Rolando entonces, el Inconsciente Numinoso se manifiesta como una invitación a reconectarnos con la grandeza humana.</p>
+<p>Rolando por lo mismo, hubo sin embargo de establecer ciertas diferencias respecto del concepto de “Lo Numinoso” que proponía Rudolf Otto. Para Rolando, lo sagrado y lo profano están en una completa integración. De acuerdo con él, en esta dicotomía, que se arrastra desde los tiempos del Logos griego, nos advierte del peligro de “vivir” en esta separación donde por ejemplo son sagrados los símbolos o lugares religiosos, pero la mujer que busca en la basura comida para su hijo es profana.</p>
+<p>En este sentido se puede encontrar también una diferencia con Rudolf Otto, entorno a lo inapropiado de confundir lo “tremendo” de la experiencia numinosa, y que ha llevado muchas veces a miles de personas, en su búsqueda precisamente de “lo numinoso”, a hacer actos “tremendos” como la autoflagelación, andar kilómetros de rodillas, ayunos, etc. Frente a aquello, Rolando antepone como actos “tremendos”, al actuar desde el placer compartido y recíproco (el dirá en feedback), a los actos de amor hacia otros, a los actos compasivos del corazón, etc.</p>
+<p>Así, de acuerdo con Rolando, el Inconsciente Numinoso (Misterium-TremendumMajestas-Beatificante-Energicum), estaría constituido por 4 pilares fundamentales:</p>
+<ol>
+<li><h4>Amor en todas sus dimensiones:</h4>
+<p>Uno de los contenidos de la grandeza humana es el amor en todas sus dimensiones, parte de su misterio es inefable y paradójico, como algo al mismo tiempo muy concreto. Porqué se pregunta Rolando, ¿qué hay más concreto que todo lo que nos pasa cuando amamos o perdemos un amor, o el cambio de tonus muscular de dos personas al encontrarse?</p>
+<p>Rolando nos invita a considerar al amor como una tendencia de integración a todo aquello que genera, protege y mantiene la vida. Para él, es la tendencia de integración a la vida y al universo. Por ende, el Inconsciente Numinoso en primer término nos invita a desarrollar el amor en todas sus dimensiones: Amor Cósmico, Amor hepifánico, amistad, solidaridad, ternura, empatía, etc. Desde esta invitación/condición, surge desde Rolando un cambio de paradigma que para nosotros es inédito y revolucionario: la premisa contemporánea de que para amar a otros debo amarme a mí mismo primero, queda obsoleta, porque sería ineficaz, inabordable. El Inconsciente Numinoso nos convoca entonces por el contrario a “Amar a otros, para poder amarnos a nosotros mismos”.</p></li>
+<li><h4>El Coraje:</h4>
+<p>El coraje es entendido como “valor” (en contraposición a lo que algunos entienden por resentimiento). Rolando ve en el coraje una virtud humana, y que se puede definir como la ‘fuerza de voluntad que puede poseer una persona para llevar adelante una acción a pesar de los impedimentos’. Dichos impedimentos generan miedo. El coraje es la habilidad entonces de sobreponerse a dichos miedos y perseverar con la acción que se pretendía realizar.</p>
+<p>Esto es muy coherente con la mirada que Rolando tuvo sobre la historia de la humanidad, que siglo a siglo produjo naciones “enfermas de civilización”, y que criaron y han criado a sus pueblos en base al miedo a vivir, al miedo a expresarse, en definitiva, con miedo al amor.</p>
+<p>Sabemos que las respuestas al miedo pueden ser al menos cuatro: “Fuga, Lucha, Parálisis o Desafío”. Este último entendido como “situación difícil a la que alguien se enfrenta”. Acá la palabra clave es “enfrenta”. Y para Rolando expresa precisamente parte de la invitación del Inconsciente Numinoso: acercarse al miedo para abrazarlo y transformarlo en energía redentora, a la manera de Jung. Es por eso que, en Biodanza, el valor no está en desafiar a otro, el valor radica en enfrentarse a las propias sombras y ponerlas frente a frente, iluminarlas para ver donde antes no se veía.</p></li>
+<li><h4>Iluminación de la propia Sombra:</h4>
+<p>La iluminación a que hace referencia Rolando acá como un componente esencial del Inconsciente Numinoso es ciertamente la Iluminación Junguiana. En este sentido, nos advierte con ella respecto de aquellas posiciones místicas más radicales, que, en sus casos más extremos, niegan y separan la sacralidad de toda y cualquier vida, instalando “la Iluminación o el ser iluminado” como algo más elevado a ella, negando el cuerpo, las emociones, y cuyo objetivo último es no reencarnar más en esta tierra. Con ello además se hace una separación dramática (delirio místico o ego patológico) entre Iluminados y no iluminados.</p>
+<p>Rolando siempre mantuvo una gran preocupación de que desde Biodanza se considerara a todos como seres sagrados. Rolando propone entonces la instancia de la luz como aquella necesaria para “ver-nos”, para conectar con la propia sombra y llevar a ella esa Luz. Ver donde no vemos. Rolando consideró esto porque se convenció, al igual que Jung, que aun en la propia sombra se encuentra la semilla de la sanación. “Ver la Luz” (la Luz del otro), también en el sentido de conectar con la sacralidad del otro e iluminar su vida reconociendo sus virtudes (Levinas). Esto en contraposición con generar continuamente juicios, críticas, ironías, descalificaciones, las que finalmente sólo ayudan al otro a transformarse en algo que no quiere ser. Con esa forma implacable, lo ubicamos en un lugar en que no desea estar.</p>
+<p>Por eso, para Rolando el desafío y objetivo esencial de Biodanza es ayudar a las personas a transformarse en lo que siempre han sido, seres sagrados, únicos e irrepetibles.</p>
+<p>La luz se necesita para poder ver a los otros, para alumbrarlo y conectarse con ellos en la luz.</p></li>
+<li><h4>Conciencia ontocosmológica (Íntasis):</h4>
+<p>Rolando entonces a través del Inconsciente Numinoso reformula la pregunta cartesiana que derivó en su “Cogito ergo sum”. Ya no basta preguntarse por ¿quién soy? La pregunta trascendente para Rolando ahora es: ¿quiénes somos?</p>
+<p>Con ello, Rolando plantea que la forma de existir y de mirar al mundo de los seres humanos no se limitaría a simplemente “mirarse a sí mismos”, sino a mirar al cosmos, desde una nueva consciencia ontocosmológica.</p>
+<p>Rolando plantea entonces que esta nueva consciencia puede aprehenderse o asirse a través de la experiencia del Íntasis. La experiencia del Íntasis se vive como un vuelco hacia el sí mismo, pero un sí mismo que pertenece al todo. Es la súbita ampliación de conciencia, unida a la vivencia emotiva de “estar vivo” por primera y única vez, concentrando todas las posibilidades del ser. Esta vivencia va acompañada de un sentimiento de belleza y plenitud. Es sentirse parte vivo de una totalidad orgánica, junto a un sentimiento de eternidad, es decir, atemporal.</p></li>
+</ul>
+<p>Estos cuatro pilares fundamentales del Inconsciente Numinoso son asequibles a toda persona de acuerdo con Rolando, quien ciertamente intuía cuál era el camino para incorporarlos a la propia vida. Su vía regia de acceso es la <b>vivencia</b>.</p>
+<p>En un texto publicado por Rolando, el año 2008, él mismo nos brinda una preclara orientación hacia dónde apuntaban y desde dónde arrancaron sus propuestas en relación con el Inconsciente Numinoso. Este artículo, forma parte de su homenaje a quien fuera su gran amigo Alfred Newman (suizo, doctor en química que sintetizó el ácido lisérgico (LSD), y precisamente lleva por título “La Grandeza del Hombre”):</p>
+<p style="left-margin:10px;">“… En todo ser humano palpitan las formas de grandeza humana. En todo ser humano duerme un titán, un genio, un amoroso.</p>
+<p style="left-margin:10px;">Los efectos que tienen las drogas expansoras de conciencia sobre el hombre común arrojan mucha luz sobre la comunicación de la grandeza interior, dormida o latente; lo instalan en la Experiencia de Totalidad.</p>
+<p style="left-margin:10px;">El sentimiento de íntima vinculación consigo mismo, con la naturaleza y con el prójimo, es una experiencia cimera* que se tiene rara vez en la vida. Experimentarla una sola vez, permite iniciar un cambio de actitud frente a sí mismo y frente a los demás.</p>
+<p style="left-margin:10px;">El saber con “certeza” que no somos seres aislados, sino que participamos en el movimiento unificante del Cosmos, basta para desplazar nuestra escala de valores. Pero este saber con certeza no es un saber intelectual, es un saber más conmovedor y trascendente.</p>
+<p style="left-margin:10px;">Los egipcios en el Libro de los Muertos hacen referencia al poderoso sentimiento de unidad ontocosmológica:</p>
+<p style="left-margin:10px;"><i>Soy la parcela de las parcelas, de la Gran Alma Incandescente. “El Libro de los muertos, Egipto”.</i></p>
+<p style="left-margin:10px;">Para los hombres de esta civilización, amenazados, deprimidos, tiranizados por el maquinismo y las ideologías, la posibilidad de alcanzar un estado de conciencia ampliada es casi imposible.</p>
+<p style="left-margin:10px;">Nuestros hábitos mentales nos han desligado de la totalidad…”</p>
+<p style="text-align:right">“LA GRANDEZA DEL HOMBRE” Artículo de Rolando Toro, publicado en el<br>Boletín Bimestral Nº 9 de IBF, abril – mayo de 2008, Sitio WEB IBF.</p>
+<h4>Una nueva etapa en Biodanza</h4>
+<p>Para Rolando, como nos lo dice en sus propias palabras, el Inconsciente Numinoso viene a consolidar el Modelo Teórico de Biodanza, instalándolo como un paradigma de la existencia humana en una perspectiva ontocosmológica.</p>
+<p>Rolando infiere que el desarrollo y evolución existencial de la especie, desde la expresión de nuestros potenciales genéticos hasta el acceso a la conciencia epifánica y ética, estarían sustentados por el acceso y reconocimiento del Inconsciente Numinoso.</p>
+<p>Acceder a la conciencia ontocosmológica es sentirse parte del universo y no en frente de él. Así, quien se siente parte de la naturaleza pasa a convertirse en un ser esencialmente ecológico.</p>
+<p>Con ello, Rolando nos deja un escenario de profunda trascendencia, y que repercutirá en la forma y el impacto que adquiere Biodanza, como herramienta de desarrollo humano.</p>
+<p>Desde nuestra perspectiva, el legado de Rolando en ese sentido es una noticia de esperanza profunda para el mundo y la humanidad entera: si existe alguna razón para la existencia de nuestra especie en el Universo, ésta sería para expresar rotundamente la cualidad amorosa de la grandeza humana; si compartimos con el Cosmos, el milagro de la vida es para recorrer y disfrutar el camino del Amor.</p>
+<p>Para amar hay que tener coraje.</p>
+<p>Para caminar por la vida necesitamos coraje.</p>
+<p>Para ser tu mismo y expresarse hay que tener coraje. </p>
+<p>Desde esta perspectiva, nuestra propuesta es que la ubicación del Inconsciente Numinoso estaría en el cierre del modelo teórico de Biodanza, haciendo nuestro modelo holístico:</p>
+<center><img src="propuestaModeloTeorico.png"></center>
 `+finNivel2()+`
-`+inicioNivel2('11','')+`
-`+finNivel2()+`
-`+inicioNivel2('12','')+`
+`+inicioNivel2('11','BIBLIOGRAFÍA')+`
+<ul>
+<li>Material del registro audiovisual (13 cintas DVCam) del Documental en proceso “Íntasis del renacido” sobre la vida y obra de Rolando Toro Araneda. Pedro Labbé y Ricardo Pastene.</li>
+<li>Cuadernillos de Formación de Facilitadores de las Escuelas de Biodanza Sistema Rolando Toro.</li>
+<li>Biodanza. Rolando Toro, libro, Editorial Cuarto Propio.</li>
+<li>Historia de las creencias y de las ideas religiosas. Eliade Mircea (1978).</li>
+<li>Lo santo lo racional y lo irracional en la idea de dios. Rudolf Otto (1980). Madrid, Editorial Alianza.</li>
+<li>Lo Sagrado. Rudolf Otto, Editorial Claridad.</li>
+<li>Lo inconsciente. Sigmund Freud (1915).</li>
+<li>Consiente inconsciente individuación. Carl Gustav Jung (1939)</li>
+<li>El árbol del conocimiento: Bases biológicas del entendimiento humano. Humberto Maturana y Francisco Varela (1984), edición revisada (1992).</li>
+<li>De máquinas e seres vivos. Autopoiese, a Organização do Vivo, Porto Alegre: Artes Médicas. Humberto Maturana y Francisco Varela (1997).</li>
+</ul>
 `+finNivel2()+`
 `+inicioNivel2('VIDEO','VIDEOS')+`
 <h4>Maratona Pedro Labbe Sep 2020</h4>
