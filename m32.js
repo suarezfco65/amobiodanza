@@ -403,7 +403,6 @@ var	dir=`
 23/11/2011  09:38 a.m.         7.017.828 IBFC21 - 17 - OST Zorba The Greek - Zorba's Dance.mp3
 30/12/2011  03:47 a.m.         5.810.304 IBFC21 - 18 - OST Metello (Morricone, Ennio) - Metello.mp3
 `;
-var	s = '<tr>';
 var desde = dir.indexOf('IBF'+disco+' - '+pista);
 var hasta = dir.indexOf('mp3', desde);
 var audio = dir.substr(desde,hasta-desde+3);
@@ -412,11 +411,13 @@ var	autor = audio.substr(13, hasta-14);
 	desde = hasta+2;
 	hasta = audio.indexOf('.mp3');
 var	cancion = audio.substr(desde,hasta-desde);
-    s += '<td><audio src="'+audio+'" controls>Tu navegador no soporta la etiqueta audio</audio></td>';
-	s += '<td>'+disco+'-'+pista+'</td>';
+var	s = '<tr>';
+	s += '<td><audio src="'+audio+'" controls>Tu navegador no soporta la etiqueta audio</audio></td>';
+	s += '<td nowrap>'+disco+'-'+pista+'</td>';
 	s += '<td>'+autor+'</td>';
 	s += '<td>'+cancion+'</td>';
-	s += '<td>'+obs+'</td>';
+	s += '</tr><tr>';
+	s += '<td colspan="4">'+obs+'</td>';
 	s += '</tr>';
 	return s;
 }
