@@ -79,7 +79,7 @@ var	dir=`
 07/02/2012  01:12 p.m.         9.107.584 IBF04 - 19 - Nunes, Clara - Portela na Avenida.mp3
 26/12/2011  01:41 p.m.        11.673.600 IBF04 - 20 - Carvalho, Beth - A sete chaves-CamarÆo que dorme a onda leva-Dor de amor (ao vivo).mp3
 26/12/2011  01:41 p.m.        12.621.824 IBF04 - 21 - Carvalho, Beth - Saco de FeijÆo-Corda no pesco‡o-Sonhando eu sou feliz (ao vivo).mp3
-07/02/2012  01:27 p.m.         7.544.832 IBF04 - 22 - Nunes, Clara - Meu Sapato J  Furou.mp3
+07/02/2012  01:27 p.m.         7.544.832 IBF04 - 22 - Nunes, Clara - Meu Sapato J  Furou.mp3
 12/01/2012  01:08 p.m.         6.508.544 IBF05 - 01 - Ramalho, Elba - Bate Cora‡Æo.mp3
 25/12/2011  08:06 p.m.        10.590.336 IBF05 - 02 - Gil, Gilberto - Esperando Na Janela.mp3
 08/02/2012  07:59 p.m.         4.981.616 IBF05 - 03 - do Acordeon, Pinto - PaixÆo de Beata.mp3
@@ -149,7 +149,7 @@ var	dir=`
 13/06/2011  03:15 a.m.         6.359.860 IBF07 - 22 - Strauss II, Johann - Kaiserwalzer, op.437.mp3
 15/10/2011  12:18 p.m.         5.752.960 IBF07 - 23 - Delibes (David Zinman - Rotterdam Philharmonic Orchestra) - Valse - Ballet Copp‚lia - Acte I-2.mp3
 11/02/2012  07:22 p.m.         5.224.576 IBF07 - 24 - Fitzgerald, Ella - I've Got You Under My Skin.mp3
-17/06/2011  03:14 a.m.         2.323.890 IBF07 - 25 - Bord¢n, Luis - Harpa paragu ia.mp3
+17/06/2011  03:14 a.m.         2.323.890 IBF07 - 25 - Bord¢n, Luis - Harpa paragu ia.mp3
 11/12/2011  02:26 p.m.         5.871.744 IBF08 - 01 - Armstrong, Louis - Hello, Dolly!.mp3
 07/11/2011  03:56 p.m.         5.423.104 IBF08 - 02 - Cole, Natalie - This Can't Be Love.mp3
 09/02/2012  11:19 p.m.         6.139.904 IBF08 - 03 - Cole, Natalie - L-O-V-E.mp3
@@ -204,11 +204,11 @@ var	dir=`
 23/12/2011  07:17 p.m.         7.411.840 IBF10 - 15 - Regina, Elis - Fascina‡Æo.mp3
 10/02/2012  03:08 p.m.         6.212.090 IBF10 - 16 - Wando - Mo‡a.mp3
 13/02/2012  10:59 p.m.         8.099.840 IBF10 - 17 - Franz, Charles - Improvisasion.mp3
-04/11/2011  07:43 p.m.        12.415.104 IBF10 - 18 - Brahms (Christoph von Dohn nyi - The Cleveland Orchestra) - Poco Allegretto - Sinfonie 3 F-Dur - 3, op.90.mp3
+04/11/2011  07:43 p.m.        12.415.104 IBF10 - 18 - Brahms (Christoph von Dohn nyi - The Cleveland Orchestra) - Poco Allegretto - Sinfonie 3 F-Dur - 3, op.90.mp3
 07/02/2012  05:44 p.m.         3.388.181 IBF10 - 21 - Chopin - Largo - Pr‚lude nø4 en mi mineur - 24 Pr‚ludes, op. 28.mp3
-07/02/2012  03:22 p.m.         7.391.360 IBF11 - 01 - de Bel‚m, Faf  - Tamba-Taj .mp3
-09/12/2011  10:04 p.m.        10.451.072 IBF11 - 02 - de Bel‚m, Faf  - Pode entrar.mp3
-08/02/2012  05:23 p.m.         5.129.720 IBF11 - 03 - de Bel‚m, Faf  - Araguaia.mp3
+07/02/2012  03:22 p.m.         7.391.360 IBF11 - 01 - de Bel‚m, Faf  - Tamba-Taj .mp3
+09/12/2011  10:04 p.m.        10.451.072 IBF11 - 02 - de Bel‚m, Faf  - Pode entrar.mp3
+08/02/2012  05:23 p.m.         5.129.720 IBF11 - 03 - de Bel‚m, Faf  - Araguaia.mp3
 11/02/2012  09:20 p.m.        10.489.856 IBF11 - 04 - Simone, Nina - Little Girl Blue.mp3
 09/02/2012  07:37 p.m.         9.281.536 IBF11 - 05 - Enya - Evening Falls....mp3
 09/02/2012  02:20 p.m.        10.549.376 IBF11 - 06 - Flack, Roberta - The First Time Ever I Saw Your Face.mp3
@@ -248,18 +248,18 @@ var	dir=`
 24/05/2011  04:00 p.m.         4.810.292 IBF12 - 21 - Peixoto, Araken - Who Needs Forever.mp3
 09/12/2011  04:37 p.m.        11.382.912 IBF13 - 01 - Krall, Diana - I Miss You So.mp3
 08/02/2012  06:21 p.m.         8.218.752 IBF13 - 02 - Merrill, Helen - When I Fall In Love.mp3
-11/02/2012  04:54 p.m.         5.428.603 IBF13 - 03 - Caymmi, Nana - Atr s da porta.mp3
+11/02/2012  04:54 p.m.         5.428.603 IBF13 - 03 - Caymmi, Nana - Atr s da porta.mp3
 11/02/2012  04:58 p.m.         5.425.184 IBF13 - 04 - Creuza, Maria - Apelo.mp3
 09/12/2011  05:05 p.m.        15.030.400 IBF13 - 05 - Krall, Diana - I Don't Stand A Ghost Of A Chance With You.mp3
 24/12/2011  01:22 p.m.         7.831.552 IBF13 - 06 - Baker, Chet - Almost Blue.mp3
-10/02/2012  12:22 a.m.        11.747.328 IBF13 - 07 - Simone - O que Ser .mp3
+10/02/2012  12:22 a.m.        11.747.328 IBF13 - 07 - Simone - O que Ser .mp3
 09/02/2012  03:18 p.m.         4.894.720 IBF13 - 08 - Caymmi, Nana - Isso e aquilo.mp3
 26/12/2011  12:35 p.m.         9.504.768 IBF13 - 09 - Caymmi, Nana - Voz e Suor.mp3
 11/02/2012  04:55 p.m.         8.957.952 IBF13 - 10 - Caymmi, Nana - Velho Piano.mp3
 11/02/2012  04:55 p.m.         6.377.472 IBF13 - 11 - Caymmi, Nana - Neste mesmo lugar.mp3
 09/02/2012  03:16 p.m.         4.898.171 IBF13 - 12 - Caymmi, Nana - Por causa de vo‡ˆ.mp3
 26/12/2011  12:35 p.m.         8.060.928 IBF13 - 13 - Caymmi, Nana - Por toda minha vida.mp3
-11/02/2012  04:57 p.m.         4.519.936 IBF13 - 14 - Caymmi, Nana - Valer  a pena.mp3
+11/02/2012  04:57 p.m.         4.519.936 IBF13 - 14 - Caymmi, Nana - Valer  a pena.mp3
 20/05/2011  11:09 p.m.         4.387.146 IBF13 - 15 - Caymmi, Nana - Nunca mais.mp3
 20/05/2011  11:24 p.m.         5.548.048 IBF13 - 16 - Caymmi, Nana - Rama de nuvens.mp3
 08/02/2012  01:01 p.m.         5.684.572 IBF13 - 17 - Creuza, Maria - Medo de amar nø 2.mp3
@@ -272,7 +272,7 @@ var	dir=`
 25/12/2011  06:26 p.m.        10.307.584 IBF14 - 02 - Getz, Stan & Gilberto, JoÆo - Corcovado (feat. Astrud Gilberto).mp3
 07/02/2012  06:00 p.m.        12.689.408 IBF14 - 03 - Getz, Stan & Gilberto, JoÆo - The Girl From Ipanema (feat. Astrud Gilberto).mp3
 25/12/2011  01:41 p.m.        13.195.264 IBF14 - 04 - Santiago, Emilio - Anos dourados-Eu sei que vou te amar.mp3
-07/02/2012  02:55 p.m.        14.682.112 IBF14 - 05 - Santiago, Emilio - Nada por Mim-Fullg s.mp3
+07/02/2012  02:55 p.m.        14.682.112 IBF14 - 05 - Santiago, Emilio - Nada por Mim-Fullg s.mp3
 07/02/2012  02:57 p.m.        13.189.120 IBF14 - 06 - Santiago, Emilio - Ronda-Sampa.mp3
 23/04/2011  12:33 a.m.         7.046.440 IBF14 - 07 - Santiago, Emilio - Verdade chinesa.mp3
 25/12/2011  01:10 p.m.        11.804.672 IBF14 - 08 - Santiago, Emilio - P‚rola Negra-Bem que se Quis.mp3
@@ -364,7 +364,7 @@ var	dir=`
 05/08/2011  07:50 p.m.         5.015.174 IBF19 - 11 - Orff, Carl (Eugen Jochum - Walter Hagen-Groll) - O fortuna - Fortuna Imperatrix Mundi - Carmina Burana - I-1.mp3
 07/02/2012  12:23 p.m.        15.319.040 IBF19 - 12 - Kitaro - Sundance.mp3
 11/11/2011  05:19 p.m.         8.749.056 IBF19 - 14 - Fitzgerald, Ella - This Girl's In Love With You.mp3
-24/11/2010  06:20 p.m.        11.579.152 IBF19 - 15 - Cumbo, Jorge ~ Vitale, Lito ~ Gonz les, Lucho  - Vidala del cucul¡.mp3
+24/11/2010  06:20 p.m.        11.579.152 IBF19 - 15 - Cumbo, Jorge ~ Vitale, Lito ~ Gonz les, Lucho  - Vidala del cucul¡.mp3
 06/06/2011  04:48 p.m.         5.154.619 IBF19 - 17 - Mourashkin, Boris - Joy.mp3
 07/02/2012  03:53 p.m.         7.974.912 IBF19 - 18 - OST Chariots Of Fire (Vangelis) - Abraham's Theme.mp3
 08/10/2011  01:46 p.m.         6.801.408 IBF19 - 19 - Mascagni (Herbert von Karajan - Coro e Orchestra del Teatro alla Scala) - Cavalleria Rusticana, XVIII. Intermezzo sinfonico.mp3
@@ -404,22 +404,21 @@ var	dir=`
 30/12/2011  03:47 a.m.         5.810.304 IBFC21 - 18 - OST Metello (Morricone, Ennio) - Metello.mp3
 `;
 var	s = '<tr>';
-var	desde = dir.indexOf('IBF'+disco+' - '+pista);
-var     hasta = dir.indexOf('mp3', desde);
-var     audio = dir.substr(desde,hasta-desde+3);
+var desde = dir.indexOf('IBF'+disco+' - '+pista);
+var hasta = dir.indexOf('mp3', desde);
+var audio = dir.substr(desde,hasta-desde+3);
 	hasta = audio.indexOf('-', 15);
-var	autor = audio.substr(14, hasta-1);
-	desde = hasta+1;
+var	autor = audio.substr(13, hasta-14);
+	desde = hasta+2;
 	hasta = audio.indexOf('.mp3');
-var	cancion = audio.substr(desde,hasta);
-        s += '<td><audio src="'+audio+'" controls>Tu navegador no soporta la etiqueta audio</audio></td>';
+var	cancion = audio.substr(desde,hasta-desde);
+    s += '<td><audio src="'+audio+'" controls>Tu navegador no soporta la etiqueta audio</audio></td>';
 	s += '<td>'+disco+'-'+pista+'</td>';
 	s += '<td>'+autor+'</td>';
 	s += '<td>'+cancion+'</td>';
 	s += '<td>'+obs+'</td>';
 	s += '</tr>';
-	console.log(s);
-        return s;
+	return s;
 }
 function m32()  {
     var s='';
@@ -430,7 +429,7 @@ function m32()  {
 <p>Tiene la característica de una ceremonia en el sentido clásico de iniciar algo importante. Representa la unidad de la comunidad humana. Los participantes se toman de las manos y danzan siguiendo la música que puede ser lenta, afectiva, solemne o alegre. Para Rolando, la Ronda Inicial debía acentuar la comunicacion afectiva. Con el tiempo, músicas mas vitales fueron asociadas a esta ronda, con el fin de elevar el humor desde el principio de la clase (cuando fuese necesario).</p>
 <p>Música :</p>
 <table>`+
-oa('01','04','El principio de la mósica es lento, permite la conexion en la mirada y tomarse el tiempo de "llegar". Sin embargo, puede ser difiúcil para verdaderos debutantes.')+
+oa('01','04','El principio de la música es lento, permite la conexion en la mirada y tomarse el tiempo de "llegar". Sin embargo, puede ser difiúcil para verdaderos debutantes.')+
 oa('02','13')+
 oa('01','18')+
 oa('01','12')+
