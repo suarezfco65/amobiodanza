@@ -418,6 +418,7 @@ var	cancion = audio.substr(desde,hasta);
 	s += '<td>'+cancion+'</td>';
 	s += '<td>'+obs+'</td>';
 	s += '</tr>';
+	console.log(s);
         return s;
 }
 function m32()  {
