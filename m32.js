@@ -1,4 +1,4 @@
-function op(disco, pista, obs='')	{
+function oa(disco, pista, obs='')	{
 var	dir=`
 07/02/2012  06:15 p.m.         9.738.368 IBF01 - 01 - The Beatles - Free As a Bird.mp3
 26/12/2011  11:38 p.m.         9.824.256 IBF01 - 02 - The Beatles - Let It Be.mp3
