@@ -553,7 +553,7 @@ oa('13','21')+
 oa('12','04')+
 oa('13','05')+
 oa('13','07')+
-oa('11','20')`
+oa('11','20')+`
 </table>
 `+finNivel2()+`
 `+inicioNivel2('2','EL GRUPO DE BIODANZA')+`
