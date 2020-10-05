@@ -199,7 +199,7 @@ var	dir=`
 16/07/2011  08:11 p.m.         9.455.799 IBF09 - 17 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice') [Part 2].mp3
 17/06/2011  01:43 p.m.         5.102.918 IBF09 - 18 - Haendel - Larghetto (Transcr for Flute-Organ) Violin sonata Nø 13 D Major - 3, op.11 HWV 371.mp3
 03/10/2011  11:25 p.m.        10.156.032 IBF09 - 19 - Bach (Herbert Mnchner & Sdwest-Studioorchester) - Adagio - Concerto Brandebourgeois 1 - 2,  F-Dur BWV 1046.mp3
-07/02/2012  12:44 p.m.        18.561.152 IBF09 - 20 - Jarre, Jean-Michel - OxygŠne, Pt. 1.mp3
+07/02/2012  12:44 p.m.        18.561.152 IBF09 - 20 - Jarre, Jean Michel - OxygŠne, Pt. 1.mp3
 12/10/2011  12:06 p.m.         6.842.496 IBF10 - 01 - Shepherd, Dave & His Quintet - The Man I Love.mp3
 11/11/2011  03:35 p.m.         8.310.912 IBF10 - 02 - Fitzgerald, Ella - The Man I Love (Live in Berlin).mp3
 11/11/2011  03:58 p.m.         9.013.248 IBF10 - 03 - Fitzgerald, Ella - Laura.mp3
@@ -226,7 +226,7 @@ var	dir=`
 09/02/2012  07:37 p.m.         9.281.536 IBF11 - 05 - Enya - Evening Falls....mp3
 09/02/2012  02:20 p.m.        10.549.376 IBF11 - 06 - Flack, Roberta - The First Time Ever I Saw Your Face.mp3
 23/12/2011  07:41 p.m.        12.331.136 IBF11 - 07 - Zamfir, Gheorghe - M‚ditation de Tha‹s (d'aprŠs Jules Massenet).mp3
-30/05/2011  02:24 p.m.         6.858.331 IBF11 - 08 - Posit, Jean-Pierre - Magie d'amour.mp3
+30/05/2011  02:24 p.m.         6.858.331 IBF11 - 08 - Posit, Jean Pierre - Magie d'amour.mp3
 26/12/2011  08:47 p.m.         5.015.552 IBF11 - 09 - Kitaro - Earth Born.mp3
 09/02/2012  11:52 p.m.         7.297.024 IBF11 - 10 - Enya - To Go Beyond, Pt. 2.mp3
 24/12/2011  05:45 p.m.         5.894.144 IBF11 - 11 - Enya - Watermark.mp3
@@ -325,9 +325,9 @@ var	dir=`
 09/12/2011  05:01 p.m.         9.199.744 IBF16 - 07 - Krall, Diana - Lost Mind.mp3
 11/11/2011  04:17 p.m.         9.797.632 IBF16 - 08 - Villa&Lobos, Heitor - Can‡Æo de Amor - Floresta do Amazonas (Vocal Bid£ SayÆo).mp3
 07/02/2012  08:52 p.m.         6.043.776 IBF16 - 09 - OST Le Grand Bleu - Ouverture [Part].mp3
-11/12/2011  06:50 p.m.         5.191.680 IBF16 - 10 - Jarre, Jean-Michel - R‚volution, r‚volutions [Part].mp3
-11/12/2011  06:50 p.m.        12.525.568 IBF16 - 11 - Jarre, Jean-Michel - R‚volution Industrielle. Ouverture.mp3
-11/12/2011  06:50 p.m.         9.803.776 IBF16 - 12 - Jarre, Jean-Michel - R‚volution Industrielle, Pt.3.mp3
+11/12/2011  06:50 p.m.         5.191.680 IBF16 - 10 - Jarre, Jean Michel - R‚volution, r‚volutions [Part].mp3
+11/12/2011  06:50 p.m.        12.525.568 IBF16 - 11 - Jarre, Jean Michel - R‚volution Industrielle. Ouverture.mp3
+11/12/2011  06:50 p.m.         9.803.776 IBF16 - 12 - Jarre, Jean Michel - R‚volution Industrielle, Pt.3.mp3
 10/01/2012  01:50 p.m.         5.062.784 IBF16 - 14 - Shankar, Ravi - Vandana.mp3
 12/01/2012  02:35 p.m.         6.994.048 IBF16 - 15 - Shankar, Ravi & Previn, Andr‚ - Raga Adana.mp3
 03/05/2011  03:32 p.m.         5.242.656 IBF16 - 16 - OST The Mahabharata - [Real World].mp3
@@ -337,7 +337,7 @@ var	dir=`
 15/10/2011  05:53 p.m.         9.046.144 IBF16 - 20 - Salieri, Francesco (Claudio Scimone & I Solisti Veneti) - Andante (La tempesta di Mare).mp3
 08/02/2012  07:51 p.m.        14.276.608 IBF17 - 01 - Vangelis - La petite fille de la mer.mp3
 07/02/2012  07:28 p.m.         7.540.736 IBF17 - 02 - O'Connor, Sin‚ad - My Darling Child.mp3
-07/02/2012  06:24 p.m.         6.852.062 IBF17 - 04 - Posit, Jean-Pierre - L'horloge de ma vie.mp3
+07/02/2012  06:24 p.m.         6.852.062 IBF17 - 04 - Posit, Jean Pierre - L'horloge de ma vie.mp3
 15/06/2011  03:02 a.m.         2.972.779 IBF17 - 05 - Branco, Waltel - Ponteio.mp3
 15/07/2011  02:34 p.m.        12.557.927 IBF17 - 06 - Berglund, Erik - Blue Lotus.mp3
 07/11/2011  02:39 p.m.        11.372.672 IBF17 - 07 - Debussy (Henrique Simonetti & Orquestra de Cƒmera RGE) - Clair de lune - Suite Bergamasque pour piano - 3, orchestral version.mp3
