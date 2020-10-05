@@ -1,420 +1,407 @@
 function oa(disco, pista, obs='')	{
 var	dir=`
-01/08/2011  06:07 p.m.         5.460.217 IB0A90~1.MP3
-07/10/2011  10:00 p.m.         4.515.968 IB116E~1.MP3
-03/08/2011  10:58 p.m.        11.350.393 IB1A43~1.MP3
-02/08/2011  12:11 p.m.        12.264.133 IB1B50~1.MP3
-07/02/2012  05:39 p.m.         3.920.000 IB1E5C~1.MP3
-07/10/2011  10:11 p.m.         7.176.320 IB427A~1.MP3
-10/02/2012  02:28 a.m.        11.546.624 IB4F19~1.MP3
-01/08/2011  01:58 p.m.        13.035.268 IB6786~1.MP3
-06/11/2011  07:03 p.m.         7.700.608 IBABF7~1.MP3
-23/11/2011  08:08 p.m.         9.646.080 IBB987~1.MP3
-07/10/2011  08:55 p.m.         4.390.912 IBC0AB~1.MP3
-09/02/2012  10:08 p.m.         5.220.480 IBDED4~1.MP3
-23/11/2011  09:36 a.m.        15.745.569 IBEFB4~1.MP3
-07/02/2012  06:15 p.m.         9.738.368 IBF01 - 01 - The Beatles - Free As a Bird.mp3
-26/12/2011  11:38 p.m.         9.824.256 IBF01 - 02 - The Beatles - Let It Be.mp3
-26/12/2011  11:38 p.m.         5.926.912 IBF01 - 03 - The Beatles - I Me Mine.mp3
-17/10/2011  05:53 p.m.         9.564.288 IBF01 - 04 - Lennon, John - (Just Like) Starting Over.mp3
-05/02/2012  01:40 a.m.         7.626.752 IBF01 - 06 - Harrison, George - Behind That Locked Door.mp3
-05/02/2012  01:40 a.m.         9.316.352 IBF01 - 07 - Harrison, George - Ballad Of Sir Frankie Crisp (Let It Roll).mp3
-27/12/2011  12:02 a.m.         7.645.184 IBF01 - 08 - The Beatles - Here Comes The Sun.mp3
-05/02/2012  01:02 a.m.         8.613.888 IBF01 - 09 - Harrison, George - Give Me Love (Give Me Peace On Earth).mp3
-02/01/2012  12:47 p.m.         7.467.136 IBF01 - 10 - Carpenters - We've Only Just Begun.mp3
-07/02/2012  05:59 p.m.         9.834.624 IBF01 - 11 - OST Gabriela (Costa, Gal & Jobim, Tom) - Tema de Amor de Gabriela.mp3
-26/12/2011  02:11 a.m.         6.066.176 IBF01 - 12 - Nunes, Clara - A Deusa Dos Orixas.mp3
-26/12/2011  02:11 a.m.         7.256.064 IBF01 - 13 - Nunes, Clara - O mar Serenou.mp3
-26/12/2011  01:41 p.m.         5.949.440 IBF01 - 14 - Carvalho, Beth - Fim de Reinado (ao vivo).mp3
-11/01/2012  09:12 p.m.         6.758.528 IBF01 - 15 - Carvalho, Beth - Samba no quintal.mp3
-09/02/2012  08:45 p.m.        13.305.856 IBF01 - 16 - Santiago, Emilio - Aquarela do Brasil.mp3
-25/12/2011  03:15 a.m.         9.560.192 IBF01 - 17 - Simone - T“ Voltando.mp3
-29/12/2011  04:54 p.m.         8.571.008 IBF01 - 18 - Nascimento, Milton - A de ¢ (Estamos chegando).mp3
-07/02/2012  04:33 p.m.         6.809.728 IBF01 - 19 - Vivaldi (The Royal Vivaldi Symphony) - La primavera - 1.Allegro (Le quattro stagioni op.8-1, RV 269).mp3
-03/01/2012  02:14 a.m.        12.947.456 IBF01 - 21 - Bach (Henryk Szeryng & Sir Neville Marriner & Academy of St. Martin in the Fields) - Air (on the G-string), Suite No.3 in D.mp3
-17/10/2011  05:59 p.m.         6.828.160 IBF02 - 01 - Lennon, John - Oh My Love.mp3
-17/10/2011  06:05 p.m.         8.226.944 IBF02 - 02 - Lennon, John - Love.mp3
-09/02/2012  07:52 p.m.         5.699.584 IBF02 - 03 - Veloso, Caetano - Sete mil vezes.mp3
-09/02/2012  07:59 p.m.         6.328.320 IBF02 - 04 - Veloso, Caetano - Coqueiro de ItapoÆ.mp3
-08/02/2012  07:57 p.m.        10.150.016 IBF02 - 05 - Veloso, Caetano - Canto do Povo de um lugar.mp3
-07/02/2012  07:26 p.m.         7.725.184 IBF02 - 06 - Veloso, Caetano - Coisa mais linda.mp3
-05/02/2012  01:55 a.m.         7.198.720 IBF02 - 07 - Harrison, George - I'd Have You Anytime.mp3
-07/02/2012  11:04 p.m.        10.217.600 IBF02 - 09 - Harrison, George - Learning To Love You.mp3
-08/02/2012  02:15 p.m.         8.083.456 IBF02 - 10 - Williams, Paul - We've Only Just Begun.mp3
-26/12/2011  06:47 p.m.         7.600.128 IBF02 - 11 - Williams, Paul - Nice To Be Around.mp3
-30/12/2011  02:32 a.m.         8.558.720 IBF02 - 12 - Williams, Paul - Sleep Warm.mp3
-24/12/2011  03:32 p.m.         8.964.224 IBF02 - 13 - Carpenters - (They Long To Be) Close To You.mp3
-08/02/2012  02:18 p.m.         7.248.000 IBF02 - 14 - Baez, Joan - Stewball.mp3
-09/02/2012  08:05 p.m.         5.898.240 IBF02 - 15 - Veloso, Caetano - Trem das cores.mp3
-10/02/2012  06:10 p.m.         9.459.712 IBF02 - 16 - Monte, Marisa - Alta Noite.mp3
-11/12/2011  06:11 p.m.         6.166.528 IBF02 - 17 - Monte, Marisa - Bem Leve.mp3
-08/02/2012  02:05 p.m.         6.205.440 IBF02 - 18 - de Moraes & Creuza & Toquinho - Se todos fossem iguais a vocˆ.mp3
-12/01/2012  01:17 a.m.         8.376.320 IBF02 - 19 - Mendes, Sergio - Apos o Amanhecer.mp3
-11/01/2012  08:56 p.m.         7.319.680 IBF02 - 20 - Carvalho, Beth - Andan‡a.mp3
-26/12/2011  02:43 a.m.         9.975.808 IBF02 - 21 - Monte, Marisa - Xote das meninas.mp3
-08/02/2012  02:08 p.m.         5.971.539 IBF02 - 23 - Regina, Elis - Redescobrir.mp3
-23/12/2011  07:00 p.m.        10.666.112 IBF03 - 01 - Regina, Elis - Gracias a la vida.mp3
-07/01/2012  02:54 p.m.         8.444.032 IBF03 - 02 - Sosa, Mercedes - Gracias a la vida.mp3
-08/02/2012  11:29 a.m.        11.530.240 IBF03 - 03 - Sosa, Mercedes - Todo Cambia.mp3
-11/02/2012  05:12 p.m.        11.409.536 IBF03 - 04 - Sosa, Mercedes - Y dale alegr¡a a mi coraz¢n.mp3
-11/02/2012  05:13 p.m.         7.424.128 IBF03 - 05 - Sosa, Mercedes - Vientos del alma.mp3
-08/02/2012  12:24 p.m.        11.802.752 IBF03 - 06 - OST Don Juan de Marco (Adams, Bryan) - Have You Ever Realy Loved A Woman.mp3
-05/02/2012  01:55 a.m.        11.393.024 IBF03 - 07 - Harrison, George - My Sweet Lord.mp3
-05/01/2012  02:58 p.m.         6.359.168 IBF03 - 08 - Carpenters - Sing.mp3
-07/02/2012  01:13 p.m.         8.910.848 IBF03 - 09 - Nunes, Clara - Conto de Areia.mp3
-10/02/2012  01:04 a.m.         6.983.680 IBF03 - 10 - Creuza, Maria - Morena flor.mp3
-10/02/2012  09:55 p.m.         6.823.387 IBF03 - 11 - Pagodinho, Zeca - Deixa a vida me levar.mp3
-11/02/2012  05:09 p.m.         5.024.440 IBF03 - 12 - Carvalho, Beth - Coisa de Pele.mp3
-24/12/2011  12:05 p.m.         9.408.640 IBF03 - 13 - Carvalho, Beth - Sonhando Eu Sou Feliz.mp3
-10/02/2012  03:56 p.m.         9.771.008 IBF03 - 14 - Veloso, Caetano - Rumba Azul.mp3
-24/12/2011  04:27 p.m.         8.566.784 IBF03 - 15 - Veloso, Caetano - NÆo Enche.mp3
-07/02/2012  12:55 p.m.        10.520.704 IBF03 - 16 - Gonzaguinha - O qu‚ ‚ O qu‚ ‚.mp3
-13/02/2012  10:43 p.m.        10.569.856 IBF03 - 17 - Vivaldi (Herbert von Karajan & Berliner Philharmoniker) - Allegro - Concerto L'Amoroso - 1, RV 271.mp3
-06/10/2011  11:40 a.m.         4.737.024 IBF03 - 19 - Vivaldi (Riccardo Muti & New Philharmonia Orchestra & Chorus) - Gloria in excelsis Deo - Gloria in Re Maggiore - 1, RV 589.mp3
-01/08/2011  09:21 p.m.         7.140.915 IBF03 - 20 - Haendel (Sir Georg Solti & Chicago Symphony Orchestra & Chorus) - Hallelujah - Messiah, HWV 56 - Part II-42.mp3
-09/02/2012  08:42 p.m.         8.611.840 IBF04 - 01 - Monte, Marisa - Preciso me encontrar.mp3
-07/02/2012  01:58 p.m.        10.031.104 IBF04 - 02 - Monte, Marisa - Lenda das Sereias Rainha do Mar.mp3
-21/05/2011  02:02 p.m.         4.677.556 IBF04 - 03 - Carvalho, Beth - Olho por Olho.mp3
-21/05/2011  02:01 p.m.         6.307.467 IBF04 - 04 - Carvalho, Beth - Vocˆ, Eu e a Orgia.mp3
-11/01/2012  10:59 p.m.         6.045.696 IBF04 - 05 - Carvalho, Beth - Senhora rezadeira.mp3
-08/02/2012  01:58 p.m.         7.045.120 IBF04 - 06 - Nunes, Clara - Juizio Final.mp3
-21/05/2011  02:48 p.m.         3.123.997 IBF04 - 07 - Carvalho, Beth - For‡a da imagina‡Æo.mp3
-02/01/2012  01:04 p.m.         6.228.096 IBF04 - 08 - da Vila, Martinho - Canta, Canta minha gente.mp3
-26/12/2011  01:41 p.m.         5.943.296 IBF04 - 10 - Carvalho, Beth - Folhas secas (ao vivo).mp3
-11/01/2012  10:59 p.m.         5.617.664 IBF04 - 11 - Carvalho, Beth - Pedi ao c‚u.mp3
-05/01/2012  04:05 p.m.         6.940.800 IBF04 - 12 - da Vila, Martinho - Vai ou NÆo Vai.mp3
-25/12/2011  07:57 p.m.         9.365.632 IBF04 - 13 - Gil, Gilberto - Toda menina baiana.mp3
-03/01/2012  02:43 a.m.        11.524.224 IBF04 - 14 - Gil, Gilberto - Quilombo, O Eldorado Negro.mp3
-25/12/2011  01:10 p.m.         9.402.368 IBF04 - 15 - Santiago, Emilio - Isto Aqui O Que -.mp3
-26/12/2011  02:05 a.m.         7.272.448 IBF04 - 16 - Nunes, Clara - Na linha do mar.mp3
-07/02/2012  05:18 p.m.        10.704.896 IBF04 - 17 - Veloso, Caetano - Queixa.mp3
-24/12/2011  05:03 p.m.         7.354.368 IBF04 - 18 - Veloso, Caetano - Um Canto de Afox‚ Para O Bloco do Ilˆ.mp3
-07/02/2012  01:12 p.m.         9.107.584 IBF04 - 19 - Nunes, Clara - Portela na Avenida.mp3
-26/12/2011  01:41 p.m.        11.673.600 IBF04 - 20 - Carvalho, Beth - A sete chaves-CamarÆo que dorme a onda leva-Dor de amor (ao vivo).mp3
-26/12/2011  01:41 p.m.        12.621.824 IBF04 - 21 - Carvalho, Beth - Saco de FeijÆo-Corda no pesco‡o-Sonhando eu sou feliz (ao vivo).mp3
-07/02/2012  01:27 p.m.         7.544.832 IBF04 - 22 - Nunes, Clara - Meu Sapato J  Furou.mp3
-12/01/2012  01:08 p.m.         6.508.544 IBF05 - 01 - Ramalho, Elba - Bate Cora‡Æo.mp3
-25/12/2011  08:06 p.m.        10.590.336 IBF05 - 02 - Gil, Gilberto - Esperando Na Janela.mp3
-08/02/2012  07:59 p.m.         4.981.616 IBF05 - 03 - do Acordeon, Pinto - PaixÆo de Beata.mp3
-20/05/2011  06:05 p.m.         4.055.090 IBF05 - 04 - Ramalho, Elba - Que Nem Vem Vem.mp3
-31/12/2011  11:10 a.m.         5.632.000 IBF05 - 05 - Prado, P‚rez - Mambo No. 5.mp3
-12/01/2012  01:08 p.m.         5.273.600 IBF05 - 06 - Ramalho, Elba - No Som da Sanfona.mp3
-11/01/2012  11:24 p.m.         8.749.184 IBF05 - 07 - Carvalho, Beth - O Encanto do Gantois.mp3
-23/05/2011  01:32 p.m.         5.154.829 IBF05 - 08 - Pereira, Nazar‚ - Valente Nordeste.mp3
-21/05/2011  02:06 p.m.         3.442.609 IBF05 - 09 - Carvalho, Beth - Eu quero mais.mp3
-08/02/2012  01:31 p.m.         8.050.688 IBF05 - 10 - Nunes, Clara & Sivuca - Feira de mangaio.mp3
-15/01/2012  08:29 p.m.         5.132.416 IBF05 - 11 - Sivuca - Fava de Cheiro.mp3
-15/01/2012  08:29 p.m.         4.771.968 IBF05 - 12 - Sivuca - O Baile de Bio Laurinda.mp3
-23/05/2011  01:47 p.m.         3.913.716 IBF05 - 13 - Ramalho, Elba - Eu quero meu amor.mp3
-29/06/2011  11:46 a.m.         4.990.091 IBF05 - 14 - Agepˆ - Feito de encomenda.mp3
-08/02/2012  01:38 p.m.         7.069.824 IBF05 - 15 - Los Wawanco - Me gusta tu rosa roja.mp3
-09/02/2012  04:14 p.m.         7.186.535 IBF05 - 16 - Ca¤a Brava - Me muero por ella.mp3
-20/05/2011  06:29 p.m.         4.465.189 IBF05 - 17 - Ramalho, Elba - Folia Brasileira.mp3
-12/01/2012  01:30 p.m.         7.946.240 IBF05 - 18 - Guerra, Juan Luis y 4.40 - La Bilirrubina.mp3
-23/05/2011  01:32 p.m.         4.904.676 IBF05 - 19 - Pereira, Nazar‚ - Rodopiou.mp3
-08/02/2012  01:36 p.m.         7.778.432 IBF05 - 20 - Costa, Gal - Festa do interior.mp3
-10/02/2012  01:08 a.m.         8.212.480 IBF05 - 21 - Mercury, Daniela - Batuque.mp3
-25/12/2011  02:20 p.m.        12.423.296 IBF05 - 22 - Costa, Gal - Bumbo da Mangueira.mp3
-11/02/2012  05:11 p.m.         4.026.931 IBF05 - 23 - Neri, Antonio  - Ciranda.mp3
-09/02/2012  08:59 p.m.         5.306.327 IBF06 - 01 - Traditional Jazz Band - Doctor Jazz.mp3
-12/12/2011  01:22 p.m.         8.845.312 IBF06 - 02 - Traditional Jazz Band - Hello Dolly!.mp3
-15/07/2011  11:03 p.m.         6.102.630 IBF06 - 03 - The New Orleans Banjo Band - Sweet Georgia Brown.mp3
-26/12/2011  11:01 p.m.         6.971.392 IBF06 - 04 - The Beatles - Hello, Goodbye [Part].mp3
-05/02/2012  09:32 p.m.        10.162.304 IBF06 - 05 - The New American Orchestra - End Title [Part].mp3
-29/09/2011  10:33 p.m.         9.185.408 IBF06 - 06 - Antigua Jazz Band - The Man I Love.mp3
-15/07/2011  11:21 p.m.         5.829.822 IBF06 - 07 - The New Orleans Banjo Band - Alexander's Rag Time.mp3
-26/12/2011  11:25 p.m.         4.990.976 IBF06 - 08 - The Beatles - Honey Pie [Part].mp3
-15/07/2011  11:41 p.m.         6.369.641 IBF06 - 09 - The New Orleans Banjo Band - Who's Sorry Now.mp3
-10/06/2011  02:14 a.m.         4.672.111 IBF06 - 10 - Traditional Jazz Band - Mississippi Mud.mp3
-09/06/2011  04:08 p.m.         6.147.346 IBF06 - 11 - Armstrong, Louis - The Faithful Hussar.mp3
-05/01/2012  12:42 p.m.         5.441.536 IBF06 - 12 - OST Sleepless In Seattle (Cormik Jr, Harry) - A Wink And A Smile.mp3
-15/07/2011  11:26 p.m.         5.105.119 IBF06 - 13 - The New Orleans Banjo Band - The Darktown Strutter's Ball.mp3
-15/07/2011  11:05 p.m.         5.898.159 IBF06 - 14 - The New Orleans Banjo Band - Ja-Da.mp3
-15/07/2011  11:14 p.m.         4.904.503 IBF06 - 15 - The New Orleans Banjo Band - Ain't She Sweet.mp3
-10/02/2012  12:49 a.m.         3.251.564 IBF06 - 16 - Maddox, Johnny - Japanese Sandman.mp3
-24/06/2011  04:57 a.m.         4.695.641 IBF06 - 17 - The Dukes Of Dixieland - My Blue Heaven (vocal Betty Owens).mp3
-02/01/2012  06:57 p.m.         5.865.600 IBF06 - 18 - Goodman, Benny - Oh! Lady Be Good.mp3
-16/06/2011  11:00 p.m.         4.895.555 IBF06 - 19 - Light, Enoch & The Light Brigade - Begin The Beguine.mp3
-16/06/2011  11:00 p.m.         5.222.257 IBF06 - 20 - Light, Enoch & The Light Brigade - In The Mood.mp3
-13/06/2011  01:19 a.m.         7.642.436 IBF06 - 21 - Jazz Caliente - Eh-la-Bas.mp3
-15/07/2011  11:36 p.m.         5.327.644 IBF06 - 22 - The New Orleans Banjo Band - When The Saints Go Marchin' In.mp3
-25/12/2011  02:59 p.m.        14.053.504 IBF07 - 01 - Jones, Grace - La vie en rose [Part].mp3
-04/01/2012  10:32 a.m.         5.122.176 IBF07 - 02 - Les troubadours du roi Baudoin - Missa Luba. Kyrie.mp3
-15/07/2011  11:32 p.m.         4.674.397 IBF07 - 03 - The New Orleans Banjo Band - Tiger Rag.mp3
-17/10/2011  06:12 p.m.         6.412.416 IBF07 - 04 - Lennon, John - Be-Bop-A-Lula.mp3
-26/12/2011  04:55 p.m.         7.563.264 IBF07 - 05 - Goodman, Benny - King Porter Stomp.mp3
-08/02/2012  11:20 a.m.         2.926.887 IBF07 - 06 - Maddox, Johnny - When You're Smiling.mp3
-26/12/2011  03:10 p.m.         9.531.520 IBF07 - 07 - Harrison, George - Dark Horse.mp3
-08/02/2012  01:57 p.m.         5.374.080 IBF07 - 08 - Haley, Bill & His Comets - Rock Around The Clock.mp3
-26/12/2011  10:37 p.m.         5.431.424 IBF07 - 09 - The Beatles - Can't Buy Me Love.mp3
-17/10/2011  06:16 p.m.         3.893.376 IBF07 - 10 - Lennon, John - Medley. a) Rip It Up - b) Read Teddy.mp3
-08/02/2012  01:25 p.m.         9.519.104 IBF07 - 11 - Mercury, Daniela - S¢ pra te mostrar.mp3
-07/02/2012  08:04 p.m.         4.986.607 IBF07 - 12 - Guem - Riacho [Part].mp3
-07/02/2012  01:50 p.m.        15.032.320 IBF07 - 13 - Baroty & Dieng - Voyage dans l'au-del….mp3
-10/02/2012  12:44 a.m.        12.490.752 IBF07 - 14 - Baroty & Dieng - Appel des esprits [Part].mp3
-07/02/2012  01:41 p.m.         6.244.480 IBF07 - 15 - Os Ritmistas Brasileiros - Ensaio Geral.mp3
-07/02/2012  01:48 p.m.         2.513.024 IBF07 - 16 - Os Ritmistas Brasileiros - Tamborins.mp3
-16/05/2011  01:59 p.m.         4.235.273 IBF07 - 17 - Milton Banana Trio - Cidade Vazia.mp3
-12/06/2011  03:27 a.m.         3.464.278 IBF07 - 18 - Goodman, Benny - After You've Gone (Take 2).mp3
-16/06/2011  11:06 p.m.         5.589.099 IBF07 - 19 - Light, Enoch & The Light Brigade - Moonlight Serenade.mp3
-09/02/2012  11:18 p.m.         4.135.477 IBF07 - 20 - Traditional Jazz Band - Sweet Lorraine.mp3
-17/06/2011  04:36 a.m.         4.339.276 IBF07 - 21 - Strauss II, Johann - An der sch”nen blauen Donau, op.314 [Part].mp3
-13/06/2011  03:15 a.m.         6.359.860 IBF07 - 22 - Strauss II, Johann - Kaiserwalzer, op.437.mp3
-15/10/2011  12:18 p.m.         5.752.960 IBF07 - 23 - Delibes (David Zinman & Rotterdam Philharmonic Orchestra) - Valse - Ballet Copp‚lia - Acte I-2.mp3
-11/02/2012  07:22 p.m.         5.224.576 IBF07 - 24 - Fitzgerald, Ella - I've Got You Under My Skin.mp3
-17/06/2011  03:14 a.m.         2.323.890 IBF07 - 25 - Bord¢n, Luis - Harpa paragu ia.mp3
-11/12/2011  02:26 p.m.         5.871.744 IBF08 - 01 - Armstrong, Louis - Hello, Dolly!.mp3
-07/11/2011  03:56 p.m.         5.423.104 IBF08 - 02 - Cole, Natalie - This Can't Be Love.mp3
-09/02/2012  11:19 p.m.         6.139.904 IBF08 - 03 - Cole, Natalie - L-O-V-E.mp3
-08/02/2012  01:53 p.m.        11.241.600 IBF08 - 04 - Fitzgerald, Ella - Mack The Knife (Live in Berlin).mp3
-07/02/2012  04:08 p.m.         3.979.392 IBF08 - 05 - Fitzgerald, Ella - What Is This Thing Called Love.mp3
-07/02/2012  04:37 p.m.         8.343.680 IBF08 - 06 - Gipsy Kings - Djobi Djoba.mp3
-08/02/2012  11:04 a.m.        13.318.144 IBF08 - 07 - Gipsy Kings - Viento del Arena.mp3
-12/05/2011  05:23 p.m.         4.496.710 IBF08 - 08 - Chico & The Gipsies - Viva la vida.mp3
-07/02/2012  02:00 p.m.         8.421.504 IBF08 - 09 - Cole, Natalie - Unforgettable (duet with Nat King Cole).mp3
-07/02/2012  11:51 a.m.         8.962.048 IBF08 - 10 - Franklin, Aretha - Unforgettable.mp3
-25/12/2011  04:38 p.m.        10.096.640 IBF08 - 11 - Piazzolla-Mulligan - Years Of Solitude.mp3
-24/12/2011  07:32 p.m.         9.465.984 IBF08 - 12 - OST A Chorus Line - One (Finale).mp3
-11/02/2012  04:51 p.m.        11.880.576 IBF08 - 13 - Coltrane, John & Ellington, Duke - My Little Brown Book [Part].mp3
-07/02/2012  03:10 p.m.        10.143.872 IBF08 - 14 - Barbieri, Gato - Europa (Earth's Cry Heaven's Smile).mp3
-24/12/2011  10:01 p.m.        10.664.064 IBF08 - 15 - Jones, Quincy & His Orchestra - Quintessence.mp3
-24/12/2011  07:03 p.m.        10.438.784 IBF08 - 16 - Coltrane, John - Say It (Over and Over Again).mp3
-07/11/2011  04:49 p.m.        10.481.792 IBF08 - 17 - The New American Orchestra - Love Theme.mp3
-24/12/2011  09:43 p.m.        10.369.152 IBF08 - 18 - Coltrane, John & Ellington, Duke - In A Sentimal Mood.mp3
-09/02/2012  03:05 p.m.        13.529.216 IBF08 - 19 - James, Bob & Sanborn, David - You Don't Know Me.mp3
-08/02/2012  01:06 p.m.        10.131.584 IBF08 - 20 - OST Taxi Driver - Theme From Taxi Driver (Sax Tom Scott).mp3
-27/12/2011  12:02 a.m.         6.842.368 IBF09 - 01 - The Beatles - Because.mp3
-23/12/2011  09:13 p.m.        10.946.560 IBF09 - 03 - Zamfir, Gheorghe - Bilitis.mp3
-23/12/2011  08:04 p.m.        10.508.288 IBF09 - 04 - Zamfir, Gheorghe - Elsha.mp3
-02/01/2012  01:03 p.m.         9.775.232 IBF09 - 05 - Zamfir, Gheorghe - She.mp3
-08/02/2012  02:27 p.m.         5.536.266 IBF09 - 06 - Poyares, Carlos - Rosa.mp3
-23/05/2011  04:45 p.m.         2.895.878 IBF09 - 07 - Add‚o, L‚o - Sweet Leilani.mp3
-08/02/2012  02:01 p.m.         5.070.976 IBF09 - 08 - Veloso, Caetano - Muito [Part].mp3
-05/02/2012  01:02 a.m.         9.973.760 IBF09 - 11 - Harrison, George - Be Here Now.mp3
-05/02/2012  12:13 a.m.         9.668.608 IBF09 - 12 - Harrison, George - Ooh Baby (You Know That I Love You).mp3
-05/02/2012  01:02 a.m.         9.228.288 IBF09 - 13 - Harrison, George - Who Can See It.mp3
-05/02/2012  12:13 a.m.        13.379.584 IBF09 - 14 - Harrison, George - The Answer's At The End.mp3
-05/02/2012  01:02 a.m.         8.394.752 IBF09 - 15 - Harrison, George - The Light Thas Has Lighted The World.mp3
-16/07/2011  08:12 p.m.         5.270.983 IBF09 - 16 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice') [Part 1].mp3
-16/07/2011  08:11 p.m.         9.455.799 IBF09 - 17 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice') [Part 2].mp3
-17/06/2011  01:43 p.m.         5.102.918 IBF09 - 18 - Haendel - Larghetto (Transcr for Flute-Organ) Violin sonata Nø 13 D Major - 3, op.11 HWV 371.mp3
-03/10/2011  11:25 p.m.        10.156.032 IBF09 - 19 - Bach (Herbert Mnchner & Sdwest-Studioorchester) - Adagio - Concerto Brandebourgeois 1 - 2,  F-Dur BWV 1046.mp3
-07/02/2012  12:44 p.m.        18.561.152 IBF09 - 20 - Jarre, Jean Michel - OxygŠne, Pt. 1.mp3
-12/10/2011  12:06 p.m.         6.842.496 IBF10 - 01 - Shepherd, Dave & His Quintet - The Man I Love.mp3
-11/11/2011  03:35 p.m.         8.310.912 IBF10 - 02 - Fitzgerald, Ella - The Man I Love (Live in Berlin).mp3
-11/11/2011  03:58 p.m.         9.013.248 IBF10 - 03 - Fitzgerald, Ella - Laura.mp3
-09/02/2012  11:59 p.m.         6.234.240 IBF10 - 04 - Fitzgerald, Ella - Blue Moon.mp3
-26/12/2011  04:59 p.m.         8.286.336 IBF10 - 05 - Goodman, Benny - Goodbye.mp3
-12/12/2011  01:22 p.m.         7.714.816 IBF10 - 06 - Traditional Jazz Band - Mood Indigo.mp3
-07/11/2011  05:04 p.m.         9.894.016 IBF10 - 07 - The New American Orchestra - One More Kiss, Dear (Vocal John Bahler).mp3
-29/06/2011  04:10 p.m.         4.256.724 IBF10 - 08 - Goodman, Benny - Body And Soul (Take 1).mp3
-12/06/2011  03:25 a.m.         4.168.699 IBF10 - 09 - Goodman, Benny - Moonglow (Take 1).mp3
-07/11/2011  02:59 a.m.         9.515.136 IBF10 - 10 - Legrand, Michel - Theme From Summer Of '42.mp3
-07/02/2012  11:03 p.m.         8.497.280 IBF10 - 11 - OST James Bond - Nobody Does It Better (vocal Carly Simon).mp3
-07/02/2012  04:43 p.m.         8.677.504 IBF10 - 12 - Albert, Morris - Feelings.mp3
-07/11/2011  04:02 p.m.        10.346.624 IBF10 - 13 - Cole, Natalie - The Very Thought Of You.mp3
-07/11/2011  04:08 p.m.        10.711.168 IBF10 - 14 - Cole, Natalie - For Sentimental Reasons-Tenderly.mp3
-23/12/2011  07:17 p.m.         7.411.840 IBF10 - 15 - Regina, Elis - Fascina‡Æo.mp3
-10/02/2012  03:08 p.m.         6.212.090 IBF10 - 16 - Wando - Mo‡a.mp3
-13/02/2012  10:59 p.m.         8.099.840 IBF10 - 17 - Franz, Charles - Improvisasion.mp3
-04/11/2011  07:43 p.m.        12.415.104 IBF10 - 18 - Brahms (Christoph von Dohn nyi & The Cleveland Orchestra) - Poco Allegretto - Sinfonie 3 F-Dur - 3, op.90.mp3
-07/02/2012  05:44 p.m.         3.388.181 IBF10 - 21 - Chopin - Largo - Pr‚lude nø4 en mi mineur - 24 Pr‚ludes, op. 28.mp3
-07/02/2012  03:22 p.m.         7.391.360 IBF11 - 01 - de Bel‚m, Faf  - Tamba-Taj .mp3
-09/12/2011  10:04 p.m.        10.451.072 IBF11 - 02 - de Bel‚m, Faf  - Pode entrar.mp3
-08/02/2012  05:23 p.m.         5.129.720 IBF11 - 03 - de Bel‚m, Faf  - Araguaia.mp3
-11/02/2012  09:20 p.m.        10.489.856 IBF11 - 04 - Simone, Nina - Little Girl Blue.mp3
-09/02/2012  07:37 p.m.         9.281.536 IBF11 - 05 - Enya - Evening Falls....mp3
-09/02/2012  02:20 p.m.        10.549.376 IBF11 - 06 - Flack, Roberta - The First Time Ever I Saw Your Face.mp3
-23/12/2011  07:41 p.m.        12.331.136 IBF11 - 07 - Zamfir, Gheorghe - M‚ditation de Tha‹s (d'aprŠs Jules Massenet).mp3
-30/05/2011  02:24 p.m.         6.858.331 IBF11 - 08 - Posit, Jean Pierre - Magie d'amour.mp3
-26/12/2011  08:47 p.m.         5.015.552 IBF11 - 09 - Kitaro - Earth Born.mp3
-09/02/2012  11:52 p.m.         7.297.024 IBF11 - 10 - Enya - To Go Beyond, Pt. 2.mp3
-24/12/2011  05:45 p.m.         5.894.144 IBF11 - 11 - Enya - Watermark.mp3
-12/10/2011  11:59 a.m.         8.786.048 IBF11 - 12 - Liszt (Daniel Barenbo‹m) - Liebestr„um nø3 in As-Dur - Liebestr„ume, S.541.mp3
-11/08/2011  12:58 p.m.        12.214.145 IBF11 - 13 - Schubert (Krystian Zimerman) - Impromptu nø3 in Ges-Dur (Andante) - Impromptus op.90 D 899.mp3
-12/10/2011  12:01 p.m.         8.175.744 IBF11 - 14 - Liszt (Daniel Barenbo‹m) - Consolation nø3 en R‚ b‚mol Majeur (Lento placido) - Six consolations, S 172.mp3
-03/10/2011  03:44 p.m.        12.011.648 IBF11 - 15 - Schubert (OST The Hunger) - Andante con moto (Version 2) - Klaviertrio nø2 in Es-Dur - 2, op.100 D 929.mp3
-17/10/2011  06:20 p.m.         7.618.688 IBF11 - 16 - Lennon, John - Imagine.mp3
-10/01/2012  01:01 p.m.         6.412.416 IBF11 - 18 - Mouskouri, Nana - Photographs.mp3
-18/04/2011  05:00 a.m.         3.925.390 IBF11 - 19 - Creuza, Maria - A noite do meu bem.mp3
-08/02/2012  06:36 p.m.        11.374.720 IBF11 - 20 - Jobim, Tom & Lobo, Ed£ - Pra dizer adeus.mp3
-07/02/2012  04:48 p.m.         8.445.952 IBF12 - 01 - de Moraes&Creuza&Toquinho - Eu sei que vou te amar.mp3
-25/12/2011  05:58 p.m.         9.177.088 IBF12 - 02 - de Moraes&Creuza&Toquinho - Minha Namorada.mp3
-08/02/2012  06:38 p.m.         7.485.440 IBF12 - 03 - Creuza, Maria - Eu e a brisa.mp3
-10/02/2012  12:15 a.m.         7.604.224 IBF12 - 04 - Simone - Come‡aria tudo otra vez.mp3
-20/05/2011  11:51 p.m.         3.771.559 IBF12 - 05 - Caymmi, Nana - A noite do meu bem.mp3
-11/02/2012  04:39 p.m.         4.688.804 IBF12 - 06 - Santiago, Emilio - ManhÆ de carnaval.mp3
-23/04/2011  01:51 a.m.         7.070.402 IBF12 - 07 - Santiago, Emilio - Insensatez.mp3
-11/02/2012  04:30 p.m.         6.015.389 IBF12 - 08 - Santiago, Emilio - Corcovado.mp3
-23/12/2011  10:32 p.m.        10.078.208 IBF12 - 09 - Simone - Simples carinho.mp3
-10/02/2012  12:22 a.m.        10.663.936 IBF12 - 10 - Simone - Jura secreta.mp3
-12/02/2012  11:03 a.m.         4.282.888 IBF12 - 11 - Creuza, Maria - Eu disse adeus.mp3
-08/02/2012  01:04 p.m.         5.367.490 IBF12 - 12 - Creuza, Maria - Gra‡as a deus.mp3
-20/05/2011  11:03 p.m.         5.508.036 IBF12 - 13 - Caymmi, Nana - Pra voce.mp3
-26/12/2011  12:35 p.m.         9.975.808 IBF12 - 14 - Caymmi, Nana - Doce Presen‡a.mp3
-09/02/2012  03:14 p.m.         6.619.767 IBF12 - 15 - Caymmi, Nana - O Amor ‚ chama.mp3
-07/02/2012  03:14 p.m.         6.454.981 IBF12 - 16 - Peixoto, Araken - Someone To Watch Over Me.mp3
-24/05/2011  04:00 p.m.         5.109.903 IBF12 - 17 - Peixoto, Araken - Estate.mp3
-07/02/2012  03:16 p.m.         4.832.352 IBF12 - 18 - Peixoto, Araken - Nature Boy.mp3
-07/02/2012  03:12 p.m.         4.308.862 IBF12 - 19 - Peixoto, Araken - As Time Goes By.mp3
-24/05/2011  04:00 p.m.         4.950.040 IBF12 - 20 - Peixoto, Araken - Flamingo.mp3
-24/05/2011  04:00 p.m.         4.810.292 IBF12 - 21 - Peixoto, Araken - Who Needs Forever.mp3
-09/12/2011  04:37 p.m.        11.382.912 IBF13 - 01 - Krall, Diana - I Miss You So.mp3
-08/02/2012  06:21 p.m.         8.218.752 IBF13 - 02 - Merrill, Helen - When I Fall In Love.mp3
-11/02/2012  04:54 p.m.         5.428.603 IBF13 - 03 - Caymmi, Nana - Atr s da porta.mp3
-11/02/2012  04:58 p.m.         5.425.184 IBF13 - 04 - Creuza, Maria - Apelo.mp3
-09/12/2011  05:05 p.m.        15.030.400 IBF13 - 05 - Krall, Diana - I Don't Stand A Ghost Of A Chance With You.mp3
-24/12/2011  01:22 p.m.         7.831.552 IBF13 - 06 - Baker, Chet - Almost Blue.mp3
-10/02/2012  12:22 a.m.        11.747.328 IBF13 - 07 - Simone - O que Ser .mp3
-09/02/2012  03:18 p.m.         4.894.720 IBF13 - 08 - Caymmi, Nana - Isso e aquilo.mp3
-26/12/2011  12:35 p.m.         9.504.768 IBF13 - 09 - Caymmi, Nana - Voz e Suor.mp3
-11/02/2012  04:55 p.m.         8.957.952 IBF13 - 10 - Caymmi, Nana - Velho Piano.mp3
-11/02/2012  04:55 p.m.         6.377.472 IBF13 - 11 - Caymmi, Nana - Neste mesmo lugar.mp3
-09/02/2012  03:16 p.m.         4.898.171 IBF13 - 12 - Caymmi, Nana - Por causa de vo‡ˆ.mp3
-26/12/2011  12:35 p.m.         8.060.928 IBF13 - 13 - Caymmi, Nana - Por toda minha vida.mp3
-11/02/2012  04:57 p.m.         4.519.936 IBF13 - 14 - Caymmi, Nana - Valer  a pena.mp3
-20/05/2011  11:09 p.m.         4.387.146 IBF13 - 15 - Caymmi, Nana - Nunca mais.mp3
-20/05/2011  11:24 p.m.         5.548.048 IBF13 - 16 - Caymmi, Nana - Rama de nuvens.mp3
-08/02/2012  01:01 p.m.         5.684.572 IBF13 - 17 - Creuza, Maria - Medo de amar nø 2.mp3
-20/04/2011  02:11 p.m.         4.317.846 IBF13 - 18 - Simone - Proposta.mp3
-07/02/2012  02:53 p.m.         8.355.840 IBF13 - 19 - Merrill, Helen - Summertime.mp3
-06/02/2012  11:49 p.m.         6.369.280 IBF13 - 20 - Merrill, Helen - I See Your Face Before Me.mp3
-25/12/2011  10:34 p.m.        12.191.744 IBF13 - 21 - Merrill, Helen - Angel Eyes.mp3
-25/12/2011  10:30 p.m.         6.625.280 IBF13 - 22 - Merrill, Helen - I'll Be Around.mp3
-11/02/2012  05:00 p.m.         8.474.624 IBF14 - 01 - de Moraes&Creuza&Toquinho - Samba em preludio.mp3
-25/12/2011  06:26 p.m.        10.307.584 IBF14 - 02 - Getz, Stan & Gilberto, JoÆo - Corcovado (feat. Astrud Gilberto).mp3
-07/02/2012  06:00 p.m.        12.689.408 IBF14 - 03 - Getz, Stan & Gilberto, JoÆo - The Girl From Ipanema (feat. Astrud Gilberto).mp3
-25/12/2011  01:41 p.m.        13.195.264 IBF14 - 04 - Santiago, Emilio - Anos dourados-Eu sei que vou te amar.mp3
-07/02/2012  02:55 p.m.        14.682.112 IBF14 - 05 - Santiago, Emilio - Nada por Mim-Fullg s.mp3
-07/02/2012  02:57 p.m.        13.189.120 IBF14 - 06 - Santiago, Emilio - Ronda-Sampa.mp3
-23/04/2011  12:33 a.m.         7.046.440 IBF14 - 07 - Santiago, Emilio - Verdade chinesa.mp3
-25/12/2011  01:10 p.m.        11.804.672 IBF14 - 08 - Santiago, Emilio - P‚rola Negra-Bem que se Quis.mp3
-25/12/2011  01:10 p.m.        10.954.752 IBF14 - 09 - Santiago, Emilio - Mania de Vocˆ-Lan‡a Perfume.mp3
-08/02/2012  06:44 p.m.         7.088.128 IBF14 - 10 - Creuza, Maria - De onde vens.mp3
-25/12/2011  04:12 p.m.         7.292.928 IBF14 - 11 - Creuza, Maria - Queixas.mp3
-25/12/2011  04:12 p.m.         8.359.936 IBF14 - 12 - Creuza, Maria - Mas que doidice.mp3
-08/02/2012  06:43 p.m.         5.494.784 IBF14 - 13 - Creuza, Maria - Foi a noite.mp3
-08/02/2012  06:46 p.m.         9.578.496 IBF14 - 14 - Creuza, Maria - Vocˆ abusou.mp3
-06/02/2012  11:37 p.m.         5.809.478 IBF14 - 15 - Piazzolla, Astor & Agri, Antonio - Uomo del Sud (Violin).mp3
-04/05/2011  02:04 a.m.         4.185.025 IBF14 - 16 - Piazzolla, Astor - Libertango.mp3
-07/02/2012  12:05 p.m.         8.538.112 IBF14 - 17 - Franklin, Aretha - What A Diff'rence A Day Made.mp3
-08/02/2012  12:16 a.m.         8.337.536 IBF14 - 18 - Fitzgerald, Ella - Mood Indigo.mp3
-07/11/2011  12:42 p.m.         7.702.656 IBF14 - 19 - OST Somewhere In Time - Is He The One.mp3
-04/01/2012  07:47 p.m.         4.851.840 IBF15 - 01 - Strauss, Richard (Zubin Mehta & Los Angeles Philharmonic) - Einleitung - Also sprach Zarathustra op.30.mp3
-26/12/2011  08:47 p.m.         6.457.344 IBF15 - 02 - Kitaro - Japanese Drums.mp3
-27/12/2011  01:42 a.m.        12.388.480 IBF15 - 03 - Pink Floyd - Have A Cigar.mp3
-31/12/2011  04:49 p.m.        12.644.480 IBF15 - 04 - Christian, Emma - Oikan Ayns Bethlehem.mp3
-07/02/2012  11:15 p.m.         9.342.976 IBF15 - 05 - Ellington, Duke & Hawkins, Coleman - Self Portrait (Of The Bean).mp3
-10/12/2011  10:38 a.m.         6.930.560 IBF15 - 06 - Ellington, Duke - Day Dream.mp3
-08/02/2012  10:31 a.m.        11.548.672 IBF15 - 07 - Monte, Marisa - Negro Gato.mp3
-04/05/2011  02:03 a.m.         4.910.362 IBF15 - 08 - Piazzolla, Astor - Adios Nonino.mp3
-23/11/2011  09:17 a.m.         6.318.404 IBF15 - 09 - OST Chamanka (Korzinski, Andrzej) - Zdrowas Mario.mp3
-08/02/2012  01:40 p.m.         5.142.656 IBF15 - 10 - Montez, Chris - The More I See You.mp3
-23/12/2011  12:07 p.m.        10.930.304 IBF15 - 11 - Supertramp - Crime Of The Century [Part, long].mp3
-07/02/2012  11:37 p.m.         5.922.944 IBF15 - 12 - Vivaldi (The Royal Vivaldi Symphony) - Presto - Concerto 'L'estate' in sol minore - 3 (Le quattro stagioni Op.8-2, RV 315).mp3
-26/09/2011  08:51 p.m.         2.246.656 IBF15 - 14 - Beethoven (William Bowles & Royal Festival Orchestra) - Allegro con brio [Part] - Sinfonie 5 c-moll op.67 - 1.mp3
-16/07/2011  08:11 p.m.        18.857.775 IBF15 - 18 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice').mp3
-07/02/2012  04:24 p.m.        16.701.440 IBF15 - 19 - Sibelius (Marko Munih & Radio Sinfonie Orchester Ljubljana) - Finlandia (Symphonic poem) op. 26.mp3
-07/02/2012  08:20 p.m.        11.227.264 IBF15 - 20 - Pink Floyd - The Great Gig In The Sky.mp3
-22/05/2011  04:19 a.m.         7.334.454 IBF16 - 01 - Theodorakis, Mikis - Zorba's Dance.mp3
-20/06/2011  12:53 a.m.         9.821.956 IBF16 - 02 - Getz, Stan with Astrud & JoÆo Gilberto - Once again (Outre Vez).mp3
-07/02/2012  02:59 p.m.         4.997.807 IBF16 - 03 - Getz, Stan with Astrud & JoÆo Gilberto - Insensatez.mp3
-07/02/2012  07:06 p.m.         6.056.064 IBF16 - 04 - OST The Color Purple - Miss Celie's Blues (Sister) (1922 Jook Joint) (Vocal Tata Vega).mp3
-25/12/2011  10:22 p.m.         7.608.448 IBF16 - 05 - Merrill, Helen - I'm Just A Lucky So-And-So.mp3
-10/02/2012  09:15 p.m.         7.115.993 IBF16 - 06 - Ray, Charles & Carter, Betty - Baby It's Cold Outside.mp3
-09/12/2011  05:01 p.m.         9.199.744 IBF16 - 07 - Krall, Diana - Lost Mind.mp3
-11/11/2011  04:17 p.m.         9.797.632 IBF16 - 08 - Villa&Lobos, Heitor - Can‡Æo de Amor - Floresta do Amazonas (Vocal Bid£ SayÆo).mp3
-07/02/2012  08:52 p.m.         6.043.776 IBF16 - 09 - OST Le Grand Bleu - Ouverture [Part].mp3
-11/12/2011  06:50 p.m.         5.191.680 IBF16 - 10 - Jarre, Jean Michel - R‚volution, r‚volutions [Part].mp3
-11/12/2011  06:50 p.m.        12.525.568 IBF16 - 11 - Jarre, Jean Michel - R‚volution Industrielle. Ouverture.mp3
-11/12/2011  06:50 p.m.         9.803.776 IBF16 - 12 - Jarre, Jean Michel - R‚volution Industrielle, Pt.3.mp3
-10/01/2012  01:50 p.m.         5.062.784 IBF16 - 14 - Shankar, Ravi - Vandana.mp3
-12/01/2012  02:35 p.m.         6.994.048 IBF16 - 15 - Shankar, Ravi & Previn, Andr‚ - Raga Adana.mp3
-03/05/2011  03:32 p.m.         5.242.656 IBF16 - 16 - OST The Mahabharata - [Real World].mp3
-15/10/2011  12:06 p.m.         7.254.144 IBF16 - 17 - Les Musiciens de Provence - Rosa das Rosas.mp3
-01/12/2011  12:27 a.m.        10.190.976 IBF16 - 18 - Vangelis - Heaven & Hell, 3rd Movement - Theme From The TV Series 'Cosmos'.mp3
-24/12/2011  11:56 p.m.        14.934.144 IBF16 - 19 - Kitaro - Mandala.mp3
-15/10/2011  05:53 p.m.         9.046.144 IBF16 - 20 - Salieri, Francesco (Claudio Scimone & I Solisti Veneti) - Andante (La tempesta di Mare).mp3
-08/02/2012  07:51 p.m.        14.276.608 IBF17 - 01 - Vangelis - La petite fille de la mer.mp3
-07/02/2012  07:28 p.m.         7.540.736 IBF17 - 02 - O'Connor, Sin‚ad - My Darling Child.mp3
-07/02/2012  06:24 p.m.         6.852.062 IBF17 - 04 - Posit, Jean Pierre - L'horloge de ma vie.mp3
-15/06/2011  03:02 a.m.         2.972.779 IBF17 - 05 - Branco, Waltel - Ponteio.mp3
-15/07/2011  02:34 p.m.        12.557.927 IBF17 - 06 - Berglund, Erik - Blue Lotus.mp3
-07/11/2011  02:39 p.m.        11.372.672 IBF17 - 07 - Debussy (Henrique Simonetti & Orquestra de Cƒmera RGE) - Clair de lune - Suite Bergamasque pour piano - 3, orchestral version.mp3
-08/02/2012  12:59 p.m.         5.617.014 IBF17 - 08 - Creuza, Maria - Amora.mp3
-07/11/2011  02:44 p.m.        12.587.136 IBF17 - 09 - Massenet (Henrique Simonetti & Orquestra de Cƒmera RGE) - M‚ditation - Entracte de l'acte II (Op‚ra Tha‹s).mp3
-03/01/2012  01:32 p.m.         8.980.608 IBF17 - 10 - Kitaro - Caravansary.mp3
-07/02/2012  12:14 p.m.         4.995.200 IBF17 - 11 - Metheny, Pat & Mays, Lyle - September Fifteenth (dedicated to Bill Evans) [Part].mp3
-26/09/2011  12:03 a.m.        12.032.128 IBF17 - 12 - Mahler (Anton Nanut & Radio-Symphony Orchestra Lubljana) - Adagietto [Part] - Sinfonie 5 cis-moll - 4.mp3
-06/11/2011  11:10 p.m.         5.572.736 IBF17 - 13 - OST Empire Of The Sun (Ambrosian Junior Choir) - Suo Gan.mp3
-15/01/2012  04:07 p.m.         7.372.800 IBF17 - 14 - Wiese, Klaus - el-HADRA - The Mystic Dance [Part].mp3
-06/02/2012  10:08 p.m.         7.024.640 IBF17 - 15 - Schubert (Mikl¢s Per‚nyi & Bart¢k Quartet) - Adagio - Streichquintett in C-Dur - 2, op.post.163 D 956 [Part].mp3
-07/11/2011  02:49 p.m.         8.237.184 IBF17 - 16 - Gounod (Henrique Simonetti & Orquestra de Cƒmera RGE) - Ave Maria (after Johann Sebastian Bach).mp3
-12/10/2011  11:26 a.m.         4.685.824 IBF17 - 19 - Vivaldi (Trevor Pinnock & The English Concert & Choir) - Gloria in excelsis Deo - Gloria in RE Maggiore - 1, RV 589.mp3
-27/12/2011  02:06 a.m.         9.451.520 IBF18 - 01 - Pink Floyd - Shine On You Crazy Diamond, Pts.1-5 [Part 1].mp3
-17/06/2011  03:34 p.m.         6.463.893 IBF18 - 02 - Brahms - Selig sind, die da leid tragen [Part] - Ein deutsches Requiem op.45 - 1.mp3
-11/08/2007  08:56 a.m.         7.899.330 IBF18 - 04 - OST 2001 Odyss‚e de l'espace - Pr‚lude Electronique.mp3
-30/12/2011  07:40 p.m.        19.105.920 IBF18 - 06 - The Harmonic Choir - Rainbow Voice.mp3
-07/02/2012  03:55 p.m.        10.326.144 IBF18 - 07 - OST Chariots Of Fire (Vangelis) - Eric's Theme.mp3
-04/08/2011  11:00 p.m.         2.839.195 IBF18 - 08 - Sibelius (Herbert von Karajan & Berliner Philharmoniker) - Finlandia (Symphonic poem) op. 26 [End Part].mp3
-27/12/2011  12:02 a.m.        18.907.136 IBF18 - 09 - The Beatles - I Want You (She's So Heavy).mp3
-03/01/2012  12:11 p.m.        19.298.432 IBF18 - 10 - Gven‡, Oru‡ & Tmata - Bismillah ar-Rahman.mp3
-07/02/2012  11:43 p.m.         7.061.632 IBF18 - 11 - Fanshawe, David - African Sanctus.mp3
-06/12/2011  11:10 p.m.         2.641.920 IBF18 - 12 - Fanshawe, David - Song Of Lamentation [Part] {End Part of 'Sanctus. Bwala Dance'}.mp3
-27/12/2011  02:06 a.m.        11.638.784 IBF18 - 13 - Pink Floyd - Shine On You Crazy Diamond, Pts.1-5 [Part 2].mp3
-07/10/2011  09:14 p.m.         7.422.080 IBF18 - 14 - Beethoven (Libor Pesek & Slovak Philharmonic Orchestra) - Allegro [Part] - Sinfonie 6 F-Dur op.68 - 4 (Gewitter-Sturm).mp3
-10/10/2011  11:29 a.m.         4.143.104 IBF18 - 15 - Gluck (John Eliot Gardiner & English Baroque Soloists) - Andante - Ballet Don Juan - 3.mp3
-24/12/2011  12:01 a.m.        13.205.504 IBF19 - 01 - Guem - Pr‚sence.mp3
-07/02/2012  11:48 p.m.         4.448.285 IBF19 - 02 - Winter, Paul - Down In Belgorod.mp3
-22/05/2011  04:08 p.m.         5.270.028 IBF19 - 03 - Hines, Earl - I Just Wanna Make Love To You.mp3
-04/01/2012  10:04 a.m.         7.112.832 IBF19 - 04 - Charles, Ray - Ray's Blues.mp3
-08/02/2012  12:32 a.m.        11.147.392 IBF19 - 05 - Horn, Shirley - I Wanna Be Loved.mp3
-15/10/2011  06:25 p.m.         9.830.528 IBF19 - 06 - de Falla (Garc¡a Navarro & London Symphony Orchestra) - Danza ritual del fuego.mp3
-15/10/2011  06:28 p.m.         3.428.480 IBF19 - 07 - de Falla (Teresa Berganza & Garc¡a Navarro - London Symphony Orchestra) - Canci¢n del amor dolido.mp3
-23/12/2011  03:47 p.m.        10.502.272 IBF19 - 08 - Ravel (Seiji Ozawa & Boston Symphony Orchestra) - Daphnis et Chlo‚ - Ballet, 3Šme tableau - III. Danse finale Bacchanale.mp3
-11/11/2011  04:19 p.m.         6.389.760 IBF19 - 09 - Villa-Lobos, Heitor & Ep¡logo (Final) - Floresta do Amazonas (Vocal Bid£ SayÆo).mp3
-07/02/2012  08:47 p.m.        11.231.360 IBF19 - 10 - OST The Color Purple - Maybe God Is Tryin' To Tell You Somethin' (Vocal Tata Vega).mp3
-05/08/2011  07:50 p.m.         5.015.174 IBF19 - 11 - Orff, Carl (Eugen Jochum & Walter Hagen-Groll) - O fortuna - Fortuna Imperatrix Mundi - Carmina Burana - I-1.mp3
-07/02/2012  12:23 p.m.        15.319.040 IBF19 - 12 - Kitaro - Sundance.mp3
-11/11/2011  05:19 p.m.         8.749.056 IBF19 - 14 - Fitzgerald, Ella - This Girl's In Love With You.mp3
-24/11/2010  06:20 p.m.        11.579.152 IBF19 - 15 - Cumbo, Jorge ~ Vitale, Lito ~ Gonz les, Lucho  - Vidala del cucul¡.mp3
-06/06/2011  04:48 p.m.         5.154.619 IBF19 - 17 - Mourashkin, Boris - Joy.mp3
-07/02/2012  03:53 p.m.         7.974.912 IBF19 - 18 - OST Chariots Of Fire (Vangelis) - Abraham's Theme.mp3
-08/10/2011  01:46 p.m.         6.801.408 IBF19 - 19 - Mascagni (Herbert von Karajan & Coro e Orchestra del Teatro alla Scala) - Cavalleria Rusticana, XVIII. Intermezzo sinfonico.mp3
-12/11/2011  01:06 a.m.         6.465.664 IBFC20 - 01 - Fairground Attraction - Ay Fond Kiss.mp3
-26/12/2011  11:27 p.m.         6.567.936 IBFC20 - 02 - The Beatles - Yellow Submarine.mp3
-26/12/2011  11:27 p.m.         5.414.912 IBFC20 - 03 - The Beatles - All Together Now.mp3
-26/12/2011  10:52 p.m.         6.547.456 IBFC20 - 04 - The Beatles - With A Little Help From My Friends.mp3
-11/02/2012  07:21 p.m.         6.553.600 IBFC20 - 05 - The Beatles - When I'm Sixty-Four.mp3
-11/02/2012  07:25 p.m.         7.047.296 IBFC20 - 06 - Charles, Ray - I've Got A Woman.mp3
-10/02/2012  07:23 p.m.         9.433.088 IBFC20 - 07 - Gipsy Kings - A Mi Manera.mp3
-23/11/2011  09:47 a.m.         5.095.424 IBFC20 - 08 - Fygi, Laura - That Old Feeling (live).mp3
-23/11/2011  09:47 a.m.         3.876.864 IBFC20 - 09 - Fygi, Laura - All Of Me (live).mp3
-23/11/2011  09:48 a.m.         4.032.512 IBFC20 - 10 - Fygi, Laura - Diamonds Are A Girl's Best Friend (live).mp3
-10/02/2012  04:56 p.m.         4.622.713 IBFC20 - 11 - Koro - Koro.mp3
-23/11/2011  09:48 a.m.         5.990.400 IBFC20 - 12 - Fygi, Laura - Corcovado (live).mp3
-14/01/2012  07:48 p.m.         8.163.328 IBFC20 - 14 - Melua, Katie - Call Off The Search.mp3
-14/01/2012  07:48 p.m.         8.101.888 IBFC20 - 15 - Melua, Katie - Learnin' The Blues.mp3
-14/01/2012  07:48 p.m.         8.527.872 IBFC20 - 16 - Melua, Katie - My Aphrodisiac Is You.mp3
-14/01/2012  07:48 p.m.         7.444.480 IBFC20 - 17 - Melua, Katie - Mockingbird Song.mp3
-30/01/2012  11:45 a.m.        12.038.272 IBFC20 - 18 - Shanti, Oliver & Friends - Tan Xingquing Park.mp3
-26/12/2011  11:01 p.m.         8.660.992 IBFC21 - 01 - The Beatles - Hello, Goodbye.mp3
-23/11/2011  09:35 a.m.         2.324.608 IBFC21 - 02 - Beethoven (Andr‚ Cluytens & Berliner Philharmoniker) - Freude (Hymne … la joie) [Part] - Sinfonie 9 d-moll, op.125 - 4.mp3
-23/11/2011  09:42 a.m.         3.214.836 IBFC21 - 03 - Light, Enoch & The Light Brigade - Charleston.mp3
-09/12/2011  10:56 p.m.        10.436.736 IBFC21 - 04 - Barenbo‹m&Mederos&Console - El D¡a en Que me Quieras.mp3
-15/01/2012  03:21 a.m.         7.436.416 IBFC21 - 06 - Evora, Cesaria - Carnaval de SÆo Vicente.mp3
-09/02/2012  08:13 p.m.         5.456.593 IBFC21 - 07 - Flack, Roberta - When You Smile.mp3
-15/01/2012  03:51 a.m.         6.103.168 IBFC21 - 08 - Jackson, Mahalia - When The Saints Go Marchin' In.mp3
-23/11/2011  09:36 a.m.         5.464.687 IBFC21 - 09 - Presley, Elvis - My Way (live).mp3
-23/11/2011  09:40 a.m.         6.957.056 IBFC21 - 10 - Simone - O AmanhÆ.mp3
-18/12/2019  12:37 p.m.        11.186.176 IBFC21 - 11 - Simone & da Vila, Martinho - Danadinho Danado.mp3
-23/11/2011  09:39 a.m.         5.297.996 IBFC21 - 12 - Danse de Zorba.mp3
-08/02/2012  06:11 p.m.         8.882.176 IBFC21 - 13 - Fygi, Laura - Dream A Little Dream Of Me.mp3
-23/11/2011  09:37 a.m.        13.860.992 IBFC21 - 14 - Debussy (Anna Lelkes) - Clair de lune - Suite Bergamasque pour piano, Harp transcription.mp3
-10/02/2012  08:50 p.m.        12.480.640 IBFC21 - 15 - McKennitt, Loreena - All Souls Night.mp3
-23/11/2011  09:37 a.m.         4.954.112 IBFC21 - 16 - Simone, Nina - Wild Is The Wind.mp3
-23/11/2011  09:38 a.m.         7.017.828 IBFC21 - 17 - OST Zorba The Greek - Zorba's Dance.mp3
-30/12/2011  03:47 a.m.         5.810.304 IBFC21 - 18 - OST Metello (Morricone, Ennio) - Metello.mp3
+IBF01 - 01 - The Beatles - Free As a Bird.mp3
+IBF01 - 02 - The Beatles - Let It Be.mp3
+IBF01 - 03 - The Beatles - I Me Mine.mp3
+IBF01 - 04 - Lennon, John - (Just Like) Starting Over.mp3
+IBF01 - 06 - Harrison, George - Behind That Locked Door.mp3
+IBF01 - 07 - Harrison, George - Ballad Of Sir Frankie Crisp (Let It Roll).mp3
+IBF01 - 08 - The Beatles - Here Comes The Sun.mp3
+IBF01 - 09 - Harrison, George - Give Me Love (Give Me Peace On Earth).mp3
+IBF01 - 10 - Carpenters - We've Only Just Begun.mp3
+IBF01 - 11 - OST Gabriela (Costa, Gal & Jobim, Tom) - Tema de Amor de Gabriela.mp3
+IBF01 - 12 - Nunes, Clara - A Deusa Dos Orixas.mp3
+IBF01 - 13 - Nunes, Clara - O mar Serenou.mp3
+IBF01 - 14 - Carvalho, Beth - Fim de Reinado (ao vivo).mp3
+IBF01 - 15 - Carvalho, Beth - Samba no quintal.mp3
+IBF01 - 16 - Santiago, Emilio - Aquarela do Brasil.mp3
+IBF01 - 17 - Simone - T“ Voltando.mp3
+IBF01 - 18 - Nascimento, Milton - A de ¢ (Estamos chegando).mp3
+IBF01 - 19 - Vivaldi (The Royal Vivaldi Symphony) - La primavera - 1.Allegro (Le quattro stagioni op.8-1, RV 269).mp3
+IBF01 - 21 - Bach (Henryk Szeryng & Sir Neville Marriner & Academy of St. Martin in the Fields) - Air (on the G-string), Suite No.3 in D.mp3
+IBF02 - 01 - Lennon, John - Oh My Love.mp3
+IBF02 - 02 - Lennon, John - Love.mp3
+IBF02 - 03 - Veloso, Caetano - Sete mil vezes.mp3
+IBF02 - 04 - Veloso, Caetano - Coqueiro de ItapoÆ.mp3
+IBF02 - 05 - Veloso, Caetano - Canto do Povo de um lugar.mp3
+IBF02 - 06 - Veloso, Caetano - Coisa mais linda.mp3
+IBF02 - 07 - Harrison, George - I'd Have You Anytime.mp3
+IBF02 - 09 - Harrison, George - Learning To Love You.mp3
+IBF02 - 10 - Williams, Paul - We've Only Just Begun.mp3
+IBF02 - 11 - Williams, Paul - Nice To Be Around.mp3
+IBF02 - 12 - Williams, Paul - Sleep Warm.mp3
+IBF02 - 13 - Carpenters - (They Long To Be) Close To You.mp3
+IBF02 - 14 - Baez, Joan - Stewball.mp3
+IBF02 - 15 - Veloso, Caetano - Trem das cores.mp3
+IBF02 - 16 - Monte, Marisa - Alta Noite.mp3
+IBF02 - 17 - Monte, Marisa - Bem Leve.mp3
+IBF02 - 18 - de Moraes & Creuza & Toquinho - Se todos fossem iguais a vocˆ.mp3
+IBF02 - 19 - Mendes, Sergio - Apos o Amanhecer.mp3
+IBF02 - 20 - Carvalho, Beth - Andan‡a.mp3
+IBF02 - 21 - Monte, Marisa - Xote das meninas.mp3
+IBF02 - 23 - Regina, Elis - Redescobrir.mp3
+IBF03 - 01 - Regina, Elis - Gracias a la vida.mp3
+IBF03 - 02 - Sosa, Mercedes - Gracias a la vida.mp3
+IBF03 - 03 - Sosa, Mercedes - Todo Cambia.mp3
+IBF03 - 04 - Sosa, Mercedes - Y dale alegr¡a a mi coraz¢n.mp3
+IBF03 - 05 - Sosa, Mercedes - Vientos del alma.mp3
+IBF03 - 06 - OST Don Juan de Marco (Adams, Bryan) - Have You Ever Realy Loved A Woman.mp3
+IBF03 - 07 - Harrison, George - My Sweet Lord.mp3
+IBF03 - 08 - Carpenters - Sing.mp3
+IBF03 - 09 - Nunes, Clara - Conto de Areia.mp3
+IBF03 - 10 - Creuza, Maria - Morena flor.mp3
+IBF03 - 11 - Pagodinho, Zeca - Deixa a vida me levar.mp3
+IBF03 - 12 - Carvalho, Beth - Coisa de Pele.mp3
+IBF03 - 13 - Carvalho, Beth - Sonhando Eu Sou Feliz.mp3
+IBF03 - 14 - Veloso, Caetano - Rumba Azul.mp3
+IBF03 - 15 - Veloso, Caetano - NÆo Enche.mp3
+IBF03 - 16 - Gonzaguinha - O qu‚ ‚ O qu‚ ‚.mp3
+IBF03 - 17 - Vivaldi (Herbert von Karajan & Berliner Philharmoniker) - Allegro - Concerto L'Amoroso - 1, RV 271.mp3
+IBF03 - 19 - Vivaldi (Riccardo Muti & New Philharmonia Orchestra & Chorus) - Gloria in excelsis Deo - Gloria in Re Maggiore - 1, RV 589.mp3
+IBF03 - 20 - Haendel (Sir Georg Solti & Chicago Symphony Orchestra & Chorus) - Hallelujah - Messiah, HWV 56 - Part II-42.mp3
+IBF04 - 01 - Monte, Marisa - Preciso me encontrar.mp3
+IBF04 - 02 - Monte, Marisa - Lenda das Sereias Rainha do Mar.mp3
+IBF04 - 03 - Carvalho, Beth - Olho por Olho.mp3
+IBF04 - 04 - Carvalho, Beth - Vocˆ, Eu e a Orgia.mp3
+IBF04 - 05 - Carvalho, Beth - Senhora rezadeira.mp3
+IBF04 - 06 - Nunes, Clara - Juizio Final.mp3
+IBF04 - 07 - Carvalho, Beth - For‡a da imagina‡Æo.mp3
+IBF04 - 08 - da Vila, Martinho - Canta, Canta minha gente.mp3
+IBF04 - 10 - Carvalho, Beth - Folhas secas (ao vivo).mp3
+IBF04 - 11 - Carvalho, Beth - Pedi ao c‚u.mp3
+IBF04 - 12 - da Vila, Martinho - Vai ou NÆo Vai.mp3
+IBF04 - 13 - Gil, Gilberto - Toda menina baiana.mp3
+IBF04 - 14 - Gil, Gilberto - Quilombo, O Eldorado Negro.mp3
+IBF04 - 15 - Santiago, Emilio - Isto Aqui O Que -.mp3
+IBF04 - 16 - Nunes, Clara - Na linha do mar.mp3
+IBF04 - 17 - Veloso, Caetano - Queixa.mp3
+IBF04 - 18 - Veloso, Caetano - Um Canto de Afox‚ Para O Bloco do Ilˆ.mp3
+IBF04 - 19 - Nunes, Clara - Portela na Avenida.mp3
+IBF04 - 20 - Carvalho, Beth - A sete chaves-CamarÆo que dorme a onda leva-Dor de amor (ao vivo).mp3
+IBF04 - 21 - Carvalho, Beth - Saco de FeijÆo-Corda no pesco‡o-Sonhando eu sou feliz (ao vivo).mp3
+IBF04 - 22 - Nunes, Clara - Meu Sapato J  Furou.mp3
+IBF05 - 01 - Ramalho, Elba - Bate Cora‡Æo.mp3
+IBF05 - 02 - Gil, Gilberto - Esperando Na Janela.mp3
+IBF05 - 03 - do Acordeon, Pinto - PaixÆo de Beata.mp3
+IBF05 - 04 - Ramalho, Elba - Que Nem Vem Vem.mp3
+IBF05 - 05 - Prado, P‚rez - Mambo No. 5.mp3
+IBF05 - 06 - Ramalho, Elba - No Som da Sanfona.mp3
+IBF05 - 07 - Carvalho, Beth - O Encanto do Gantois.mp3
+IBF05 - 08 - Pereira, Nazar‚ - Valente Nordeste.mp3
+IBF05 - 09 - Carvalho, Beth - Eu quero mais.mp3
+IBF05 - 10 - Nunes, Clara & Sivuca - Feira de mangaio.mp3
+IBF05 - 11 - Sivuca - Fava de Cheiro.mp3
+IBF05 - 12 - Sivuca - O Baile de Bio Laurinda.mp3
+IBF05 - 13 - Ramalho, Elba - Eu quero meu amor.mp3
+IBF05 - 14 - Agepˆ - Feito de encomenda.mp3
+IBF05 - 15 - Los Wawanco - Me gusta tu rosa roja.mp3
+IBF05 - 16 - Ca¤a Brava - Me muero por ella.mp3
+IBF05 - 17 - Ramalho, Elba - Folia Brasileira.mp3
+IBF05 - 18 - Guerra, Juan Luis y 4.40 - La Bilirrubina.mp3
+IBF05 - 19 - Pereira, Nazar‚ - Rodopiou.mp3
+IBF05 - 20 - Costa, Gal - Festa do interior.mp3
+IBF05 - 21 - Mercury, Daniela - Batuque.mp3
+IBF05 - 22 - Costa, Gal - Bumbo da Mangueira.mp3
+IBF05 - 23 - Neri, Antonio  - Ciranda.mp3
+IBF06 - 01 - Traditional Jazz Band - Doctor Jazz.mp3
+IBF06 - 02 - Traditional Jazz Band - Hello Dolly!.mp3
+IBF06 - 03 - The New Orleans Banjo Band - Sweet Georgia Brown.mp3
+IBF06 - 04 - The Beatles - Hello, Goodbye [Part].mp3
+IBF06 - 05 - The New American Orchestra - End Title [Part].mp3
+IBF06 - 06 - Antigua Jazz Band - The Man I Love.mp3
+IBF06 - 07 - The New Orleans Banjo Band - Alexander's Rag Time.mp3
+IBF06 - 08 - The Beatles - Honey Pie [Part].mp3
+IBF06 - 09 - The New Orleans Banjo Band - Who's Sorry Now.mp3
+IBF06 - 10 - Traditional Jazz Band - Mississippi Mud.mp3
+IBF06 - 11 - Armstrong, Louis - The Faithful Hussar.mp3
+IBF06 - 12 - OST Sleepless In Seattle (Cormik Jr, Harry) - A Wink And A Smile.mp3
+IBF06 - 13 - The New Orleans Banjo Band - The Darktown Strutter's Ball.mp3
+IBF06 - 14 - The New Orleans Banjo Band - Ja-Da.mp3
+IBF06 - 15 - The New Orleans Banjo Band - Ain't She Sweet.mp3
+IBF06 - 16 - Maddox, Johnny - Japanese Sandman.mp3
+IBF06 - 17 - The Dukes Of Dixieland - My Blue Heaven (vocal Betty Owens).mp3
+IBF06 - 18 - Goodman, Benny - Oh! Lady Be Good.mp3
+IBF06 - 19 - Light, Enoch & The Light Brigade - Begin The Beguine.mp3
+IBF06 - 20 - Light, Enoch & The Light Brigade - In The Mood.mp3
+IBF06 - 21 - Jazz Caliente - Eh-la-Bas.mp3
+IBF06 - 22 - The New Orleans Banjo Band - When The Saints Go Marchin' In.mp3
+IBF07 - 01 - Jones, Grace - La vie en rose [Part].mp3
+IBF07 - 02 - Les troubadours du roi Baudoin - Missa Luba. Kyrie.mp3
+IBF07 - 03 - The New Orleans Banjo Band - Tiger Rag.mp3
+IBF07 - 04 - Lennon, John - Be-Bop-A-Lula.mp3
+IBF07 - 05 - Goodman, Benny - King Porter Stomp.mp3
+IBF07 - 06 - Maddox, Johnny - When You're Smiling.mp3
+IBF07 - 07 - Harrison, George - Dark Horse.mp3
+IBF07 - 08 - Haley, Bill & His Comets - Rock Around The Clock.mp3
+IBF07 - 09 - The Beatles - Can't Buy Me Love.mp3
+IBF07 - 10 - Lennon, John - Medley. a) Rip It Up - b) Read Teddy.mp3
+IBF07 - 11 - Mercury, Daniela - S¢ pra te mostrar.mp3
+IBF07 - 12 - Guem - Riacho [Part].mp3
+IBF07 - 13 - Baroty & Dieng - Voyage dans l'au-del….mp3
+IBF07 - 14 - Baroty & Dieng - Appel des esprits [Part].mp3
+IBF07 - 15 - Os Ritmistas Brasileiros - Ensaio Geral.mp3
+IBF07 - 16 - Os Ritmistas Brasileiros - Tamborins.mp3
+IBF07 - 17 - Milton Banana Trio - Cidade Vazia.mp3
+IBF07 - 18 - Goodman, Benny - After You've Gone (Take 2).mp3
+IBF07 - 19 - Light, Enoch & The Light Brigade - Moonlight Serenade.mp3
+IBF07 - 20 - Traditional Jazz Band - Sweet Lorraine.mp3
+IBF07 - 21 - Strauss II, Johann - An der sch”nen blauen Donau, op.314 [Part].mp3
+IBF07 - 22 - Strauss II, Johann - Kaiserwalzer, op.437.mp3
+IBF07 - 23 - Delibes (David Zinman & Rotterdam Philharmonic Orchestra) - Valse - Ballet Copp‚lia - Acte I-2.mp3
+IBF07 - 24 - Fitzgerald, Ella - I've Got You Under My Skin.mp3
+IBF07 - 25 - Bord¢n, Luis - Harpa paragu ia.mp3
+IBF08 - 01 - Armstrong, Louis - Hello, Dolly!.mp3
+IBF08 - 02 - Cole, Natalie - This Can't Be Love.mp3
+IBF08 - 03 - Cole, Natalie - L-O-V-E.mp3
+IBF08 - 04 - Fitzgerald, Ella - Mack The Knife (Live in Berlin).mp3
+IBF08 - 05 - Fitzgerald, Ella - What Is This Thing Called Love.mp3
+IBF08 - 06 - Gipsy Kings - Djobi Djoba.mp3
+IBF08 - 07 - Gipsy Kings - Viento del Arena.mp3
+IBF08 - 08 - Chico & The Gipsies - Viva la vida.mp3
+IBF08 - 09 - Cole, Natalie - Unforgettable (duet with Nat King Cole).mp3
+IBF08 - 10 - Franklin, Aretha - Unforgettable.mp3
+IBF08 - 11 - Piazzolla-Mulligan - Years Of Solitude.mp3
+IBF08 - 12 - OST A Chorus Line - One (Finale).mp3
+IBF08 - 13 - Coltrane, John & Ellington, Duke - My Little Brown Book [Part].mp3
+IBF08 - 14 - Barbieri, Gato - Europa (Earth's Cry Heaven's Smile).mp3
+IBF08 - 15 - Jones, Quincy & His Orchestra - Quintessence.mp3
+IBF08 - 16 - Coltrane, John - Say It (Over and Over Again).mp3
+IBF08 - 17 - The New American Orchestra - Love Theme.mp3
+IBF08 - 18 - Coltrane, John & Ellington, Duke - In A Sentimal Mood.mp3
+IBF08 - 19 - James, Bob & Sanborn, David - You Don't Know Me.mp3
+IBF08 - 20 - OST Taxi Driver - Theme From Taxi Driver (Sax Tom Scott).mp3
+IBF09 - 01 - The Beatles - Because.mp3
+IBF09 - 03 - Zamfir, Gheorghe - Bilitis.mp3
+IBF09 - 04 - Zamfir, Gheorghe - Elsha.mp3
+IBF09 - 05 - Zamfir, Gheorghe - She.mp3
+IBF09 - 06 - Poyares, Carlos - Rosa.mp3
+IBF09 - 07 - Add‚o, L‚o - Sweet Leilani.mp3
+IBF09 - 08 - Veloso, Caetano - Muito [Part].mp3
+IBF09 - 11 - Harrison, George - Be Here Now.mp3
+IBF09 - 12 - Harrison, George - Ooh Baby (You Know That I Love You).mp3
+IBF09 - 13 - Harrison, George - Who Can See It.mp3
+IBF09 - 14 - Harrison, George - The Answer's At The End.mp3
+IBF09 - 15 - Harrison, George - The Light Thas Has Lighted The World.mp3
+IBF09 - 16 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice') [Part 1].mp3
+IBF09 - 17 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice') [Part 2].mp3
+IBF09 - 18 - Haendel - Larghetto (Transcr for Flute-Organ) Violin sonata Nø 13 D Major - 3, op.11 HWV 371.mp3
+IBF09 - 19 - Bach (Herbert Mnchner & Sdwest-Studioorchester) - Adagio - Concerto Brandebourgeois 1 - 2,  F-Dur BWV 1046.mp3
+IBF09 - 20 - Jarre, Jean Michel - OxygŠne, Pt. 1.mp3
+IBF10 - 01 - Shepherd, Dave & His Quintet - The Man I Love.mp3
+IBF10 - 02 - Fitzgerald, Ella - The Man I Love (Live in Berlin).mp3
+IBF10 - 03 - Fitzgerald, Ella - Laura.mp3
+IBF10 - 04 - Fitzgerald, Ella - Blue Moon.mp3
+IBF10 - 05 - Goodman, Benny - Goodbye.mp3
+IBF10 - 06 - Traditional Jazz Band - Mood Indigo.mp3
+IBF10 - 07 - The New American Orchestra - One More Kiss, Dear (Vocal John Bahler).mp3
+IBF10 - 08 - Goodman, Benny - Body And Soul (Take 1).mp3
+IBF10 - 09 - Goodman, Benny - Moonglow (Take 1).mp3
+IBF10 - 10 - Legrand, Michel - Theme From Summer Of '42.mp3
+IBF10 - 11 - OST James Bond - Nobody Does It Better (vocal Carly Simon).mp3
+IBF10 - 12 - Albert, Morris - Feelings.mp3
+IBF10 - 13 - Cole, Natalie - The Very Thought Of You.mp3
+IBF10 - 14 - Cole, Natalie - For Sentimental Reasons-Tenderly.mp3
+IBF10 - 15 - Regina, Elis - Fascina‡Æo.mp3
+IBF10 - 16 - Wando - Mo‡a.mp3
+IBF10 - 17 - Franz, Charles - Improvisasion.mp3
+IBF10 - 18 - Brahms (Christoph von Dohn nyi & The Cleveland Orchestra) - Poco Allegretto - Sinfonie 3 F-Dur - 3, op.90.mp3
+IBF10 - 21 - Chopin - Largo - Pr‚lude nø4 en mi mineur - 24 Pr‚ludes, op. 28.mp3
+IBF11 - 01 - de Bel‚m, Faf  - Tamba-Taj .mp3
+IBF11 - 02 - de Bel‚m, Faf  - Pode entrar.mp3
+IBF11 - 03 - de Bel‚m, Faf  - Araguaia.mp3
+IBF11 - 04 - Simone, Nina - Little Girl Blue.mp3
+IBF11 - 05 - Enya - Evening Falls....mp3
+IBF11 - 06 - Flack, Roberta - The First Time Ever I Saw Your Face.mp3
+IBF11 - 07 - Zamfir, Gheorghe - M‚ditation de Tha‹s (d'aprŠs Jules Massenet).mp3
+IBF11 - 08 - Posit, Jean Pierre - Magie d'amour.mp3
+IBF11 - 09 - Kitaro - Earth Born.mp3
+IBF11 - 10 - Enya - To Go Beyond, Pt. 2.mp3
+IBF11 - 11 - Enya - Watermark.mp3
+IBF11 - 12 - Liszt (Daniel Barenbo‹m) - Liebestr„um nø3 in As-Dur - Liebestr„ume, S.541.mp3
+IBF11 - 13 - Schubert (Krystian Zimerman) - Impromptu nø3 in Ges-Dur (Andante) - Impromptus op.90 D 899.mp3
+IBF11 - 14 - Liszt (Daniel Barenbo‹m) - Consolation nø3 en R‚ b‚mol Majeur (Lento placido) - Six consolations, S 172.mp3
+IBF11 - 15 - Schubert (OST The Hunger) - Andante con moto (Version 2) - Klaviertrio nø2 in Es-Dur - 2, op.100 D 929.mp3
+IBF11 - 16 - Lennon, John - Imagine.mp3
+IBF11 - 18 - Mouskouri, Nana - Photographs.mp3
+IBF11 - 19 - Creuza, Maria - A noite do meu bem.mp3
+IBF11 - 20 - Jobim, Tom & Lobo, Ed£ - Pra dizer adeus.mp3
+IBF12 - 01 - de Moraes&Creuza&Toquinho - Eu sei que vou te amar.mp3
+IBF12 - 02 - de Moraes&Creuza&Toquinho - Minha Namorada.mp3
+IBF12 - 03 - Creuza, Maria - Eu e a brisa.mp3
+IBF12 - 04 - Simone - Come‡aria tudo otra vez.mp3
+IBF12 - 05 - Caymmi, Nana - A noite do meu bem.mp3
+IBF12 - 06 - Santiago, Emilio - ManhÆ de carnaval.mp3
+IBF12 - 07 - Santiago, Emilio - Insensatez.mp3
+IBF12 - 08 - Santiago, Emilio - Corcovado.mp3
+IBF12 - 09 - Simone - Simples carinho.mp3
+IBF12 - 10 - Simone - Jura secreta.mp3
+IBF12 - 11 - Creuza, Maria - Eu disse adeus.mp3
+IBF12 - 12 - Creuza, Maria - Gra‡as a deus.mp3
+IBF12 - 13 - Caymmi, Nana - Pra voce.mp3
+IBF12 - 14 - Caymmi, Nana - Doce Presen‡a.mp3
+IBF12 - 15 - Caymmi, Nana - O Amor ‚ chama.mp3
+IBF12 - 16 - Peixoto, Araken - Someone To Watch Over Me.mp3
+IBF12 - 17 - Peixoto, Araken - Estate.mp3
+IBF12 - 18 - Peixoto, Araken - Nature Boy.mp3
+IBF12 - 19 - Peixoto, Araken - As Time Goes By.mp3
+IBF12 - 20 - Peixoto, Araken - Flamingo.mp3
+IBF12 - 21 - Peixoto, Araken - Who Needs Forever.mp3
+IBF13 - 01 - Krall, Diana - I Miss You So.mp3
+IBF13 - 02 - Merrill, Helen - When I Fall In Love.mp3
+IBF13 - 03 - Caymmi, Nana - Atr s da porta.mp3
+IBF13 - 04 - Creuza, Maria - Apelo.mp3
+IBF13 - 05 - Krall, Diana - I Don't Stand A Ghost Of A Chance With You.mp3
+IBF13 - 06 - Baker, Chet - Almost Blue.mp3
+IBF13 - 07 - Simone - O que Ser .mp3
+IBF13 - 08 - Caymmi, Nana - Isso e aquilo.mp3
+IBF13 - 09 - Caymmi, Nana - Voz e Suor.mp3
+IBF13 - 10 - Caymmi, Nana - Velho Piano.mp3
+IBF13 - 11 - Caymmi, Nana - Neste mesmo lugar.mp3
+IBF13 - 12 - Caymmi, Nana - Por causa de vo‡ˆ.mp3
+IBF13 - 13 - Caymmi, Nana - Por toda minha vida.mp3
+IBF13 - 14 - Caymmi, Nana - Valer  a pena.mp3
+IBF13 - 15 - Caymmi, Nana - Nunca mais.mp3
+IBF13 - 16 - Caymmi, Nana - Rama de nuvens.mp3
+IBF13 - 17 - Creuza, Maria - Medo de amar nø 2.mp3
+IBF13 - 18 - Simone - Proposta.mp3
+IBF13 - 19 - Merrill, Helen - Summertime.mp3
+IBF13 - 20 - Merrill, Helen - I See Your Face Before Me.mp3
+IBF13 - 21 - Merrill, Helen - Angel Eyes.mp3
+IBF13 - 22 - Merrill, Helen - I'll Be Around.mp3
+IBF14 - 01 - de Moraes&Creuza&Toquinho - Samba em preludio.mp3
+IBF14 - 02 - Getz, Stan & Gilberto, JoÆo - Corcovado (feat. Astrud Gilberto).mp3
+IBF14 - 03 - Getz, Stan & Gilberto, JoÆo - The Girl From Ipanema (feat. Astrud Gilberto).mp3
+IBF14 - 04 - Santiago, Emilio - Anos dourados-Eu sei que vou te amar.mp3
+IBF14 - 05 - Santiago, Emilio - Nada por Mim-Fullg s.mp3
+IBF14 - 06 - Santiago, Emilio - Ronda-Sampa.mp3
+IBF14 - 07 - Santiago, Emilio - Verdade chinesa.mp3
+IBF14 - 08 - Santiago, Emilio - P‚rola Negra-Bem que se Quis.mp3
+IBF14 - 09 - Santiago, Emilio - Mania de Vocˆ-Lan‡a Perfume.mp3
+IBF14 - 10 - Creuza, Maria - De onde vens.mp3
+IBF14 - 11 - Creuza, Maria - Queixas.mp3
+IBF14 - 12 - Creuza, Maria - Mas que doidice.mp3
+IBF14 - 13 - Creuza, Maria - Foi a noite.mp3
+IBF14 - 14 - Creuza, Maria - Vocˆ abusou.mp3
+IBF14 - 15 - Piazzolla, Astor & Agri, Antonio - Uomo del Sud (Violin).mp3
+IBF14 - 16 - Piazzolla, Astor - Libertango.mp3
+IBF14 - 17 - Franklin, Aretha - What A Diff'rence A Day Made.mp3
+IBF14 - 18 - Fitzgerald, Ella - Mood Indigo.mp3
+IBF14 - 19 - OST Somewhere In Time - Is He The One.mp3
+IBF15 - 01 - Strauss, Richard (Zubin Mehta & Los Angeles Philharmonic) - Einleitung - Also sprach Zarathustra op.30.mp3
+IBF15 - 02 - Kitaro - Japanese Drums.mp3
+IBF15 - 03 - Pink Floyd - Have A Cigar.mp3
+IBF15 - 04 - Christian, Emma - Oikan Ayns Bethlehem.mp3
+IBF15 - 05 - Ellington, Duke & Hawkins, Coleman - Self Portrait (Of The Bean).mp3
+IBF15 - 06 - Ellington, Duke - Day Dream.mp3
+IBF15 - 07 - Monte, Marisa - Negro Gato.mp3
+IBF15 - 08 - Piazzolla, Astor - Adios Nonino.mp3
+IBF15 - 09 - OST Chamanka (Korzinski, Andrzej) - Zdrowas Mario.mp3
+IBF15 - 10 - Montez, Chris - The More I See You.mp3
+IBF15 - 11 - Supertramp - Crime Of The Century [Part, long].mp3
+IBF15 - 12 - Vivaldi (The Royal Vivaldi Symphony) - Presto - Concerto 'L'estate' in sol minore - 3 (Le quattro stagioni Op.8-2, RV 315).mp3
+IBF15 - 14 - Beethoven (William Bowles & Royal Festival Orchestra) - Allegro con brio [Part] - Sinfonie 5 c-moll op.67 - 1.mp3
+IBF15 - 18 - Van Leer, Thijs - Reigen Seliger Geister (From 'Orfeo ed Euridice').mp3
+IBF15 - 19 - Sibelius (Marko Munih & Radio Sinfonie Orchester Ljubljana) - Finlandia (Symphonic poem) op. 26.mp3
+IBF15 - 20 - Pink Floyd - The Great Gig In The Sky.mp3
+IBF16 - 01 - Theodorakis, Mikis - Zorba's Dance.mp3
+IBF16 - 02 - Getz, Stan with Astrud & JoÆo Gilberto - Once again (Outre Vez).mp3
+IBF16 - 03 - Getz, Stan with Astrud & JoÆo Gilberto - Insensatez.mp3
+IBF16 - 04 - OST The Color Purple - Miss Celie's Blues (Sister) (1922 Jook Joint) (Vocal Tata Vega).mp3
+IBF16 - 05 - Merrill, Helen - I'm Just A Lucky So-And-So.mp3
+IBF16 - 06 - Ray, Charles & Carter, Betty - Baby It's Cold Outside.mp3
+IBF16 - 07 - Krall, Diana - Lost Mind.mp3
+IBF16 - 08 - Villa&Lobos, Heitor - Can‡Æo de Amor - Floresta do Amazonas (Vocal Bid£ SayÆo).mp3
+IBF16 - 09 - OST Le Grand Bleu - Ouverture [Part].mp3
+IBF16 - 10 - Jarre, Jean Michel - R‚volution, r‚volutions [Part].mp3
+IBF16 - 11 - Jarre, Jean Michel - R‚volution Industrielle. Ouverture.mp3
+IBF16 - 12 - Jarre, Jean Michel - R‚volution Industrielle, Pt.3.mp3
+IBF16 - 14 - Shankar, Ravi - Vandana.mp3
+IBF16 - 15 - Shankar, Ravi & Previn, Andr‚ - Raga Adana.mp3
+IBF16 - 16 - OST The Mahabharata - [Real World].mp3
+IBF16 - 17 - Les Musiciens de Provence - Rosa das Rosas.mp3
+IBF16 - 18 - Vangelis - Heaven & Hell, 3rd Movement - Theme From The TV Series 'Cosmos'.mp3
+IBF16 - 19 - Kitaro - Mandala.mp3
+IBF16 - 20 - Salieri, Francesco (Claudio Scimone & I Solisti Veneti) - Andante (La tempesta di Mare).mp3
+IBF17 - 01 - Vangelis - La petite fille de la mer.mp3
+IBF17 - 02 - O'Connor, Sin‚ad - My Darling Child.mp3
+IBF17 - 04 - Posit, Jean Pierre - L'horloge de ma vie.mp3
+IBF17 - 05 - Branco, Waltel - Ponteio.mp3
+IBF17 - 06 - Berglund, Erik - Blue Lotus.mp3
+IBF17 - 07 - Debussy (Henrique Simonetti & Orquestra de Cƒmera RGE) - Clair de lune - Suite Bergamasque pour piano - 3, orchestral version.mp3
+IBF17 - 08 - Creuza, Maria - Amora.mp3
+IBF17 - 09 - Massenet (Henrique Simonetti & Orquestra de Cƒmera RGE) - M‚ditation - Entracte de l'acte II (Op‚ra Tha‹s).mp3
+IBF17 - 10 - Kitaro - Caravansary.mp3
+IBF17 - 11 - Metheny, Pat & Mays, Lyle - September Fifteenth (dedicated to Bill Evans) [Part].mp3
+IBF17 - 12 - Mahler (Anton Nanut & Radio-Symphony Orchestra Lubljana) - Adagietto [Part] - Sinfonie 5 cis-moll - 4.mp3
+IBF17 - 13 - OST Empire Of The Sun (Ambrosian Junior Choir) - Suo Gan.mp3
+IBF17 - 14 - Wiese, Klaus - el-HADRA - The Mystic Dance [Part].mp3
+IBF17 - 15 - Schubert (Mikl¢s Per‚nyi & Bart¢k Quartet) - Adagio - Streichquintett in C-Dur - 2, op.post.163 D 956 [Part].mp3
+IBF17 - 16 - Gounod (Henrique Simonetti & Orquestra de Cƒmera RGE) - Ave Maria (after Johann Sebastian Bach).mp3
+IBF17 - 19 - Vivaldi (Trevor Pinnock & The English Concert & Choir) - Gloria in excelsis Deo - Gloria in RE Maggiore - 1, RV 589.mp3
+IBF18 - 01 - Pink Floyd - Shine On You Crazy Diamond, Pts.1-5 [Part 1].mp3
+IBF18 - 02 - Brahms - Selig sind, die da leid tragen [Part] - Ein deutsches Requiem op.45 - 1.mp3
+IBF18 - 04 - OST 2001 Odyss‚e de l'espace - Pr‚lude Electronique.mp3
+IBF18 - 06 - The Harmonic Choir - Rainbow Voice.mp3
+IBF18 - 07 - OST Chariots Of Fire (Vangelis) - Eric's Theme.mp3
+IBF18 - 08 - Sibelius (Herbert von Karajan & Berliner Philharmoniker) - Finlandia (Symphonic poem) op. 26 [End Part].mp3
+IBF18 - 09 - The Beatles - I Want You (She's So Heavy).mp3
+IBF18 - 10 - Gven‡, Oru‡ & Tmata - Bismillah ar-Rahman.mp3
+IBF18 - 11 - Fanshawe, David - African Sanctus.mp3
+IBF18 - 12 - Fanshawe, David - Song Of Lamentation [Part] {End Part of 'Sanctus. Bwala Dance'}.mp3
+IBF18 - 13 - Pink Floyd - Shine On You Crazy Diamond, Pts.1-5 [Part 2].mp3
+IBF18 - 14 - Beethoven (Libor Pesek & Slovak Philharmonic Orchestra) - Allegro [Part] - Sinfonie 6 F-Dur op.68 - 4 (Gewitter-Sturm).mp3
+IBF18 - 15 - Gluck (John Eliot Gardiner & English Baroque Soloists) - Andante - Ballet Don Juan - 3.mp3
+IBF19 - 01 - Guem - Pr‚sence.mp3
+IBF19 - 02 - Winter, Paul - Down In Belgorod.mp3
+IBF19 - 03 - Hines, Earl - I Just Wanna Make Love To You.mp3
+IBF19 - 04 - Charles, Ray - Ray's Blues.mp3
+IBF19 - 05 - Horn, Shirley - I Wanna Be Loved.mp3
+IBF19 - 06 - de Falla (Garc¡a Navarro & London Symphony Orchestra) - Danza ritual del fuego.mp3
+IBF19 - 07 - de Falla (Teresa Berganza & Garc¡a Navarro - London Symphony Orchestra) - Canci¢n del amor dolido.mp3
+IBF19 - 08 - Ravel (Seiji Ozawa & Boston Symphony Orchestra) - Daphnis et Chlo‚ - Ballet, 3Šme tableau - III. Danse finale Bacchanale.mp3
+IBF19 - 09 - Villa-Lobos, Heitor & Ep¡logo (Final) - Floresta do Amazonas (Vocal Bid£ SayÆo).mp3
+IBF19 - 10 - OST The Color Purple - Maybe God Is Tryin' To Tell You Somethin' (Vocal Tata Vega).mp3
+IBF19 - 11 - Orff, Carl (Eugen Jochum & Walter Hagen-Groll) - O fortuna - Fortuna Imperatrix Mundi - Carmina Burana - I-1.mp3
+IBF19 - 12 - Kitaro - Sundance.mp3
+IBF19 - 14 - Fitzgerald, Ella - This Girl's In Love With You.mp3
+IBF19 - 15 - Cumbo, Jorge ~ Vitale, Lito ~ Gonz les, Lucho  - Vidala del cucul¡.mp3
+IBF19 - 17 - Mourashkin, Boris - Joy.mp3
+IBF19 - 18 - OST Chariots Of Fire (Vangelis) - Abraham's Theme.mp3
+IBF19 - 19 - Mascagni (Herbert von Karajan & Coro e Orchestra del Teatro alla Scala) - Cavalleria Rusticana, XVIII. Intermezzo sinfonico.mp3
+IBFC20 - 01 - Fairground Attraction - Ay Fond Kiss.mp3
+IBFC20 - 02 - The Beatles - Yellow Submarine.mp3
+IBFC20 - 03 - The Beatles - All Together Now.mp3
+IBFC20 - 04 - The Beatles - With A Little Help From My Friends.mp3
+IBFC20 - 05 - The Beatles - When I'm Sixty-Four.mp3
+IBFC20 - 06 - Charles, Ray - I've Got A Woman.mp3
+IBFC20 - 07 - Gipsy Kings - A Mi Manera.mp3
+IBFC20 - 08 - Fygi, Laura - That Old Feeling (live).mp3
+IBFC20 - 09 - Fygi, Laura - All Of Me (live).mp3
+IBFC20 - 10 - Fygi, Laura - Diamonds Are A Girl's Best Friend (live).mp3
+IBFC20 - 11 - Koro - Koro.mp3
+IBFC20 - 12 - Fygi, Laura - Corcovado (live).mp3
+IBFC20 - 14 - Melua, Katie - Call Off The Search.mp3
+IBFC20 - 15 - Melua, Katie - Learnin' The Blues.mp3
+IBFC20 - 16 - Melua, Katie - My Aphrodisiac Is You.mp3
+IBFC20 - 17 - Melua, Katie - Mockingbird Song.mp3
+IBFC20 - 18 - Shanti, Oliver & Friends - Tan Xingquing Park.mp3
+IBFC21 - 01 - The Beatles - Hello, Goodbye.mp3
+IBFC21 - 02 - Beethoven (Andr‚ Cluytens & Berliner Philharmoniker) - Freude (Hymne … la joie) [Part] - Sinfonie 9 d-moll, op.125 - 4.mp3
+IBFC21 - 03 - Light, Enoch & The Light Brigade - Charleston.mp3
+IBFC21 - 04 - Barenbo‹m&Mederos&Console - El D¡a en Que me Quieras.mp3
+IBFC21 - 06 - Evora, Cesaria - Carnaval de SÆo Vicente.mp3
+IBFC21 - 07 - Flack, Roberta - When You Smile.mp3
+IBFC21 - 08 - Jackson, Mahalia - When The Saints Go Marchin' In.mp3
+IBFC21 - 09 - Presley, Elvis - My Way (live).mp3
+IBFC21 - 10 - Simone - O AmanhÆ.mp3
+IBFC21 - 11 - Simone & da Vila, Martinho - Danadinho Danado.mp3
+IBFC21 - 12 - Danse de Zorba.mp3
+IBFC21 - 13 - Fygi, Laura - Dream A Little Dream Of Me.mp3
+IBFC21 - 14 - Debussy (Anna Lelkes) - Clair de lune - Suite Bergamasque pour piano, Harp transcription.mp3
+IBFC21 - 15 - McKennitt, Loreena - All Souls Night.mp3
+IBFC21 - 16 - Simone, Nina - Wild Is The Wind.mp3
+IBFC21 - 17 - OST Zorba The Greek - Zorba's Dance.mp3
+IBFC21 - 18 - OST Metello (Morricone, Ennio) - Metello.mp3
 `;
 if (disco < '20')	{
 	var desde = dir.indexOf('IBF'+disco+' - '+pista)
