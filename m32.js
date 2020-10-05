@@ -419,7 +419,7 @@ var	autor = audio.substr(base, hasta-(base+1));
 var	cancion = audio.substr(desde,hasta-desde);
 var	s = '<tr>';
 	s += '<td nowrap>'+disco+'-'+pista+'</td>';
-	s += '<td><audio src="'+audio+'" controls preload="none">Tu navegador no soporta la etiqueta audio</audio></td>';
+	s += '<td><audio src="https://suarezfco65.github.io/catalogo/'+audio+'" controls preload="none">Tu navegador no soporta la etiqueta audio</audio></td>';
 	s += '<td>'+autor+'</td>';
 	s += '<td>'+cancion+'</td>';
 	s += '</tr><tr>';
