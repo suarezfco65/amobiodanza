@@ -406,7 +406,7 @@ IBFC21 - 18 - OST Metello (Morricone, Ennio) - Metello.mp3
 var cancion = {archivo:"",disco:"",pista:"",autor:"",nombre:""};
 var arrayCanciones= [];
 var arrayDir = dir.split('\n');
-var ubicacion = '';
+var ubicacion = 'https://suarezfco65.github.io/catalogo/';
 
 for (var i=0; i<arrayDir.length; i++)	{
 	if (arrayDir[i] != "") {
