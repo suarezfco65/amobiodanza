@@ -1,41 +1,48 @@
 var crearNavBar =   function (pagWeb, opcionActiva) {
-    var opciones =  [
+    var opciones = [
         {titulo:'Inicio', href:'index.html', hijos:[]},
         {titulo:'1er año', href:'#', hijos:[
-          {titulo:'Definición y Modelo Teórico', href:'01 Definición y Modelo Teórico.html', hijos:[]},
-          {titulo:'Inconsciente Vital y Principio Biocéntrico', href:'02 Inconsciente Vital y Principio Biocéntrico.html', hijos:[]},
-          {titulo:'La Vivencia', href:'03 La Vivencia.html', hijos:[]},
-          {titulo:'Aspectos Biológicos', href:'04 Aspectos Biológicos de la Biodanza.html', hijos:[]},
-          {titulo:'Aspectos Fisiológicos', href:'05 Aspectos Fisiológicos de la Biodanza.html', hijos:[]},
-          {titulo:'Aspectos Psicológicos', href:'06 Aspectos Psicológicos de la Biodanza.html', hijos:[]},
-          {titulo:'Antecedentes Míticos y Filosoficos', href:'07 Antecedentes Míticos y Filosóficos.html', hijos:[]},
-          {titulo:'Identidad e Integración', href:'08 Identidad e Integración.html', hijos:[]},
-          {titulo:'Trance y Regresión', href:'09 Trance y Regresión.html', hijos:[]},
-          {titulo:'Contacto y Caricias', href:'10 Contacto y Caricias.html', hijos:[]}
+          {titulo:'01 Definición y Modelo Teórico', href:'01 Definición y Modelo Teórico.html', hijos:[]},
+          {titulo:'02 Inconsciente Vital y Principio Biocéntrico', href:'02 Inconsciente Vital y Principio Biocéntrico.html', hijos:[]},
+          {titulo:'03 La Vivencia', href:'03 La Vivencia.html', hijos:[]},
+          {titulo:'04 Aspectos Biológicos', href:'04 Aspectos Biológicos de la Biodanza.html', hijos:[]},
+          {titulo:'05 Aspectos Fisiológicos', href:'05 Aspectos Fisiológicos de la Biodanza.html', hijos:[]},
+          {titulo:'06 Aspectos Psicológicos', href:'06 Aspectos Psicológicos de la Biodanza.html', hijos:[]},
+          {titulo:'07 Antecedentes Míticos y Filosoficos', href:'07 Antecedentes Míticos y Filosóficos.html', hijos:[]},
+          {titulo:'08 Identidad e Integración', href:'08 Identidad e Integración.html', hijos:[]},
+          {titulo:'09 Trance y Regresión', href:'09 Trance y Regresión.html', hijos:[]},
+          {titulo:'10 Contacto y Caricias', href:'10 Contacto y Caricias.html', hijos:[]}
         ]},
         {titulo:'2do año', href:'#', hijos:[
-          {titulo:'Movimiento Humano', href:'11 Movimiento Humano.html', hijos:[]},
-          {titulo:'Vitalidad', href:'12 Vitalidad.html', hijos:[]},
-          {titulo:'Sexualidad', href:'13 Sexualidad.html', hijos:[]},
-          {titulo:'Creatividad', href:'14 Creatividad.html', hijos:[]},
-          {titulo:'Afectividad', href:'15 Afectividad.html', hijos:[]},
-          {titulo:'Trascendencia', href:'#', hijos:[]},
-          {titulo:'Mecanismos de Acción', href:'#', hijos:[]},
-          {titulo:'Biodanza y Acción Social', href:'#', hijos:[]},
-          {titulo:'Aplicaciones y Extensiones', href:'#', hijos:[]},
-          {titulo:'Biodanza Ars Magna', href:'#', hijos:[]}
+          {titulo:'11 Movimiento Humano', href:'11 Movimiento Humano.html', hijos:[]},
+          {titulo:'12 Vitalidad', href:'12 Vitalidad.html', hijos:[]},
+          {titulo:'13 Sexualidad', href:'13 Sexualidad.html', hijos:[]},
+          {titulo:'14 Creatividad', href:'14 Creatividad.html', hijos:[]},
+          {titulo:'15 Afectividad', href:'15 Afectividad.html', hijos:[]},
+          {titulo:'16 Trascendencia', href:'16 Trascendencia.html', hijos:[]},
+          {titulo:'17 Mecanismos de Acción', href:'17 Mecanismos de Acción.html', hijos:[]},
+          {titulo:'18 Biodanza y Acción Social', href:'18 Biodanza y Acción Social.html', hijos:[]},
+          {titulo:'19 Aplicaciones y Extensiones', href:'19 Aplicaciones y Extensiones.html', hijos:[]},
+          {titulo:'20 Biodanza Ars Magna', href:'20 Biodanza Ars Magna.html', hijos:[]}
         ]},
+/*
         {titulo:'3er año', href:'#', hijos:[
-          {titulo:'La Música', href:'#', hijos:[]},
-          {titulo:'Metodología I (Semantica Músical)', href:'#', hijos:[]},
-          {titulo:'Metodología II (La Sesión de Biodanza)', href:'#', hijos:[]},
+          {titulo:'La Música', href:'21 La Música.html', hijos:[]},
+          {titulo:'Metodología I (Semantica Músical)', href:'22 Metodología I.html', hijos:[]},
+          {titulo:'Metodología II (La Sesión de Biodanza)', href:'23 Metodología II.html', hijos:[]},
           {titulo:'Metodología III (La Sesión de Biodanza II)', href:'24 Metodología III.html', hijos:[]},
-          {titulo:'Metodología IV (Profundización)', href:'25 Metodología IV.html', hijos:[]}
+          {titulo:'Metodología IV (Profundización)', href:'25 Metodología IV.html', hijos:[]},
+          {titulo:'Metodología V (El Grupo de Biodanza)', href:'26 Metodología V.html', hijos:[]},
+          {titulo:'Metodología VI (Criterios de Evaluación)', href:'27 Metodología VI.html', hijos:[]}
         ]},
         {titulo:'Sesión', href:'#', hijos:[
-          {titulo:'Catalogo de Danzas', href:'catalogo.html', hijos:[]},
-          {titulo:'Preparar Sesión', href:'sesion.html', hijos:[]}
+          {titulo:'Catálogo de Danzas', href:'catalogo.html', hijos:[]},
+          {titulo:'M. Pessoa - Vida y Plenitud', href:'mariaPessoa.html', hijos:[]},
+          {titulo:'Música - Danza - Línea de Vivencia', href:'musicaCruce.html', hijos:[]},
+          {titulo:'Preparar Sesión', href:'sesion.html', hijos:[]},
+          {titulo:'Algunas Sesiones', href:'algunasSesiones.html', hijos:[]}
         ]}
+*/
     ];
     document.write('<nav class="navbar navbar-inverse navbar-fixed-top">');
     document.write('  <div class="container-fluid">');
@@ -70,10 +77,10 @@ var crearNavBar =   function (pagWeb, opcionActiva) {
         document.write(s);
     }
     document.write('      </ul>');
-    document.write('      <ul class="nav navbar-nav navbar-right">');
-    document.write('        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Registro</a></li>');
-    document.write('        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Acceder</a></li>');
-    document.write('      </ul>');
+//    document.write('      <ul class="nav navbar-nav navbar-right">');
+//    document.write('        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Registro</a></li>');
+//    document.write('        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Acceder</a></li>');
+//    document.write('      </ul>');
     document.write('    </div>');
     document.write('  </div>');
     document.write('</nav>');
@@ -102,53 +109,24 @@ function endContenido() {
 function finContenido() {
     document.write(endContenido())
 }
-/*
-var n1, n2;
-function inicioNivel1(titulo)	{
-	n1 = nivel1;
-	var s='';
-	s += '  <div class="panel panel-default">';
-	s += '    <div class="panel-heading" role="tab" id="heading'+nivel1+'">';
-	s += '      <h4 class="panel-title">';
-	s += '        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse'+nivel1+'" aria-expanded="false" aria-controls="collapse'+nivel1+'">';
-	s += '          '+nivel1+'. '+titulo;
-	s += '        </a>';
-	s += '      </h4>';
-	s += '    </div>';
-	s += '    <div id="collapse'+nivel1+'" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading'+nivel1+'">';
-	s += '      <div class="panel-body">';
-	return s;
+function cerrarAbrir(obj, h) {
+	var str = obj.innerHTML;
+	var abrir = (str.indexOf('Abrir') == 0)
+	var td;
+	var spans = document.getElementsByTagName('span');
+	for (var i = 0; i < spans.length; i++)  {
+		if (dt = spans[i].getAttribute('data-target'))    {
+			if (spans[i].parentElement.nodeName == 'H'+h)	{
+				if ((spans[i].innerHTML === "❥" && abrir)	||
+					(spans[i].innerHTML === "❤" && !abrir)	)
+					spans[i].click()
+			}
+		}
+	}
+	if (abrir) obj.innerHTML = str.replace('Abrir','Cerrar')
+	else obj.innerHTML = str.replace('Cerrar','Abrir')
 }
-function finNivel1()	{
-	var s='';
-	s += '      </div>';
-	s += '    </div>';
-	s += '  </div>';
-	return s;
-}
-function inicioNivel2(nivel2, titulo)	{
-	n2 = nivel2;
-	var s = '';
-	s += '          <div class="panel panel-default">';
-	s += '            <div class="panel-heading" role="tab" id="subHeading'+nivel1+'-'+nivel2+'">';
-	s += '              <h4 class="panel-title">';
-	s += '                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#sub-accordion" href="#collapseSub'+nivel1+'-'+nivel2+'" aria-expanded="false" aria-controls="collapseSub'+nivel1+'-'+nivel2+'">';
-	s += '                  '+nivel2+'. '+titulo;
-	s += '                </a>';
-	s += '              </h4>';
-	s += '            </div>';
-	s += '            <div id="collapseSub'+nivel1+'-'+nivel2+'" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSub'+nivel1+'-'+nivel2+'">';
-	s += '              <div class="panel-body">';
-	return s;
-}
-function finNivel2()	{
-	var s='';
-	s += '              </div>';
-	s += '            </div>';
-	s += '          </div>';
-	return s;
-}
-*/
+
 function longMaxima(aTexto)	{
 	var max = 0;
 	for (var i=0; i<aTexto.length; i++)
