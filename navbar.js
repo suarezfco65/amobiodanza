@@ -25,7 +25,6 @@ var crearNavBar =   function (pagWeb, opcionActiva) {
           {titulo:'19 Aplicaciones y Extensiones', href:'19 Aplicaciones y Extensiones.html', hijos:[]},
           {titulo:'20 Biodanza Ars Magna', href:'20 Biodanza Ars Magna.html', hijos:[]}
         ]},
-/*
         {titulo:'3er año', href:'#', hijos:[
           {titulo:'Metodología', href:'21 Metodología.html', hijos:[]},
           {titulo:'Clases Supervisadas', href:'22 Clases Supervisadas.html', hijos:[]}
