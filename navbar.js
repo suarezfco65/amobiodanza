@@ -27,7 +27,7 @@ var crearNavBar =   function (pagWeb, opcionActiva) {
         ]},
 /*
         {titulo:'3er año', href:'#', hijos:[
-          {titulo:'Metodología', href:'21 Metodología.html', hijos:[]}
+          {titulo:'Metodología', href:'21 Metodología.html', hijos:[]},
           {titulo:'Clases Supervisadas', href:'22 Clases Supervisadas.html', hijos:[]}
 /*	
           {titulo:'La Música', href:'21 La Música.html', hijos:[]},
