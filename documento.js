@@ -2254,6 +2254,8 @@ var arrDocumento = [
 	['OBS',	`      Sugerido por el elenco de Buenos Aires para Encuentros`],
 	['C',	`BA20-03     Jardín de Fantasía - Paulinho P. Azul `],
 	['OBS',	`      Sugerido por el elenco de Buenos Aires como danza en la línea de afectividad`],
+	['C',	`BA61-16 Jesus bleibet meine Freude - J.S. Bach`],
+	['OBS',	`      Sugerido por el elenco de Buenos Aires como danza Abrazos de Celebración`],
 	['D', `ENCUENTROS PULSANTES`],	
 	['H', `Descripción :`],	
 	['P', `El encuentro pulsante (en la pulsación de la intensidad, de la proximidad o la distancia, del tono, del nivel de intimidad, del diálogo) requiere una integración del feedback, para que las dos personas pueden establecer un diálogo armonioso en el cual es posible a la vez escuchar al otro, escuchar el deseo propio, y expresarlo ambos de la manera más natural y vivencial, sin tener que pensar.`],	
