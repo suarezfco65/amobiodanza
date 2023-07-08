@@ -2224,6 +2224,7 @@ var arrDocumento = [
 	['C', `IBF11-16 Imagine     Lennon, John     3:08`],	
 	['C', `IBF11-08     Magie d'amour     Posit, Jean-Pierre     4:43`],	
 	['C', `BA57-03      Bendita tu luz - Maná`],	
+	['C', `BA16-07      Love is everywhere - Sally Oldfield`],	
 	['D', `ENCUENTRO CON ABRAZO`],	
 	['H', `Descripción :`],	
 	['P', `Dos personas se acercan progresivamente, mirándose a los ojos, para realizar un abrazo. Luego de un momento de interacción afectiva, los dos se separan lentamente con un delicado gesto de saludo.`],	
