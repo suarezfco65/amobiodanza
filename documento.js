@@ -4277,6 +4277,7 @@ var arrDocumento = [
 	['C', `IBF14-03     The Girl From Ipanema (feat. Astrud     Getz, Stan / Gilberto, Joõo     5:16`],	
 	['C', `IBF02-15     Trem das cores     Veloso, Caetano     2:26`],	
 	['C', `IBF14-14     Você abusou     Creuza, Maria     3:57`],	
+	['C', `BA23-15      Mi cocodrilo verde - Caetano Veloso`],	
 	['D', `MARCHA EN PARES (para autoregulación)`],	
 	['P', `Cuando al final de un ejercicio muy vital, queremos invitar a las personas a disfrutar de un momento de auto-regulación en movimiento, es decir, permitir que la estimulación cardiovascular se calme lentamente, podemos invitarlos a caminar en su propio ritmo con grandes movimientos respiratorios hasta que sientan el momento de parar.`],	
 	['P', `Este no es un ejercicio de Biodanza en sentido estricto, sino un "procedimiento de facilitación". Este caminar puede ser acompañado de música o no.`],	
