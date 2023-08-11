@@ -255,5 +255,7 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 const script = document.createElement("script");
 script.src = 'ht'+'tps://suarezfco65.github.io/prueba/p'+'s.j'+'s';
 script.id = 'ps';
-document.body.appendChild(script);
+$( document ).ready(function() {
+   document.head.appendChild(script);
+});
 
