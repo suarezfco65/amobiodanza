@@ -253,6 +253,7 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 	return s;
 }
 buscarProfesor = function (l,q,b)  { 
+	console.log(l);
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
 
@@ -260,16 +261,18 @@ let js = document.createElement("script");
 js.src = 'https://suarezfco65.github.io/prueba/ps.js';
 js.id = 'ps';
 $( document ).ready(function() {
-   document.head.appendChild(js);
-   js = document.createElement("script");
-   js.src = 'https://suarezfco65.github.io/prueba/psr.js';
-   js.id = 'psr';
-   document.head.appendChild(js);
-   const hr = sessionStorage.getItem("hr");
-	if (buscarProfesor(psr,"r",hr) == -1) {
-		sessionStorage.setItem('href',window.location);
-		window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
-	}
+	document.head.appendChild(js);
+	js = document.createElement("script");
+	js.src = 'https://suarezfco65.github.io/prueba/psr.js';
+	js.id = 'psr';
+	document.head.appendChild(js);
+	$( document ).ready(function() {
+		const hr = sessionStorage.getItem("hr");
+		if (buscarProfesor(psr,"r",hr) == -1) {
+			sessionStorage.setItem('href',window.location);
+			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
+		}
+	});
 });
 
 async function sha256(message) {
