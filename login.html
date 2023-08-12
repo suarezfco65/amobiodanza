@@ -7,6 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://suarezfco65.github.io/prueba/ps.js"></script>
+  <script src="https://suarezfco65.github.io/prueba/psr.js"></script>
 </head>
 <body>
 
@@ -37,7 +38,7 @@
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba la contraseña</div>
     </div>
-    <button class="mb-3" type="button" class="btn btn-success" onclick="if (validar(this.form)) procesar(this.form);">Submit</button>
+    <button class="mb-3" type="button" class="btn btn-success" onclick="if (validar(this.form)) procesar(this.form);return false;">Submit</button>
   </form>
 </div>
 
@@ -45,12 +46,9 @@
 </html>
 <script>
 	let coord = [1,100];
-  buscarProfesor = function (r)  { 
-	let n=""; ps.forEach(function(v, i) { if (v.r === r) n = v.n; }); return n;  
+  buscarProfesor = function (l,r)  { 
+  	let n=""; l.forEach(function(v, i) { if (v.r === r) n = v.n; }); return n;  
   }
-  psr = [
-	  {hr:'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',hp:'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
-	];
   async function sha256(message, proc) {
     const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
     const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer); // Genera el hash SHA-256 del buffer de mensajes
@@ -61,27 +59,19 @@
     document.getElementById(id).innerHTML = hashHex;
   }
   ubicacion	= function(v,i)	{	
-	  coord[i] = buscarProfesorR(v);
+	  coord[i] = buscarProfesor(psr,v);
 	  if (i==1)	{
 		  if (coord[0] == coord[1])	{
 			  sessionStorage.setItem("hp", psr[coord[0]].hr);
-			  window.location.href = sessionStorage.getItem('href');
+			  const href= sessionStorage.getItem('href');
+        cosnsole.log(href);
+        if (!href)  {
+          window.location.href='https://suarezfco65.github.io/mibiodanza';
+        } else  {
+          window.location.href = href;
+        }
 		  }
 	  }
   }
-validar = function (oForm)	{
-	let reg = oForm['reg'].value;
-    let pos = 0;
-    ps.forEach(function(v, i) {
-    	if (v.r === reg) pos = i;
-    });
-    if (pos > 0)	oForm["nombre"].value = ps[pos].n;
-    return true;
-}
-procesar = function (oForm) {
-    sha256(oForm["reg"].value,'hr');
-    sha256(oForm["email"].value,'he');
-    sha256(oForm["pwd"].value,'hp');
-}
 
 </script>

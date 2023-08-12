@@ -254,11 +254,17 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 }
 
 const js = document.createElement("script");
-js.src = 'ht'+'tps://suarezfco65.github.io/prueba/p'+'s.j'+'s';
+js.src = 'https://suarezfco65.github.io/prueba/ps.js';
 js.id = 'ps';
 $( document ).ready(function() {
    document.head.appendChild(js);
+   js = document.createElement("script");
+   js.src = 'https://suarezfco65.github.io/prueba/psr.js';
+   js.id = 'ps';
+   document.head.appendChild(js);
+   const r = 
 });
+
 async function sha256(message) {
 const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
 const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer); // Genera el hash SHA-256 del buffer de mensajes
@@ -269,5 +275,3 @@ const hashHex = hashArray
 .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
 return hashHex;
 }
-hola = sha256("Hola, este es un mensaje de prueba");
-console.log(hola);
