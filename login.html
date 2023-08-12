@@ -25,7 +25,7 @@
       <label for="Reg">Registro IBFed</label>
       <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" name="reg" required onchange="this.form['nombre'].value=buscarProfesor(this.value)">
     <div class="valid-feedback">Valido</div>
-    <div class="invalid-feedback">Por favor, escriba el registro IBFed / correo</div>
+    <div class="invalid-feedback">Por favor, escriba el registro IBFed</div>
     </div>
     <div class="mb-3">
       <label for="nombre">Nombre:</label>
@@ -44,14 +44,14 @@
 </body>
 </html>
 <script>
-  buscarProfesor = function (r)  {
-    let n="";
-    ps.forEach(function(v, i) {
-    	if (v.r === r) n = v.n;
-    });
-    return n;
+	let coord = [1,100];
+  buscarProfesor = function (r)  { 
+	let n=""; ps.forEach(function(v, i) { if (v.r === r) n = v.n; }); return n;  
   }
-async function sha256(message, id, via) {
+  psr = [
+	  {hr:'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',hp:'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+	];
+  async function sha256(message, proc) {
     const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
     const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer); // Genera el hash SHA-256 del buffer de mensajes
     const hashArray = Array.from(new Uint8Array(hashBuffer)); // Convierte el hash buffer en un array de bytes
@@ -59,7 +59,16 @@ async function sha256(message, id, via) {
     .map((b) => b.toString(16).padStart(2, "0"))
     .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
     document.getElementById(id).innerHTML = hashHex;
-}
+  }
+  ubicacion	= function(v,i)	{	
+	  coord[i] = buscarProfesorR(v);
+	  if (i==1)	{
+		  if (coord[0] == coord[1])	{
+			  sessionStorage.setItem("hp", psr[coord[0]].hr);
+			  window.location.href = sessionStorage.getItem('href');
+		  }
+	  }
+  }
 validar = function (oForm)	{
 	let reg = oForm['reg'].value;
     let pos = 0;
@@ -74,4 +83,5 @@ procesar = function (oForm) {
     sha256(oForm["email"].value,'he');
     sha256(oForm["pwd"].value,'hp');
 }
+
 </script>
