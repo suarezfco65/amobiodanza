@@ -259,8 +259,7 @@ js.id = 'ps';
 $( document ).ready(function() {
    document.head.appendChild(js);
 });
-async function sha256() {
-const message = "Hola, este es un mensaje de prueba";
+async function sha256(message) {
 const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
 const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer); // Genera el hash SHA-256 del buffer de mensajes
 
@@ -268,6 +267,7 @@ const hashArray = Array.from(new Uint8Array(hashBuffer)); // Convierte el hash b
 const hashHex = hashArray
 .map((b) => b.toString(16).padStart(2, "0"))
 .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
-console.log("Hash SHA-256:", hashHex);
+return hashHex;
 }
-hola = sha256();
+hola = sha256("Hola, este es un mensaje de prueba");
+console.log(hola);
