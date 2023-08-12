@@ -266,13 +266,13 @@ $( document ).ready(function() {
 	js.src = 'https://suarezfco65.github.io/prueba/psr.js';
 	js.id = 'psr';
 	document.head.appendChild(js);
-	$( document ).ready(function() {
-		const hr = sessionStorage.getItem("hr");
-		if (buscarProfesor(psr,"r",hr) == -1) {
-			sessionStorage.setItem('href',window.location);
-			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
-		}
-	});
+	console.log(ps); 
+	console.log(psr);
+	const hr = sessionStorage.getItem("hr");
+	if (buscarProfesor(psr,"r",hr) == -1) {
+		sessionStorage.setItem('href',window.location);
+		window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
+	}
 });
 
 async function sha256(message) {
