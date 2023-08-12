@@ -259,15 +259,13 @@ buscarProfesor = function (l,q,b)  {
 
 let js = document.createElement("script");
 js.src = 'https://suarezfco65.github.io/prueba/ps.js';
-js.id = 'ps';
+js.id = 'idps';
 $( document ).ready(function() {
 	document.head.appendChild(js);
 	js = document.createElement("script");
 	js.src = 'https://suarezfco65.github.io/prueba/psr.js';
-	js.id = 'psr';
+	js.id = 'idpsr';
 	document.head.appendChild(js);
-	console.log(ps); 
-	console.log(psr);
 	const hr = sessionStorage.getItem("hr");
 	if (buscarProfesor(psr,"r",hr) == -1) {
 		sessionStorage.setItem('href',window.location);
