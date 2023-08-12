@@ -267,10 +267,12 @@ $( document ).ready(function() {
 	js.id = 'idpsr';
 	document.head.appendChild(js);
 	const hr = sessionStorage.getItem("hr");
-	if (buscarProfesor(psr,"r",hr) == -1) {
-		sessionStorage.setItem('href',window.location);
-		window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
-	}
+	$( document ).ready(function() {
+		if (buscarProfesor(psr,"r",hr) == -1) {
+			sessionStorage.setItem('href',window.location);
+			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
+		}
+	});
 });
 
 async function sha256(message) {
