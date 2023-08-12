@@ -256,7 +256,7 @@ buscarProfesor = function (l,q,b)  {
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
 
-const js = document.createElement("script");
+let js = document.createElement("script");
 js.src = 'https://suarezfco65.github.io/prueba/ps.js';
 js.id = 'ps';
 $( document ).ready(function() {
