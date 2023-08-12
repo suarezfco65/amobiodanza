@@ -252,6 +252,9 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 	s += '</g>';
 	return s;
 }
+buscarProfesor = function (l,q,b)  { 
+	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
+}
 
 const js = document.createElement("script");
 js.src = 'https://suarezfco65.github.io/prueba/ps.js';
@@ -260,8 +263,13 @@ $( document ).ready(function() {
    document.head.appendChild(js);
    js = document.createElement("script");
    js.src = 'https://suarezfco65.github.io/prueba/psr.js';
-   js.id = 'ps';
+   js.id = 'psr';
    document.head.appendChild(js);
+   const hr = sessionStorage.getItem("hr");
+	if (buscarProfesor(psr,"r",hr) == -1) {
+		sessionStorage.setItem('href',window.location);
+		window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
+	}
 });
 
 async function sha256(message) {
