@@ -268,3 +268,6 @@ const hashHex = hashArray
 .map((b) => b.toString(16).padStart(2, "0"))
 .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
 }
+const message = "Hola, este es un mensaje de prueba";
+const hash = await sha256(message);
+console.log("Hash SHA-256:", hash);
