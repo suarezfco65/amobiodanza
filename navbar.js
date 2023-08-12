@@ -257,15 +257,7 @@ buscarProfesor = function (l,q,b)  {
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
 
-let js = document.createElement("script");
-js.src = 'https://suarezfco65.github.io/prueba/ps.js';
-js.id = 'idps';
 $( document ).ready(function() {
-	document.head.appendChild(js);
-	js = document.createElement("script");
-	js.src = 'https://suarezfco65.github.io/prueba/psr.js';
-	js.id = 'idpsr';
-	document.head.appendChild(js);
 	const hr = sessionStorage.getItem("hr");
 	$( document ).ready(function() {
 		if (buscarProfesor(psr,"r",hr) == -1) {
@@ -274,14 +266,3 @@ $( document ).ready(function() {
 		}
 	});
 });
-
-async function sha256(message) {
-const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
-const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer); // Genera el hash SHA-256 del buffer de mensajes
-
-const hashArray = Array.from(new Uint8Array(hashBuffer)); // Convierte el hash buffer en un array de bytes
-const hashHex = hashArray
-.map((b) => b.toString(16).padStart(2, "0"))
-.join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
-return hashHex;
-}
