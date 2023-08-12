@@ -262,7 +262,6 @@ $( document ).ready(function() {
    js.src = 'https://suarezfco65.github.io/prueba/psr.js';
    js.id = 'ps';
    document.head.appendChild(js);
-   const r = 
 });
 
 async function sha256(message) {

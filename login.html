@@ -24,7 +24,7 @@
   	
     <div class="mb-3">
       <label for="Reg">Registro IBFed</label>
-      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" name="reg" required onchange="this.form['nombre'].value=buscarProfesor(this.value)">
+      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" name="reg" required onchange="this.form['nombre'].value=ps[buscarProfesor(ps,'r',this.value)].n">
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba el registro IBFed</div>
     </div>
@@ -38,7 +38,7 @@
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba la contraseña</div>
     </div>
-    <button class="mb-3" type="button" class="btn btn-success" onclick="if (validar(this.form)) procesar(this.form);return false;">Submit</button>
+    <button class="mb-3" type="button" class="btn btn-success" onclick="sha256(this.form['reg'].value,'ubicacion(hashHex,0)');setTimeout(sha256(this.form['pwd'].value,'ubicacion(hashHex,1)'),1000);return false;">Submit</button>
   </form>
 </div>
 
@@ -46,8 +46,8 @@
 </html>
 <script>
 	let coord = [1,100];
-  buscarProfesor = function (l,r)  { 
-  	let n=""; l.forEach(function(v, i) { if (v.r === r) n = v.n; }); return n;  
+  buscarProfesor = function (l,q,b)  { 
+  	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
   }
   async function sha256(message, proc) {
     const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
@@ -56,12 +56,12 @@
     const hashHex = hashArray
     .map((b) => b.toString(16).padStart(2, "0"))
     .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
-    document.getElementById(id).innerHTML = hashHex;
+    eval(proc);
   }
   ubicacion	= function(v,i)	{	
 	  coord[i] = buscarProfesor(psr,v);
 	  if (i==1)	{
-		  if (coord[0] == coord[1])	{
+		  if (coord[0] == coord[1] && coord[0] != -1)	{
 			  sessionStorage.setItem("hp", psr[coord[0]].hr);
 			  const href= sessionStorage.getItem('href');
         cosnsole.log(href);
