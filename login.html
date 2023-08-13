@@ -70,7 +70,11 @@
         } else  {
           window.location.href = href;
         }
-		  }
+		  } else  {
+        alert('Error al tratar de acceder, intentelo denuevo');
+        document.getElementsByName("nombre").value = '';
+        document.getElementsByName("pwd").value = '';
+      }
 	  }
   }
 
