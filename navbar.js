@@ -261,7 +261,7 @@ $( document ).ready(function() {
 	const hr = sessionStorage.getItem("hr");
 	$( document ).ready(function() {
 		alert(hr);
-		if (buscarProfesor(psr,"r",hr) == -1) {
+		if (buscarProfesor(psr,"hr",hr) == -1) {
 			sessionStorage.setItem('href',window.location);
 			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
 		}
