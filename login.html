@@ -38,7 +38,7 @@
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba la contraseña</div>
     </div>
-    <button class="mb-3" type="button" class="btn btn-success" onclick="sha256(this.form['reg'].value,'ubicacion(hashHex,0)');setTimeout(sha256(this.form['pwd'].value,'ubicacion(hashHex,1)'),1000);return false;">Submit</button>
+    <button class="mb-3" type="button" class="btn btn-success" onclick="sha256(this.form['reg'].value,'ubicacion(hashHex,`hr`,0)');setTimeout(sha256(this.form['pwd'].value,'ubicacion(hashHex,`hp`,1)'),1000);return false;">Submit</button>
   </form>
 </div>
 
@@ -58,9 +58,9 @@
     .join(""); // Convierte el array de bytes en una cadena hexadecimal return hashHex;
     eval(proc);
   }
-  ubicacion	= function(v,i)	{	
+  ubicacion	= function(v,q,i)	{	
     console.log(v);
-	  coord[i] = buscarProfesor(psr,'hr',v);
+	  coord[i] = buscarProfesor(psr,q,v);
 	  if (i==1)	{
       console.log(coord);
 		  if (coord[0] == coord[1] && coord[0] != -1)	{
