@@ -54,9 +54,11 @@
       if(tipo.type == "password"){
           tipo.type = "text";
           boton.innerHTML = "Ocultar";
+          boton.className = "btn btn-danger";
       }else{
           tipo.type = "password";
           boton.innerHTML = "Mostrar";
+          boton.className = "btn btn-success";
       }
   }
 </script>
