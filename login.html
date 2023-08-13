@@ -36,7 +36,7 @@
       <label for="pwd">Contraseña:</label>
       <div class="input-group">
         <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña">
-        <button class="btn btn-success" onclick="mostrarContrasena()" id="mostrar">Mostrar</button> 
+        <button class="btn btn-success" onclick="mostrarContrasena();return false;"" id="mostrar">Mostrar</button> 
       </div>
    </div>
     <button class="mb-3" type="button" class="btn btn-success" onclick="sha256(this.form['reg'].value,'ubicacion(hashHex,`hr`,0)');setTimeout(sha256(this.form['pwd'].value,'ubicacion(hashHex,`hp`,1)'),1000);return false;">Submit</button>
