@@ -24,17 +24,17 @@
   	
     <div class="mb-3">
       <label for="Reg">Registro IBFed</label>
-      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" name="reg" required onchange="this.form['nombre'].value=ps[buscarProfesor(ps,'r',this.value)].n">
+      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" required onchange="this.form['nombre'].value=ps[buscarProfesor(ps,'r',this.value)].n">
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba el registro IBFed</div>
     </div>
     <div class="mb-3">
       <label for="nombre">Nombre:</label>
-      <input type="text" class="form-control" name="nombre" placeholder="Ingrese el nombre" name="reg" readonly>
+      <input type="text" class="form-control" name="nombre" placeholder="Ingrese el nombre" readonly>
     </div>
     <div class="mb-3">
       <label for="pwd">Contraseña:</label>
-      <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña" name="pswd" required>
+      <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña" required>
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba la contraseña</div>
     </div>
@@ -72,6 +72,7 @@
         }
 		  } else  {
         alert('Error al tratar de acceder, intentelo denuevo');
+        document.getElementsByName("reg").value = '';
         document.getElementsByName("nombre").value = '';
         document.getElementsByName("pwd").value = '';
       }
