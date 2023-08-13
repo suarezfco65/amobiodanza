@@ -34,9 +34,15 @@
     </div>
     <div class="mb-3">
       <label for="pwd">Contraseña:</label>
-      <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña" required>
-    <div class="valid-feedback">Valido</div>
-    <div class="invalid-feedback">Por favor, escriba la contraseña</div>
+      <div class="input-group">
+        <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña">
+        <button class="btn btn-success" onclick="mostrarContrasena()" id="mostrar">Mostrar</button> 
+      </div>
+   </div>
+    
+    <div class="mb-3">
+      <label for="pwd">Contraseña:</label>
+      <input type="password" class="form-control" name="pwd" placeholder="Ingrese la contraseña">
     </div>
     <button class="mb-3" type="button" class="btn btn-success" onclick="sha256(this.form['reg'].value,'ubicacion(hashHex,`hr`,0)');setTimeout(sha256(this.form['pwd'].value,'ubicacion(hashHex,`hp`,1)'),1000);return false;">Submit</button>
   </form>
@@ -46,6 +52,19 @@
 
 </body>
 </html>
+<script>
+  function mostrarContrasena(){
+      var tipo = document.getElementByName("pwd");
+      var boton = document.getElementById("mostrar");
+      if(tipo.type == "password"){
+          tipo.type = "text";
+          boton.innerHTML = "Ocultar";
+      }else{
+          tipo.type = "password";
+          boton.innerHTML = "Mostrar";
+      }
+  }
+</script>
 <script>
 	let coord = [1,100];
   buscarProfesor = function (l,q,b)  { 
