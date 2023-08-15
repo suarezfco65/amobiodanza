@@ -253,7 +253,6 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 	return s;
 }
 buscarProfesor = function (l,q,b)  { 
-	console.log(l);
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
 
