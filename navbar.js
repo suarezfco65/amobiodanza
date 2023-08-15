@@ -256,7 +256,7 @@ buscarProfesor = function (l,q,b)  {
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
 
-document.body.onload = function() {
+$( document ).ready(function() {
 	const hr = sessionStorage.getItem("hr");
 	$( document ).ready(function() {
 		if (buscarProfesor(psr,"hr",hr) == -1) {
@@ -264,4 +264,4 @@ document.body.onload = function() {
 			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
 		}
 	});
-};
+});
