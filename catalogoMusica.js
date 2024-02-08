@@ -434,7 +434,7 @@ const catalogoMusica = {
     "HLB07-04":{nombre:"Khalliouni Khalliouni",autor:"Rachid Taha, Khaled, Faudel",archivos:[{nombre:"HLB 07 - 04 - Khalliouni Khalliouni - Rachid Taha, Khaled, Faudel.m4a",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["DANZA DE PULSACIÓN SENSUAL GRUPAL "]},
     "HLB25-26":{nombre:"I Can't Believe I'm Not A Millionaire",autor:"The Puppini Sisters",archivos:[{nombre:"HLB 25 - 26 - I Can't Believe I'm Not A Millionaire - The Puppini Sisters.mp3",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["CONTACTO LÚDICO EN TIERRA "]},
     "BA":{
-        carpeta:"https://suarezfco65.github.io/BA/",
+        carpeta:"https://suarezfco65.github.io/ba/",
 		'01':'01/',
 		'02':'02/',
 		'03':'03/',
