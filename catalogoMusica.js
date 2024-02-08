@@ -1,6 +1,6 @@
 const catalogoMusica = {
     "NE":{
-        carpeta:"Nuevo Elenco/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Nuevo Elenco/",
         "01": "NE01/",
         "02": "NE02/"
     },
@@ -37,7 +37,7 @@ const catalogoMusica = {
     'NE02-14': {nombre: `Astrea`,	autor: `Silencium`,	archivos:[{nombre: `NE02 - 14 - Silencium - Astrea.mp3`,	tipo:`audio/mpeg`}],	lineaVivencia: `Creatividad y Afectividad`,	danzas:[	`DANZA DE LA LIBERTAD EN VÍNCULO`]},
     'NE02-15': {nombre: `Selección instrumental DrAcula`,	autor: `Cibrian Mahler`,	archivos:[{nombre: `NE02 - 15 - Cibrian Mahler - Seleccion instrumental DrAcula.mp3`,	tipo:`audio/mpeg`}],	lineaVivencia: `Vitalidad y Creatividad`,	danzas:[	`DANZA DE ADAPTACIÓN A RITMOS DIFERENTES`]},
     "JE":{
-        carpeta:"Juegos Expresivos/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Juegos Expresivos/",
         "01": "JE01/",
         "02": "JE02/",
         "03": "JE03/",
@@ -148,7 +148,7 @@ const catalogoMusica = {
     "JE05-19":	{nombre: "Feira de Mangalo",	autor:	"Clara Nunes",	archivos:[{nombre: "JE05 - 19 - Clara Nunes - Feira de Mangalo.mp3",	tipo:"audio/mpeg"}],lineaVivencia:	"Creatividad y Vitalidad",	danzas:[	"TOQUES NO CONVENCIONALES", "ESPEJO EN RONDA"]},
     "JE05-20":	{nombre: "Farofa fA",	autor:	"Orquestra e Coro Carroussell",	archivos:[{nombre: "JE05 - 20 - Orquestra e Coro Carroussell - Farofa fA.mp3",	tipo:"audio/mpeg"}],lineaVivencia:	"Creatividad y Sexualidad",	danzas:[	"TRENCITO"]},
     "SC":{
-        carpeta:"Sergio Cruz/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Sergio Cruz/",
         "01": "SC01/",
         "02": "SC02/",
         "03": "SC03/",
@@ -406,12 +406,12 @@ const catalogoMusica = {
     "SC13-18": {nombre: "Primavera", autor: "Vivaldi", archivos:[ {nombre:     "SC13 - 18 - Vivaldi - Primavera.mp3", tipo: "audio/mpeg"}], lineaVivencia: "", danzas:[ "RONDA DE CELEBRACION FINAL" ]},
     "SC13-19": {nombre: "Gloria", autor: "Vivaldi", archivos:[ {nombre:     "SC13 - 19 - Vivaldi - Gloria.mp3", tipo: "audio/mpeg"}], lineaVivencia: "", danzas:[ "RONDA DE CELEBRACION FINAL" ]},
     "SM":{
-        carpeta:"Sin Musica/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Sin Musica/",
         "00":"SM00/"
     },
     "SM00-00":{nombre:"Sin Musica", autor:"Sin Musica", archivos:[{nombre:"SM00 - 00 - Sin Musica - Sin musica.mp3", tipo:"audio/mpeg"}],lineaVivencia:"",danzas:[]},
     "SBE":{
-        carpeta:"SuArez Biocentric Enterprice/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/SuArez Biocentric Enterprice/",
         "01":"SBE 01/"
     },
     "SBE01-01":{nombre:"Baroque and Blue",autor:"Jean-Pierre Rampal y Claude Bolling",archivos:[{nombre:"SBE 01 - 01 - Jean-Pierre Rampal y Claude Bolling - Baroque and Blue.mp3",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["DANZA DE ADAPTACIÓN A RITMOS DIFERENTES "]},
@@ -425,7 +425,7 @@ const catalogoMusica = {
     "SBE01-09":{nombre:"Aquarela do Brasil e Nêga do cabelo duro",autor:"Elis Regina",archivos:[{nombre:"SBE 01 - 09 - Aquarela do Brasil e NEga do cabelo duro - Elis Regina.mp3",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["LLUVIA DE LOS 4 ELEMENTOS "]},
     "SBE01-10":{nombre:"Natalia Vals",autor:"Nicholas Petrou Antonio Lauro",archivos:[{nombre:"SBE 01 - 10 - Nicholas Petrou Antonio Lauro - Natalia Vals.mp3",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:[]},
     "HLB":{
-        carpeta:"Helene Levy Benseft/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Helene Levy Benseft/",
         "25":"HLB25/",
         "01":"HLB01/",
         "07":"HLB07/"
@@ -434,7 +434,7 @@ const catalogoMusica = {
     "HLB07-04":{nombre:"Khalliouni Khalliouni",autor:"Rachid Taha, Khaled, Faudel",archivos:[{nombre:"HLB 07 - 04 - Khalliouni Khalliouni - Rachid Taha, Khaled, Faudel.m4a",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["DANZA DE PULSACIÓN SENSUAL GRUPAL "]},
     "HLB25-26":{nombre:"I Can't Believe I'm Not A Millionaire",autor:"The Puppini Sisters",archivos:[{nombre:"HLB 25 - 26 - I Can't Believe I'm Not A Millionaire - The Puppini Sisters.mp3",tipo:"audio/mpeg"}],lineaVivencia:"",danzas:["CONTACTO LÚDICO EN TIERRA "]},
     "BA":{
-        carpeta:"Buenos Aires/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Buenos Aires/",
 		'01':'BA01/',
 		'02':'BA02/',
 		'03':'BA03/',
@@ -1951,7 +1951,7 @@ const catalogoMusica = {
 	'BA78-24':{nombre:`Dejame entrar `, autor:`Carlos Vives`, archivos:[{nombre:`BA78 - 24 - Carlos Vives - Dejame entrar.mp3`, tipo:`audio/mpeg`}], lineaVivencia:`Vitalidad`, danzas:[`RONDA FINAL`]},
 	'BA78-25':{nombre:`O que É, O Que E`, autor:`Beth Carvalho`, archivos:[{nombre:`BA78 - 25 - Beth Carvalho - O que E, O Que E.mp3`, tipo:`audio/mpeg`}], lineaVivencia:`Vitalidad`, danzas:[`RONDA FINAL`]},
     "IBF":{
-        carpeta:"Internacional Biocentric Foundation/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Internacional Biocentric Foundation/",
         "01":"IBF01/",
         "02":"IBF02/",
         "03":"IBF03/",
@@ -1973,7 +1973,7 @@ const catalogoMusica = {
         "19":"IBF19/"
     },
     "IBFC":{
-        carpeta:"Internacional Biocentric Foundation/",
+        carpeta:"https://suarezfco65.github.io/mibiodanza/Internacional Biocentric Foundation/",
         "20":"IBFC20/",
         "21":"IBFC21/"
     },
