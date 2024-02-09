@@ -791,7 +791,7 @@ const catalogoMusica = {
     'ARECO43-08':{nombre:`Marble Halls`,autor:`Enya`,archivos:[{nombre:`ARECO43-08 Marble Halls - Enya.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`CAMINAR A CIEGAS`]},
     'ARECO43-09':{nombre:`Magie D Amour`,autor:`J P Posit`,archivos:[{nombre:`ARECO43-09 Magie D Amour - J P Posit.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`ENCUENTROS/DAR Y RECIBIR`]},
     'ARECO43-10':{nombre:`L Horloge de ma Vie`,autor:`J P Posit`,archivos:[{nombre:`ARECO43-10 L Horloge de ma Vie - J P Posit.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`GUIAR AL COMPAÑERO`]},
-    'ARECO43-11':{nombre:`Gracias a la vida`,autor:`Violeta Parra`,archivos:[{nombre:`ARECO43-11 Gracias a la vida - Violeta Parra.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`---------------`]},
+    'ARECO43-11':{nombre:`Gracias a la vida`,autor:`Violeta Parra`,archivos:[{nombre:`ARECO43-11 Gracias a la vida - Violeta Parra.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`ENCUENTROS`]},
     'ARECO43-12':{nombre:`Love is everywhere`,autor:`Everywhere`,archivos:[{nombre:`ARECO43-12 Love is everywhere - Everywhere.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`ENC. DE MANOS Y MIRADAS`]},
     'ARECO43-13':{nombre:`Ete damour`,autor:`Zamfir`,archivos:[{nombre:`ARECO43-13 Ete damour - Zamfir.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`RESPIRACIÓN DANZANTE`]},
     'ARECO43-14':{nombre:`Reverie`,autor:`Convite p ouvir`,archivos:[{nombre:`ARECO43-14 Reverie - Convite p ouvir.ogg`,tipo:`audio/ogg`}],lineaVivencia:``,danzas:[`DANZA SENSIBLE`]},
