@@ -275,7 +275,7 @@ function checkAppStatus() {
         const modalContent = `
             <div style="padding: 20px; text-align: center;">
                 <h2>Atención</h2>
-                <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025.</p>
+                <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
                 <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
                 <button onclick="closeModal()">Cerrar</button>
             </div>
