@@ -281,13 +281,31 @@ function checkAppStatus() {
             </div>
         `;
         // showModal(modalContent);
-	const anuncioDiv = document.createElement('div');
+
+        // Crear el div del anuncio
+        const anuncioDiv = document.createElement('div');
         anuncioDiv.id = 'anuncio';
+        
+        // Establecer el contenido del anuncio
         anuncioDiv.innerHTML = `
             <h2>Atención</h2>
             <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
             <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
         `;
+
+        // Establecer estilos en JavaScript
+        anuncioDiv.style.position = 'fixed'; // Fijar la posición
+        anuncioDiv.style.bottom = '0'; // Ajustar al fondo
+        anuncioDiv.style.left = '0';
+        anuncioDiv.style.right = '0';
+        anuncioDiv.style.backgroundColor = '#f8f9fa';
+        anuncioDiv.style.padding = '10px';
+        anuncioDiv.style.textAlign = 'center';
+        anuncioDiv.style.borderTop = '1px solid #dee2e6';
+        anuncioDiv.style.display = 'none'; // Inicialmente oculto
+        anuncioDiv.style.zIndex = '1000'; // Asegurar que esté por encima de otros elementos
+
+        // Agregar el div al cuerpo
         document.body.appendChild(anuncioDiv);
 
         // Mostrar el anuncio
@@ -296,7 +314,7 @@ function checkAppStatus() {
         // Hacer desaparecer el anuncio después de 90 segundos
         setTimeout(() => {
             anuncioDiv.style.display = 'none'; // Ocultar el anuncio
-        }, 20000);
+        }, 20000); // 90000 milisegundos = 90 segundos
 
     } else {
         // Mostrar alerta y redireccionar
