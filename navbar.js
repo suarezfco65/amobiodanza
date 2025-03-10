@@ -264,6 +264,7 @@ $( document ).ready(function() {
 			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
 		}
 	});
+	document.body.appendChild(anuncioDiv); // Agregar el div al cuerpo del documento
 });
 
 // Crear el div del anuncio
@@ -272,7 +273,7 @@ anuncioDiv.id = 'anuncio';
 anuncioDiv.innerHTML = `<h2>Atención</h2>
 	<p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
 	<p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>`;
-document.body.appendChild(anuncioDiv); // Agregar el div al cuerpo del documento
+
 // Mostrar el anuncio y moverlo de derecha a izquierda
 function moverAnuncio() {
 	anuncioDiv.style.display = 'block'; // Mostrar el anuncio
