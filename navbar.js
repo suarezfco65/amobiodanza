@@ -255,7 +255,7 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 buscarProfesor = function (l,q,b)  { 
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
-
+/*
 $( document ).ready(function() {
 	const hr = sessionStorage.getItem("hr");
 	$( document ).ready(function() {
@@ -266,6 +266,20 @@ $( document ).ready(function() {
 	});
 	document.body.appendChild(anuncioDiv); // Agregar el div al cuerpo del documento
 });
+*/
+document.addEventListener("DOMContentLoaded", function () {
+    const hr = sessionStorage.getItem("hr");
+    
+    if (buscarProfesor(psr, "hr", hr) == -1) {
+        sessionStorage.setItem('href', window.location);
+        window.location.href = "https://suarezfco65.github.io/amobiodanza/login.html";
+    }
+    
+    document.body.appendChild(anuncioDiv); // Agregar el div al cuerpo del documento
+    
+    moverAnuncio(); // Iniciar el movimiento del anuncio
+});
+
 
 // Crear el div del anuncio
 const anuncioDiv = document.createElement('div');
@@ -276,20 +290,20 @@ anuncioDiv.innerHTML = `<h2>Atención</h2>
 
 // Mostrar el anuncio y moverlo de derecha a izquierda
 function moverAnuncio() {
-	anuncioDiv.style.display = 'block'; // Mostrar el anuncio
-	let position = window.innerWidth; // Comienza fuera de la pantalla a la derecha
-	
-	const interval = setInterval(() => {
-	    if (position <= -anuncioDiv.offsetWidth) { // Cuando el anuncio ha salido de la pantalla
-		clearInterval(interval);
-		setTimeout(() => {
-		    anuncioDiv.style.display = 'none'; // Ocultar el anuncio después de 90 segundos
-		}, 90000); // 90000 milisegundos = 90 segundos
-	    } else {
-		position--; // Decrementar la posición
-		anuncioDiv.style.right = position + 'px'; // Mover el anuncio
-	    }
-	}, 20); // Ajusta la velocidad del movimiento
+    anuncioDiv.style.display = 'block'; // Mostrar el anuncio
+    let position = window.innerWidth; // Comienza fuera de la pantalla a la derecha
+    
+    const interval = setInterval(() => {
+        if (position <= -anuncioDiv.offsetWidth) { // Cuando el anuncio ha salido de la pantalla
+            clearInterval(interval);
+            setTimeout(() => {
+                anuncioDiv.style.display = 'none'; // Ocultar el anuncio después de 90 segundos
+            }, 90000); // 90000 milisegundos = 90 segundos
+        } else {
+            position--; // Decrementar la posición
+            anuncioDiv.style.right = position + 'px'; // Mover el anuncio
+        }
+    }, 20); // Ajusta la velocidad del movimiento
 }
 
 
