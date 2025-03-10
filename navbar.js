@@ -280,7 +280,23 @@ function checkAppStatus() {
                 <button onclick="closeModal()">Cerrar</button>
             </div>
         `;
-        showModal(modalContent);
+        // showModal(modalContent);
+	const anuncioDiv = document.createElement('div');
+        anuncioDiv.id = 'anuncio';
+        anuncioDiv.innerHTML = `
+            <h2>Atención</h2>
+            <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
+            <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
+        `;
+        document.body.appendChild(anuncioDiv);
+
+        // Mostrar el anuncio
+        anuncioDiv.style.display = 'block'; // Mostrar el anuncio
+
+        // Hacer desaparecer el anuncio después de 90 segundos
+        setTimeout(() => {
+            anuncioDiv.style.display = 'none'; // Ocultar el anuncio
+        }, 90000);
 
     } else {
         // Mostrar alerta y redireccionar
