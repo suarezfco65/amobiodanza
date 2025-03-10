@@ -314,7 +314,7 @@ function checkAppStatus() {
         // Hacer desaparecer el anuncio después de 90 segundos
         setTimeout(() => {
             anuncioDiv.style.display = 'none'; // Ocultar el anuncio
-        }, 20000); // 90000 milisegundos = 90 segundos
+        }, 15000); // 90000 milisegundos = 90 segundos
 
     } else {
         // Mostrar alerta y redireccionar
