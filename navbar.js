@@ -266,11 +266,38 @@ $( document ).ready(function() {
 	});
 });
 
+// Crear el div del anuncio
+const anuncioDiv = document.createElement('div');
+anuncioDiv.id = 'anuncio';
+anuncioDiv.innerHTML = `<h2>Atención</h2>
+	<p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
+	<p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>`;
+document.body.appendChild(anuncioDiv); // Agregar el div al cuerpo del documento
+// Mostrar el anuncio y moverlo de derecha a izquierda
+function moverAnuncio() {
+	anuncioDiv.style.display = 'block'; // Mostrar el anuncio
+	let position = window.innerWidth; // Comienza fuera de la pantalla a la derecha
+	
+	const interval = setInterval(() => {
+	    if (position <= -anuncioDiv.offsetWidth) { // Cuando el anuncio ha salido de la pantalla
+		clearInterval(interval);
+		setTimeout(() => {
+		    anuncioDiv.style.display = 'none'; // Ocultar el anuncio después de 90 segundos
+		}, 90000); // 90000 milisegundos = 90 segundos
+	    } else {
+		position--; // Decrementar la posición
+		anuncioDiv.style.right = position + 'px'; // Mover el anuncio
+	    }
+	}, 20); // Ajusta la velocidad del movimiento
+}
+
+
 function checkAppStatus() {
     const currentDate = new Date();
     const endDate = new Date('2025-04-01');
 
     if (currentDate < endDate) {
+	    /*
         // Mostrar ventana modal
         const modalContent = `
             <div style="padding: 20px; text-align: center;">
@@ -281,6 +308,10 @@ function checkAppStatus() {
             </div>
         `;
         showModal(modalContent);
+	*/
+
+	moverAnuncio(); // Iniciar el movimiento del anuncio
+
     } else {
         // Mostrar alerta y redireccionar
         alert("La aplicación ha dejado de funcionar.");
