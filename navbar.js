@@ -255,17 +255,7 @@ function flecha (x1, y1, size, direccion, angulo=0)	{
 buscarProfesor = function (l,q,b)  { 
 	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
 }
-/*
-$( document ).ready(function() {
-	const hr = sessionStorage.getItem("hr");
-	$( document ).ready(function() {
-		if (buscarProfesor(psr,"hr",hr) == -1) {
-			sessionStorage.setItem('href',window.location);
-			window.location.href="https://suarezfco65.github.io/amobiodanza/login.html";
-		}
-	});
-});
-*/
+
 document.addEventListener("DOMContentLoaded", function() {
     const hr = sessionStorage.getItem("hr");
     
@@ -278,6 +268,8 @@ document.addEventListener("DOMContentLoaded", function() {
 function checkAppStatus() {
     const currentDate = new Date();
     const endDate = new Date('2025-04-05');
+	const ed = sessionStorage.getItem("f");
+    console.log('expira',ed);
 
     if (currentDate < endDate) {
         // Mostrar ventana modal
