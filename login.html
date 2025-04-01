@@ -92,7 +92,9 @@
 		  if (coord[0] == coord[1] && coord[0] != -1 && fa < fc)	{
 			sessionStorage.setItem("hr", psr[coord[0]].hr);
 			sessionStorage.setItem("n", document.getElementsByName("nombre").value);
-			sessionStorage.setItem("f", fc);			  
+			const idioma = navigator.language || navigator.userLanguage;
+			const opciones = { day: 'numeric', month: 'long', year: 'numeric' };
+			sessionStorage.setItem("f", .toLocaleDateString(idioma, opciones));			  
 			const href= sessionStorage.getItem('href');
 		        if (!href)  {
 			    window.location.href='https://suarezfco65.github.io/mibiodanza';
