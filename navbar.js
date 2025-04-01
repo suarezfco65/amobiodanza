@@ -268,7 +268,7 @@ $( document ).ready(function() {
 
 function checkAppStatus() {
     const currentDate = new Date();
-    const endDate = new Date('2025-04-01');
+    const endDate = new Date('2025-04-05');
 
     if (currentDate < endDate) {
         // Mostrar ventana modal
