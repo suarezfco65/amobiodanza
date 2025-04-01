@@ -73,7 +73,7 @@
 <script>
 	let coord = [1,100];
   buscarProfesor = function (l,q,b)  { 
-  	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); console.log(l[p]); return p;  
+  	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
   }
   async function sha256(message, proc) {
     const msgBuffer = new TextEncoder().encode(message); // Codifica la cadena a utf-8
@@ -88,6 +88,8 @@
 	  coord[i] = buscarProfesor(psr,q,v);
 	  if (i==1)	{
 		  if (coord[0] == coord[1] && coord[0] != -1)	{
+			  const ex = ps[coord[0]].f;
+			  alert(ex);
 			  sessionStorage.setItem("hr", psr[coord[0]].hr);
 			  sessionStorage.setItem("n", document.getElementsByName("nombre").value);
 			  const href= sessionStorage.getItem('href');
