@@ -266,62 +266,52 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function checkAppStatus() {
-    const currentDate = new Date();
-    const endDate = new Date('2025-04-05');
-	const ed = sessionStorage.getItem("f");
-    console.log('expira',ed);
+	const currentDate = new Date();
+	const endDate = sessionStorage.getItem("f");
 
-    if (currentDate < endDate) {
-        // Mostrar ventana modal
-        const modalContent = `
-            <div style="padding: 20px; text-align: center;">
-                <h2>Atención</h2>
-                <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
-                <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
-                <button onclick="closeModal()">Cerrar</button>
-            </div>
-        `;
-        // showModal(modalContent);
-
-        // Crear el div del anuncio
-        const anuncioDiv = document.createElement('div');
-        anuncioDiv.id = 'anuncio';
-        
-        // Establecer el contenido del anuncio
-        anuncioDiv.innerHTML = `
-            <h2>Atención</h2>
-            <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
-            <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
-        `;
-
-        // Establecer estilos en JavaScript
-        anuncioDiv.style.position = 'fixed'; // Fijar la posición
-        anuncioDiv.style.bottom = '0'; // Ajustar al fondo
-        anuncioDiv.style.left = '0';
-        anuncioDiv.style.right = '0';
-        anuncioDiv.style.backgroundColor = '#f8f9fa';
-        anuncioDiv.style.padding = '10px';
-        anuncioDiv.style.textAlign = 'center';
-        anuncioDiv.style.borderTop = '1px solid #dee2e6';
-        anuncioDiv.style.display = 'none'; // Inicialmente oculto
-        anuncioDiv.style.zIndex = '1000'; // Asegurar que esté por encima de otros elementos
-
-        // Agregar el div al cuerpo
-        document.body.appendChild(anuncioDiv);
-
-        // Mostrar el anuncio
-        anuncioDiv.style.display = 'block'; // Mostrar el anuncio
-
-        // Hacer desaparecer el anuncio después de 90 segundos
-        setTimeout(() => {
-            anuncioDiv.style.display = 'none'; // Ocultar el anuncio
-        }, 15000); // 90000 milisegundos = 90 segundos
-
-    } else {
-        // Mostrar alerta y redireccionar
-        alert("La aplicación ha dejado de funcionar.");
-        window.location.href = "https://ilovebiodanza.top";
-    }
+	const modalContent = `
+	    <div style="padding: 20px; text-align: center;">
+		<h2>Atención</h2>
+		<p>Esta aplicación dejará de funcionar para Ud a partir del ${endDate}.</p>
+		<p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
+		<button onclick="closeModal()">Cerrar</button>
+	    </div>
+	`;
+	// showModal(modalContent);
+	
+	// Crear el div del anuncio
+	const anuncioDiv = document.createElement('div');
+	anuncioDiv.id = 'anuncio';
+	
+	// Establecer el contenido del anuncio
+	anuncioDiv.innerHTML = `
+	    <h2>Atención</h2>
+	    <p>Esta aplicación dejará de funcionar a partir del 01-Abril-2025. Y solo quedará disponible para estudiantes de Biodanza</p>
+	    <p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
+	`;
+	
+	// Establecer estilos en JavaScript
+	anuncioDiv.style.position = 'fixed'; // Fijar la posición
+	anuncioDiv.style.bottom = '0'; // Ajustar al fondo
+	anuncioDiv.style.left = '0';
+	anuncioDiv.style.right = '0';
+	anuncioDiv.style.backgroundColor = '#f8f9fa';
+	anuncioDiv.style.padding = '10px';
+	anuncioDiv.style.textAlign = 'center';
+	anuncioDiv.style.borderTop = '1px solid #dee2e6';
+	anuncioDiv.style.display = 'none'; // Inicialmente oculto
+	anuncioDiv.style.zIndex = '1000'; // Asegurar que esté por encima de otros elementos
+	
+	// Agregar el div al cuerpo
+	document.body.appendChild(anuncioDiv);
+	
+	// Mostrar el anuncio
+	anuncioDiv.style.display = 'block'; // Mostrar el anuncio
+	
+	// Hacer desaparecer el anuncio después de 90 segundos
+	setTimeout(() => {
+	    anuncioDiv.style.display = 'none'; // Ocultar el anuncio
+	}, 15000); // 90000 milisegundos = 90 segundos
 }
 
 function showModal(content) {
