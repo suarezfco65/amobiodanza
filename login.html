@@ -24,7 +24,7 @@
   	
     <div class="mb-3">
       <label for="Reg">Registro IBFed</label>
-      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" required onchange="this.form['nombre'].value=ps[buscarProfesor(ps,'r',this.value)].n">
+      <input type="text" class="form-control" name="reg" placeholder="Ingrese el registro / correo" required onchange="pos=buscarProfesor(ps,'r',this.value);this.form['nombre'].value=ps[pos].n;coord[2]=ps[pos].f">
     <div class="valid-feedback">Valido</div>
     <div class="invalid-feedback">Por favor, escriba el registro IBFed</div>
     </div>
@@ -71,7 +71,7 @@
   }
 </script>
 <script>
-	let coord = [1,100];
+	let coord = [1,100,0];
   buscarProfesor = function (l,q,b)  { 
   	let p=-1; l.forEach(function(v, i) { if (v[q] === b) p = i; }); return p;  
   }
@@ -88,8 +88,6 @@
 	  coord[i] = buscarProfesor(psr,q,v);
 	  if (i==1)	{
 		  if (coord[0] == coord[1] && coord[0] != -1)	{
-			  // const ex = ps[buscarProfesor(ps,'r',document.getElementsByName("reg").value)].f;
-			  // alert(ex);
 			  sessionStorage.setItem("hr", psr[coord[0]].hr);
 			  sessionStorage.setItem("n", document.getElementsByName("nombre").value);
 			  const href= sessionStorage.getItem('href');
