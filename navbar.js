@@ -272,7 +272,7 @@ function checkAppStatus() {
 	const modalContent = `
 	    <div style="padding: 20px; text-align: center;">
 		<h2>Atención</h2>
-		<p>Esta aplicación dejará de funcionar para Ud a partir del ${endDate}.</p>
+		<p>Esta aplicación dejará de funcionar para Ud a partir del <strong>${endDate}</strong>.</p>
 		<p>Visita la <a href="https://ilovebiodanza.top" target="_blank">Nueva versión de Yo Amo Biodanza</a></p>
 		<button onclick="closeModal()">Cerrar</button>
 	    </div>
