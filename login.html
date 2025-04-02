@@ -94,6 +94,7 @@
 			sessionStorage.setItem("n", document.getElementsByName("nombre").value);
 			const idioma = navigator.language || navigator.userLanguage;
 			const opciones = { day: 'numeric', month: 'long', year: 'numeric' };
+			  alert('Fecha de vencimiento: '+fc);
 			sessionStorage.setItem("f", fc.toLocaleDateString(idioma, opciones));			  
 			const href= sessionStorage.getItem('href');
 		        if (!href)  {
